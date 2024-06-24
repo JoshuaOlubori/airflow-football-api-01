@@ -13,7 +13,7 @@ from airflow.operators.python import PythonOperator
 # Local module imports #
 # -------------------- #
 from include.global_variables import global_variables as gv
-from include.logic import fetch_data
+from include.logic import api_call as api
 
 
 def concatenate_csvs(root_dir, output_file):
@@ -48,7 +48,7 @@ def concatenate_csvs(root_dir, output_file):
 def b_extraction():
     api_fetcher = PythonOperator(
             task_id = "fetch_data",
-            python_callable= fetch_data,
+            python_callable= api.fetch_data,
             op_kwargs = {
                 "chosen_season": "2023"
             }

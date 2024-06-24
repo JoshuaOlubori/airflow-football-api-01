@@ -45,7 +45,7 @@ def d_load_data():
 
     @task(outlets=[gv.DS_DUCKDB_IN_FIXTURES], pool="duckdb")
     def load_fixtures_data(obj):
-        """Loads content of one fileobject in the MinIO fixtures bucket
+        """Loads content of one file object in the MinIO fixtures bucket
         to DuckDB."""
 
         # get the object from MinIO and save as a local tmp csv file
