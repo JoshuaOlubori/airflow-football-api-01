@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T14:00:00+00:00,2023,League Two,England,Accrington ST,3,0,Newport County,Match Finished
+2023-11-07T19:45:00+00:00,2023,League Two,England,Colchester,3,1,Swindon Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Crawley Town,1,0,Bradford,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Crewe,2,2,Mansfield Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Doncaster,0,1,Harrogate Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Forest Green,0,2,Salford City,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Grimsby,0,0,AFC Wimbledon,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Morecambe,2,1,Walsall,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Stockport County,0,1,Gillingham,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Sutton Utd,5,1,Notts County,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Tranmere,1,2,Barrow,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,England,Wrexham,3,5,Milton Keynes Dons,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,1,1,Wrexham,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Barrow,2,1,Sutton Utd,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Bradford,2,1,Colchester,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Gillingham,1,0,Accrington ST,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Harrogate Town,0,1,Forest Green,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Mansfield Town,3,0,Morecambe,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,1,0,Tranmere,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Newport County,4,0,Doncaster,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Notts County,3,2,Grimsby,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Salford City,1,1,Crawley Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Swindon Town,2,2,Crewe,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,England,Walsall,2,1,Stockport County,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Accrington ST,1,1,Barrow,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Colchester,0,2,AFC Wimbledon,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Crawley Town,2,1,Milton Keynes Dons,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Crewe,4,2,Newport County,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Doncaster,2,2,Mansfield Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Forest Green,1,2,Swindon Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Grimsby,2,0,Salford City,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Morecambe,0,0,Notts County,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Stockport County,1,1,Bradford,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Sutton Utd,0,1,Gillingham,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Tranmere,3,0,Harrogate Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,League Two,England,Wrexham,4,2,Walsall,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Accrington ST,2,1,Harrogate Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Colchester,2,3,Milton Keynes Dons,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Crawley Town,0,1,Gillingham,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Crewe,2,2,Walsall,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Doncaster,1,3,Notts County,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Forest Green,0,3,Newport County,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Grimsby,1,1,Mansfield Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Morecambe,3,0,Bradford,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Stockport County,1,0,Barrow,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Sutton Utd,0,3,AFC Wimbledon,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Tranmere,3,4,Salford City,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,England,Wrexham,5,5,Swindon Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,1,1,Forest Green,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Barrow,1,1,Wrexham,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Bradford,1,0,Crewe,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Gillingham,0,3,Colchester,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Harrogate Town,2,0,Morecambe,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Mansfield Town,3,2,Stockport County,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,2,1,Doncaster,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Newport County,3,1,Sutton Utd,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Notts County,2,1,Tranmere,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Salford City,1,2,Accrington ST,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Swindon Town,6,0,Crawley Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,England,Walsall,1,1,Grimsby,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Crewe,3,1,Milton Keynes Dons,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Doncaster,0,0,Swindon Town,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Grimsby,2,0,Gillingham,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Harrogate Town,0,1,Barrow,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Mansfield Town,0,0,Bradford,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Morecambe,1,0,Salford City,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Newport County,2,2,AFC Wimbledon,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Notts County,3,1,Accrington ST,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Stockport County,3,3,Crawley Town,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Sutton Utd,0,1,Forest Green,Match Finished
+2023-09-02T11:30:00+00:00,2023,League Two,England,Tranmere,0,1,Wrexham,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,England,Walsall,1,0,Colchester,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,1,2,Stockport County,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Accrington ST,0,3,Mansfield Town,Match Finished
+2023-10-31T19:45:00+00:00,2023,League Two,England,Barrow,1,0,Morecambe,Match Finished
+2023-09-09T11:30:00+00:00,2023,League Two,England,Bradford,1,1,Grimsby,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Colchester,2,0,Tranmere,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Crawley Town,4,1,Newport County,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Forest Green,1,4,Crewe,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Gillingham,1,0,Harrogate Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,1,1,Notts County,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Salford City,1,2,Walsall,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Swindon Town,5,3,Sutton Utd,Match Finished
+2023-09-09T14:00:00+00:00,2023,League Two,England,Wrexham,2,1,Doncaster,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,2,2,Crewe,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Accrington ST,4,1,Sutton Utd,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Barrow,1,0,Newport County,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Bradford,1,1,Harrogate Town,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Colchester,1,1,Mansfield Town,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Crawley Town,3,2,Tranmere,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Forest Green,1,2,Doncaster,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Gillingham,2,1,Morecambe,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,1,2,Stockport County,Match Finished
+2023-09-15T18:45:00+00:00,2023,League Two,England,Salford City,0,2,Notts County,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Swindon Town,2,0,Walsall,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Wrexham,3,0,Grimsby,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Crewe,2,1,Colchester,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Doncaster,2,1,Gillingham,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Grimsby,2,3,Crawley Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Harrogate Town,3,2,Salford City,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Mansfield Town,1,0,Barrow,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Morecambe,2,2,Swindon Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Newport County,1,4,Bradford,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Notts County,4,3,Forest Green,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Stockport County,5,0,Wrexham,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Sutton Utd,1,1,Milton Keynes Dons,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Tranmere,2,0,Accrington ST,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,England,Walsall,1,3,AFC Wimbledon,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,4,1,Tranmere,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Accrington ST,1,3,Stockport County,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Barrow,3,2,Doncaster,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Bradford,1,3,Walsall,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Colchester,5,4,Notts County,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Crawley Town,3,0,Sutton Utd,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Forest Green,1,2,Morecambe,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Gillingham,1,1,Mansfield Town,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,0,1,Harrogate Town,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Salford City,2,1,Newport County,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Swindon Town,2,1,Grimsby,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,England,Wrexham,3,3,Crewe,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Crewe,2,0,Gillingham,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Doncaster,2,0,Crawley Town,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Grimsby,2,1,Barrow,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Harrogate Town,0,1,AFC Wimbledon,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Mansfield Town,0,0,Wrexham,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Morecambe,1,1,Accrington ST,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Newport County,2,1,Colchester,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Notts County,3,1,Swindon Town,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Stockport County,2,0,Forest Green,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Sutton Utd,0,2,Salford City,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Tranmere,2,1,Bradford,Match Finished
+2023-10-03T18:45:00+00:00,2023,League Two,England,Walsall,0,0,Milton Keynes Dons,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Accrington ST,2,1,Forest Green,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Barrow,1,1,Notts County,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Bradford,1,0,Swindon Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Colchester,1,3,Morecambe,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Crawley Town,0,1,Wrexham,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Gillingham,2,1,Milton Keynes Dons,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Mansfield Town,0,0,AFC Wimbledon,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Newport County,1,2,Harrogate Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Salford City,4,2,Crewe,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Stockport County,1,0,Doncaster,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Sutton Utd,4,0,Walsall,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,England,Tranmere,2,2,Grimsby,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,0,1,Bradford,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Crewe,2,0,Tranmere,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Doncaster,4,1,Sutton Utd,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Forest Green,5,0,Colchester,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Grimsby,0,2,Accrington ST,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Harrogate Town,1,3,Stockport County,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,2,2,Barrow,Match Finished
+2024-03-05T19:45:00+00:00,2023,League Two,England,Morecambe,1,0,Crawley Town,Match Finished
+2023-10-14T11:30:00+00:00,2023,League Two,England,Notts County,1,4,Mansfield Town,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Swindon Town,2,0,Newport County,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Walsall,4,1,Gillingham,Match Finished
+2023-10-14T14:00:00+00:00,2023,League Two,England,Wrexham,3,2,Salford City,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Accrington ST,1,0,Milton Keynes Dons,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Barrow,0,0,AFC Wimbledon,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Bradford,1,1,Wrexham,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Colchester,1,2,Harrogate Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Crawley Town,2,4,Crewe,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Gillingham,1,2,Notts County,Match Finished
+2024-04-09T18:45:00+00:00,2023,League Two,England,Mansfield Town,1,0,Forest Green,Match Finished
+2023-10-20T18:45:00+00:00,2023,League Two,England,Newport County,3,3,Walsall,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Salford City,2,2,Swindon Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Stockport County,3,2,Grimsby,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,England,Sutton Utd,2,3,Morecambe,Match Finished
+2023-10-20T18:45:00+00:00,2023,League Two,England,Tranmere,1,2,Doncaster,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,AFC Wimbledon,2,4,Accrington ST,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Crewe,0,2,Stockport County,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Doncaster,0,3,Salford City,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Forest Green,0,2,Barrow,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Grimsby,2,3,Colchester,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Harrogate Town,1,4,Mansfield Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Milton Keynes Dons,4,1,Bradford,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Morecambe,1,0,Tranmere,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Notts County,3,0,Newport County,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Swindon Town,0,1,Gillingham,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Walsall,1,1,Crawley Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,England,Wrexham,2,1,Sutton Utd,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Accrington ST,0,1,Colchester,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Barrow,0,0,Salford City,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Doncaster,1,0,Grimsby,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Forest Green,2,1,Crawley Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Gillingham,0,2,Newport County,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Harrogate Town,0,1,Crewe,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Mansfield Town,2,1,Walsall,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,3,2,Swindon Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Morecambe,4,1,AFC Wimbledon,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Notts County,0,2,Wrexham,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Stockport County,2,0,Tranmere,Match Finished
+2023-10-28T14:00:00+00:00,2023,League Two,England,Sutton Utd,2,1,Bradford,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,2,0,Doncaster,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Bradford,1,2,Barrow,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Colchester,1,1,Sutton Utd,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Crawley Town,3,1,Accrington ST,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Crewe,1,0,Notts County,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Grimsby,3,2,Morecambe,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Newport County,0,0,Milton Keynes Dons,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Salford City,1,2,Mansfield Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Swindon Town,2,4,Stockport County,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Tranmere,3,0,Forest Green,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Walsall,0,1,Harrogate Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,England,Wrexham,2,0,Gillingham,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Accrington ST,2,0,Wrexham,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Barrow,1,0,Crawley Town,Match Finished
+2024-04-09T18:45:00+00:00,2023,League Two,England,Doncaster,2,1,Walsall,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Forest Green,2,2,Grimsby,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Gillingham,3,1,Salford City,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Harrogate Town,1,1,Swindon Town,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Mansfield Town,2,0,Newport County,Match Finished
+2024-01-23T19:45:00+00:00,2023,League Two,England,Milton Keynes Dons,3,1,AFC Wimbledon,Match Finished
+2024-04-09T18:45:00+00:00,2023,League Two,England,Morecambe,0,1,Crewe,Match Finished
+2023-11-18T12:30:00+00:00,2023,League Two,England,Notts County,4,2,Bradford,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Stockport County,2,0,Colchester,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,England,Sutton Utd,1,1,Tranmere,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,4,2,Notts County,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Bradford,1,0,Accrington ST,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Colchester,1,4,Barrow,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Crawley Town,2,1,Harrogate Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Crewe,3,2,Doncaster,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Grimsby,1,1,Sutton Utd,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Newport County,2,1,Stockport County,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Salford City,2,4,Milton Keynes Dons,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Swindon Town,2,1,Mansfield Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Tranmere,3,1,Gillingham,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Walsall,0,0,Forest Green,Match Finished
+2023-11-25T15:00:00+00:00,2023,League Two,England,Wrexham,6,0,Morecambe,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Accrington ST,3,4,Swindon Town,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Barrow,2,0,Walsall,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Doncaster,3,1,Colchester,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Forest Green,0,3,Bradford,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Gillingham,1,0,AFC Wimbledon,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Harrogate Town,2,2,Wrexham,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Mansfield Town,2,2,Tranmere,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Milton Keynes Dons,1,1,Grimsby,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Morecambe,1,2,Newport County,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Notts County,3,1,Crawley Town,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Stockport County,0,0,Salford City,Match Finished
+2023-11-28T19:45:00+00:00,2023,League Two,England,Sutton Utd,1,1,Crewe,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,4,0,Swindon Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,England,Accrington ST,0,0,Doncaster,Match Finished
+2024-03-05T19:45:00+00:00,2023,League Two,England,Barrow,2,0,Gillingham,Match Finished
+2024-01-23T19:45:00+00:00,2023,League Two,England,Bradford,1,1,Salford City,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,England,Colchester,1,2,Crawley Town,Match Finished
+2024-02-27T19:45:00+00:00,2023,League Two,England,Forest Green,1,1,Wrexham,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,England,Grimsby,2,1,Crewe,Match Finished
+2024-03-05T19:45:00+00:00,2023,League Two,England,Mansfield Town,1,2,Milton Keynes Dons,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,England,Morecambe,1,1,Stockport County,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,England,Notts County,1,2,Walsall,Match Finished
+2024-01-30T19:45:00+00:00,2023,League Two,England,Sutton Utd,1,2,Harrogate Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,England,Tranmere,2,1,Newport County,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Crawley Town,1,3,Mansfield Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Crewe,3,3,Accrington ST,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Doncaster,0,5,Morecambe,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Gillingham,0,2,Bradford,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Harrogate Town,3,1,Notts County,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,2,0,Forest Green,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Newport County,1,1,Grimsby,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Salford City,0,0,AFC Wimbledon,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Stockport County,8,0,Sutton Utd,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Swindon Town,0,3,Barrow,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Walsall,1,0,Tranmere,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,England,Wrexham,2,1,Colchester,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,England,Accrington ST,2,1,Walsall,Match Finished
+2023-12-22T19:45:00+00:00,2023,League Two,England,Colchester,2,1,Salford City,Match Finished
+2023-12-22T19:45:00+00:00,2023,League Two,England,Crawley Town,1,2,AFC Wimbledon,Match Finished
+2023-12-22T19:45:00+00:00,2023,League Two,England,Crewe,1,3,Barrow,Match Finished
+2023-12-22T19:45:00+00:00,2023,League Two,England,Doncaster,1,3,Bradford,Match Finished
+2023-12-22T19:00:00+00:00,2023,League Two,England,Forest Green,0,0,Gillingham,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,England,Grimsby,1,2,Harrogate Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,England,Morecambe,1,3,Milton Keynes Dons,Match Finished
+2023-12-22T19:45:00+00:00,2023,League Two,England,Stockport County,2,1,Notts County,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,England,Sutton Utd,0,2,Mansfield Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,England,Tranmere,2,1,Swindon Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,England,Wrexham,2,0,Newport County,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,0,1,Sutton Utd,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Barrow,2,2,Stockport County,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Bradford,2,2,Morecambe,Match Finished
+2023-12-26T13:00:00+00:00,2023,League Two,England,Gillingham,0,2,Crawley Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Harrogate Town,2,1,Accrington ST,Match Finished
+2023-12-26T12:30:00+00:00,2023,League Two,England,Mansfield Town,2,0,Grimsby,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,1,0,Colchester,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Newport County,4,2,Forest Green,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Notts County,3,0,Doncaster,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Salford City,1,5,Tranmere,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Swindon Town,0,1,Wrexham,Match Finished
+2023-12-26T15:00:00+00:00,2023,League Two,England,Walsall,2,0,Crewe,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,AFC Wimbledon,5,3,Colchester,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Barrow,1,1,Accrington ST,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Bradford,0,0,Stockport County,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Gillingham,1,0,Sutton Utd,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Harrogate Town,0,2,Tranmere,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Mansfield Town,1,1,Doncaster,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Milton Keynes Dons,2,0,Crawley Town,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Newport County,1,1,Crewe,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Notts County,5,0,Morecambe,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Salford City,0,3,Grimsby,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Swindon Town,2,1,Forest Green,Match Finished
+2023-12-29T19:45:00+00:00,2023,League Two,England,Walsall,3,1,Wrexham,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Accrington ST,3,0,Salford City,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Colchester,0,1,Gillingham,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Crawley Town,3,1,Swindon Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Crewe,1,0,Bradford,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Doncaster,3,0,Milton Keynes Dons,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Forest Green,1,1,AFC Wimbledon,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Grimsby,1,6,Walsall,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Morecambe,2,2,Harrogate Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Stockport County,0,2,Mansfield Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Sutton Utd,1,1,Newport County,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Tranmere,4,2,Notts County,Match Finished
+2024-01-01T15:00:00+00:00,2023,League Two,England,Wrexham,4,1,Barrow,Match Finished
+2024-03-05T19:45:00+00:00,2023,League Two,England,AFC Wimbledon,0,0,Grimsby,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,England,Barrow,1,0,Tranmere,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,England,Bradford,2,4,Crawley Town,Match Finished
+2024-02-20T19:45:00+00:00,2023,League Two,England,Gillingham,0,0,Stockport County,Match Finished
+2024-01-06T13:00:00+00:00,2023,League Two,England,Harrogate Town,3,1,Doncaster,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,England,Mansfield Town,0,1,Crewe,Match Finished
+2024-02-20T19:45:00+00:00,2023,League Two,England,Milton Keynes Dons,1,1,Wrexham,Match Finished
+2024-04-09T18:45:00+00:00,2023,League Two,England,Newport County,1,3,Accrington ST,Match Finished
+2024-02-27T19:45:00+00:00,2023,League Two,England,Notts County,3,4,Sutton Utd,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,England,Salford City,2,2,Forest Green,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,England,Swindon Town,2,2,Colchester,Match Finished
+2024-02-20T19:45:00+00:00,2023,League Two,England,Walsall,3,0,Morecambe,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Accrington ST,1,2,Gillingham,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Colchester,1,1,Bradford,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Crawley Town,0,1,Salford City,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Crewe,2,1,Swindon Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Doncaster,0,1,Newport County,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Forest Green,0,2,Harrogate Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Grimsby,5,5,Notts County,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Morecambe,1,1,Mansfield Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Stockport County,3,1,Walsall,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Sutton Utd,2,2,Barrow,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Tranmere,1,2,Milton Keynes Dons,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,England,Wrexham,2,0,AFC Wimbledon,Match Finished
+2024-02-20T19:45:00+00:00,2023,League Two,England,AFC Wimbledon,0,1,Crawley Town,Match Finished
+2024-01-20T15:00:00+00:00,2023,League Two,England,Barrow,1,3,Crewe,Match Finished
+2024-03-05T19:45:00+00:00,2023,League Two,England,Bradford,1,1,Doncaster,Match Finished
+2024-01-20T15:00:00+00:00,2023,League Two,England,Gillingham,1,1,Forest Green,Match Finished
+2024-04-09T18:45:00+00:00,2023,League Two,England,Harrogate Town,1,0,Grimsby,Match Finished
+2024-01-23T19:45:00+00:00,2023,League Two,England,Mansfield Town,1,1,Sutton Utd,Match Finished
+2024-01-20T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,1,2,Morecambe,Match Finished
+2024-01-20T15:00:00+00:00,2023,League Two,England,Newport County,1,0,Wrexham,Match Finished
+2024-04-16T18:45:00+00:00,2023,League Two,England,Notts County,2,5,Stockport County,Match Finished
+2024-02-27T19:45:00+00:00,2023,League Two,England,Salford City,1,1,Colchester,Match Finished
+2024-02-27T19:45:00+00:00,2023,League Two,England,Swindon Town,3,1,Tranmere,Match Finished
+2024-02-27T19:45:00+00:00,2023,League Two,England,Walsall,2,1,Accrington ST,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,2,1,Mansfield Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Crewe,2,3,Salford City,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Doncaster,1,5,Stockport County,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Forest Green,0,1,Accrington ST,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Grimsby,1,2,Tranmere,Match Finished
+2024-02-27T19:45:00+00:00,2023,League Two,England,Harrogate Town,1,4,Newport County,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,2,1,Gillingham,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Morecambe,0,1,Colchester,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Notts County,1,1,Barrow,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Swindon Town,2,0,Bradford,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,England,Walsall,1,1,Sutton Utd,Match Finished
+2024-04-09T18:45:00+00:00,2023,League Two,England,Wrexham,4,1,Crawley Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Accrington ST,0,0,Grimsby,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Barrow,1,0,Milton Keynes Dons,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Bradford,0,0,AFC Wimbledon,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Colchester,3,3,Forest Green,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Crawley Town,1,2,Morecambe,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Gillingham,1,1,Walsall,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Mansfield Town,1,0,Notts County,Match Finished
+2024-02-03T12:45:00+00:00,2023,League Two,England,Newport County,2,1,Swindon Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Salford City,3,1,Wrexham,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Stockport County,1,1,Harrogate Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Sutton Utd,1,1,Doncaster,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,England,Tranmere,0,0,Crewe,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,2,0,Barrow,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Crewe,1,0,Crawley Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Doncaster,2,1,Tranmere,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Forest Green,0,4,Mansfield Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Grimsby,1,3,Stockport County,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Harrogate Town,1,0,Colchester,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,2,1,Accrington ST,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Morecambe,1,0,Sutton Utd,Match Finished
+2024-02-09T19:45:00+00:00,2023,League Two,England,Notts County,1,3,Gillingham,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Swindon Town,1,1,Salford City,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Walsall,0,3,Newport County,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,England,Wrexham,0,1,Bradford,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Accrington ST,2,0,AFC Wimbledon,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Barrow,1,2,Forest Green,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Bradford,4,0,Milton Keynes Dons,Match Finished
+2024-04-16T18:45:00+00:00,2023,League Two,England,Colchester,2,0,Grimsby,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Crawley Town,1,1,Walsall,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Gillingham,2,2,Swindon Town,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Mansfield Town,9,2,Harrogate Town,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Newport County,1,3,Notts County,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Salford City,2,2,Doncaster,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Stockport County,1,3,Crewe,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Sutton Utd,1,2,Wrexham,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,England,Tranmere,2,3,Morecambe,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,1,1,Morecambe,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Bradford,1,0,Sutton Utd,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Colchester,1,1,Accrington ST,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Crawley Town,2,0,Forest Green,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Crewe,0,0,Harrogate Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Grimsby,1,5,Doncaster,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Newport County,1,0,Gillingham,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Salford City,5,3,Barrow,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Swindon Town,1,2,Milton Keynes Dons,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Tranmere,4,0,Stockport County,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Walsall,2,1,Mansfield Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,England,Wrexham,1,0,Notts County,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Accrington ST,0,1,Crawley Town,Match Finished
+2024-04-23T18:45:00+00:00,2023,League Two,England,Barrow,1,2,Bradford,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Doncaster,1,0,AFC Wimbledon,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Forest Green,1,0,Tranmere,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Gillingham,1,0,Wrexham,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Harrogate Town,0,2,Walsall,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Mansfield Town,5,1,Salford City,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,3,0,Newport County,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Morecambe,1,1,Grimsby,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Notts County,1,3,Crewe,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Stockport County,0,0,Swindon Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,England,Sutton Utd,1,1,Colchester,Match Finished
+2024-03-02T12:30:00+00:00,2023,League Two,England,AFC Wimbledon,1,0,Milton Keynes Dons,Match Finished
+2024-03-19T19:45:00+00:00,2023,League Two,England,Bradford,0,3,Notts County,Match Finished
+2024-04-09T18:45:00+00:00,2023,League Two,England,Colchester,1,2,Stockport County,Match Finished
+2024-04-16T18:45:00+00:00,2023,League Two,England,Crawley Town,1,1,Barrow,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Crewe,2,3,Morecambe,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Grimsby,1,0,Forest Green,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Newport County,0,1,Mansfield Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Salford City,0,2,Gillingham,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Swindon Town,1,1,Harrogate Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Tranmere,1,0,Sutton Utd,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Walsall,3,1,Doncaster,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,England,Wrexham,4,0,Accrington ST,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Accrington ST,0,3,Bradford,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Barrow,2,0,Colchester,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Doncaster,2,0,Crewe,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Forest Green,2,0,Walsall,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Gillingham,1,1,Tranmere,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Harrogate Town,1,2,Crawley Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Mansfield Town,3,2,Swindon Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,3,1,Salford City,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Morecambe,1,3,Wrexham,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Notts County,0,2,AFC Wimbledon,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Stockport County,1,0,Newport County,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,England,Sutton Utd,1,1,Grimsby,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,AFC Wimbledon,2,0,Gillingham,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Bradford,0,2,Forest Green,Match Finished
+2024-04-23T18:45:00+00:00,2023,League Two,England,Colchester,1,4,Doncaster,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Crawley Town,2,1,Notts County,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Crewe,1,0,Sutton Utd,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Grimsby,1,0,Milton Keynes Dons,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Newport County,5,3,Morecambe,Match Finished
+2024-03-14T20:00:00+00:00,2023,League Two,England,Salford City,2,2,Stockport County,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Swindon Town,1,2,Accrington ST,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Tranmere,2,1,Mansfield Town,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Walsall,1,1,Barrow,Match Finished
+2024-03-12T19:45:00+00:00,2023,League Two,England,Wrexham,0,0,Harrogate Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,0,2,Newport County,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Accrington ST,2,2,Notts County,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Barrow,0,0,Harrogate Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Bradford,1,5,Mansfield Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Colchester,1,1,Walsall,Match Finished
+2024-03-18T19:45:00+00:00,2023,League Two,England,Crawley Town,1,1,Stockport County,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Forest Green,0,1,Sutton Utd,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Gillingham,1,1,Grimsby,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,3,1,Crewe,Match Finished
+2024-03-17T14:00:00+00:00,2023,League Two,England,Salford City,3,1,Morecambe,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Swindon Town,1,2,Doncaster,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,England,Wrexham,0,1,Tranmere,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Crewe,1,1,AFC Wimbledon,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Doncaster,2,0,Forest Green,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Grimsby,1,3,Wrexham,Match Finished
+2024-03-23T13:00:00+00:00,2023,League Two,England,Harrogate Town,3,0,Bradford,Match Finished
+2024-03-23T12:30:00+00:00,2023,League Two,England,Mansfield Town,1,1,Colchester,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Morecambe,2,3,Gillingham,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,England,Newport County,1,1,Barrow,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Notts County,1,2,Salford City,Match Finished
+2024-03-23T17:15:00+00:00,2023,League Two,England,Stockport County,5,0,Milton Keynes Dons,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Sutton Utd,3,1,Accrington ST,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,England,Tranmere,1,3,Crawley Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,League Two,England,Walsall,2,1,Swindon Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,AFC Wimbledon,1,1,Harrogate Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Accrington ST,1,2,Morecambe,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Barrow,3,1,Grimsby,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Bradford,2,0,Tranmere,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Colchester,2,1,Newport County,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Crawley Town,0,2,Doncaster,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Forest Green,0,3,Stockport County,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Gillingham,0,0,Crewe,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Milton Keynes Dons,5,0,Walsall,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Salford City,1,2,Sutton Utd,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Swindon Town,2,1,Notts County,Match Finished
+2024-03-29T15:00:00+00:00,2023,League Two,England,Wrexham,2,0,Mansfield Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Crewe,0,3,Forest Green,Match Finished
+2024-04-02T18:45:00+00:00,2023,League Two,England,Doncaster,1,0,Wrexham,Match Finished
+2024-04-01T12:00:00+00:00,2023,League Two,England,Grimsby,1,1,Bradford,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Harrogate Town,5,1,Gillingham,Match Finished
+2024-04-16T18:45:00+00:00,2023,League Two,England,Mansfield Town,2,1,Accrington ST,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Morecambe,2,1,Barrow,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Newport County,0,4,Crawley Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Notts County,3,3,Milton Keynes Dons,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Stockport County,1,0,AFC Wimbledon,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Sutton Utd,3,1,Swindon Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Tranmere,1,1,Colchester,Match Finished
+2024-04-01T14:00:00+00:00,2023,League Two,England,Walsall,2,1,Salford City,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,1,0,Salford City,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Accrington ST,0,0,Crewe,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Barrow,0,2,Swindon Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Bradford,1,0,Gillingham,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Colchester,1,2,Wrexham,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Forest Green,0,2,Milton Keynes Dons,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Grimsby,1,0,Newport County,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Mansfield Town,1,4,Crawley Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Morecambe,0,3,Doncaster,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Notts County,3,0,Harrogate Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Sutton Utd,1,3,Stockport County,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,England,Tranmere,1,3,Walsall,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Crawley Town,2,3,Colchester,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Crewe,0,3,Grimsby,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Doncaster,4,0,Accrington ST,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Gillingham,3,0,Barrow,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Harrogate Town,2,2,Sutton Utd,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,1,4,Mansfield Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Newport County,1,2,Tranmere,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Salford City,1,2,Bradford,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Stockport County,2,0,Morecambe,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Swindon Town,3,2,AFC Wimbledon,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Walsall,1,3,Notts County,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,England,Wrexham,6,0,Forest Green,Match Finished
+2024-04-20T11:30:00+00:00,2023,League Two,England,Crewe,0,3,Wrexham,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Doncaster,4,2,Barrow,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Grimsby,2,0,Swindon Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Harrogate Town,3,5,Milton Keynes Dons,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Mansfield Town,2,1,Gillingham,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Morecambe,1,2,Forest Green,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Newport County,0,1,Salford City,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Notts County,1,0,Colchester,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Stockport County,4,2,Accrington ST,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Sutton Utd,2,2,Crawley Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Tranmere,3,2,AFC Wimbledon,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,England,Walsall,2,3,Bradford,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,AFC Wimbledon,5,1,Walsall,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Accrington ST,4,1,Tranmere,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Barrow,1,1,Mansfield Town,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Bradford,4,1,Newport County,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Colchester,1,1,Crewe,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Crawley Town,2,0,Grimsby,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Forest Green,1,0,Notts County,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Gillingham,2,2,Doncaster,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Milton Keynes Dons,4,4,Sutton Utd,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Salford City,2,2,Harrogate Town,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Swindon Town,3,3,Morecambe,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,England,Wrexham,2,1,Stockport County,Match Finished

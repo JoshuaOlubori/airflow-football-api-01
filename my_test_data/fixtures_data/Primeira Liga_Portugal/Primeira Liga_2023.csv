@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-13T14:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,2,0,Chaves,Match Finished
+2023-08-12T17:00:00+00:00,2023,Primeira Liga,Portugal,Farense,0,3,Casa Pia,Match Finished
+2023-08-11T19:15:00+00:00,2023,Primeira Liga,Portugal,SC Braga,1,2,Famalicao,Match Finished
+2023-08-14T17:45:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,2,FC Porto,Match Finished
+2023-08-14T19:45:00+00:00,2023,Primeira Liga,Portugal,Boavista,3,2,Benfica,Match Finished
+2023-08-12T19:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,3,2,Vizela,Match Finished
+2023-08-13T17:00:00+00:00,2023,Primeira Liga,Portugal,Estrela,0,1,Guimaraes,Match Finished
+2023-08-13T19:30:00+00:00,2023,Primeira Liga,Portugal,Arouca,4,3,Estoril,Match Finished
+2023-08-12T14:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,5,0,Portimonense,Match Finished
+2023-08-20T19:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,2,2,Arouca,Match Finished
+2023-08-19T19:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,4,Boavista,Match Finished
+2023-08-20T17:00:00+00:00,2023,Primeira Liga,Portugal,FC Porto,2,1,Farense,Match Finished
+2023-08-19T17:00:00+00:00,2023,Primeira Liga,Portugal,Chaves,2,4,SC Braga,Match Finished
+2023-08-19T14:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,2,1,GIL Vicente,Match Finished
+2023-08-19T19:30:00+00:00,2023,Primeira Liga,Portugal,Benfica,2,0,Estrela,Match Finished
+2023-08-20T14:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,2,0,Rio Ave,Match Finished
+2023-08-21T19:15:00+00:00,2023,Primeira Liga,Portugal,Famalicao,0,0,Moreirense,Match Finished
+2023-08-18T19:15:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,1,2,Sporting CP,Match Finished
+2023-09-09T17:00:00+00:00,2023,Primeira Liga,Portugal,Moreirense,2,3,SC Braga,Match Finished
+2023-08-26T17:00:00+00:00,2023,Primeira Liga,Portugal,Farense,5,0,Chaves,Match Finished
+2023-08-28T19:15:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,1,2,FC Porto,Match Finished
+2023-08-27T19:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,1,0,Famalicao,Match Finished
+2023-08-27T17:00:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,2,0,Vizela,Match Finished
+2023-08-26T19:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,2,3,Benfica,Match Finished
+2023-08-27T14:30:00+00:00,2023,Primeira Liga,Portugal,Boavista,1,1,Casa Pia,Match Finished
+2023-08-26T14:30:00+00:00,2023,Primeira Liga,Portugal,Arouca,1,1,Portimonense,Match Finished
+2023-08-25T19:15:00+00:00,2023,Primeira Liga,Portugal,Estrela,2,1,Estoril,Match Finished
+2023-09-03T17:00:00+00:00,2023,Primeira Liga,Portugal,FC Porto,1,1,Arouca,Match Finished
+2023-09-03T14:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,2,Boavista,Match Finished
+2023-09-01T19:15:00+00:00,2023,Primeira Liga,Portugal,Vizela,1,0,GIL Vicente,Match Finished
+2023-09-02T17:00:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,1,Estrela,Match Finished
+2023-09-02T14:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,1,1,Rio Ave,Match Finished
+2023-09-02T17:00:00+00:00,2023,Primeira Liga,Portugal,Famalicao,1,0,Farense,Match Finished
+2023-09-03T19:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,1,1,Sporting CP,Match Finished
+2023-09-02T19:30:00+00:00,2023,Primeira Liga,Portugal,Benfica,4,0,Guimaraes,Match Finished
+2023-09-03T14:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,1,2,Moreirense,Match Finished
+2023-09-16T14:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,1,1,Famalicao,Match Finished
+2023-09-17T14:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,5,3,Estoril,Match Finished
+2023-09-17T19:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,3,0,Moreirense,Match Finished
+2023-09-16T17:00:00+00:00,2023,Primeira Liga,Portugal,Farense,3,1,SC Braga,Match Finished
+2023-09-17T17:00:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,1,2,Portimonense,Match Finished
+2023-09-16T19:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,1,2,Benfica,Match Finished
+2023-09-18T19:15:00+00:00,2023,Primeira Liga,Portugal,Boavista,4,1,Chaves,Match Finished
+2023-09-17T14:30:00+00:00,2023,Primeira Liga,Portugal,Arouca,0,1,Casa Pia,Match Finished
+2023-09-15T18:15:00+00:00,2023,Primeira Liga,Portugal,Estrela,0,1,FC Porto,Match Finished
+2023-09-24T19:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,4,1,Boavista,Match Finished
+2023-09-25T19:15:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,2,0,Rio Ave,Match Finished
+2023-09-23T19:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,2,1,GIL Vicente,Match Finished
+2023-09-23T14:30:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,0,Farense,Match Finished
+2023-09-22T19:15:00+00:00,2023,Primeira Liga,Portugal,Famalicao,1,0,Arouca,Match Finished
+2023-09-24T17:00:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,3,Benfica,Match Finished
+2023-09-23T17:00:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,0,Guimaraes,Match Finished
+2023-09-24T14:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,2,2,Estrela,Match Finished
+2023-09-23T14:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,2,2,Vizela,Match Finished
+2023-10-02T19:15:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,2,0,Casa Pia,Match Finished
+2023-10-01T17:00:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,3,2,Estoril,Match Finished
+2023-09-30T14:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,2,3,Portimonense,Match Finished
+2023-10-01T19:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,0,4,Moreirense,Match Finished
+2023-09-28T19:15:00+00:00,2023,Primeira Liga,Portugal,Estrela,2,4,SC Braga,Match Finished
+2023-09-30T19:30:00+00:00,2023,Primeira Liga,Portugal,Farense,2,3,Sporting CP,Match Finished
+2023-10-01T14:30:00+00:00,2023,Primeira Liga,Portugal,Arouca,0,2,Chaves,Match Finished
+2023-09-29T19:15:00+00:00,2023,Primeira Liga,Portugal,Benfica,1,0,FC Porto,Match Finished
+2023-09-30T17:00:00+00:00,2023,Primeira Liga,Portugal,Boavista,2,2,Famalicao,Match Finished
+2023-10-07T14:30:00+00:00,2023,Primeira Liga,Portugal,Farense,0,0,Vizela,Match Finished
+2023-10-07T19:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,0,1,Benfica,Match Finished
+2023-10-08T19:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,2,1,Arouca,Match Finished
+2023-10-06T19:15:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,1,Boavista,Match Finished
+2023-10-08T14:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,1,Estrela,Match Finished
+2023-10-08T14:30:00+00:00,2023,Primeira Liga,Portugal,Famalicao,1,3,Guimaraes,Match Finished
+2023-10-07T17:00:00+00:00,2023,Primeira Liga,Portugal,SC Braga,2,1,Rio Ave,Match Finished
+2023-10-08T17:00:00+00:00,2023,Primeira Liga,Portugal,FC Porto,1,0,Portimonense,Match Finished
+2023-10-07T14:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,4,2,GIL Vicente,Match Finished
+2023-10-28T17:00:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,5,0,Chaves,Match Finished
+2023-10-28T14:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,0,Estoril,Match Finished
+2023-10-29T15:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,3,4,Farense,Match Finished
+2023-10-28T19:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,3,3,SC Braga,Match Finished
+2023-10-27T19:15:00+00:00,2023,Primeira Liga,Portugal,Arouca,0,1,Moreirense,Match Finished
+2023-10-29T20:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,0,2,FC Porto,Match Finished
+2023-10-30T20:15:00+00:00,2023,Primeira Liga,Portugal,Boavista,0,2,Sporting CP,Match Finished
+2023-10-28T17:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,1,1,Casa Pia,Match Finished
+2023-10-29T18:00:00+00:00,2023,Primeira Liga,Portugal,Estrela,1,0,Famalicao,Match Finished
+2023-11-05T15:30:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,0,Guimaraes,Match Finished
+2023-11-05T18:00:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,2,0,Boavista,Match Finished
+2023-11-03T20:15:00+00:00,2023,Primeira Liga,Portugal,FC Porto,0,1,Estoril,Match Finished
+2023-11-05T20:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,3,2,Estrela,Match Finished
+2023-11-06T20:15:00+00:00,2023,Primeira Liga,Portugal,Farense,2,0,Arouca,Match Finished
+2023-11-04T15:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,0,2,Benfica,Match Finished
+2023-11-04T18:00:00+00:00,2023,Primeira Liga,Portugal,Famalicao,3,1,GIL Vicente,Match Finished
+2023-11-04T20:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,6,1,Portimonense,Match Finished
+2023-11-05T15:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,1,Vizela,Match Finished
+2023-11-11T18:00:00+00:00,2023,Primeira Liga,Portugal,Estrela,0,1,Moreirense,Match Finished
+2023-11-11T15:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,2,1,Chaves,Match Finished
+2023-11-11T18:00:00+00:00,2023,Primeira Liga,Portugal,Vizela,0,0,Famalicao,Match Finished
+2023-11-10T20:15:00+00:00,2023,Primeira Liga,Portugal,Estoril,4,0,Casa Pia,Match Finished
+2023-11-12T15:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,1,1,Rio Ave,Match Finished
+2023-11-12T15:30:00+00:00,2023,Primeira Liga,Portugal,Boavista,1,3,Farense,Match Finished
+2023-11-12T18:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,0,1,SC Braga,Match Finished
+2023-11-12T20:30:00+00:00,2023,Primeira Liga,Portugal,Benfica,2,1,Sporting CP,Match Finished
+2023-11-11T20:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,1,2,FC Porto,Match Finished
+2023-12-03T18:00:00+00:00,2023,Primeira Liga,Portugal,Moreirense,0,0,Benfica,Match Finished
+2023-12-03T20:30:00+00:00,2023,Primeira Liga,Portugal,Boavista,0,4,Arouca,Match Finished
+2023-12-04T20:15:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,3,1,GIL Vicente,Match Finished
+2023-12-02T15:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,1,1,Estrela,Match Finished
+2023-12-02T15:30:00+00:00,2023,Primeira Liga,Portugal,Farense,1,2,Guimaraes,Match Finished
+2023-12-02T20:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,1,0,Portimonense,Match Finished
+2023-12-01T20:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,2,1,Vizela,Match Finished
+2023-12-03T15:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,3,1,Estoril,Match Finished
+2023-12-02T18:00:00+00:00,2023,Primeira Liga,Portugal,Famalicao,0,3,FC Porto,Match Finished
+2023-12-10T20:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,4,0,Chaves,Match Finished
+2023-12-09T15:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,1,Famalicao,Match Finished
+2023-12-10T15:30:00+00:00,2023,Primeira Liga,Portugal,Estrela,3,1,Boavista,Match Finished
+2023-12-09T20:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,3,1,Casa Pia,Match Finished
+2023-12-08T15:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,1,3,SC Braga,Match Finished
+2023-12-11T20:15:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,1,1,Moreirense,Match Finished
+2023-12-10T18:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,2,2,Rio Ave,Match Finished
+2023-12-08T18:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,1,1,Farense,Match Finished
+2023-12-09T18:00:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,3,2,Sporting CP,Match Finished
+2023-12-17T20:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,0,1,Benfica,Match Finished
+2023-12-18T20:15:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,2,0,FC Porto,Match Finished
+2023-12-17T18:00:00+00:00,2023,Primeira Liga,Portugal,Famalicao,1,1,Estoril,Match Finished
+2023-12-15T20:15:00+00:00,2023,Primeira Liga,Portugal,Farense,0,0,Estrela,Match Finished
+2023-12-17T15:30:00+00:00,2023,Primeira Liga,Portugal,Moreirense,5,2,Portimonense,Match Finished
+2023-12-16T15:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,1,1,Vizela,Match Finished
+2023-12-17T15:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,1,3,Casa Pia,Match Finished
+2023-12-16T18:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,3,0,GIL Vicente,Match Finished
+2023-12-16T20:30:00+00:00,2023,Primeira Liga,Portugal,Boavista,1,1,Guimaraes,Match Finished
+2023-12-28T20:15:00+00:00,2023,Primeira Liga,Portugal,Estrela,1,4,Arouca,Match Finished
+2023-12-29T20:45:00+00:00,2023,Primeira Liga,Portugal,FC Porto,1,0,Chaves,Match Finished
+2023-12-30T15:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,1,0,Boavista,Match Finished
+2023-12-23T15:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,0,0,Moreirense,Match Finished
+2023-12-30T18:00:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,1,3,SC Braga,Match Finished
+2023-12-30T20:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,2,Sporting CP,Match Finished
+2023-12-23T15:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,1,0,Rio Ave,Match Finished
+2023-12-29T18:45:00+00:00,2023,Primeira Liga,Portugal,Benfica,3,0,Famalicao,Match Finished
+2023-12-30T15:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,4,0,Farense,Match Finished
+2024-01-07T20:30:00+00:00,2023,Primeira Liga,Portugal,Famalicao,2,2,Chaves,Match Finished
+2024-01-08T20:15:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,4,Casa Pia,Match Finished
+2024-01-05T18:45:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,5,1,Estoril,Match Finished
+2024-01-07T18:00:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,2,0,Portimonense,Match Finished
+2024-01-06T15:30:00+00:00,2023,Primeira Liga,Portugal,Farense,1,0,GIL Vicente,Match Finished
+2024-01-06T15:30:00+00:00,2023,Primeira Liga,Portugal,Estrela,1,1,Vizela,Match Finished
+2024-01-06T18:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,0,3,Benfica,Match Finished
+2024-01-06T20:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,1,1,Guimaraes,Match Finished
+2024-01-05T20:45:00+00:00,2023,Primeira Liga,Portugal,Boavista,1,1,FC Porto,Match Finished
+2024-01-15T20:15:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,2,1,Arouca,Match Finished
+2024-01-14T18:00:00+00:00,2023,Primeira Liga,Portugal,Vizela,1,4,Boavista,Match Finished
+2024-01-14T15:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,1,1,Estrela,Match Finished
+2024-01-14T20:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,2,0,SC Braga,Match Finished
+2024-01-12T20:15:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,0,Farense,Match Finished
+2024-01-13T20:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,3,Moreirense,Match Finished
+2024-01-13T18:00:00+00:00,2023,Primeira Liga,Portugal,Chaves,0,3,Sporting CP,Match Finished
+2024-01-14T18:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,4,1,Rio Ave,Match Finished
+2024-01-13T15:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,2,Famalicao,Match Finished
+2024-01-19T20:15:00+00:00,2023,Primeira Liga,Portugal,Benfica,2,0,Boavista,Match Finished
+2024-01-21T18:00:00+00:00,2023,Primeira Liga,Portugal,Chaves,0,0,Rio Ave,Match Finished
+2024-01-20T18:00:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,1,3,Farense,Match Finished
+2024-01-20T20:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,5,0,Moreirense,Match Finished
+2024-01-21T20:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,3,0,Estrela,Match Finished
+2024-01-18T18:45:00+00:00,2023,Primeira Liga,Portugal,Famalicao,1,2,SC Braga,Match Finished
+2024-01-20T15:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,2,Arouca,Match Finished
+2024-01-18T20:45:00+00:00,2023,Primeira Liga,Portugal,Vizela,2,5,Sporting CP,Match Finished
+2024-01-21T15:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,0,2,GIL Vicente,Match Finished
+2024-01-28T20:30:00+00:00,2023,Primeira Liga,Portugal,Arouca,5,0,Vizela,Match Finished
+2024-01-28T15:30:00+00:00,2023,Primeira Liga,Portugal,Boavista,1,4,Portimonense,Match Finished
+2024-01-28T18:00:00+00:00,2023,Primeira Liga,Portugal,Farense,1,3,FC Porto,Match Finished
+2024-01-31T20:45:00+00:00,2023,Primeira Liga,Portugal,SC Braga,1,1,Chaves,Match Finished
+2024-01-31T18:45:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,1,1,Estoril,Match Finished
+2024-01-29T18:45:00+00:00,2023,Primeira Liga,Portugal,Estrela,1,4,Benfica,Match Finished
+2024-01-28T15:30:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,0,Famalicao,Match Finished
+2024-01-28T20:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,1,0,Guimaraes,Match Finished
+2024-01-29T20:45:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,8,0,Casa Pia,Match Finished
+2024-02-04T20:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,1,0,Moreirense,Match Finished
+2024-02-04T15:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,1,1,Farense,Match Finished
+2024-04-16T19:15:00+00:00,2023,Primeira Liga,Portugal,Famalicao,0,1,Sporting CP,Match Finished
+2024-02-03T20:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,0,0,Rio Ave,Match Finished
+2024-02-04T18:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,3,0,GIL Vicente,Match Finished
+2024-02-03T15:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,2,Arouca,Match Finished
+2024-02-05T20:15:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,0,Boavista,Match Finished
+2024-02-04T15:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,0,1,Guimaraes,Match Finished
+2024-02-04T18:00:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,0,Estrela,Match Finished
+2024-02-12T20:15:00+00:00,2023,Primeira Liga,Portugal,Arouca,3,2,FC Porto,Match Finished
+2024-02-10T20:30:00+00:00,2023,Primeira Liga,Portugal,Boavista,2,1,Estoril,Match Finished
+2024-02-13T15:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,0,1,Vizela,Match Finished
+2024-02-11T15:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,1,0,Casa Pia,Match Finished
+2024-02-09T20:15:00+00:00,2023,Primeira Liga,Portugal,Estrela,3,0,Portimonense,Match Finished
+2024-02-10T15:30:00+00:00,2023,Primeira Liga,Portugal,Farense,1,1,Famalicao,Match Finished
+2024-02-11T18:00:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,5,0,SC Braga,Match Finished
+2024-02-11T20:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,2,2,Benfica,Match Finished
+2024-02-10T18:00:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,0,Chaves,Match Finished
+2024-02-16T20:15:00+00:00,2023,Primeira Liga,Portugal,Famalicao,2,1,Rio Ave,Match Finished
+2024-02-18T18:00:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,3,GIL Vicente,Match Finished
+2024-02-19T20:15:00+00:00,2023,Primeira Liga,Portugal,Moreirense,0,2,Sporting CP,Match Finished
+2024-02-18T20:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,2,1,Farense,Match Finished
+2024-02-18T18:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,6,1,Vizela,Match Finished
+2024-02-18T15:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,1,0,Arouca,Match Finished
+2024-02-17T15:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,2,1,Boavista,Match Finished
+2024-02-17T18:00:00+00:00,2023,Primeira Liga,Portugal,Portimonense,1,1,Guimaraes,Match Finished
+2024-02-17T20:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,2,0,Estrela,Match Finished
+2024-02-26T20:15:00+00:00,2023,Primeira Liga,Portugal,Boavista,0,4,SC Braga,Match Finished
+2024-02-25T20:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,3,3,Sporting CP,Match Finished
+2024-02-25T18:00:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,1,1,FC Porto,Match Finished
+2024-02-23T20:15:00+00:00,2023,Primeira Liga,Portugal,Arouca,3,2,Famalicao,Match Finished
+2024-02-24T15:30:00+00:00,2023,Primeira Liga,Portugal,Farense,0,1,Moreirense,Match Finished
+2024-02-25T18:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,4,0,Portimonense,Match Finished
+2024-02-24T20:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,0,2,Casa Pia,Match Finished
+2024-02-24T18:00:00+00:00,2023,Primeira Liga,Portugal,Estrela,1,1,Chaves,Match Finished
+2024-02-25T15:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,3,3,Estoril,Match Finished
+2024-03-03T15:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,0,GIL Vicente,Match Finished
+2024-03-02T18:00:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,3,Guimaraes,Match Finished
+2024-03-03T15:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,0,0,Vizela,Match Finished
+2024-03-02T20:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,3,0,Estrela,Match Finished
+2024-03-02T15:30:00+00:00,2023,Primeira Liga,Portugal,Moreirense,0,0,Rio Ave,Match Finished
+2024-03-03T18:00:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,3,2,Farense,Match Finished
+2024-03-01T20:15:00+00:00,2023,Primeira Liga,Portugal,Chaves,1,5,Arouca,Match Finished
+2024-03-03T20:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,5,0,Benfica,Match Finished
+2024-03-04T20:15:00+00:00,2023,Primeira Liga,Portugal,Famalicao,1,1,Boavista,Match Finished
+2024-03-09T15:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,2,1,Farense,Match Finished
+2024-03-10T20:30:00+00:00,2023,Primeira Liga,Portugal,Benfica,3,1,Estoril,Match Finished
+2024-03-10T18:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,0,3,Sporting CP,Match Finished
+2024-03-09T18:00:00+00:00,2023,Primeira Liga,Portugal,Boavista,1,0,Moreirense,Match Finished
+2024-03-08T20:45:00+00:00,2023,Primeira Liga,Portugal,Estrela,3,1,Casa Pia,Match Finished
+2024-03-09T20:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,1,0,Famalicao,Match Finished
+2024-03-09T18:00:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,0,0,SC Braga,Match Finished
+2024-03-08T18:45:00+00:00,2023,Primeira Liga,Portugal,Portimonense,0,3,FC Porto,Match Finished
+2024-03-11T20:15:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,0,0,Chaves,Match Finished
+2024-03-17T15:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,1,2,Guimaraes,Match Finished
+2024-03-16T18:00:00+00:00,2023,Primeira Liga,Portugal,SC Braga,2,1,GIL Vicente,Match Finished
+2024-03-15T20:15:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,0,Portimonense,Match Finished
+2024-03-16T18:00:00+00:00,2023,Primeira Liga,Portugal,Farense,1,1,Rio Ave,Match Finished
+2024-03-17T20:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,6,1,Boavista,Match Finished
+2024-03-16T20:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,4,1,Vizela,Match Finished
+2024-03-17T15:30:00+00:00,2023,Primeira Liga,Portugal,Moreirense,1,0,Arouca,Match Finished
+2024-03-17T18:00:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,1,Benfica,Match Finished
+2024-03-16T15:30:00+00:00,2023,Primeira Liga,Portugal,Famalicao,0,0,Estrela,Match Finished
+2024-03-30T18:00:00+00:00,2023,Primeira Liga,Portugal,Boavista,0,0,Rio Ave,Match Finished
+2024-03-30T20:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,1,0,FC Porto,Match Finished
+2024-03-29T20:30:00+00:00,2023,Primeira Liga,Portugal,Estrela,1,2,Sporting CP,Match Finished
+2024-03-30T15:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,1,0,Moreirense,Match Finished
+2024-03-30T15:30:00+00:00,2023,Primeira Liga,Portugal,Arouca,2,1,Farense,Match Finished
+2024-04-01T19:15:00+00:00,2023,Primeira Liga,Portugal,Portimonense,3,5,SC Braga,Match Finished
+2024-03-31T17:00:00+00:00,2023,Primeira Liga,Portugal,Vizela,0,4,Casa Pia,Match Finished
+2024-03-29T15:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,1,2,Famalicao,Match Finished
+2024-03-29T18:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,1,0,Chaves,Match Finished
+2024-04-07T14:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,2,3,Portimonense,Match Finished
+2024-04-06T14:30:00+00:00,2023,Primeira Liga,Portugal,Famalicao,3,2,Vizela,Match Finished
+2024-04-08T19:15:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,0,0,Estoril,Match Finished
+2024-04-07T17:00:00+00:00,2023,Primeira Liga,Portugal,Moreirense,2,2,Estrela,Match Finished
+2024-04-06T14:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,3,0,GIL Vicente,Match Finished
+2024-04-06T19:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,2,1,Benfica,Match Finished
+2024-04-07T19:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,1,2,Guimaraes,Match Finished
+2024-04-06T17:00:00+00:00,2023,Primeira Liga,Portugal,SC Braga,0,3,Arouca,Match Finished
+2024-04-05T19:15:00+00:00,2023,Primeira Liga,Portugal,Farense,2,0,Boavista,Match Finished
+2024-04-14T17:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,2,1,Boavista,Match Finished
+2024-04-12T19:15:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,0,4,Sporting CP,Match Finished
+2024-04-14T14:30:00+00:00,2023,Primeira Liga,Portugal,Estrela,2,2,Rio Ave,Match Finished
+2024-04-14T19:30:00+00:00,2023,Primeira Liga,Portugal,Benfica,3,0,Moreirense,Match Finished
+2024-04-13T14:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,1,1,Farense,Match Finished
+2024-04-13T19:30:00+00:00,2023,Primeira Liga,Portugal,Estoril,0,1,SC Braga,Match Finished
+2024-04-13T17:00:00+00:00,2023,Primeira Liga,Portugal,FC Porto,2,2,Famalicao,Match Finished
+2024-04-15T19:15:00+00:00,2023,Primeira Liga,Portugal,Vizela,0,1,Chaves,Match Finished
+2024-04-14T17:00:00+00:00,2023,Primeira Liga,Portugal,Portimonense,2,2,Casa Pia,Match Finished
+2024-04-21T14:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,2,2,Estoril,Match Finished
+2024-04-20T17:00:00+00:00,2023,Primeira Liga,Portugal,Boavista,1,1,Estrela,Match Finished
+2024-04-21T17:00:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,1,2,FC Porto,Match Finished
+2024-04-20T19:30:00+00:00,2023,Primeira Liga,Portugal,SC Braga,2,1,Vizela,Match Finished
+2024-04-21T14:30:00+00:00,2023,Primeira Liga,Portugal,Famalicao,2,2,Portimonense,Match Finished
+2024-04-20T14:30:00+00:00,2023,Primeira Liga,Portugal,Moreirense,0,1,GIL Vicente,Match Finished
+2024-04-19T19:15:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,1,1,Arouca,Match Finished
+2024-04-22T19:15:00+00:00,2023,Primeira Liga,Portugal,Farense,1,3,Benfica,Match Finished
+2024-04-21T19:30:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,3,0,Guimaraes,Match Finished
+2024-04-28T19:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,,,Sporting CP,Not Started
+2024-04-28T17:00:00+00:00,2023,Primeira Liga,Portugal,Estoril,,,Famalicao,Not Started
+2024-04-29T19:15:00+00:00,2023,Primeira Liga,Portugal,Estrela,,,Farense,Not Started
+2024-04-27T17:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,3,1,SC Braga,Match Finished
+2024-04-28T14:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,,,Moreirense,Not Started
+2024-04-26T19:15:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,2,2,Arouca,Match Finished
+2024-04-27T19:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,1,0,Boavista,Match Finished
+2024-04-27T14:30:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,3,1,Chaves,Match Finished
+2024-04-27T14:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,1,1,Rio Ave,Match Finished
+2024-05-05T17:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,,,Estrela,Not Started
+2024-05-04T14:30:00+00:00,2023,Primeira Liga,Portugal,Boavista,,,GIL Vicente,Not Started
+2024-05-03T19:15:00+00:00,2023,Primeira Liga,Portugal,Moreirense,,,Vizela,Not Started
+2024-05-05T17:00:00+00:00,2023,Primeira Liga,Portugal,SC Braga,,,Casa Pia,Not Started
+2024-05-04T19:30:00+00:00,2023,Primeira Liga,Portugal,Chaves,,,FC Porto,Not Started
+2024-05-04T17:00:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,,,Portimonense,Not Started
+2024-05-04T14:30:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,,,Guimaraes,Not Started
+2024-05-05T19:30:00+00:00,2023,Primeira Liga,Portugal,Famalicao,,,Benfica,Not Started
+2024-05-05T14:30:00+00:00,2023,Primeira Liga,Portugal,Farense,,,Estoril,Not Started
+2024-05-10T19:15:00+00:00,2023,Primeira Liga,Portugal,Chaves,,,Famalicao,Not Started
+2024-05-11T17:00:00+00:00,2023,Primeira Liga,Portugal,Estoril,,,Sporting CP,Not Started
+2024-05-11T14:30:00+00:00,2023,Primeira Liga,Portugal,Portimonense,,,Rio Ave,Not Started
+2024-05-12T14:30:00+00:00,2023,Primeira Liga,Portugal,GIL Vicente,,,Farense,Not Started
+2024-05-12T17:00:00+00:00,2023,Primeira Liga,Portugal,Casa Pia,,,Moreirense,Not Started
+2024-05-11T14:30:00+00:00,2023,Primeira Liga,Portugal,Vizela,,,Estrela,Not Started
+2024-05-12T17:00:00+00:00,2023,Primeira Liga,Portugal,Benfica,,,Arouca,Not Started
+2024-05-11T19:30:00+00:00,2023,Primeira Liga,Portugal,Guimaraes,,,SC Braga,Not Started
+2024-05-12T19:30:00+00:00,2023,Primeira Liga,Portugal,FC Porto,,,Boavista,Not Started
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Boavista,,,Vizela,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Estrela,,,GIL Vicente,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Farense,,,Portimonense,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Arouca,,,Guimaraes,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Famalicao,,,Casa Pia,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Rio Ave,,,Benfica,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Sporting CP,,,Chaves,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,Moreirense,,,Estoril,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Primeira Liga,Portugal,SC Braga,,,FC Porto,Time to be defined

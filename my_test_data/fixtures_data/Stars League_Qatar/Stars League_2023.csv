@@ -1,0 +1,133 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-16T15:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,3,0,Muaither SC,Match Finished
+2023-08-16T17:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,1,1,Al Shamal,Match Finished
+2023-08-17T15:30:00+00:00,2023,Stars League,Qatar,Qatar SC,4,4,Al-Gharafa,Match Finished
+2023-08-18T15:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,1,2,Al-Duhail SC,Match Finished
+2023-08-18T17:30:00+00:00,2023,Stars League,Qatar,UMM Salal,1,3,Al Sadd,Match Finished
+2023-08-25T15:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,4,1,Muaither SC,Match Finished
+2023-08-26T15:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,2,0,Al-Markhiya,Match Finished
+2023-08-26T17:30:00+00:00,2023,Stars League,Qatar,Al Sadd,4,2,Al Ahli Doha,Match Finished
+2023-08-27T15:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,1,1,UMM Salal,Match Finished
+2023-08-27T17:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,2,2,Al Shamal,Match Finished
+2023-09-01T15:15:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,1,4,Al-Gharafa,Match Finished
+2023-09-01T17:15:00+00:00,2023,Stars League,Qatar,UMM Salal,2,2,Qatar SC,Match Finished
+2023-09-01T17:15:00+00:00,2023,Stars League,Qatar,Muaither SC,5,2,Al-Markhiya,Match Finished
+2023-09-02T15:15:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,3,3,Al-Duhail SC,Match Finished
+2023-09-02T17:15:00+00:00,2023,Stars League,Qatar,Al Sadd,0,0,Al Wakrah,Match Finished
+2023-09-24T17:00:00+00:00,2023,Stars League,Qatar,Muaither SC,2,2,Al Shamal,Match Finished
+2023-09-23T17:00:00+00:00,2023,Stars League,Qatar,UMM Salal,3,1,Al Ahli Doha,Match Finished
+2023-09-24T17:00:00+00:00,2023,Stars League,Qatar,Al-Markhiya,0,3,Al Wakrah,Match Finished
+2023-09-24T15:00:00+00:00,2023,Stars League,Qatar,Al-Gharafa,3,2,Al-Duhail SC,Match Finished
+2023-09-23T17:00:00+00:00,2023,Stars League,Qatar,Qatar SC,1,3,Al Sadd,Match Finished
+2023-09-28T17:00:00+00:00,2023,Stars League,Qatar,Al-Markhiya,1,2,Al-Duhail SC,Match Finished
+2023-09-28T15:00:00+00:00,2023,Stars League,Qatar,Al Sadd,4,0,Al-Gharafa,Match Finished
+2023-09-28T17:00:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,1,0,Qatar SC,Match Finished
+2023-09-29T15:00:00+00:00,2023,Stars League,Qatar,Al Shamal,1,3,UMM Salal,Match Finished
+2023-09-29T17:00:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,4,2,Muaither SC,Match Finished
+2023-10-20T14:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,2,1,Al Shamal,Match Finished
+2023-10-20T16:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,5,2,Muaither SC,Match Finished
+2023-10-21T14:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,2,4,Qatar SC,Match Finished
+2023-12-17T14:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,2,3,Al Wakrah,Match Finished
+2023-12-17T16:30:00+00:00,2023,Stars League,Qatar,Al Sadd,0,1,Al-Arabi SC,Match Finished
+2023-10-29T16:30:00+00:00,2023,Stars League,Qatar,Qatar SC,4,0,Al-Markhiya,Match Finished
+2023-10-28T14:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,3,4,Al-Gharafa,Match Finished
+2023-10-28T16:30:00+00:00,2023,Stars League,Qatar,Muaither SC,0,2,Al Sadd,Match Finished
+2023-10-28T16:30:00+00:00,2023,Stars League,Qatar,Al Shamal,1,2,Al-Duhail SC,Match Finished
+2023-10-29T14:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,2,3,Al Ahli Doha,Match Finished
+2023-10-29T16:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,2,1,UMM Salal,Match Finished
+2023-11-02T16:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,3,2,Al-Rayyan SC,Match Finished
+2023-11-02T14:30:00+00:00,2023,Stars League,Qatar,Al Sadd,5,0,Al-Markhiya,Match Finished
+2023-11-03T16:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,5,4,Al-Arabi SC,Match Finished
+2023-11-03T14:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,1,0,Qatar SC,Match Finished
+2023-11-03T14:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,1,2,Al Shamal,Match Finished
+2023-11-02T14:30:00+00:00,2023,Stars League,Qatar,Muaither SC,1,3,UMM Salal,Match Finished
+2023-11-24T14:30:00+00:00,2023,Stars League,Qatar,Qatar SC,0,2,Al Shamal,Match Finished
+2023-11-24T16:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,0,2,Al Ahli Doha,Match Finished
+2023-11-25T14:30:00+00:00,2023,Stars League,Qatar,UMM Salal,1,2,Al-Gharafa,Match Finished
+2023-12-13T16:30:00+00:00,2023,Stars League,Qatar,Al Sadd,3,1,Al-Duhail SC,Match Finished
+2023-11-25T14:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,2,1,Al Wakrah,Match Finished
+2023-12-01T16:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,0,1,UMM Salal,Match Finished
+2023-12-01T16:30:00+00:00,2023,Stars League,Qatar,Al Sadd,4,0,Al Shamal,Match Finished
+2023-12-01T14:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,0,4,Al-Arabi SC,Match Finished
+2023-12-02T14:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,1,1,Al Wakrah,Match Finished
+2023-12-02T14:30:00+00:00,2023,Stars League,Qatar,Qatar SC,3,2,Muaither SC,Match Finished
+2023-12-08T16:30:00+00:00,2023,Stars League,Qatar,UMM Salal,1,1,Al-Markhiya,Match Finished
+2023-12-09T14:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,1,1,Al Shamal,Match Finished
+2023-12-09T14:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,1,1,Qatar SC,Match Finished
+2023-12-08T14:30:00+00:00,2023,Stars League,Qatar,Muaither SC,2,2,Al-Arabi SC,Match Finished
+2023-12-08T16:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,3,2,Al Ahli Doha,Match Finished
+2023-12-21T14:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,3,5,Al Ahli Doha,Match Finished
+2023-12-21T16:30:00+00:00,2023,Stars League,Qatar,Al Sadd,6,0,UMM Salal,Match Finished
+2023-12-20T14:30:00+00:00,2023,Stars League,Qatar,Muaither SC,2,4,Al Wakrah,Match Finished
+2023-12-20T16:30:00+00:00,2023,Stars League,Qatar,Al Shamal,0,0,Al-Arabi SC,Match Finished
+2023-12-20T14:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,2,1,Qatar SC,Match Finished
+2023-12-20T16:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,6,0,Al-Markhiya,Match Finished
+2024-04-17T15:30:00+00:00,2023,Stars League,Qatar,Muaither SC,2,5,Al-Duhail SC,Match Finished
+2024-04-17T17:30:00+00:00,2023,Stars League,Qatar,Qatar SC,0,3,Al-Rayyan SC,Match Finished
+2024-04-17T17:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,1,9,Al Sadd,Match Finished
+2024-04-16T17:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,3,2,Al-Gharafa,Match Finished
+2024-04-17T15:30:00+00:00,2023,Stars League,Qatar,UMM Salal,2,1,Al-Arabi SC,Match Finished
+2024-04-16T15:30:00+00:00,2023,Stars League,Qatar,Al Shamal,0,0,Al Wakrah,Match Finished
+2024-02-24T17:00:00+00:00,2023,Stars League,Qatar,Al-Gharafa,1,2,Al Ahli Doha,Match Finished
+2024-02-24T15:00:00+00:00,2023,Stars League,Qatar,Qatar SC,1,1,UMM Salal,Match Finished
+2024-02-24T17:00:00+00:00,2023,Stars League,Qatar,Al-Markhiya,0,2,Muaither SC,Match Finished
+2024-02-25T17:00:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,2,2,Al-Arabi SC,Match Finished
+2024-02-25T15:00:00+00:00,2023,Stars League,Qatar,Al Wakrah,0,0,Al Sadd,Match Finished
+2024-02-25T17:00:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,2,1,Al Shamal,Match Finished
+2024-02-29T15:00:00+00:00,2023,Stars League,Qatar,Al Shamal,0,0,Muaither SC,Match Finished
+2024-02-29T17:00:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,1,2,UMM Salal,Match Finished
+2024-02-29T17:00:00+00:00,2023,Stars League,Qatar,Al Wakrah,1,2,Al-Markhiya,Match Finished
+2024-03-01T15:00:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,1,4,Al-Gharafa,Match Finished
+2024-03-01T15:00:00+00:00,2023,Stars League,Qatar,Al Sadd,3,0,Qatar SC,Match Finished
+2024-03-05T15:00:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,0,0,Al-Markhiya,Match Finished
+2024-03-06T17:00:00+00:00,2023,Stars League,Qatar,Al-Gharafa,2,2,Al Sadd,Match Finished
+2024-03-06T15:00:00+00:00,2023,Stars League,Qatar,Qatar SC,3,4,Al-Arabi SC,Match Finished
+2024-03-05T17:00:00+00:00,2023,Stars League,Qatar,UMM Salal,3,4,Al Shamal,Match Finished
+2024-03-05T17:00:00+00:00,2023,Stars League,Qatar,Muaither SC,1,1,Al Ahli Doha,Match Finished
+2024-03-11T18:30:00+00:00,2023,Stars League,Qatar,Al Shamal,2,0,Al-Markhiya,Match Finished
+2024-03-11T18:30:00+00:00,2023,Stars League,Qatar,Muaither SC,0,2,Al-Gharafa,Match Finished
+2024-03-12T18:30:00+00:00,2023,Stars League,Qatar,Qatar SC,1,3,Al Ahli Doha,Match Finished
+2024-03-10T17:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,2,1,Al-Duhail SC,Match Finished
+2024-03-10T17:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,2,2,Al Sadd,Match Finished
+2024-03-17T18:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,1,2,Qatar SC,Match Finished
+2024-03-15T18:30:00+00:00,2023,Stars League,Qatar,Al Sadd,4,2,Muaither SC,Match Finished
+2024-03-15T18:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,3,1,Al Shamal,Match Finished
+2024-03-16T18:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,1,1,Al-Arabi SC,Match Finished
+2024-03-16T18:30:00+00:00,2023,Stars League,Qatar,UMM Salal,0,2,Al Wakrah,Match Finished
+2024-03-30T18:30:00+00:00,2023,Stars League,Qatar,Qatar SC,1,5,Al Wakrah,Match Finished
+2024-03-29T18:30:00+00:00,2023,Stars League,Qatar,Al Shamal,2,1,Al Ahli Doha,Match Finished
+2024-03-29T18:30:00+00:00,2023,Stars League,Qatar,UMM Salal,1,2,Muaither SC,Match Finished
+2024-03-31T18:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,1,2,Al Sadd,Match Finished
+2024-03-30T18:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,0,1,Al-Gharafa,Match Finished
+2024-04-06T18:30:00+00:00,2023,Stars League,Qatar,Al Shamal,1,2,Qatar SC,Match Finished
+2024-04-06T18:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,1,4,Al-Markhiya,Match Finished
+2024-04-07T18:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,1,1,UMM Salal,Match Finished
+2024-04-05T18:30:00+00:00,2023,Stars League,Qatar,Al-Duhail SC,3,1,Al Sadd,Match Finished
+2024-04-05T18:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,2,4,Al-Arabi SC,Match Finished
+2024-04-24T15:30:00+00:00,2023,Stars League,Qatar,UMM Salal,2,0,Al-Duhail SC,Match Finished
+2024-04-24T15:30:00+00:00,2023,Stars League,Qatar,Al Shamal,0,4,Al Sadd,Match Finished
+2024-04-24T15:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,1,2,Al-Markhiya,Match Finished
+2024-04-24T15:30:00+00:00,2023,Stars League,Qatar,Al Wakrah,2,4,Al-Gharafa,Match Finished
+2024-04-24T15:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,4,1,Al Ahli Doha,Match Finished
+2024-04-24T15:30:00+00:00,2023,Stars League,Qatar,Muaither SC,3,5,Qatar SC,Match Finished
+2024-04-28T15:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,,,UMM Salal,Not Started
+2024-04-28T15:30:00+00:00,2023,Stars League,Qatar,Al Shamal,,,Al-Gharafa,Not Started
+2024-04-28T15:30:00+00:00,2023,Stars League,Qatar,Qatar SC,,,Al-Duhail SC,Not Started
+2024-04-28T15:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,,,Al Sadd,Not Started
+2024-04-28T15:30:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,,,Muaither SC,Not Started
+2024-04-28T15:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,,,Al Wakrah,Not Started
+2023-08-17T17:30:00+00:00,2023,Stars League,Qatar,Al-Markhiya,0,1,Al-Rayyan SC,Match Finished
+2023-08-25T17:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,1,0,Qatar SC,Match Finished
+2023-09-02T17:15:00+00:00,2023,Stars League,Qatar,Al Shamal,3,4,Al-Rayyan SC,Match Finished
+2023-09-23T15:00:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,1,0,Al-Arabi SC,Match Finished
+2023-09-29T15:00:00+00:00,2023,Stars League,Qatar,Al Wakrah,3,2,Al-Rayyan SC,Match Finished
+2023-10-21T16:30:00+00:00,2023,Stars League,Qatar,UMM Salal,0,2,Al-Rayyan SC,Match Finished
+2023-11-25T16:30:00+00:00,2023,Stars League,Qatar,Muaither SC,0,0,Al-Rayyan SC,Match Finished
+2023-12-02T16:30:00+00:00,2023,Stars League,Qatar,Al Ahli Doha,0,4,Al-Rayyan SC,Match Finished
+2023-12-09T16:30:00+00:00,2023,Stars League,Qatar,Al Sadd,4,0,Al-Rayyan SC,Match Finished
+2024-03-01T17:00:00+00:00,2023,Stars League,Qatar,Al-Arabi SC,2,3,Al-Rayyan SC,Match Finished
+2024-03-06T17:00:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,3,0,Al Wakrah,Match Finished
+2024-03-12T18:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,2,2,UMM Salal,Match Finished
+2024-03-17T18:30:00+00:00,2023,Stars League,Qatar,Al-Gharafa,3,0,Al-Rayyan SC,Match Finished
+2024-03-31T18:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,2,0,Al-Duhail SC,Match Finished
+2024-04-07T18:30:00+00:00,2023,Stars League,Qatar,Al-Rayyan SC,1,0,Muaither SC,Match Finished

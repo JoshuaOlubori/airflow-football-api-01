@@ -1,0 +1,463 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,1,Hayes & Yeading United,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,0,Bracknell Town,Match Finished
+2023-09-05T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,0,3,Chesham United,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,2,AFC Totton,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,3,1,Sholing,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,7,0,Plymouth Parkway,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,3,2,Dorchester Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,1,1,Beaconsfield Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,2,7,Poole Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,2,Basingstoke Town,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,2,1,Walton & Hersham,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,0,2,Salisbury,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,1,3,Hanwell Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,0,5,Merthyr Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,5,1,Didcot Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,1,Hungerford Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,2,2,Harrow Borough,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,5,2,Tiverton Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,0,2,Gosport Borough,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,2,2,Hendon,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,5,1,Winchester City,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,4,2,Swindon Supermarine,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,2,2,Hendon,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,3,1,Hungerford Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,3,Hanwell Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,0,4,Winchester City,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,4,Walton & Hersham,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,1,2,Chesham United,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,2,1,Tiverton Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,3,Sholing,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,3,2,Swindon Supermarine,Match Finished
+2023-08-16T18:45:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,1,0,Poole Town,Match Finished
+2023-08-16T18:45:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,4,1,Basingstoke Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,5,0,Harrow Borough,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,4,3,Plymouth Parkway,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,4,Merthyr Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,0,0,Salisbury,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,3,1,Beaconsfield Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,3,1,Bracknell Town,Match Finished
+2023-08-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,1,0,Hayes & Yeading United,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,0,2,Gosport Borough,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,5,3,Didcot Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,6,3,Dorchester Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,0,6,AFC Totton,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,5,3,Hanwell Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,2,3,Tiverton Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,5,0,Swindon Supermarine,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,2,3,Basingstoke Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,0,2,Chesham United,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,2,Walton & Hersham,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,2,4,Poole Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,1,3,Winchester City,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,2,1,Sholing,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,3,0,Hendon,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,1,Hungerford Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,3,2,AFC Totton,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,3,0,Beaconsfield Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,1,Hayes & Yeading United,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,2,2,Harrow Borough,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,2,2,Didcot Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,1,2,Dorchester Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,3,Gosport Borough,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,0,3,Merthyr Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,2,Plymouth Parkway,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,5,2,Bracknell Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,1,Salisbury,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,1,1,Hendon,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,2,3,Basingstoke Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,3,0,Tiverton Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,0,Winchester City,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,2,1,Swindon Supermarine,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,4,0,Hungerford Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,3,2,Sholing,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,5,3,Poole Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,3,Chesham United,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,2,Hanwell Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,1,0,Walton & Hersham,Match Finished
+2023-10-03T18:45:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,1,3,Merthyr Town,Match Finished
+2023-10-10T18:45:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,1,1,Didcot Town,Match Finished
+2023-09-16T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,2,1,Harrow Borough,Match Finished
+2023-09-12T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hendon,1,1,Bracknell Town,Match Finished
+2023-09-12T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,1,1,Dorchester Town,Match Finished
+2023-09-12T18:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,2,0,Gosport Borough,Match Finished
+2023-10-17T18:45:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,0,AFC Totton,Match Finished
+2023-09-12T18:45:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,3,3,Beaconsfield Town,Match Finished
+2023-09-12T18:45:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,2,0,Hayes & Yeading United,Match Finished
+2023-10-03T18:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,1,Plymouth Parkway,Match Finished
+2023-09-13T18:45:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,1,3,Salisbury,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,3,1,Swindon Supermarine,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,3,3,Walton & Hersham,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,2,1,Sholing,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,1,2,Winchester City,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,3,1,Didcot Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,0,3,Poole Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,2,1,Plymouth Parkway,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,3,3,Hayes & Yeading United,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,4,Gosport Borough,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,0,Bracknell Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,4,Hendon,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,0,3,Beaconsfield Town,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,2,Merthyr Town,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,3,0,Harrow Borough,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hendon,3,3,Hanwell Town,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,5,0,Dorchester Town,Match Finished
+2023-10-17T18:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,2,0,Tiverton Town,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Sholing,2,1,Salisbury,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,2,3,Hungerford Town,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,2,2,Chesham United,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,2,1,Basingstoke Town,Match Finished
+2023-09-27T18:45:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,0,AFC Totton,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,3,2,Merthyr Town,Match Finished
+2023-10-17T18:45:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,2,2,Harrow Borough,Match Finished
+2023-10-11T18:45:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,2,Dorchester Town,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,1,3,Beaconsfield Town,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,2,0,Basingstoke Town,Match Finished
+2024-04-22T18:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,0,3,AFC Totton,Match Finished
+2024-01-30T19:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,4,5,Salisbury,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,1,1,Hanwell Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,2,1,Chesham United,Match Finished
+2023-10-10T18:45:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,4,1,Hungerford Town,Match Finished
+2024-01-30T19:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,2,1,Tiverton Town,Match Finished
+2023-12-19T19:45:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,2,1,Hayes & Yeading United,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,4,2,Poole Town,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,2,1,Didcot Town,Match Finished
+2023-11-21T19:45:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,1,Sholing,Match Finished
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,1,2,Bracknell Town,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,4,4,Winchester City,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,2,2,Swindon Supermarine,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,3,0,Hendon,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,1,Plymouth Parkway,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,0,Gosport Borough,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,2,Walton & Hersham,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,1,5,AFC Totton,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,2,Salisbury,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,1,Tiverton Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,1,1,Merthyr Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,1,0,Dorchester Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,1,Basingstoke Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,2,5,Chesham United,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,3,3,Hungerford Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,1,1,Hanwell Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,1,0,Beaconsfield Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,2,Harrow Borough,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,0,3,Hayes & Yeading United,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,1,2,Gosport Borough,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,1,Hendon,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,1,2,Sholing,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,2,Walton & Hersham,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,4,Bracknell Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,2,1,Poole Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,2,Winchester City,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,1,Plymouth Parkway,Match Finished
+2023-10-25T18:45:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,7,1,Didcot Town,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,1,1,Swindon Supermarine,Match Finished
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,3,1,Harrow Borough,Match Finished
+2023-10-17T18:45:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,4,0,Basingstoke Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,1,Sholing,Match Finished
+2023-10-28T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,1,1,Hayes & Yeading United,Match Finished
+2023-11-29T19:45:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,3,2,Hanwell Town,Match Finished
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,2,2,Winchester City,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,0,2,Poole Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,3,1,Chesham United,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,3,0,Plymouth Parkway,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,1,2,AFC Totton,Match Finished
+2023-11-21T19:45:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,1,3,Hendon,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,1,2,Hungerford Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,4,3,Swindon Supermarine,Match Finished
+2023-12-05T19:45:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,0,Tiverton Town,Match Finished
+2024-02-06T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,1,Dorchester Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,2,3,Salisbury,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,3,Gosport Borough,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,1,0,Merthyr Town,Match Finished
+2024-03-26T19:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,2,1,Didcot Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,3,0,Beaconsfield Town,Match Finished
+2024-02-06T19:45:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,1,Walton & Hersham,Match Finished
+2023-12-05T19:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,5,0,Bracknell Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,1,2,Winchester City,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,4,0,Chesham United,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,7,Poole Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,4,1,Basingstoke Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,1,Hendon,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,2,2,Hanwell Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,3,AFC Totton,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,1,Hayes & Yeading United,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,0,0,Sholing,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,0,0,Harrow Borough,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,1,2,Plymouth Parkway,Match Finished
+2024-02-28T19:45:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,4,4,Dorchester Town,Match Finished
+2023-12-05T19:45:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,2,2,Hungerford Town,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,0,Gosport Borough,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,2,3,Salisbury,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,2,Merthyr Town,Match Finished
+2024-01-30T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,3,2,Bracknell Town,Match Finished
+2023-12-12T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hendon,3,1,Didcot Town,Match Finished
+2024-01-30T19:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,0,1,Beaconsfield Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,1,3,Walton & Hersham,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,4,Tiverton Town,Match Finished
+2024-02-06T19:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,2,2,Swindon Supermarine,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,0,2,AFC Totton,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,0,Basingstoke Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,0,0,Didcot Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,2,Tiverton Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,2,1,Harrow Borough,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,0,Bracknell Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,3,2,Dorchester Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,2,0,Poole Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,3,2,Hayes & Yeading United,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,2,3,Merthyr Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,0,2,Hendon,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,2,2,Chesham United,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,1,2,Sholing,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,3,1,Hanwell Town,Match Finished
+2024-02-20T19:45:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,1,Walton & Hersham,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,2,1,Beaconsfield Town,Match Finished
+2024-02-06T19:45:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,2,0,Gosport Borough,Match Finished
+2024-01-23T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,2,Plymouth Parkway,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,2,3,Swindon Supermarine,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,2,1,Salisbury,Match Finished
+2024-04-09T18:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,2,1,Winchester City,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,0,1,Hungerford Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,1,1,Beaconsfield Town,Match Finished
+2024-02-06T19:45:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,1,Merthyr Town,Match Finished
+2024-04-18T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,4,0,Plymouth Parkway,Match Finished
+2024-01-30T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hendon,3,3,AFC Totton,Match Finished
+2024-02-20T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,0,2,Gosport Borough,Match Finished
+2024-02-06T19:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,0,2,Hayes & Yeading United,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,1,3,Harrow Borough,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,1,2,Dorchester Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,1,Bracknell Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,1,0,Salisbury,Match Finished
+2024-01-23T19:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,2,Didcot Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,1,1,Winchester City,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,3,3,Hungerford Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,1,1,Poole Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,0,Tiverton Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,1,2,Walton & Hersham,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,2,Swindon Supermarine,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,4,2,Basingstoke Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,0,Sholing,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,4,0,Hanwell Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,4,0,Chesham United,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,1,Hendon,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,2,4,Didcot Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,0,Dorchester Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,0,0,AFC Totton,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,0,2,Plymouth Parkway,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,1,0,Salisbury,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,1,0,Harrow Borough,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,2,Merthyr Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,3,1,Bracknell Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,2,Beaconsfield Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,0,4,Gosport Borough,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,1,Hayes & Yeading United,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,2,2,Basingstoke Town,Match Finished
+2023-12-26T12:30:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,1,2,Chesham United,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,3,0,Walton & Hersham,Match Finished
+2023-12-26T12:30:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,1,Hungerford Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,1,2,Poole Town,Match Finished
+2023-12-26T12:30:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,0,Sholing,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,3,Hendon,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,1,3,Hanwell Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,4,1,Swindon Supermarine,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,1,Tiverton Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,2,Winchester City,Match Finished
+2023-12-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,0,0,Salisbury,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,4,0,Harrow Borough,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,2,0,Beaconsfield Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,4,3,Hayes & Yeading United,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,1,1,Merthyr Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,2,2,Plymouth Parkway,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,0,Bracknell Town,Match Finished
+2023-12-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,4,1,Didcot Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,0,2,Dorchester Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,2,2,AFC Totton,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,1,Gosport Borough,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,1,3,Sholing,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,3,4,Swindon Supermarine,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,1,0,Hendon,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,1,Chesham United,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,2,4,Hungerford Town,Match Finished
+2024-03-06T19:45:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,2,Poole Town,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,0,3,Hanwell Town,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,0,Walton & Hersham,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,4,1,Basingstoke Town,Match Finished
+2024-03-21T19:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,1,Winchester City,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,4,2,Tiverton Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,0,Bracknell Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,1,Plymouth Parkway,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,2,Basingstoke Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,0,2,Dorchester Town,Match Finished
+2024-03-19T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hendon,2,0,Poole Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,0,1,Chesham United,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,2,3,Beaconsfield Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,0,1,AFC Totton,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,2,1,Walton & Hersham,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,1,1,Hayes & Yeading United,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,3,Sholing,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,1,0,Harrow Borough,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,3,2,Tiverton Town,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,0,0,Salisbury,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,4,3,Gosport Borough,Match Finished
+2024-02-27T19:45:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,1,1,Hanwell Town,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,3,2,Merthyr Town,Match Finished
+2024-02-13T19:45:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,1,2,Didcot Town,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,6,2,Hungerford Town,Match Finished
+2024-01-23T19:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,1,0,Swindon Supermarine,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Southern South,England,Sholing,2,2,Hendon,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,3,1,Winchester City,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,1,1,Gosport Borough,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,0,2,Winchester City,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,3,0,Bracknell Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,3,0,Walton & Hersham,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,0,0,Plymouth Parkway,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,2,2,Hendon,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,1,Hayes & Yeading United,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,3,2,Swindon Supermarine,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,4,0,Didcot Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,3,0,Sholing,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,4,2,Poole Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,2,1,Salisbury,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,1,Dorchester Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,1,Merthyr Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,3,2,Hungerford Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,2,3,Tiverton Town,Match Finished
+2024-04-09T18:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,3,Harrow Borough,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,0,3,Hanwell Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,0,Beaconsfield Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,2,2,AFC Totton,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,1,2,Basingstoke Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,0,3,Chesham United,Match Finished
+2024-03-19T19:45:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,2,0,Plymouth Parkway,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,3,2,Hendon,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,2,3,Hayes & Yeading United,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,4,0,Swindon Supermarine,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,0,3,Gosport Borough,Match Finished
+2024-04-11T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,2,3,Sholing,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,3,3,Didcot Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,0,1,Walton & Hersham,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,2,3,Bracknell Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,0,Poole Town,Match Finished
+2024-04-18T18:45:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,0,Winchester City,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,1,3,Dorchester Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,1,Beaconsfield Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,1,Salisbury,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,1,AFC Totton,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,2,2,Hungerford Town,Match Finished
+2024-03-14T19:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,3,Merthyr Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,0,1,Basingstoke Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,1,Chesham United,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,1,3,Harrow Borough,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,2,0,Tiverton Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,1,Hanwell Town,Match Finished
+2024-04-10T18:45:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,3,2,Bracknell Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,1,0,Plymouth Parkway,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,2,1,Walton & Hersham,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,3,1,Poole Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,2,2,Hendon,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,2,Swindon Supermarine,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,2,Winchester City,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,2,1,Sholing,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,1,Hayes & Yeading United,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,2,Didcot Town,Match Finished
+2024-04-09T18:45:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,1,2,Gosport Borough,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,1,1,Harrow Borough,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,1,AFC Totton,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,2,Beaconsfield Town,Match Finished
+2024-04-09T18:45:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,1,0,Basingstoke Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,0,1,Chesham United,Match Finished
+2024-04-11T18:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,0,1,Salisbury,Match Finished
+2024-03-26T19:45:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,1,2,Hungerford Town,Match Finished
+2024-04-09T18:45:00+00:00,2023,Non League Premier - Southern South,England,Sholing,1,2,Dorchester Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,2,2,Tiverton Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,1,2,Hanwell Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,2,0,Merthyr Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,3,4,Dorchester Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,0,AFC Totton,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,0,Harrow Borough,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,2,Bracknell Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,1,2,Tiverton Town,Match Finished
+2024-04-24T18:45:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,3,1,Hayes & Yeading United,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,0,0,Merthyr Town,Match Finished
+2023-09-16T14:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,0,4,Basingstoke Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,0,1,Hendon,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,4,2,Didcot Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,4,0,Poole Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,3,0,Beaconsfield Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,1,1,Chesham United,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,2,0,Plymouth Parkway,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,4,Gosport Borough,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,1,0,Salisbury,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,6,Hungerford Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,2,2,Swindon Supermarine,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,2,1,Winchester City,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,1,Walton & Hersham,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,0,3,Sholing,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,0,Hanwell Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,3,0,Gosport Borough,Match Finished
+2024-03-29T15:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,1,0,Hayes & Yeading United,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,2,0,Didcot Town,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,4,5,Beaconsfield Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,3,1,Bracknell Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,0,0,AFC Totton,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,1,1,Plymouth Parkway,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,3,3,Salisbury,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,0,Merthyr Town,Match Finished
+2024-03-28T20:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,4,4,Harrow Borough,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,1,Dorchester Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,3,0,Walton & Hersham,Match Finished
+2024-04-02T18:45:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,1,0,Hanwell Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,5,1,Sholing,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,0,2,Swindon Supermarine,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,2,1,Tiverton Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,2,1,Winchester City,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,4,Chesham United,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,0,Hendon,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,3,0,Hungerford Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,1,0,Poole Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,1,Basingstoke Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,5,0,Tiverton Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,1,3,Bracknell Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,2,1,Salisbury,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,0,0,Gosport Borough,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,2,1,Beaconsfield Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,1,Dorchester Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,1,1,Walton & Hersham,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,1,3,Merthyr Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,2,2,Didcot Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,0,Hungerford Town,Match Finished
+2024-04-07T13:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,4,1,Swindon Supermarine,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,1,3,Poole Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,3,1,Winchester City,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,3,2,Plymouth Parkway,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,2,1,Hanwell Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,1,2,Hayes & Yeading United,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,1,0,AFC Totton,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,1,1,Hendon,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,0,2,Harrow Borough,Match Finished
+2024-04-13T12:30:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,3,0,Basingstoke Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,2,0,Chesham United,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,1,0,Sholing,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,AFC Totton,2,0,Merthyr Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Basingstoke Town,3,1,Dorchester Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Chesham United,1,2,Bracknell Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hanwell Town,1,0,Hungerford Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Harrow Borough,1,2,Tiverton Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hayes & Yeading United,0,2,Salisbury,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hendon,0,0,Gosport Borough,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Plymouth Parkway,2,2,Walton & Hersham,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Poole Town,2,0,Didcot Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Sholing,3,0,Swindon Supermarine,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Southern South,England,Winchester City,1,0,Beaconsfield Town,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Beaconsfield Town,1,1,Plymouth Parkway,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Bracknell Town,3,3,Hayes & Yeading United,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Didcot Town,1,2,Hendon,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Dorchester Town,0,4,AFC Totton,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Gosport Borough,4,2,Chesham United,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Hungerford Town,1,0,Basingstoke Town,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Merthyr Town,7,1,Harrow Borough,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Salisbury,2,0,Hanwell Town,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Swindon Supermarine,3,0,Winchester City,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Tiverton Town,1,0,Sholing,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Southern South,England,Walton & Hersham,3,0,Poole Town,Match Finished

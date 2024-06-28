@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Chelmsford City,1,0,Farnborough,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Chippenham Town,1,0,Aveley,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Dartford,3,3,Bath City,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Dover,2,2,Torquay,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,1,0,Hampton & Richmond,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,0,Yeovil Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Maidstone Utd,2,1,Slough Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,St Albans City,2,1,Weymouth,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Taunton Town,2,1,Braintree,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Truro City,5,2,Welling United,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,1,0,Havant & Wville,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - South,England,Worthing,1,0,Tonbridge Angels,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Aveley,4,1,Taunton Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Bath City,3,0,Maidstone Utd,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Braintree,3,2,Truro City,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Farnborough,1,1,Eastbourne Borough,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,0,1,Chelmsford City,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Havant & Wville,2,4,Chippenham Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Slough Town,1,2,Dover,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Tonbridge Angels,0,1,Weston-super-Mare,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Torquay,0,3,Worthing,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Welling United,0,1,Hemel Hempstead Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Weymouth,1,0,Dartford,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Yeovil Town,2,1,St Albans City,Match Finished
+2023-08-14T18:45:00+00:00,2023,National League - South,England,Aveley,2,0,Eastbourne Borough,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Bath City,2,6,Weston-super-Mare,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Braintree,1,2,Maidstone Utd,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Farnborough,2,1,Hemel Hempstead Town,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - South,England,Hampton & Richmond,4,3,Dartford,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Slough Town,1,4,Worthing,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Tonbridge Angels,1,0,Dover,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Torquay,2,1,Chippenham Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Welling United,1,2,Chelmsford City,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Weymouth,1,1,Taunton Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Yeovil Town,2,1,Truro City,Match Finished
+2023-08-16T18:45:00+00:00,2023,National League - South,England,Havant & Wville,1,2,St Albans City,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Chelmsford City,1,1,Havant & Wville,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Chippenham Town,1,2,Tonbridge Angels,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Dartford,1,1,Farnborough,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Dover,1,1,Braintree,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,1,2,Bath City,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,2,Weymouth,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Maidstone Utd,2,1,Yeovil Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,St Albans City,0,1,Torquay,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Taunton Town,1,0,Welling United,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Truro City,1,2,Hampton & Richmond,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,0,3,Slough Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Worthing,1,2,Aveley,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Aveley,0,1,Dartford,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Bath City,3,1,Hampton & Richmond,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Braintree,0,0,Chippenham Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Dover,0,2,Worthing,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,0,1,Truro City,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Farnborough,3,0,Weston-super-Mare,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,1,Maidstone Utd,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Slough Town,1,2,Torquay,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Taunton Town,3,2,St Albans City,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Welling United,3,2,Havant & Wville,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Weymouth,0,3,Chelmsford City,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - South,England,Yeovil Town,2,0,Tonbridge Angels,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Chelmsford City,1,0,Eastbourne Borough,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Chippenham Town,2,1,Slough Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Dartford,2,0,Dover,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,0,1,Aveley,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Havant & Wville,4,3,Yeovil Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Maidstone Utd,1,1,Taunton Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,St Albans City,0,2,Bath City,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Tonbridge Angels,0,1,Welling United,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Torquay,2,1,Braintree,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Truro City,3,1,Farnborough,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,1,1,Hemel Hempstead Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Worthing,2,0,Weymouth,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Aveley,2,1,Torquay,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Bath City,2,0,Havant & Wville,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Braintree,4,0,Worthing,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Dover,1,1,Chippenham Town,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,2,1,Weston-super-Mare,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Farnborough,3,1,Hampton & Richmond,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,0,0,Truro City,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Slough Town,2,5,Tonbridge Angels,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Taunton Town,1,0,Dartford,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Welling United,0,0,St Albans City,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Weymouth,2,3,Maidstone Utd,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - South,England,Yeovil Town,1,1,Chelmsford City,Match Finished
+2023-09-04T18:45:00+00:00,2023,National League - South,England,Chelmsford City,1,2,Hemel Hempstead Town,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Chippenham Town,3,3,Taunton Town,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Dartford,1,2,Slough Town,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Hampton & Richmond,1,0,Weymouth,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Maidstone Utd,0,1,Aveley,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,St Albans City,2,0,Dover,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Tonbridge Angels,0,0,Braintree,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Torquay,3,0,Farnborough,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Truro City,1,1,Bath City,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Weston-super-Mare,2,3,Yeovil Town,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - South,England,Worthing,2,0,Welling United,Match Finished
+2023-09-06T18:45:00+00:00,2023,National League - South,England,Havant & Wville,1,2,Eastbourne Borough,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Braintree,1,1,Farnborough,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Chippenham Town,0,2,Maidstone Utd,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Dover,1,3,Weymouth,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Havant & Wville,1,3,Truro City,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Slough Town,2,0,Aveley,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,St Albans City,1,0,Dartford,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Tonbridge Angels,0,3,Taunton Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Torquay,2,1,Chelmsford City,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Welling United,0,1,Bath City,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,1,1,Hampton & Richmond,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Worthing,1,1,Hemel Hempstead Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - South,England,Yeovil Town,3,2,Eastbourne Borough,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Aveley,1,1,Braintree,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Bath City,2,2,Dover,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Chelmsford City,0,2,St Albans City,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Dartford,1,0,Tonbridge Angels,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,2,2,Welling United,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Farnborough,2,2,Slough Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Hampton & Richmond,1,2,Yeovil Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,3,2,Torquay,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Maidstone Utd,4,0,Worthing,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Taunton Town,0,0,Havant & Wville,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Truro City,0,1,Weston-super-Mare,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - South,England,Weymouth,1,1,Chippenham Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Braintree,1,1,Bath City,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Chippenham Town,1,4,Dartford,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Dover,2,2,Taunton Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Havant & Wville,1,2,Hampton & Richmond,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Slough Town,0,0,Weymouth,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,St Albans City,2,3,Eastbourne Borough,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Tonbridge Angels,3,3,Hemel Hempstead Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Torquay,0,1,Maidstone Utd,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Welling United,2,2,Farnborough,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,0,3,Chelmsford City,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Worthing,2,2,Truro City,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - South,England,Yeovil Town,3,1,Aveley,Match Finished
+2023-12-04T19:45:00+00:00,2023,National League - South,England,Aveley,2,2,Welling United,Match Finished
+2023-12-06T19:45:00+00:00,2023,National League - South,England,Bath City,0,1,Yeovil Town,Match Finished
+2024-03-04T19:45:00+00:00,2023,National League - South,England,Chelmsford City,0,1,Worthing,Match Finished
+2023-10-31T19:45:00+00:00,2023,National League - South,England,Dartford,4,2,Weston-super-Mare,Match Finished
+2023-11-28T19:45:00+00:00,2023,National League - South,England,Eastbourne Borough,1,4,Torquay,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - South,England,Farnborough,2,1,St Albans City,Match Finished
+2023-12-05T19:45:00+00:00,2023,National League - South,England,Hampton & Richmond,1,1,Braintree,Match Finished
+2023-12-05T19:45:00+00:00,2023,National League - South,England,Hemel Hempstead Town,0,2,Chippenham Town,Match Finished
+2023-11-28T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,3,1,Havant & Wville,Match Finished
+2024-04-11T18:45:00+00:00,2023,National League - South,England,Taunton Town,0,4,Slough Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League - South,England,Truro City,1,0,Dover,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - South,England,Weymouth,1,1,Tonbridge Angels,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Aveley,1,1,Truro City,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Braintree,2,0,Weston-super-Mare,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Chippenham Town,1,2,St Albans City,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Dartford,2,0,Havant & Wville,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Dover,2,2,Hemel Hempstead Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Maidstone Utd,1,1,Farnborough,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Slough Town,0,0,Chelmsford City,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Taunton Town,0,1,Hampton & Richmond,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Tonbridge Angels,3,2,Bath City,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Torquay,5,1,Welling United,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Weymouth,3,1,Eastbourne Borough,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - South,England,Worthing,1,2,Yeovil Town,Match Finished
+2023-10-23T18:45:00+00:00,2023,National League - South,England,Chelmsford City,3,3,Dover,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Bath City,3,0,Taunton Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Eastbourne Borough,1,1,Dartford,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Farnborough,4,1,Tonbridge Angels,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Hampton & Richmond,4,1,Worthing,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Hemel Hempstead Town,0,2,Braintree,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,St Albans City,3,2,Slough Town,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League - South,England,Truro City,0,2,Chippenham Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Welling United,0,0,Maidstone Utd,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Weston-super-Mare,3,2,Torquay,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - South,England,Yeovil Town,2,0,Weymouth,Match Finished
+2023-10-25T18:45:00+00:00,2023,National League - South,England,Havant & Wville,1,4,Aveley,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Bath City,0,2,Worthing,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Chelmsford City,0,0,Taunton Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,3,3,Slough Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Farnborough,4,0,Dover,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Hampton & Richmond,3,1,Torquay,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Havant & Wville,1,1,Weymouth,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,2,1,Dartford,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,St Albans City,0,1,Aveley,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Truro City,1,2,Tonbridge Angels,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Welling United,0,0,Chippenham Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,1,1,Maidstone Utd,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - South,England,Yeovil Town,2,0,Braintree,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - South,England,Aveley,2,0,Weston-super-Mare,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - South,England,Braintree,4,1,Havant & Wville,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - South,England,Chippenham Town,4,2,Eastbourne Borough,Match Finished
+2023-12-09T15:00:00+00:00,2023,National League - South,England,Dartford,2,2,Yeovil Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - South,England,Dover,0,1,Hampton & Richmond,Match Finished
+2023-12-05T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,2,1,Truro City,Match Finished
+2023-12-19T19:45:00+00:00,2023,National League - South,England,Slough Town,2,0,Hemel Hempstead Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,National League - South,England,Taunton Town,4,0,Farnborough,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,1,1,Chelmsford City,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - South,England,Torquay,1,0,Bath City,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - South,England,Weymouth,1,1,Welling United,Match Finished
+2023-12-09T15:00:00+00:00,2023,National League - South,England,Worthing,4,4,St Albans City,Match Finished
+2023-11-06T19:45:00+00:00,2023,National League - South,England,Aveley,2,1,Hemel Hempstead Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Braintree,4,0,St Albans City,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Chippenham Town,2,1,Farnborough,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Dartford,1,2,Chelmsford City,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Dover,2,2,Welling United,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,2,0,Eastbourne Borough,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Slough Town,4,0,Truro City,Match Finished
+2024-04-18T18:45:00+00:00,2023,National League - South,England,Taunton Town,0,1,Weston-super-Mare,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Tonbridge Angels,0,0,Hampton & Richmond,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Torquay,1,3,Yeovil Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Weymouth,1,5,Bath City,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - South,England,Worthing,3,0,Havant & Wville,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Bath City,3,0,Aveley,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Chelmsford City,2,2,Chippenham Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,3,1,Braintree,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Farnborough,1,1,Weymouth,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,5,2,Maidstone Utd,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Havant & Wville,0,2,Torquay,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,0,Taunton Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,St Albans City,2,3,Tonbridge Angels,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League - South,England,Truro City,0,0,Dartford,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Welling United,4,3,Slough Town,Match Finished
+2023-12-05T19:45:00+00:00,2023,National League - South,England,Weston-super-Mare,4,0,Worthing,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - South,England,Yeovil Town,2,0,Dover,Match Finished
+2023-11-13T19:45:00+00:00,2023,National League - South,England,Aveley,1,2,Chelmsford City,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League - South,England,Bath City,1,2,Slough Town,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - South,England,Braintree,4,1,Welling United,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - South,England,Eastbourne Borough,0,3,Tonbridge Angels,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - South,England,Hampton & Richmond,0,0,St Albans City,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,1,0,Dover,Match Finished
+2023-12-05T19:45:00+00:00,2023,National League - South,England,Torquay,3,1,Weymouth,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Truro City,2,0,Taunton Town,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - South,England,Weston-super-Mare,2,1,Chippenham Town,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - South,England,Worthing,3,4,Dartford,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - South,England,Yeovil Town,4,2,Farnborough,Match Finished
+2023-12-13T19:45:00+00:00,2023,National League - South,England,Havant & Wville,2,0,Hemel Hempstead Town,Match Finished
+2023-11-20T19:45:00+00:00,2023,National League - South,England,Chelmsford City,0,1,Maidstone Utd,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Chippenham Town,1,1,Yeovil Town,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Dartford,0,2,Braintree,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Dover,1,1,Eastbourne Borough,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Farnborough,0,3,Worthing,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Hemel Hempstead Town,0,0,Bath City,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Slough Town,2,1,Havant & Wville,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,St Albans City,0,1,Weston-super-Mare,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League - South,England,Taunton Town,1,2,Torquay,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Tonbridge Angels,1,1,Aveley,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League - South,England,Welling United,2,1,Hampton & Richmond,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - South,England,Weymouth,2,0,Truro City,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Chelmsford City,1,2,Truro City,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Chippenham Town,1,2,Hampton & Richmond,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Dartford,3,0,Torquay,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Dover,0,1,Weston-super-Mare,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Farnborough,2,2,Bath City,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,0,Eastbourne Borough,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Slough Town,3,0,Braintree,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,St Albans City,3,2,Maidstone Utd,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Taunton Town,1,1,Worthing,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,4,1,Havant & Wville,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Welling United,4,1,Yeovil Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - South,England,Weymouth,1,1,Aveley,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Aveley,3,4,Farnborough,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Bath City,2,3,Chelmsford City,Match Finished
+2024-03-19T19:45:00+00:00,2023,National League - South,England,Braintree,0,0,Weymouth,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,2,0,Taunton Town,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,2,1,Hemel Hempstead Town,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Havant & Wville,4,3,Dover,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,2,1,Dartford,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Torquay,2,1,Tonbridge Angels,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Truro City,3,1,St Albans City,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Weston-super-Mare,4,2,Welling United,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - South,England,Worthing,3,1,Chippenham Town,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League - South,England,Yeovil Town,3,1,Slough Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Braintree,1,0,Aveley,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Chippenham Town,1,1,Weymouth,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Dover,0,0,Bath City,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Havant & Wville,3,0,Taunton Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Slough Town,2,2,Farnborough,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,St Albans City,2,1,Chelmsford City,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,4,0,Dartford,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Torquay,3,2,Hemel Hempstead Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Welling United,0,2,Eastbourne Borough,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Weston-super-Mare,2,3,Truro City,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Worthing,5,1,Maidstone Utd,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - South,England,Yeovil Town,0,0,Hampton & Richmond,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Aveley,0,2,Slough Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Bath City,4,0,Welling United,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Chelmsford City,2,0,Torquay,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Dartford,0,3,St Albans City,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,0,1,Yeovil Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Farnborough,1,0,Braintree,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,2,1,Weston-super-Mare,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,2,0,Worthing,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Maidstone Utd,0,1,Chippenham Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Taunton Town,2,2,Tonbridge Angels,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Truro City,1,0,Havant & Wville,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - South,England,Weymouth,1,1,Dover,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Braintree,0,3,Chelmsford City,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Chippenham Town,1,2,Bath City,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Dover,2,1,Aveley,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Havant & Wville,0,1,Farnborough,Match Finished
+2023-12-26T13:00:00+00:00,2023,National League - South,England,Slough Town,3,3,Hampton & Richmond,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,St Albans City,1,2,Hemel Hempstead Town,Match Finished
+2023-12-26T13:00:00+00:00,2023,National League - South,England,Tonbridge Angels,1,1,Maidstone Utd,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Torquay,0,1,Truro City,Match Finished
+2023-12-26T13:00:00+00:00,2023,National League - South,England,Welling United,0,1,Dartford,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Weston-super-Mare,2,3,Weymouth,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Worthing,3,0,Eastbourne Borough,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - South,England,Yeovil Town,4,1,Taunton Town,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League - South,England,Aveley,2,1,Dover,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - South,England,Bath City,0,0,Chippenham Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - South,England,Chelmsford City,3,0,Braintree,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League - South,England,Dartford,1,1,Welling United,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,0,4,Worthing,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - South,England,Farnborough,2,4,Havant & Wville,Match Finished
+2024-01-01T13:00:00+00:00,2023,National League - South,England,Hampton & Richmond,2,1,Slough Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,2,3,St Albans City,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - South,England,Maidstone Utd,2,0,Tonbridge Angels,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League - South,England,Taunton Town,0,1,Yeovil Town,Match Finished
+2024-04-08T18:45:00+00:00,2023,National League - South,England,Truro City,1,2,Torquay,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - South,England,Weymouth,3,3,Weston-super-Mare,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Braintree,3,1,Hampton & Richmond,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Chippenham Town,2,3,Hemel Hempstead Town,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Dover,0,2,Truro City,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - South,England,Havant & Wville,2,1,Maidstone Utd,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Slough Town,3,0,Taunton Town,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,St Albans City,2,1,Farnborough,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,2,1,Weymouth,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Torquay,2,2,Eastbourne Borough,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Welling United,1,3,Aveley,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Weston-super-Mare,2,2,Dartford,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Worthing,2,3,Chelmsford City,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - South,England,Yeovil Town,2,0,Bath City,Match Finished
+2024-03-04T19:45:00+00:00,2023,National League - South,England,Aveley,0,0,Yeovil Town,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - South,England,Bath City,1,2,Braintree,Match Finished
+2024-01-29T19:45:00+00:00,2023,National League - South,England,Chelmsford City,1,1,Weston-super-Mare,Match Finished
+2024-02-13T19:45:00+00:00,2023,National League - South,England,Dartford,0,1,Chippenham Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,1,2,St Albans City,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - South,England,Farnborough,1,0,Welling United,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - South,England,Hampton & Richmond,2,0,Havant & Wville,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,2,0,Tonbridge Angels,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,3,2,Torquay,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - South,England,Taunton Town,1,1,Dover,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - South,England,Truro City,1,4,Worthing,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - South,England,Weymouth,3,0,Slough Town,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - South,England,Aveley,2,2,Chippenham Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,Bath City,1,0,Dartford,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - South,England,Braintree,0,0,Taunton Town,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - South,England,Farnborough,1,1,Chelmsford City,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - South,England,Hampton & Richmond,1,0,Eastbourne Borough,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - South,England,Havant & Wville,1,2,Weston-super-Mare,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - South,England,Slough Town,2,1,Maidstone Utd,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,0,1,Worthing,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - South,England,Torquay,1,0,Dover,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - South,England,Welling United,3,2,Truro City,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - South,England,Weymouth,3,3,St Albans City,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - South,England,Yeovil Town,2,0,Hemel Hempstead Town,Match Finished
+2024-01-22T19:45:00+00:00,2023,National League - South,England,Chelmsford City,1,0,Welling United,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Chippenham Town,1,1,Torquay,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - South,England,Dartford,1,1,Hampton & Richmond,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Dover,1,2,Tonbridge Angels,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Eastbourne Borough,1,2,Aveley,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Hemel Hempstead Town,2,1,Farnborough,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,1,1,Braintree,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,St Albans City,4,1,Havant & Wville,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Taunton Town,0,2,Weymouth,Match Finished
+2024-04-11T18:45:00+00:00,2023,National League - South,England,Truro City,0,2,Yeovil Town,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Weston-super-Mare,0,1,Bath City,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - South,England,Worthing,1,1,Slough Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - South,England,Chelmsford City,1,1,Hampton & Richmond,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Chippenham Town,1,0,Havant & Wville,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Dartford,0,1,Weymouth,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Dover,1,0,Slough Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,2,1,Farnborough,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,2,Welling United,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,2,2,Bath City,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,St Albans City,1,1,Yeovil Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Taunton Town,2,2,Aveley,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Truro City,1,2,Braintree,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Weston-super-Mare,3,1,Tonbridge Angels,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - South,England,Worthing,4,2,Torquay,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Aveley,0,3,Worthing,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Bath City,1,0,Eastbourne Borough,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Braintree,3,0,Dover,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Farnborough,2,1,Dartford,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,2,1,Truro City,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Havant & Wville,2,1,Chelmsford City,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Slough Town,2,0,Weston-super-Mare,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,2,0,Chippenham Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Torquay,0,4,St Albans City,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Welling United,0,0,Taunton Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - South,England,Weymouth,4,3,Hemel Hempstead Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - South,England,Yeovil Town,1,1,Maidstone Utd,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,Chelmsford City,1,0,Weymouth,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,Chippenham Town,0,1,Braintree,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - South,England,Dartford,1,2,Aveley,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - South,England,Hampton & Richmond,0,1,Bath City,Match Finished
+2024-04-10T18:45:00+00:00,2023,National League - South,England,Havant & Wville,0,0,Welling United,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,Maidstone Utd,1,1,Hemel Hempstead Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,St Albans City,6,0,Taunton Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,2,4,Yeovil Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,Torquay,3,4,Slough Town,Match Finished
+2024-04-10T18:45:00+00:00,2023,National League - South,England,Truro City,0,0,Eastbourne Borough,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League - South,England,Weston-super-Mare,0,3,Farnborough,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - South,England,Worthing,6,4,Dover,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - South,England,Aveley,3,0,Hampton & Richmond,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Bath City,3,1,St Albans City,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Braintree,1,0,Torquay,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Dover,1,2,Dartford,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,0,3,Chelmsford City,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Farnborough,3,2,Truro City,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,2,Weston-super-Mare,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Slough Town,2,2,Chippenham Town,Match Finished
+2024-04-03T18:45:00+00:00,2023,National League - South,England,Taunton Town,0,1,Maidstone Utd,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Welling United,2,2,Tonbridge Angels,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Weymouth,1,4,Worthing,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - South,England,Yeovil Town,1,0,Havant & Wville,Match Finished
+2024-02-19T19:45:00+00:00,2023,National League - South,England,Aveley,2,0,Maidstone Utd,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Bath City,2,1,Truro City,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Braintree,1,0,Tonbridge Angels,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Dover,0,1,St Albans City,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Eastbourne Borough,2,1,Havant & Wville,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Farnborough,0,0,Torquay,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,4,Chelmsford City,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Slough Town,3,2,Dartford,Match Finished
+2024-03-20T19:45:00+00:00,2023,National League - South,England,Taunton Town,1,2,Chippenham Town,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Welling United,4,1,Worthing,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Weymouth,2,4,Hampton & Richmond,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - South,England,Yeovil Town,2,1,Weston-super-Mare,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Chelmsford City,1,0,Yeovil Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Chippenham Town,2,1,Dover,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Dartford,1,1,Taunton Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,1,1,Farnborough,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Havant & Wville,1,1,Bath City,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - South,England,Maidstone Utd,2,0,Weymouth,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,St Albans City,1,1,Welling United,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,1,2,Slough Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Torquay,2,2,Aveley,Match Finished
+2024-04-04T18:45:00+00:00,2023,National League - South,England,Truro City,0,2,Hemel Hempstead Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League - South,England,Weston-super-Mare,1,1,Eastbourne Borough,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - South,England,Worthing,0,1,Braintree,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Chelmsford City,2,0,Aveley,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - South,England,Chippenham Town,0,1,Weston-super-Mare,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - South,England,Dartford,1,2,Worthing,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Dover,0,1,Maidstone Utd,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Farnborough,1,3,Yeovil Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,0,2,Havant & Wville,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Slough Town,4,2,Bath City,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League - South,England,St Albans City,1,0,Hampton & Richmond,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - South,England,Taunton Town,0,0,Truro City,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,2,0,Eastbourne Borough,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Welling United,2,2,Braintree,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - South,England,Weymouth,1,1,Torquay,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Aveley,0,2,Weymouth,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Bath City,0,2,Farnborough,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Braintree,1,1,Slough Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,1,0,Hemel Hempstead Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,2,1,Chippenham Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Havant & Wville,2,2,Tonbridge Angels,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Maidstone Utd,1,2,St Albans City,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Torquay,4,1,Dartford,Match Finished
+2024-03-09T19:30:00+00:00,2023,National League - South,England,Truro City,1,4,Chelmsford City,Match Finished
+2024-03-09T16:00:00+00:00,2023,National League - South,England,Weston-super-Mare,1,0,Dover,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Worthing,1,3,Taunton Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - South,England,Yeovil Town,0,1,Welling United,Match Finished
+2024-03-11T19:45:00+00:00,2023,National League - South,England,Aveley,2,1,Tonbridge Angels,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Bath City,2,0,Hemel Hempstead Town,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Braintree,2,0,Dartford,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Eastbourne Borough,1,1,Dover,Match Finished
+2024-03-19T19:45:00+00:00,2023,National League - South,England,Hampton & Richmond,1,1,Welling United,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Maidstone Utd,2,0,Chelmsford City,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Torquay,0,3,Taunton Town,Match Finished
+2024-04-18T18:45:00+00:00,2023,National League - South,England,Truro City,0,0,Weymouth,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Weston-super-Mare,0,2,St Albans City,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Worthing,2,3,Farnborough,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - South,England,Yeovil Town,1,3,Chippenham Town,Match Finished
+2024-03-13T19:45:00+00:00,2023,National League - South,England,Havant & Wville,2,1,Slough Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Chelmsford City,3,1,Bath City,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Chippenham Town,3,1,Worthing,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Dartford,0,2,Maidstone Utd,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Dover,0,0,Havant & Wville,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Farnborough,3,1,Aveley,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,2,Hampton & Richmond,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Slough Town,0,0,Yeovil Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,St Albans City,1,2,Truro City,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League - South,England,Taunton Town,2,1,Eastbourne Borough,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,4,1,Torquay,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Welling United,3,1,Weston-super-Mare,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - South,England,Weymouth,0,1,Braintree,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Aveley,2,1,St Albans City,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Braintree,0,1,Yeovil Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Chippenham Town,4,1,Welling United,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Dartford,1,1,Hemel Hempstead Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Dover,1,3,Farnborough,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Maidstone Utd,1,0,Weston-super-Mare,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Slough Town,1,1,Eastbourne Borough,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Taunton Town,2,3,Chelmsford City,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Tonbridge Angels,2,1,Truro City,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Torquay,1,0,Hampton & Richmond,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - South,England,Weymouth,4,1,Havant & Wville,Match Finished
+2024-03-24T15:00:00+00:00,2023,National League - South,England,Worthing,2,2,Bath City,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Bath City,1,1,Weymouth,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Chelmsford City,4,1,Dartford,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Eastbourne Borough,1,5,Maidstone Utd,Match Finished
+2024-04-11T18:45:00+00:00,2023,National League - South,England,Farnborough,3,1,Chippenham Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Hampton & Richmond,0,0,Tonbridge Angels,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Havant & Wville,1,5,Worthing,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,3,4,Aveley,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,St Albans City,0,1,Braintree,Match Finished
+2024-03-29T17:00:00+00:00,2023,National League - South,England,Truro City,3,2,Slough Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Welling United,1,0,Dover,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Weston-super-Mare,4,0,Taunton Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - South,England,Yeovil Town,3,0,Torquay,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Aveley,1,2,Havant & Wville,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Braintree,2,0,Hemel Hempstead Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Chippenham Town,0,0,Truro City,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Dartford,0,2,Eastbourne Borough,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Dover,1,0,Chelmsford City,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Maidstone Utd,1,1,Welling United,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Slough Town,2,2,St Albans City,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Taunton Town,0,2,Bath City,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Tonbridge Angels,1,2,Farnborough,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Torquay,3,3,Weston-super-Mare,Match Finished
+2024-04-01T12:00:00+00:00,2023,National League - South,England,Weymouth,1,0,Yeovil Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - South,England,Worthing,2,0,Hampton & Richmond,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Bath City,1,1,Tonbridge Angels,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Chelmsford City,1,1,Slough Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,1,0,Weymouth,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Farnborough,0,1,Maidstone Utd,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Hampton & Richmond,1,1,Taunton Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Havant & Wville,1,2,Dartford,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,1,1,Dover,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,St Albans City,0,1,Chippenham Town,Match Finished
+2024-04-06T18:30:00+00:00,2023,National League - South,England,Truro City,1,1,Aveley,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Welling United,1,0,Torquay,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,0,1,Braintree,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - South,England,Yeovil Town,1,3,Worthing,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Bath City,1,0,Torquay,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Chelmsford City,3,0,Tonbridge Angels,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Eastbourne Borough,3,0,Chippenham Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Farnborough,0,1,Taunton Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Hampton & Richmond,1,0,Dover,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Havant & Wville,1,2,Braintree,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Hemel Hempstead Town,2,3,Slough Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,St Albans City,2,4,Worthing,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Truro City,3,1,Maidstone Utd,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Welling United,0,0,Weymouth,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Weston-super-Mare,1,2,Aveley,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - South,England,Yeovil Town,3,1,Dartford,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Aveley,2,0,Bath City,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Braintree,2,3,Eastbourne Borough,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Chippenham Town,1,1,Chelmsford City,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Dartford,2,1,Truro City,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Dover,1,3,Yeovil Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Maidstone Utd,5,1,Hampton & Richmond,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Slough Town,1,1,Welling United,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Taunton Town,0,0,Hemel Hempstead Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Tonbridge Angels,2,2,St Albans City,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Torquay,5,0,Havant & Wville,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Weymouth,1,2,Farnborough,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - South,England,Worthing,4,2,Weston-super-Mare,Match Finished

@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-09-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,0,0,Athletic Club II,Match Finished
+2023-09-03T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,0,Barbastro,Match Finished
+2023-09-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,1,1,Izarra,Match Finished
+2023-09-03T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,1,0,Valle Egüés,Match Finished
+2023-09-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,1,Deportivo Alavés II,Match Finished
+2023-09-03T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,0,0,Real Zaragoza II,Match Finished
+2023-09-03T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,3,0,Mutilvera,Match Finished
+2023-09-03T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,6,0,San Juan,Match Finished
+2023-09-03T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,0,2,Arenas Getxo,Match Finished
+2023-09-09T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,0,1,Utebo,Match Finished
+2023-09-09T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,0,0,UD Logroñés,Match Finished
+2023-09-10T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,0,1,Brea,Match Finished
+2023-09-09T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,1,Gernika,Match Finished
+2023-09-10T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,1,0,Real Sociedad III,Match Finished
+2023-09-10T09:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,3,0,Náxara,Match Finished
+2023-09-09T17:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,0,0,Tudelano,Match Finished
+2023-09-09T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,0,1,Calahorra,Match Finished
+2023-09-09T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,1,1,Barakaldo,Match Finished
+2023-09-16T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,4,0,Barbastro,Match Finished
+2023-09-17T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,4,1,Izarra,Match Finished
+2023-09-16T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,1,2,Valle Egüés,Match Finished
+2023-09-17T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,3,1,Deportivo Alavés II,Match Finished
+2023-09-17T14:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,1,1,Real Zaragoza II,Match Finished
+2023-09-17T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,1,Mutilvera,Match Finished
+2023-09-17T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,3,0,San Juan,Match Finished
+2023-09-17T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,0,1,Arenas Getxo,Match Finished
+2023-09-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,0,1,Athletic Club II,Match Finished
+2023-09-23T14:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,0,UD Logroñés,Match Finished
+2023-09-24T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,5,0,Brea,Match Finished
+2023-09-24T09:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,1,1,Gernika,Match Finished
+2023-09-23T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,0,0,Real Sociedad III,Match Finished
+2023-09-23T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,2,1,Náxara,Match Finished
+2023-09-23T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,1,2,Tudelano,Match Finished
+2023-09-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,1,Calahorra,Match Finished
+2023-10-01T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,1,1,Mutilvera,Match Finished
+2023-09-30T15:45:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,4,0,San Juan,Match Finished
+2023-10-01T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,0,Arenas Getxo,Match Finished
+2023-10-01T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,0,1,Barakaldo,Match Finished
+2023-09-30T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,1,0,Calahorra,Match Finished
+2023-10-01T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,2,3,Izarra,Match Finished
+2023-09-30T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,3,1,Valle Egüés,Match Finished
+2023-10-01T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,1,1,Deportivo Alavés II,Match Finished
+2023-10-01T14:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,1,Real Zaragoza II,Match Finished
+2023-10-08T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,1,2,Utebo,Match Finished
+2023-10-07T14:15:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,3,0,Barbastro,Match Finished
+2023-10-08T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,0,2,Athletic Club II,Match Finished
+2023-10-08T09:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,1,1,UD Logroñés,Match Finished
+2023-10-07T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,2,Brea,Match Finished
+2023-10-08T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,0,0,Gernika,Match Finished
+2023-10-07T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,0,2,Real Sociedad III,Match Finished
+2023-10-08T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,0,Náxara,Match Finished
+2023-10-08T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,0,2,Tudelano,Match Finished
+2023-10-15T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,0,2,Valle Egüés,Match Finished
+2023-10-15T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,3,2,Deportivo Alavés II,Match Finished
+2023-10-14T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,2,0,Real Zaragoza II,Match Finished
+2023-10-15T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,3,0,Mutilvera,Match Finished
+2023-10-14T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,1,0,San Juan,Match Finished
+2023-10-15T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,2,2,Arenas Getxo,Match Finished
+2023-10-14T18:15:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,0,1,Barakaldo,Match Finished
+2023-10-15T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,1,Calahorra,Match Finished
+2023-10-21T14:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,1,Utebo,Match Finished
+2023-10-22T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,3,1,Izarra,Match Finished
+2023-10-22T09:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,0,2,Barbastro,Match Finished
+2023-10-21T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,0,3,Athletic Club II,Match Finished
+2023-10-21T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,0,4,UD Logroñés,Match Finished
+2023-10-22T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,0,0,Brea,Match Finished
+2023-10-22T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,3,3,Gernika,Match Finished
+2023-10-22T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,0,2,Real Sociedad III,Match Finished
+2023-10-22T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,2,0,Náxara,Match Finished
+2023-10-28T14:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,2,Deportivo Alavés II,Match Finished
+2023-10-29T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,1,3,Real Zaragoza II,Match Finished
+2023-10-28T14:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,0,0,Mutilvera,Match Finished
+2023-10-29T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,3,1,San Juan,Match Finished
+2023-10-29T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,5,1,Arenas Getxo,Match Finished
+2023-10-28T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,2,Barakaldo,Match Finished
+2023-10-28T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,2,0,Calahorra,Match Finished
+2023-10-29T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,1,2,Tudelano,Match Finished
+2023-10-28T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,3,2,Náxara,Match Finished
+2023-11-05T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,0,1,Utebo,Match Finished
+2023-11-05T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,2,0,Valle Egüés,Match Finished
+2023-11-04T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,0,Izarra,Match Finished
+2023-11-05T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,3,1,Barbastro,Match Finished
+2023-11-04T17:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,0,3,Athletic Club II,Match Finished
+2023-11-05T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,1,UD Logroñés,Match Finished
+2023-11-04T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,2,1,Brea,Match Finished
+2023-11-05T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,5,0,Gernika,Match Finished
+2023-11-05T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,1,Real Sociedad III,Match Finished
+2023-11-12T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,1,0,Real Zaragoza II,Match Finished
+2023-11-11T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,2,Mutilvera,Match Finished
+2023-11-12T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,1,0,San Juan,Match Finished
+2023-11-12T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,0,0,Arenas Getxo,Match Finished
+2023-11-11T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,2,1,Barakaldo,Match Finished
+2023-11-12T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,4,0,Calahorra,Match Finished
+2023-11-12T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,1,3,Tudelano,Match Finished
+2023-11-12T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,1,1,Náxara,Match Finished
+2023-11-12T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,3,1,Real Sociedad III,Match Finished
+2023-11-19T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,2,0,Utebo,Match Finished
+2023-11-18T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,3,Deportivo Alavés II,Match Finished
+2023-11-18T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,2,0,Valle Egüés,Match Finished
+2023-11-19T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,1,2,Izarra,Match Finished
+2023-11-19T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,0,Barbastro,Match Finished
+2023-11-19T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,0,1,Athletic Club II,Match Finished
+2023-11-19T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,1,1,UD Logroñés,Match Finished
+2023-11-19T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,3,0,Brea,Match Finished
+2023-11-18T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,2,0,Gernika,Match Finished
+2023-11-26T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,2,0,Mutilvera,Match Finished
+2023-11-26T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,2,0,San Juan,Match Finished
+2023-11-25T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,1,Arenas Getxo,Match Finished
+2023-11-26T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,0,0,Barakaldo,Match Finished
+2023-11-26T14:45:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,1,0,Calahorra,Match Finished
+2023-11-25T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,4,0,Tudelano,Match Finished
+2023-11-26T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,5,0,Náxara,Match Finished
+2023-11-25T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,1,Real Sociedad III,Match Finished
+2023-11-25T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,1,0,Gernika,Match Finished
+2023-12-02T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,0,3,Utebo,Match Finished
+2023-12-02T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,0,1,Real Zaragoza II,Match Finished
+2023-12-02T18:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,1,2,Deportivo Alavés II,Match Finished
+2023-12-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,0,Valle Egüés,Match Finished
+2023-12-03T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,2,1,Izarra,Match Finished
+2023-12-02T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,0,0,Barbastro,Match Finished
+2023-12-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,1,2,Athletic Club II,Match Finished
+2023-12-03T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,2,0,UD Logroñés,Match Finished
+2023-12-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,1,0,Brea,Match Finished
+2023-12-09T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,0,San Juan,Match Finished
+2023-12-10T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,2,1,Arenas Getxo,Match Finished
+2023-12-10T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,1,2,Barakaldo,Match Finished
+2023-12-10T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,1,1,Calahorra,Match Finished
+2023-12-09T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,1,0,Tudelano,Match Finished
+2023-12-10T14:45:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,3,0,Náxara,Match Finished
+2023-12-09T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,3,0,Real Sociedad III,Match Finished
+2023-12-10T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,7,1,Gernika,Match Finished
+2023-12-10T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,1,1,Brea,Match Finished
+2023-12-16T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,0,0,Mutilvera,Match Finished
+2023-12-16T18:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,0,Real Zaragoza II,Match Finished
+2023-12-17T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,0,2,Deportivo Alavés II,Match Finished
+2023-12-17T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,1,4,Valle Egüés,Match Finished
+2023-12-17T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,3,1,Izarra,Match Finished
+2023-12-16T17:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,0,1,Barbastro,Match Finished
+2023-12-17T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,1,1,Athletic Club II,Match Finished
+2023-12-17T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,2,UD Logroñés,Match Finished
+2024-01-07T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,3,Barakaldo,Match Finished
+2024-01-07T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,0,0,Calahorra,Match Finished
+2024-01-07T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,3,2,Tudelano,Match Finished
+2024-01-07T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,1,0,Náxara,Match Finished
+2024-01-07T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,0,0,Real Sociedad III,Match Finished
+2024-01-10T18:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,1,0,Gernika,Match Finished
+2024-01-06T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,3,0,Brea,Match Finished
+2024-01-07T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,3,0,Utebo,Match Finished
+2024-01-07T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,1,1,Arenas Getxo,Match Finished
+2024-01-14T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,0,0,UD Logroñés,Match Finished
+2024-01-14T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,2,1,Brea,Match Finished
+2024-01-14T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,2,2,Gernika,Match Finished
+2024-01-13T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,0,Real Sociedad III,Match Finished
+2024-01-14T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,5,1,Náxara,Match Finished
+2024-01-14T11:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,0,0,Tudelano,Match Finished
+2024-01-13T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,0,2,Calahorra,Match Finished
+2024-01-13T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,0,2,Barakaldo,Match Finished
+2024-01-14T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,1,1,Utebo,Match Finished
+2024-01-21T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,0,0,Athletic Club II,Match Finished
+2024-01-21T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,0,0,Barbastro,Match Finished
+2024-01-21T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,1,1,Izarra,Match Finished
+2024-01-20T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,3,0,Valle Egüés,Match Finished
+2024-01-20T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,2,2,Deportivo Alavés II,Match Finished
+2024-01-21T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,2,2,Real Zaragoza II,Match Finished
+2024-01-21T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,0,1,Mutilvera,Match Finished
+2024-01-21T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,1,1,San Juan,Match Finished
+2024-01-21T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,0,Arenas Getxo,Match Finished
+2024-01-28T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,0,0,Athletic Club II,Match Finished
+2024-01-28T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,0,2,UD Logroñés,Match Finished
+2024-01-27T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,0,Brea,Match Finished
+2024-01-28T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,1,2,Gernika,Match Finished
+2024-01-28T11:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,3,1,Real Sociedad III,Match Finished
+2024-01-27T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,0,Náxara,Match Finished
+2024-01-27T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,1,1,Tudelano,Match Finished
+2024-01-27T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,0,1,Calahorra,Match Finished
+2024-02-04T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,1,0,Barbastro,Match Finished
+2024-02-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,2,1,Izarra,Match Finished
+2024-02-04T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,3,2,Valle Egüés,Match Finished
+2024-02-04T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,1,0,Deportivo Alavés II,Match Finished
+2024-02-04T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,0,1,Real Zaragoza II,Match Finished
+2024-02-04T17:15:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,1,0,Mutilvera,Match Finished
+2024-02-04T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,0,San Juan,Match Finished
+2024-02-04T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,0,0,Arenas Getxo,Match Finished
+2024-02-04T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,1,1,Barakaldo,Match Finished
+2024-02-11T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,2,0,Barbastro,Match Finished
+2024-02-10T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,2,Athletic Club II,Match Finished
+2024-02-11T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,1,0,UD Logroñés,Match Finished
+2024-02-11T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,2,0,Brea,Match Finished
+2024-02-10T17:15:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,3,0,Gernika,Match Finished
+2024-02-10T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,2,2,Real Sociedad III,Match Finished
+2024-02-11T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,4,0,Náxara,Match Finished
+2024-02-11T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,3,1,Tudelano,Match Finished
+2024-02-11T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,1,0,Utebo,Match Finished
+2024-02-18T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,1,0,Izarra,Match Finished
+2024-02-18T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,1,0,Valle Egüés,Match Finished
+2024-02-18T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,2,1,Deportivo Alavés II,Match Finished
+2024-02-18T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,4,0,Real Zaragoza II,Match Finished
+2024-02-18T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,1,Mutilvera,Match Finished
+2024-02-18T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,1,0,San Juan,Match Finished
+2024-02-18T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,2,2,Arenas Getxo,Match Finished
+2024-02-18T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,0,Barakaldo,Match Finished
+2024-02-18T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,1,1,Calahorra,Match Finished
+2024-02-24T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,0,Izarra,Match Finished
+2024-02-25T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,1,1,Barbastro,Match Finished
+2024-02-25T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,2,2,Athletic Club II,Match Finished
+2024-02-24T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,2,UD Logroñés,Match Finished
+2024-02-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,0,0,Brea,Match Finished
+2024-02-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,0,0,Gernika,Match Finished
+2024-02-25T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,5,0,Real Sociedad III,Match Finished
+2024-02-25T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,2,2,Náxara,Match Finished
+2024-02-25T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,0,0,Utebo,Match Finished
+2024-03-02T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,2,0,Valle Egüés,Match Finished
+2024-03-03T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,1,0,Deportivo Alavés II,Match Finished
+2024-03-03T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,1,1,Real Zaragoza II,Match Finished
+2024-03-02T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,3,1,Mutilvera,Match Finished
+2024-03-03T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,1,0,San Juan,Match Finished
+2024-03-03T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,1,Arenas Getxo,Match Finished
+2024-03-02T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,0,1,Barakaldo,Match Finished
+2024-03-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,1,2,Calahorra,Match Finished
+2024-03-03T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,1,0,Tudelano,Match Finished
+2024-03-10T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,6,2,Valle Egüés,Match Finished
+2024-03-10T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,3,1,Izarra,Match Finished
+2024-03-09T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,0,0,Barbastro,Match Finished
+2024-03-09T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,1,0,Athletic Club II,Match Finished
+2024-03-09T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,2,1,UD Logroñés,Match Finished
+2024-03-10T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,2,0,Brea,Match Finished
+2024-03-10T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,0,1,Gernika,Match Finished
+2024-03-10T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,0,0,Real Sociedad III,Match Finished
+2024-03-10T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,1,0,Utebo,Match Finished
+2024-03-16T18:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,2,2,Deportivo Alavés II,Match Finished
+2024-03-17T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,3,3,Real Zaragoza II,Match Finished
+2024-03-17T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,2,1,Mutilvera,Match Finished
+2024-03-17T15:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,1,1,San Juan,Match Finished
+2024-03-16T15:15:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,2,1,Arenas Getxo,Match Finished
+2024-03-17T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,0,0,Barakaldo,Match Finished
+2024-03-17T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,2,Calahorra,Match Finished
+2024-03-17T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,1,4,Tudelano,Match Finished
+2024-03-17T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,1,0,Náxara,Match Finished
+2024-03-24T11:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,2,1,Deportivo Alavés II,Match Finished
+2024-03-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,0,Valle Egüés,Match Finished
+2024-03-23T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,4,0,Izarra,Match Finished
+2024-03-23T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,0,0,Barbastro,Match Finished
+2024-03-24T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,2,Athletic Club II,Match Finished
+2024-03-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,0,1,UD Logroñés,Match Finished
+2024-03-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,2,0,Brea,Match Finished
+2024-03-24T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,2,1,Gernika,Match Finished
+2024-03-23T19:15:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,0,0,Utebo,Match Finished
+2024-03-31T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,3,2,Real Zaragoza II,Match Finished
+2024-03-31T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,2,0,Mutilvera,Match Finished
+2024-03-30T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,0,3,San Juan,Match Finished
+2024-03-31T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,2,0,Arenas Getxo,Match Finished
+2024-03-30T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,0,2,Barakaldo,Match Finished
+2024-03-30T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,2,1,Calahorra,Match Finished
+2024-03-31T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,3,1,Tudelano,Match Finished
+2024-03-30T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,1,0,Náxara,Match Finished
+2024-03-31T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,3,1,Real Sociedad III,Match Finished
+2024-04-07T16:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,1,3,Real Zaragoza II,Match Finished
+2024-04-06T17:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,1,0,Deportivo Alavés II,Match Finished
+2024-04-06T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,3,1,Valle Egüés,Match Finished
+2024-04-07T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,2,0,Izarra,Match Finished
+2024-04-07T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,1,0,Barbastro,Match Finished
+2024-04-05T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,1,2,Athletic Club II,Match Finished
+2024-04-07T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,3,UD Logroñés,Match Finished
+2024-04-06T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,3,2,Brea,Match Finished
+2024-04-06T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,2,0,Utebo,Match Finished
+2024-04-13T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,2,0,Mutilvera,Match Finished
+2024-04-14T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,3,0,San Juan,Match Finished
+2024-04-14T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,0,1,Arenas Getxo,Match Finished
+2024-04-13T14:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,1,3,Barakaldo,Match Finished
+2024-04-14T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,2,1,Calahorra,Match Finished
+2024-04-14T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,0,0,Tudelano,Match Finished
+2024-04-13T14:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,4,0,Náxara,Match Finished
+2024-04-14T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,0,0,Real Sociedad III,Match Finished
+2024-04-14T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,2,Gernika,Match Finished
+2024-04-20T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,3,0,Mutilvera,Match Finished
+2024-04-21T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,2,2,Real Zaragoza II,Match Finished
+2024-04-21T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,3,2,Deportivo Alavés II,Match Finished
+2024-04-21T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,3,0,Valle Egüés,Match Finished
+2024-04-21T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,4,0,Izarra,Match Finished
+2024-04-21T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,0,3,Barbastro,Match Finished
+2024-04-20T17:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,0,0,Athletic Club II,Match Finished
+2024-04-21T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,0,2,UD Logroñés,Match Finished
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,San Juan,,,Utebo,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Mutilvera,,,Arenas Getxo,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Zaragoza II,,,Barakaldo,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Deportivo Alavés II,,,Calahorra,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Valle Egüés,,,Tudelano,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Izarra,,,Náxara,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,,,Real Sociedad III,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Athletic Club II,,,Gernika,Not Started
+2024-04-28T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,UD Logroñés,,,Brea,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Arenas Getxo,,,San Juan,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,,,Mutilvera,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Calahorra,,,Real Zaragoza II,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Tudelano,,,Deportivo Alavés II,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Náxara,,,Valle Egüés,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Real Sociedad III,,,Izarra,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Gernika,,,Barbastro,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,,,Athletic Club II,Not Started
+2024-05-05T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,,,UD Logroñés,Not Started
+2023-09-16T19:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,1,1,Barakaldo,Match Finished
+2023-09-24T15:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barbastro,1,1,Utebo,Match Finished
+2023-10-15T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,2,2,Tudelano,Match Finished
+2023-12-17T10:30:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Utebo,3,2,San Juan,Match Finished
+2024-01-28T16:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Barakaldo,1,1,Utebo,Match Finished
+2024-04-21T10:00:00+00:00,2023,Segunda División RFEF - Group 2,Spain,Brea,0,2,Utebo,Match Finished

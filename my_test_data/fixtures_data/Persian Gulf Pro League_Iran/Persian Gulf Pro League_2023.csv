@@ -1,0 +1,209 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-09T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,1,1,Paykan,Match Finished
+2023-08-09T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,1,2,ZOB Ahan,Match Finished
+2023-08-09T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,3,0,Foolad FC,Match Finished
+2023-08-09T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,1,0,Aluminium Arak,Match Finished
+2023-08-09T18:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,1,1,Shams Azar Qazvin,Match Finished
+2023-08-10T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,0,0,Mes Rafsanjan,Match Finished
+2023-08-10T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,3,1,Tractor Sazi,Match Finished
+2023-08-10T18:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,0,3,Esteghlal FC,Match Finished
+2023-08-15T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,0,0,Gol Gohar,Match Finished
+2023-08-15T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,0,Esteghlal Khuzestan,Match Finished
+2023-08-16T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,0,1,Persepolis FC,Match Finished
+2023-08-16T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,1,2,Havadar,Match Finished
+2023-08-16T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,1,1,Nassaji Mazandaran,Match Finished
+2023-08-16T17:30:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,2,Sepahan FC,Match Finished
+2023-08-16T18:00:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,1,2,Sanat Naft,Match Finished
+2023-08-17T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,1,0,Malavan,Match Finished
+2023-08-22T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,0,3,Shams Azar Qazvin,Match Finished
+2023-08-23T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,1,2,Aluminium Arak,Match Finished
+2023-08-23T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,4,0,Foolad FC,Match Finished
+2023-08-23T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,1,0,Esteghlal FC,Match Finished
+2023-08-23T17:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,1,1,Paykan,Match Finished
+2023-08-24T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,1,1,ZOB Ahan,Match Finished
+2023-08-24T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,0,1,Gol Gohar,Match Finished
+2023-09-02T18:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,0,1,Tractor Sazi,Match Finished
+2023-08-28T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,1,0,Esteghlal Khuzestan,Match Finished
+2023-08-28T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,1,0,Mes Rafsanjan,Match Finished
+2023-08-29T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,3,1,Sanat Naft,Match Finished
+2023-08-29T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,1,3,Sepahan FC,Match Finished
+2023-08-29T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,1,1,Malavan,Match Finished
+2023-08-30T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,0,Havadar,Match Finished
+2023-08-30T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,2,0,Shams Azar Qazvin,Match Finished
+2023-08-30T18:00:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,0,2,Persepolis FC,Match Finished
+2023-12-14T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,2,1,Nassaji Mazandaran,Match Finished
+2023-09-20T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,0,1,Tractor Sazi,Match Finished
+2023-09-21T14:45:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,2,0,Aluminium Arak,Match Finished
+2023-09-20T14:15:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,2,0,Paykan,Match Finished
+2023-12-14T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,3,1,Foolad FC,Match Finished
+2023-12-14T12:45:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,1,1,Esteghlal FC,Match Finished
+2023-12-13T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,0,1,Gol Gohar,Match Finished
+2023-09-21T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,1,2,ZOB Ahan,Match Finished
+2023-10-19T13:20:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,1,3,Persepolis FC,Match Finished
+2023-10-19T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,1,1,Malavan,Match Finished
+2023-12-28T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,3,1,Sepahan FC,Match Finished
+2023-10-21T14:45:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,2,3,Shams Azar Qazvin,Match Finished
+2023-10-17T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,0,1,Aluminium Arak,Match Finished
+2023-10-20T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,3,2,Havadar,Match Finished
+2023-10-21T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,1,2,Mes Rafsanjan,Match Finished
+2023-10-20T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,1,0,Esteghlal Khuzestan,Match Finished
+2023-10-05T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,1,2,ZOB Ahan,Match Finished
+2023-10-05T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,0,4,Tractor Sazi,Match Finished
+2023-10-05T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,0,1,Paykan,Match Finished
+2023-10-06T13:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,0,1,Foolad FC,Match Finished
+2023-10-07T14:15:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,0,1,Esteghlal FC,Match Finished
+2023-10-07T16:15:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,4,1,Sanat Naft,Match Finished
+2023-10-08T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,1,0,Nassaji Mazandaran,Match Finished
+2023-10-08T15:45:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,1,0,Gol Gohar,Match Finished
+2023-10-27T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,1,0,Aluminium Arak,Match Finished
+2023-10-27T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,1,0,Tractor Sazi,Match Finished
+2023-10-27T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,0,1,Shams Azar Qazvin,Match Finished
+2023-10-29T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,1,1,Sepahan FC,Match Finished
+2023-10-28T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,3,3,Havadar,Match Finished
+2023-10-28T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,0,1,Mes Rafsanjan,Match Finished
+2023-10-29T12:30:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,0,0,Persepolis FC,Match Finished
+2023-10-28T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,1,1,Esteghlal Khuzestan,Match Finished
+2023-11-02T12:00:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,2,2,Esteghlal FC,Match Finished
+2023-11-03T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,1,1,Gol Gohar,Match Finished
+2023-11-03T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,3,0,Foolad FC,Match Finished
+2023-11-02T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,1,ZOB Ahan,Match Finished
+2023-11-02T12:00:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,3,0,Nassaji Mazandaran,Match Finished
+2023-11-03T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,0,0,Paykan,Match Finished
+2023-11-02T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,2,3,Malavan,Match Finished
+2023-11-02T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,2,2,Sanat Naft,Match Finished
+2023-11-10T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,1,1,Shams Azar Qazvin,Match Finished
+2023-11-10T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,1,1,Esteghlal Khuzestan,Match Finished
+2023-11-10T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,2,0,Mes Rafsanjan,Match Finished
+2023-11-10T13:15:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,1,0,Aluminium Arak,Match Finished
+2023-11-11T12:50:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,2,0,Tractor Sazi,Match Finished
+2023-11-11T12:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,0,2,Havadar,Match Finished
+2023-11-12T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,1,2,ZOB Ahan,Match Finished
+2023-11-12T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,1,0,Persepolis FC,Match Finished
+2023-11-23T13:15:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,1,3,Sepahan FC,Match Finished
+2023-11-24T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,1,Paykan,Match Finished
+2023-11-24T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,0,2,Sanat Naft,Match Finished
+2023-11-24T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,0,1,Malavan,Match Finished
+2023-11-25T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,2,0,Foolad FC,Match Finished
+2023-11-25T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,1,1,Gol Gohar,Match Finished
+2023-11-25T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,1,1,Esteghlal FC,Match Finished
+2023-12-28T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,1,0,Nassaji Mazandaran,Match Finished
+2023-12-07T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,0,1,Tractor Sazi,Match Finished
+2023-12-08T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,0,2,Shams Azar Qazvin,Match Finished
+2023-12-08T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,0,0,ZOB Ahan,Match Finished
+2023-12-08T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,1,2,Aluminium Arak,Match Finished
+2023-12-09T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,1,0,Esteghlal Khuzestan,Match Finished
+2023-12-09T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,4,1,Mes Rafsanjan,Match Finished
+2023-12-09T12:00:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,1,0,Havadar,Match Finished
+2023-12-09T14:15:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,0,0,Esteghlal FC,Match Finished
+2023-12-18T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,2,0,Paykan,Match Finished
+2023-12-18T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,1,4,Malavan,Match Finished
+2023-12-19T10:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,0,5,Sepahan FC,Match Finished
+2023-12-19T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,0,0,Gol Gohar,Match Finished
+2023-12-19T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,0,0,Sanat Naft,Match Finished
+2023-12-19T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,2,2,Persepolis FC,Match Finished
+2023-12-19T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,0,Foolad FC,Match Finished
+2023-12-19T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,4,0,Nassaji Mazandaran,Match Finished
+2023-12-24T10:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,0,0,Foolad FC,Match Finished
+2023-12-24T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,1,1,Esteghlal FC,Match Finished
+2023-12-24T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,2,2,Havadar,Match Finished
+2023-12-24T12:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,0,1,Aluminium Arak,Match Finished
+2023-12-24T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,2,1,Shams Azar Qazvin,Match Finished
+2023-12-24T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,2,1,Mes Rafsanjan,Match Finished
+2023-12-25T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,0,0,Tractor Sazi,Match Finished
+2023-12-25T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,0,1,ZOB Ahan,Match Finished
+2023-12-30T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,2,1,Paykan,Match Finished
+2023-12-31T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,2,0,Esteghlal Khuzestan,Match Finished
+2023-12-31T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,1,Malavan,Match Finished
+2023-12-30T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,3,0,Sanat Naft,Match Finished
+2024-01-03T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,0,Gol Gohar,Match Finished
+2024-01-01T12:00:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,1,0,Sepahan FC,Match Finished
+2024-01-01T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,1,1,Persepolis FC,Match Finished
+2024-01-03T14:15:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,1,0,Nassaji Mazandaran,Match Finished
+2024-02-14T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,0,1,Gol Gohar,Match Finished
+2024-02-15T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,0,0,Havadar,Match Finished
+2024-02-15T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,1,1,Nassaji Mazandaran,Match Finished
+2024-02-15T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,1,Malavan,Match Finished
+2024-02-15T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,0,Persepolis FC,Match Finished
+2024-02-15T11:00:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,0,0,Esteghlal Khuzestan,Match Finished
+2024-02-16T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,1,0,Sanat Naft,Match Finished
+2024-04-03T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,0,0,Sepahan FC,Match Finished
+2024-02-21T11:00:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,2,2,Paykan,Match Finished
+2024-02-21T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,2,0,Tractor Sazi,Match Finished
+2024-02-21T12:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,3,2,Aluminium Arak,Match Finished
+2024-02-21T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,0,3,Mes Rafsanjan,Match Finished
+2024-04-17T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,1,0,ZOB Ahan,Match Finished
+2024-02-22T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,2,1,Shams Azar Qazvin,Match Finished
+2024-02-22T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,1,1,Esteghlal FC,Match Finished
+2024-02-22T12:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,0,2,Foolad FC,Match Finished
+2024-02-27T11:00:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,3,0,Nassaji Mazandaran,Match Finished
+2024-02-27T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,1,0,Sepahan FC,Match Finished
+2024-02-27T12:30:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,1,1,Malavan,Match Finished
+2024-02-28T11:00:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,2,0,Esteghlal Khuzestan,Match Finished
+2024-02-28T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,0,0,Mes Rafsanjan,Match Finished
+2024-04-03T15:45:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,1,Havadar,Match Finished
+2024-02-28T13:45:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,1,Persepolis FC,Match Finished
+2024-02-28T11:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,2,2,Sanat Naft,Match Finished
+2024-03-07T13:50:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,2,2,ZOB Ahan,Match Finished
+2024-03-07T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,1,0,Gol Gohar,Match Finished
+2024-03-07T14:10:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,1,1,Nassaji Mazandaran,Match Finished
+2024-03-08T12:15:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,1,1,Tractor Sazi,Match Finished
+2024-03-08T12:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,2,3,Paykan,Match Finished
+2024-03-08T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,4,2,Foolad FC,Match Finished
+2024-03-08T12:30:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,2,1,Aluminium Arak,Match Finished
+2024-03-08T16:15:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,0,1,Esteghlal FC,Match Finished
+2024-03-13T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,1,0,Malavan,Match Finished
+2024-03-13T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,1,0,Sanat Naft,Match Finished
+2024-03-13T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,2,Esteghlal Khuzestan,Match Finished
+2024-03-13T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,4,2,Havadar,Match Finished
+2024-03-13T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,3,Mes Rafsanjan,Match Finished
+2024-03-13T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,1,3,Sepahan FC,Match Finished
+2024-03-13T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,1,0,Shams Azar Qazvin,Match Finished
+2024-03-13T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,0,0,Persepolis FC,Match Finished
+2024-03-17T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,1,0,Nassaji Mazandaran,Match Finished
+2024-03-17T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,2,0,Paykan,Match Finished
+2024-03-17T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,2,2,ZOB Ahan,Match Finished
+2024-03-17T15:15:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,2,0,Gol Gohar,Match Finished
+2024-03-17T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,1,0,Sanat Naft,Match Finished
+2024-03-17T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,0,0,Foolad FC,Match Finished
+2024-03-17T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,0,2,Tractor Sazi,Match Finished
+2024-03-17T17:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,0,1,Esteghlal FC,Match Finished
+2024-04-06T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,0,2,Shams Azar Qazvin,Match Finished
+2024-04-06T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,0,1,Malavan,Match Finished
+2024-04-06T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,2,2,Mes Rafsanjan,Match Finished
+2024-04-07T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,0,1,Persepolis FC,Match Finished
+2024-04-07T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,1,0,Esteghlal Khuzestan,Match Finished
+2024-04-07T15:45:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,3,3,Havadar,Match Finished
+2024-04-08T15:45:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,2,1,Sepahan FC,Match Finished
+2024-04-08T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,1,1,Aluminium Arak,Match Finished
+2024-04-12T14:00:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,2,2,Paykan,Match Finished
+2024-04-12T14:20:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,0,0,Nassaji Mazandaran,Match Finished
+2024-04-12T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,1,0,Gol Gohar,Match Finished
+2024-04-12T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,0,1,Esteghlal FC,Match Finished
+2024-04-12T13:30:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,1,0,Foolad FC,Match Finished
+2024-04-12T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,2,1,Sanat Naft,Match Finished
+2024-04-12T13:30:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,1,4,ZOB Ahan,Match Finished
+2024-04-12T16:30:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,1,0,Malavan,Match Finished
+2024-04-18T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,2,2,Havadar,Match Finished
+2024-04-18T14:15:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,2,2,Esteghlal Khuzestan,Match Finished
+2024-04-18T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,0,3,Persepolis FC,Match Finished
+2024-04-19T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,1,0,Tractor Sazi,Match Finished
+2024-04-19T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,3,2,Shams Azar Qazvin,Match Finished
+2024-04-19T14:40:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,0,1,Mes Rafsanjan,Match Finished
+2024-04-21T13:00:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,2,0,Aluminium Arak,Match Finished
+2024-04-21T13:30:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,1,2,Sepahan FC,Match Finished
+2024-04-30T14:50:00+00:00,2023,Persian Gulf Pro League,Iran,Shams Azar Qazvin,,,Paykan,Not Started
+2024-05-01T13:30:00+00:00,2023,Persian Gulf Pro League,Iran,Havadar,,,Sanat Naft,Not Started
+2024-05-01T13:30:00+00:00,2023,Persian Gulf Pro League,Iran,Tractor Sazi,,,Esteghlal FC,Not Started
+2024-05-01T14:15:00+00:00,2023,Persian Gulf Pro League,Iran,Mes Rafsanjan,,,Gol Gohar,Not Started
+2024-05-01T14:30:00+00:00,2023,Persian Gulf Pro League,Iran,ZOB Ahan,,,Nassaji Mazandaran,Not Started
+2024-05-01T14:45:00+00:00,2023,Persian Gulf Pro League,Iran,Aluminium Arak,,,Foolad FC,Not Started
+2024-05-01T14:45:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal Khuzestan,,,Malavan,Not Started
+2024-05-01T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Persepolis FC,,,Sepahan FC,Not Started
+2024-05-05T15:30:00+00:00,2023,Persian Gulf Pro League,Iran,Gol Gohar,,,Shams Azar Qazvin,Not Started
+2024-05-05T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Sanat Naft,,,Mes Rafsanjan,Not Started
+2024-05-06T13:30:00+00:00,2023,Persian Gulf Pro League,Iran,Paykan,,,Aluminium Arak,Not Started
+2024-05-06T14:40:00+00:00,2023,Persian Gulf Pro League,Iran,Sepahan FC,,,Esteghlal Khuzestan,Not Started
+2024-05-06T14:45:00+00:00,2023,Persian Gulf Pro League,Iran,Nassaji Mazandaran,,,Persepolis FC,Not Started
+2024-05-06T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Malavan,,,Havadar,Not Started
+2024-05-06T16:00:00+00:00,2023,Persian Gulf Pro League,Iran,Foolad FC,,,Tractor Sazi,Not Started
+2024-05-06T17:00:00+00:00,2023,Persian Gulf Pro League,Iran,Esteghlal FC,,,ZOB Ahan,Not Started

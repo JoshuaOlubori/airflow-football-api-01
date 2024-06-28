@@ -1,0 +1,297 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-28T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,0,1,Hapoel Nazareth Illit,Match Finished
+2023-08-24T16:30:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,5,1,Hapoel Afula,Match Finished
+2023-08-24T16:30:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,1,Hapoel Rishon LeZion,Match Finished
+2023-08-28T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,3,3,Bnei Yehuda,Match Finished
+2023-08-24T16:30:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,0,3,Hapoel Ramat HaSharon,Match Finished
+2023-08-24T16:30:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,1,0,Hapoel Acre,Match Finished
+2023-08-24T16:30:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,1,0,Sektzia Nes Tziona,Match Finished
+2023-08-28T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,2,0,Maccabi Herzliya,Match Finished
+2023-08-31T16:30:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,1,Hapoel Ramat Gan,Match Finished
+2023-09-04T16:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,0,2,Hapoel Umm al-Fahm,Match Finished
+2023-08-31T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,1,1,Ironi Tiberias,Match Finished
+2023-08-31T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,2,1,Ironi Kiryat Shmona,Match Finished
+2023-09-04T16:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,1,0,Kafr Qasim,Match Finished
+2023-09-04T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,0,0,Hapoel Kfar Saba,Match Finished
+2023-08-31T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,3,Ihud Bnei Shfaram,Match Finished
+2023-08-31T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,2,1,Maccabi Kabilio Jaffa,Match Finished
+2023-09-11T16:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,3,3,Hapoel Ramat Gan,Match Finished
+2023-09-11T16:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,3,2,Hapoel Nazareth Illit,Match Finished
+2023-09-07T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,0,2,Hapoel Afula,Match Finished
+2023-09-07T16:30:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,1,1,Hapoel Rishon LeZion,Match Finished
+2023-09-11T16:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,1,0,Bnei Yehuda,Match Finished
+2023-09-07T16:30:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,2,2,Hapoel Ramat HaSharon,Match Finished
+2023-09-07T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,0,0,Hapoel Acre,Match Finished
+2023-09-07T16:30:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,1,Sektzia Nes Tziona,Match Finished
+2023-09-14T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,5,1,Sektzia Nes Tziona,Match Finished
+2023-09-14T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,2,3,Maccabi Herzliya,Match Finished
+2023-09-14T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,1,1,Hapoel Umm al-Fahm,Match Finished
+2023-09-14T16:30:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,4,1,Ironi Tiberias,Match Finished
+2023-09-14T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,0,2,Ironi Kiryat Shmona,Match Finished
+2023-09-18T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,1,Kafr Qasim,Match Finished
+2023-09-18T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,1,0,Hapoel Kfar Saba,Match Finished
+2023-09-18T16:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,4,1,Ihud Bnei Shfaram,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,1,Hapoel Ramat Gan,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,1,4,Maccabi Kabilio Jaffa,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,1,1,Hapoel Nazareth Illit,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,4,0,Hapoel Afula,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,2,1,Hapoel Rishon LeZion,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,1,2,Bnei Yehuda,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,3,Hapoel Ramat HaSharon,Match Finished
+2023-09-21T16:30:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,1,0,Hapoel Acre,Match Finished
+2023-10-02T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,0,0,Hapoel Acre,Match Finished
+2023-09-28T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,5,2,Sektzia Nes Tziona,Match Finished
+2023-09-28T16:30:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,3,0,Maccabi Herzliya,Match Finished
+2023-09-28T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,1,Hapoel Umm al-Fahm,Match Finished
+2023-10-02T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,1,Ironi Tiberias,Match Finished
+2023-09-28T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,2,1,Ironi Kiryat Shmona,Match Finished
+2023-10-02T16:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,0,1,Kafr Qasim,Match Finished
+2023-09-28T16:30:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,1,2,Hapoel Kfar Saba,Match Finished
+2023-11-28T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,1,0,Hapoel Ramat Gan,Match Finished
+2023-10-05T16:30:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,3,1,Ihud Bnei Shfaram,Match Finished
+2023-10-05T16:30:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,5,1,Maccabi Kabilio Jaffa,Match Finished
+2023-10-05T16:30:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,2,0,Hapoel Nazareth Illit,Match Finished
+2023-10-05T16:30:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,1,1,Hapoel Afula,Match Finished
+2023-10-05T16:30:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,0,0,Hapoel Rishon LeZion,Match Finished
+2023-11-28T17:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,0,2,Bnei Yehuda,Match Finished
+2023-11-28T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,0,0,Hapoel Ramat HaSharon,Match Finished
+2023-11-17T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,2,3,Hapoel Ramat HaSharon,Match Finished
+2023-11-17T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,3,4,Hapoel Acre,Match Finished
+2023-11-17T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,1,Sektzia Nes Tziona,Match Finished
+2023-11-20T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,0,1,Maccabi Herzliya,Match Finished
+2023-11-20T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,5,2,Hapoel Umm al-Fahm,Match Finished
+2023-11-17T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,1,1,Ironi Tiberias,Match Finished
+2023-11-20T17:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,2,Ironi Kiryat Shmona,Match Finished
+2023-11-17T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,0,0,Kafr Qasim,Match Finished
+2023-11-24T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,0,0,Hapoel Ramat Gan,Match Finished
+2023-11-24T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,1,0,Hapoel Kfar Saba,Match Finished
+2023-11-27T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,3,0,Ihud Bnei Shfaram,Match Finished
+2023-11-27T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,1,1,Maccabi Kabilio Jaffa,Match Finished
+2023-11-27T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,0,Hapoel Nazareth Illit,Match Finished
+2023-11-24T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,2,2,Hapoel Afula,Match Finished
+2023-11-24T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,3,3,Hapoel Rishon LeZion,Match Finished
+2023-11-24T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,1,3,Bnei Yehuda,Match Finished
+2023-12-04T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,1,2,Bnei Yehuda,Match Finished
+2023-12-04T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,3,2,Hapoel Ramat HaSharon,Match Finished
+2023-12-01T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,0,Hapoel Acre,Match Finished
+2023-12-01T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,1,2,Sektzia Nes Tziona,Match Finished
+2023-12-01T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,1,1,Maccabi Herzliya,Match Finished
+2023-12-01T13:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,2,1,Hapoel Umm al-Fahm,Match Finished
+2023-12-04T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,0,4,Ironi Tiberias,Match Finished
+2023-12-01T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,0,1,Ironi Kiryat Shmona,Match Finished
+2023-12-08T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,2,0,Hapoel Ramat Gan,Match Finished
+2023-12-08T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,5,1,Kafr Qasim,Match Finished
+2023-12-08T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,1,1,Hapoel Kfar Saba,Match Finished
+2023-12-07T17:40:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,2,1,Ihud Bnei Shfaram,Match Finished
+2023-12-08T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,0,2,Maccabi Kabilio Jaffa,Match Finished
+2023-12-08T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,1,3,Hapoel Nazareth Illit,Match Finished
+2023-12-08T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,1,3,Hapoel Afula,Match Finished
+2023-12-08T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,3,0,Hapoel Rishon LeZion,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,1,0,Hapoel Rishon LeZion,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,1,Bnei Yehuda,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,1,0,Hapoel Ramat HaSharon,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,2,2,Hapoel Acre,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,3,3,Sektzia Nes Tziona,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,0,1,Maccabi Herzliya,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,1,0,Hapoel Umm al-Fahm,Match Finished
+2023-12-12T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,1,2,Ironi Tiberias,Match Finished
+2023-12-15T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,1,0,Hapoel Ramat Gan,Match Finished
+2023-12-15T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,3,1,Ironi Kiryat Shmona,Match Finished
+2023-12-15T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,1,Kafr Qasim,Match Finished
+2023-12-18T17:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,1,0,Hapoel Kfar Saba,Match Finished
+2023-12-18T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,1,1,Ihud Bnei Shfaram,Match Finished
+2023-12-15T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,0,4,Maccabi Kabilio Jaffa,Match Finished
+2023-12-18T17:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,1,0,Hapoel Nazareth Illit,Match Finished
+2023-12-15T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,0,Hapoel Afula,Match Finished
+2023-12-22T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,5,2,Hapoel Afula,Match Finished
+2023-12-22T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,0,2,Hapoel Rishon LeZion,Match Finished
+2023-12-25T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,0,0,Bnei Yehuda,Match Finished
+2023-12-25T17:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,5,Hapoel Ramat HaSharon,Match Finished
+2023-12-22T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,1,2,Hapoel Acre,Match Finished
+2023-12-22T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,2,0,Sektzia Nes Tziona,Match Finished
+2023-12-25T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,5,1,Maccabi Herzliya,Match Finished
+2023-12-22T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,0,0,Hapoel Umm al-Fahm,Match Finished
+2023-12-29T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,4,0,Hapoel Ramat Gan,Match Finished
+2023-12-29T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,1,Ironi Tiberias,Match Finished
+2024-01-01T17:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,0,1,Ironi Kiryat Shmona,Match Finished
+2023-12-29T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,3,1,Kafr Qasim,Match Finished
+2023-12-29T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,2,1,Hapoel Kfar Saba,Match Finished
+2023-12-29T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,0,1,Ihud Bnei Shfaram,Match Finished
+2024-01-01T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,0,2,Maccabi Kabilio Jaffa,Match Finished
+2024-01-01T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,2,2,Hapoel Nazareth Illit,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,0,0,Hapoel Ramat Gan,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,0,2,Maccabi Kabilio Jaffa,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,1,Ihud Bnei Shfaram,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,4,1,Hapoel Kfar Saba,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,2,2,Kafr Qasim,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,2,1,Ironi Kiryat Shmona,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,2,3,Ironi Tiberias,Match Finished
+2024-01-05T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,2,Hapoel Umm al-Fahm,Match Finished
+2024-01-15T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,1,1,Maccabi Herzliya,Match Finished
+2024-01-12T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,0,2,Sektzia Nes Tziona,Match Finished
+2024-01-12T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,1,1,Hapoel Acre,Match Finished
+2024-01-15T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,3,0,Hapoel Ramat HaSharon,Match Finished
+2024-01-12T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,1,0,Bnei Yehuda,Match Finished
+2024-01-12T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,0,1,Hapoel Rishon LeZion,Match Finished
+2024-01-26T12:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,0,Hapoel Afula,Match Finished
+2024-01-12T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,3,2,Hapoel Nazareth Illit,Match Finished
+2024-01-19T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,0,1,Maccabi Kabilio Jaffa,Match Finished
+2024-01-19T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,5,0,Ihud Bnei Shfaram,Match Finished
+2024-01-22T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,3,Hapoel Kfar Saba,Match Finished
+2024-01-19T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,0,2,Kafr Qasim,Match Finished
+2024-01-19T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,1,0,Ironi Kiryat Shmona,Match Finished
+2024-01-22T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,0,2,Ironi Tiberias,Match Finished
+2024-01-22T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,2,2,Hapoel Umm al-Fahm,Match Finished
+2024-01-19T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,2,1,Maccabi Herzliya,Match Finished
+2024-02-02T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,2,0,Hapoel Ramat Gan,Match Finished
+2024-02-02T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,4,Hapoel Acre,Match Finished
+2024-02-02T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,3,2,Hapoel Ramat HaSharon,Match Finished
+2024-02-02T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,1,2,Bnei Yehuda,Match Finished
+2024-02-01T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,3,0,Hapoel Rishon LeZion,Match Finished
+2024-02-02T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,1,1,Hapoel Afula,Match Finished
+2024-02-02T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,2,3,Hapoel Nazareth Illit,Match Finished
+2024-02-02T13:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,3,Maccabi Kabilio Jaffa,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,1,0,Ihud Bnei Shfaram,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,1,1,Hapoel Kfar Saba,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,3,0,Kafr Qasim,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,0,2,Ironi Kiryat Shmona,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,3,Ironi Tiberias,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,3,1,Hapoel Umm al-Fahm,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,0,0,Maccabi Herzliya,Match Finished
+2024-02-06T18:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,1,1,Sektzia Nes Tziona,Match Finished
+2024-02-09T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,0,3,Hapoel Ramat Gan,Match Finished
+2024-02-12T17:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,1,3,Hapoel Ramat HaSharon,Match Finished
+2024-02-09T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,3,1,Bnei Yehuda,Match Finished
+2024-02-09T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,0,0,Hapoel Rishon LeZion,Match Finished
+2024-02-09T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,0,2,Hapoel Afula,Match Finished
+2024-02-12T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,1,1,Hapoel Nazareth Illit,Match Finished
+2024-02-09T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,2,1,Maccabi Kabilio Jaffa,Match Finished
+2024-02-12T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,1,0,Ihud Bnei Shfaram,Match Finished
+2024-02-16T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,0,0,Hapoel Kfar Saba,Match Finished
+2024-02-20T17:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,1,2,Kafr Qasim,Match Finished
+2024-02-19T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,0,5,Ironi Kiryat Shmona,Match Finished
+2024-02-16T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,1,1,Ironi Tiberias,Match Finished
+2024-02-16T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,1,Hapoel Umm al-Fahm,Match Finished
+2024-02-19T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,2,Maccabi Herzliya,Match Finished
+2024-02-16T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,2,1,Sektzia Nes Tziona,Match Finished
+2024-02-19T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,2,2,Hapoel Acre,Match Finished
+2024-02-26T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,3,1,Hapoel Ramat Gan,Match Finished
+2024-02-23T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,2,1,Bnei Yehuda,Match Finished
+2024-02-23T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,2,1,Hapoel Rishon LeZion,Match Finished
+2024-02-23T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,2,1,Hapoel Afula,Match Finished
+2024-02-23T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,2,1,Hapoel Nazareth Illit,Match Finished
+2024-02-23T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,0,1,Maccabi Kabilio Jaffa,Match Finished
+2024-02-26T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,2,1,Ihud Bnei Shfaram,Match Finished
+2024-02-26T17:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,2,3,Hapoel Kfar Saba,Match Finished
+2024-03-01T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,1,1,Kafr Qasim,Match Finished
+2024-03-04T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,0,0,Ironi Kiryat Shmona,Match Finished
+2024-03-04T17:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,1,2,Ironi Tiberias,Match Finished
+2024-03-04T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,2,0,Hapoel Umm al-Fahm,Match Finished
+2024-03-01T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,1,0,Maccabi Herzliya,Match Finished
+2024-03-01T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,1,2,Sektzia Nes Tziona,Match Finished
+2024-03-01T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,2,0,Hapoel Acre,Match Finished
+2024-03-04T17:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,3,1,Hapoel Ramat HaSharon,Match Finished
+2024-03-11T17:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,0,5,Hapoel Ramat Gan,Match Finished
+2024-03-11T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,1,0,Hapoel Rishon LeZion,Match Finished
+2024-03-08T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,1,0,Hapoel Afula,Match Finished
+2024-03-08T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,1,1,Hapoel Nazareth Illit,Match Finished
+2024-03-11T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,0,3,Maccabi Kabilio Jaffa,Match Finished
+2024-03-08T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,3,1,Ihud Bnei Shfaram,Match Finished
+2024-03-08T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,1,1,Hapoel Kfar Saba,Match Finished
+2024-03-08T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,0,0,Kafr Qasim,Match Finished
+2024-03-15T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,0,1,Ironi Kiryat Shmona,Match Finished
+2024-03-18T17:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,1,2,Ironi Tiberias,Match Finished
+2024-03-15T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,2,0,Hapoel Umm al-Fahm,Match Finished
+2024-03-18T17:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,2,Maccabi Herzliya,Match Finished
+2024-03-18T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,5,1,Sektzia Nes Tziona,Match Finished
+2024-03-18T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,2,0,Hapoel Acre,Match Finished
+2024-03-15T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,0,1,Hapoel Ramat HaSharon,Match Finished
+2024-03-15T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,0,2,Bnei Yehuda,Match Finished
+2024-03-22T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,2,1,Hapoel Ramat Gan,Match Finished
+2024-03-22T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,4,2,Hapoel Afula,Match Finished
+2024-03-22T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,1,1,Hapoel Nazareth Illit,Match Finished
+2024-03-25T17:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,4,1,Maccabi Kabilio Jaffa,Match Finished
+2024-03-25T17:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,4,1,Ihud Bnei Shfaram,Match Finished
+2024-03-25T17:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,1,0,Hapoel Kfar Saba,Match Finished
+2024-03-22T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,1,0,Kafr Qasim,Match Finished
+2024-03-12T17:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,1,0,Ironi Kiryat Shmona,Match Finished
+2024-03-29T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,0,0,Ironi Tiberias,Match Finished
+2024-03-29T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,0,2,Hapoel Umm al-Fahm,Match Finished
+2024-04-01T16:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,0,3,Maccabi Herzliya,Match Finished
+2024-03-29T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,2,2,Sektzia Nes Tziona,Match Finished
+2024-04-01T16:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,0,1,Hapoel Acre,Match Finished
+2024-04-01T16:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,2,2,Hapoel Ramat HaSharon,Match Finished
+2024-03-29T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,2,2,Bnei Yehuda,Match Finished
+2024-03-29T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,3,1,Hapoel Rishon LeZion,Match Finished
+2024-04-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,2,3,Hapoel Ramat Gan,Match Finished
+2024-04-09T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,0,Hapoel Nazareth Illit,Match Finished
+2024-04-05T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,2,1,Maccabi Kabilio Jaffa,Match Finished
+2024-04-08T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,6,3,Ihud Bnei Shfaram,Match Finished
+2024-04-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,0,1,Hapoel Kfar Saba,Match Finished
+2024-04-08T16:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,1,3,Kafr Qasim,Match Finished
+2024-04-08T16:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,0,2,Ironi Kiryat Shmona,Match Finished
+2024-04-05T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,0,0,Ironi Tiberias,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,1,1,Hapoel Umm al-Fahm,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,2,2,Maccabi Herzliya,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,1,0,Sektzia Nes Tziona,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,1,2,Hapoel Acre,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,1,1,Hapoel Ramat HaSharon,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,1,2,Bnei Yehuda,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,1,2,Hapoel Rishon LeZion,Match Finished
+2024-04-12T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,2,1,Hapoel Afula,Match Finished
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,1,3,Hapoel Nazareth Illit,Match Finished
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,2,1,Hapoel Umm al-Fahm,Match Finished
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,3,1,Hapoel Ramat HaSharon,Match Finished
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,2,3,Maccabi Herzliya,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,5,0,Maccabi Herzliya,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,4,2,Maccabi Kabilio Jaffa,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,0,2,Ironi Tiberias,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,0,0,Ironi Kiryat Shmona,Match Finished
+2024-05-02T16:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,,,Hapoel Ramat HaSharon,Not Started
+2024-05-03T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,,,Hapoel Nazareth Illit,Not Started
+2024-05-03T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,,,Bnei Yehuda,Not Started
+2024-05-03T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,,,Hapoel Umm al-Fahm,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,,,Hapoel Ramat HaSharon,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,,,Maccabi Herzliya,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,,,Maccabi Kabilio Jaffa,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,,,Ironi Tiberias,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,,,Hapoel Nazareth Illit,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,,,Ironi Kiryat Shmona,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,,,Bnei Yehuda,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,,,Hapoel Umm al-Fahm,Not Started
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Nazareth Illit,,,Hapoel Umm al-Fahm,Time to be defined
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Bnei Yehuda,,,Hapoel Ramat HaSharon,Time to be defined
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Ironi Kiryat Shmona,,,Maccabi Herzliya,Time to be defined
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Ironi Tiberias,,,Maccabi Kabilio Jaffa,Time to be defined
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,0,0,Sektzia Nes Tziona,Match Finished
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,0,1,Hapoel Afula,Match Finished
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,1,2,Hapoel Kfar Saba,Match Finished
+2024-04-19T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,3,0,Ihud Bnei Shfaram,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,2,2,Ihud Bnei Shfaram,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,2,2,Hapoel Ramat Gan,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,2,0,Hapoel Rishon LeZion,Match Finished
+2024-04-26T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,5,2,Kafr Qasim,Match Finished
+2024-05-03T13:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,,,Sektzia Nes Tziona,Not Started
+2024-05-03T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,,,Hapoel Acre,Not Started
+2024-05-03T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,,,Hapoel Afula,Not Started
+2024-05-03T13:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,,,Hapoel Kfar Saba,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,,,Hapoel Kfar Saba,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,,,Ihud Bnei Shfaram,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,,,Hapoel Ramat Gan,Not Started
+2024-05-07T16:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,,,Hapoel Rishon LeZion,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,,,Sektzia Nes Tziona,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,,,Kafr Qasim,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,,,Hapoel Acre,Not Started
+2024-05-10T13:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,,,Hapoel Afula,Not Started
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Sektzia Nes Tziona,,,Hapoel Afula,Time to be defined
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Acre,,,Hapoel Kfar Saba,Time to be defined
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Kafr Qasim,,,Ihud Bnei Shfaram,Time to be defined
+2024-05-17T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Rishon LeZion,,,Hapoel Ramat Gan,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat Gan,,,Sektzia Nes Tziona,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Ihud Bnei Shfaram,,,Hapoel Rishon LeZion,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Kfar Saba,,,Kafr Qasim,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Afula,,,Hapoel Acre,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Kabilio Jaffa,,,Hapoel Nazareth Illit,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Maccabi Herzliya,,,Ironi Tiberias,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Ramat HaSharon,,,Ironi Kiryat Shmona,Time to be defined
+2024-05-24T00:00:00+00:00,2023,Liga Leumit,Israel,Hapoel Umm al-Fahm,,,Bnei Yehuda,Time to be defined

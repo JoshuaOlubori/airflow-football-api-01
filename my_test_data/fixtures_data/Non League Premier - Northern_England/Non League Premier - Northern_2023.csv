@@ -1,0 +1,463 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,2,2,Morpeth Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),0,2,Macclesfield,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,3,0,Worksop Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,0,0,Marine,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,1,1,Guiseley AFC,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,2,0,Stafford Rangers,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,1,3,Ilkeston Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,0,0,Bamber Bridge,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,0,4,Radcliffe,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,2,0,Atherton Collieries,Match Finished
+2023-08-12T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,5,0,Ashton United,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Ashton United,1,0,Basford United,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,2,0,Bradford (Park Avenue),Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,2,0,Hyde United,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,1,3,Whitby Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,4,0,Gainsborough Trinity,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,3,0,Matlock Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Marine,5,1,United of Manchester,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,3,0,Workington,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,4,2,Lancaster City,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,2,Rylands,Match Finished
+2023-08-15T18:45:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,3,0,Marske United,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,3,1,Marske United,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,1,Rylands,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,1,1,Bradford (Park Avenue),Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,1,Basford United,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,6,1,Workington,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,3,0,Gainsborough Trinity,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Marine,1,3,Whitby Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,3,3,Matlock Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,2,0,Hyde United,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,3,2,United of Manchester,Match Finished
+2023-08-19T14:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,0,0,Lancaster City,Match Finished
+2023-08-21T18:45:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),2,0,Morpeth Town,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,2,Stafford Rangers,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,1,0,Ilkeston Town,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,4,0,Guiseley AFC,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,1,Marine,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,3,0,Macclesfield,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Marske United,3,1,Bamber Bridge,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,3,0,Atherton Collieries,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,0,Ashton United,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,2,4,Worksop Town,Match Finished
+2023-08-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Workington,1,4,Radcliffe,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,1,Atherton Collieries,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),4,1,Ilkeston Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,2,1,Macclesfield,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,1,1,Bamber Bridge,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,3,1,Worksop Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,2,2,Guiseley AFC,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,2,5,Radcliffe,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,0,1,Marine,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,0,Morpeth Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,3,Ashton United,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,1,Stafford Rangers,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,2,1,Hyde United,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,0,2,Lancaster City,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,3,0,Workington,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,2,Bradford (Park Avenue),Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,2,4,Whitby Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,1,1,Rylands,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Marine,2,0,Basford United,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,4,2,Marske United,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,5,0,United of Manchester,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,2,4,Matlock Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,4,0,Gainsborough Trinity,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,0,4,Radcliffe,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,0,2,Guiseley AFC,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,2,0,Bradford (Park Avenue),Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,0,3,Lancaster City,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,1,2,Worksop Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,5,0,Ashton United,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,5,0,Marske United,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,0,Gainsborough Trinity,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,2,Marine,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,3,Rylands,Match Finished
+2023-09-09T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,5,3,Basford United,Match Finished
+2023-10-03T18:45:00+00:00,2023,Non League Premier - Northern,England,Ashton United,4,3,Morpeth Town,Match Finished
+2023-09-16T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,0,1,Ilkeston Town,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),0,3,Hyde United,Match Finished
+2023-10-03T18:45:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,5,3,Matlock Town,Match Finished
+2023-10-10T18:45:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,3,2,Atherton Collieries,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,2,1,Whitby Town,Match Finished
+2023-12-05T19:45:00+00:00,2023,Non League Premier - Northern,England,Marine,4,1,Bamber Bridge,Match Finished
+2023-10-03T18:45:00+00:00,2023,Non League Premier - Northern,England,Marske United,2,5,United of Manchester,Match Finished
+2023-10-10T18:45:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,4,3,Macclesfield,Match Finished
+2023-10-10T18:45:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,0,Workington,Match Finished
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,5,0,Stafford Rangers,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,3,3,Morpeth Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,2,Workington,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,1,1,Whitby Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,4,1,Atherton Collieries,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,0,1,Ashton United,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,1,0,Basford United,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,0,4,Ilkeston Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,2,0,Stafford Rangers,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,1,2,Marine,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,2,4,Rylands,Match Finished
+2023-09-23T14:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,4,3,Worksop Town,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Ashton United,2,1,Bradford (Park Avenue),Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,2,Bamber Bridge,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,3,0,Gainsborough Trinity,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,1,1,Macclesfield,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Marine,3,2,Radcliffe,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,1,1,Guiseley AFC,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,1,2,Hyde United,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,0,United of Manchester,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,4,2,Marske United,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Workington,2,1,Lancaster City,Match Finished
+2023-09-26T18:45:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,2,0,Matlock Town,Match Finished
+2023-10-17T18:45:00+00:00,2023,Non League Premier - Northern,England,Ashton United,5,0,Matlock Town,Match Finished
+2023-10-03T18:45:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,2,Hyde United,Match Finished
+2023-10-31T19:45:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,0,Lancaster City,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,1,0,Bamber Bridge,Match Finished
+2023-10-17T18:45:00+00:00,2023,Non League Premier - Northern,England,Marine,1,2,Macclesfield,Match Finished
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,3,Radcliffe,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,0,Bradford (Park Avenue),Match Finished
+2024-01-16T19:45:00+00:00,2023,Non League Premier - Northern,England,Rylands,,,Marske United,Match Cancelled
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,0,1,Gainsborough Trinity,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,1,United of Manchester,Match Finished
+2023-10-31T19:45:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,1,Guiseley AFC,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,1,1,Worksop Town,Match Finished
+2024-01-15T19:45:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,3,Marine,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,2,5,Morpeth Town,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,1,1,Rylands,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,0,Stafford Rangers,Match Finished
+2023-11-07T19:45:00+00:00,2023,Non League Premier - Northern,England,Hyde United,1,2,Whitby Town,Match Finished
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,2,1,Ashton United,Match Finished
+2023-11-21T19:45:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,6,0,Atherton Collieries,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,1,0,Basford United,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,2,2,Workington,Match Finished
+2023-10-14T14:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,3,0,Ilkeston Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,0,2,Radcliffe,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,4,Marske United,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,1,United of Manchester,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,1,4,Guiseley AFC,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Marine,2,1,Lancaster City,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,0,Macclesfield,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,1,1,Bamber Bridge,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,0,Hyde United,Match Finished
+2024-03-05T19:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,0,Matlock Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,3,Gainsborough Trinity,Match Finished
+2023-10-21T14:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,3,1,Bradford (Park Avenue),Match Finished
+2023-10-23T18:45:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,1,Whitby Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,2,2,Rylands,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,0,2,Atherton Collieries,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,2,2,Ashton United,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,4,2,Marine,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,0,Ilkeston Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,3,2,Morpeth Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,1,2,Worksop Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Marske United,3,0,Workington,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,2,0,Basford United,Match Finished
+2023-10-24T18:45:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,3,1,Stafford Rangers,Match Finished
+2023-11-21T19:45:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,3,3,United of Manchester,Match Finished
+2023-10-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,0,Marske United,Match Finished
+2023-11-21T19:45:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,4,0,Matlock Town,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,2,Gainsborough Trinity,Match Finished
+2023-11-21T19:45:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,2,2,Ashton United,Match Finished
+2023-10-28T14:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,0,0,Rylands,Match Finished
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,1,1,Basford United,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Northern,England,Marine,4,4,Workington,Match Finished
+2023-11-21T19:45:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,0,1,Whitby Town,Match Finished
+2023-11-28T19:45:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,2,0,Atherton Collieries,Match Finished
+2023-11-07T19:45:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,7,0,Morpeth Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,2,2,Bamber Bridge,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,2,3,Ilkeston Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,2,0,Bradford (Park Avenue),Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,0,2,Hyde United,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,1,0,Lancaster City,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,0,1,Macclesfield,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,4,0,Radcliffe,Match Finished
+2023-12-12T19:45:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,1,0,Marine,Match Finished
+2023-11-04T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,0,1,Guiseley AFC,Match Finished
+2023-12-19T19:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,0,Stafford Rangers,Match Finished
+2023-12-12T19:45:00+00:00,2023,Non League Premier - Northern,England,Workington,3,3,Worksop Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,5,2,Basford United,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),2,3,Matlock Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,4,3,Workington,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,3,0,Marske United,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,0,1,Rylands,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,0,0,United of Manchester,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,2,1,Whitby Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,1,1,Ashton United,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,1,0,Gainsborough Trinity,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,3,Morpeth Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,4,1,Atherton Collieries,Match Finished
+2023-12-12T19:45:00+00:00,2023,Non League Premier - Northern,England,Ashton United,2,1,Stafford Rangers,Match Finished
+2023-12-19T19:45:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,0,5,Marine,Match Finished
+2024-01-16T19:45:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,3,Radcliffe,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,3,2,Guiseley AFC,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,2,1,Bradford (Park Avenue),Match Finished
+2024-01-23T19:45:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Lancaster City,Match Cancelled
+2023-11-14T19:45:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,3,2,Hyde United,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,1,Ilkeston Town,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,1,Worksop Town,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,2,0,Bamber Bridge,Match Finished
+2023-12-19T19:45:00+00:00,2023,Non League Premier - Northern,England,Workington,0,0,Macclesfield,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,2,Ashton United,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,2,3,Matlock Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,1,Morpeth Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,3,1,Stafford Rangers,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,2,2,Bradford (Park Avenue),Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,5,1,Guiseley AFC,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,3,2,Gainsborough Trinity,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,3,2,Bamber Bridge,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,1,Basford United,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,1,Workington,Match Finished
+2023-11-25T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,0,1,Marine,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,2,0,Worksop Town,Match Finished
+2024-04-23T18:45:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,2,1,Macclesfield,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,1,Whitby Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,2,Rylands,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,1,3,United of Manchester,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,1,0,Radcliffe,Match Finished
+2023-12-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,0,0,Ilkeston Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,2,1,Lancaster City,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,1,Atherton Collieries,Match Finished
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,,,Marske United,Match Cancelled
+2024-03-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,0,1,Hyde United,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,2,Ashton United,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,2,Atherton Collieries,Match Finished
+2024-01-30T19:45:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,0,3,Marine,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,0,1,Ilkeston Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,2,Bamber Bridge,Match Finished
+2024-01-09T19:45:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,1,2,Radcliffe,Match Finished
+2024-01-09T19:45:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Worksop Town,Match Cancelled
+2024-01-09T19:45:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,1,2,Macclesfield,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,7,2,Stafford Rangers,Match Finished
+2024-03-19T19:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,2,Guiseley AFC,Match Finished
+2023-12-09T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,2,Morpeth Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,2,2,Workington,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,2,3,Whitby Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,2,1,Matlock Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,2,Hyde United,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,3,1,Marske United,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,3,4,Bradford (Park Avenue),Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,3,1,Gainsborough Trinity,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,2,Basford United,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,2,3,Rylands,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,2,4,Lancaster City,Match Finished
+2023-12-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,4,0,United of Manchester,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,0,1,Guiseley AFC,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),0,3,Bamber Bridge,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,2,1,Stafford Rangers,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,1,3,Macclesfield,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,3,1,Radcliffe,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,0,0,Worksop Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,1,0,Ashton United,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,1,1,Morpeth Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,1,Atherton Collieries,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,1,Marine,Match Finished
+2023-12-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,4,1,Ilkeston Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,1,2,United of Manchester,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,4,3,Workington,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,2,1,Lancaster City,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,3,Marske United,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,0,1,Matlock Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,0,0,Hyde United,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,1,1,Rylands,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,0,1,Whitby Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,3,0,Bradford (Park Avenue),Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,4,0,Gainsborough Trinity,Match Finished
+2023-12-26T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,0,Basford United,Match Finished
+2023-12-30T13:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,2,1,Marine,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),0,1,Guiseley AFC,Match Finished
+2024-02-06T19:45:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,0,1,Radcliffe,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,2,0,Worksop Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,2,Ashton United,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,3,2,Atherton Collieries,Match Finished
+2023-12-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,0,2,Morpeth Town,Match Finished
+2023-12-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,1,3,Stafford Rangers,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,3,Macclesfield,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,3,0,Ilkeston Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,2,Bamber Bridge,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,0,0,Rylands,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,3,Matlock Town,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,,,Marske United,Match Cancelled
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,0,1,Gainsborough Trinity,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,2,0,United of Manchester,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,1,2,Lancaster City,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,1,4,Hyde United,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,1,Bradford (Park Avenue),Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,3,1,Workington,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,1,Basford United,Match Finished
+2024-01-06T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,0,Whitby Town,Match Finished
+2024-03-26T19:45:00+00:00,2023,Non League Premier - Northern,England,Ashton United,0,2,Macclesfield,Match Finished
+2023-11-18T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,0,3,Workington,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),2,4,United of Manchester,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,0,2,Morpeth Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,0,Bamber Bridge,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,0,4,Hyde United,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,4,0,Stafford Rangers,Match Finished
+2023-09-30T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,0,3,Matlock Town,Match Finished
+2024-02-13T19:45:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,2,2,Atherton Collieries,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,0,Whitby Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,2,Ilkeston Town,Match Finished
+2024-03-05T19:45:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,2,Guiseley AFC,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,1,7,Marine,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,,,Marske United,Match Cancelled
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,5,0,Bradford (Park Avenue),Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,4,1,Basford United,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,2,3,Radcliffe,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,0,4,Gainsborough Trinity,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,3,3,Ashton United,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,2,Worksop Town,Match Finished
+2024-02-27T19:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,1,Lancaster City,Match Finished
+2024-01-20T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,2,Rylands,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,4,3,Atherton Collieries,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,1,5,Radcliffe,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,2,2,Rylands,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),2,3,Lancaster City,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,,,Marske United,Match Cancelled
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,1,2,Macclesfield,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,2,1,Worksop Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,3,0,United of Manchester,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,1,5,Hyde United,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,2,Ilkeston Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,0,0,Whitby Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,4,3,Morpeth Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,2,0,Gainsborough Trinity,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,0,Workington,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,1,1,Marine,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,1,0,Matlock Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,2,1,Bamber Bridge,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Stafford Rangers,Match Cancelled
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,3,4,Guiseley AFC,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,3,Bradford (Park Avenue),Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,3,0,Basford United,Match Finished
+2024-02-03T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,0,Ashton United,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,1,1,Guiseley AFC,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,0,1,Gainsborough Trinity,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,0,0,Hyde United,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,2,3,Lancaster City,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,,,Marske United,Match Cancelled
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,1,3,Bamber Bridge,Match Finished
+2024-03-19T19:45:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,1,3,Macclesfield,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,0,Matlock Town,Match Finished
+2024-03-26T19:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,2,United of Manchester,Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,0,2,Bradford (Park Avenue),Match Finished
+2024-02-10T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,1,Radcliffe,Match Finished
+2024-03-12T19:45:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,3,1,Atherton Collieries,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,1,Ashton United,Match Finished
+2024-03-05T19:45:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,1,2,Rylands,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,3,0,Basford United,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,4,1,Morpeth Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,1,1,Stafford Rangers,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,1,1,Workington,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,5,3,Ilkeston Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Whitby Town,Match Cancelled
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,0,0,Worksop Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,3,2,Marine,Match Finished
+2024-03-05T19:45:00+00:00,2023,Non League Premier - Northern,England,Ashton United,5,0,Lancaster City,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,0,1,Macclesfield,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,,,Marske United,Match Cancelled
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,1,2,Radcliffe,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,4,0,Bradford (Park Avenue),Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,3,0,United of Manchester,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,2,1,Guiseley AFC,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,4,Gainsborough Trinity,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,2,1,Hyde United,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,1,Matlock Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,2,4,Bamber Bridge,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,1,4,Ilkeston Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,0,Stafford Rangers,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,1,3,Workington,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,2,0,Whitby Town,Match Finished
+2024-04-23T18:45:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,4,Worksop Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,3,2,Atherton Collieries,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,1,0,Basford United,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,2,1,Marine,Match Finished
+2024-03-02T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Rylands,Match Cancelled
+2024-04-22T18:45:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,5,1,Ashton United,Match Finished
+2024-03-19T19:45:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,4,1,Morpeth Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,2,0,Gainsborough Trinity,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,2,United of Manchester,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,2,1,Matlock Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,1,1,Hyde United,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Marine,1,0,Guiseley AFC,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,2,0,Lancaster City,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,3,Radcliffe,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,0,Bamber Bridge,Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,1,Bradford (Park Avenue),Match Finished
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Workington,,,Marske United,Match Cancelled
+2024-03-16T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,0,Macclesfield,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,0,2,Stafford Rangers,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),1,2,Worksop Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,2,0,Basford United,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,4,2,Workington,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,1,2,Ilkeston Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,0,0,Rylands,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,0,2,Marine,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,3,0,Morpeth Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Atherton Collieries,Match Cancelled
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,1,5,Whitby Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,2,5,Ashton United,Match Finished
+2024-03-29T15:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,4,1,Whitby Town,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,2,Basford United,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,1,3,Gainsborough Trinity,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,2,3,Lancaster City,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,2,2,Bradford (Park Avenue),Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,3,1,United of Manchester,Match Finished
+2023-08-26T14:00:00+00:00,2023,Non League Premier - Northern,England,Marine,2,0,Matlock Town,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,1,3,Rylands,Match Finished
+2024-03-30T14:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,,,Marske United,Match Cancelled
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,1,0,Workington,Match Finished
+2024-03-30T15:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,1,0,Hyde United,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,3,1,Worksop Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),2,3,Radcliffe,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,0,2,Ashton United,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,2,1,Stafford Rangers,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,1,3,Macclesfield,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,3,2,Bamber Bridge,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Guiseley AFC,Match Cancelled
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,1,2,Ilkeston Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,0,Marine,Match Finished
+2024-04-16T18:45:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,3,1,Morpeth Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,3,Atherton Collieries,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,1,3,Ashton United,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),2,1,Basford United,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,0,2,Rylands,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,1,United of Manchester,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,3,0,Atherton Collieries,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,2,1,Gainsborough Trinity,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,,,Marske United,Match Cancelled
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Marine,3,1,Morpeth Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,4,0,Matlock Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,1,0,Whitby Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,2,1,Workington,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,1,2,Ilkeston Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,1,0,Stafford Rangers,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,1,3,Macclesfield,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,3,0,Bamber Bridge,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,4,1,Hyde United,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Bradford (Park Avenue),Match Cancelled
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,2,1,Guiseley AFC,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,4,0,Worksop Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,1,2,Lancaster City,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,1,2,Radcliffe,Match Finished
+2024-04-13T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,0,3,Marine,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Bamber Bridge,3,2,Whitby Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Bradford (Park Avenue),3,3,Gainsborough Trinity,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Guiseley AFC,3,1,United of Manchester,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Hyde United,2,1,Matlock Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Ilkeston Town,3,2,Morpeth Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Lancaster City,,,Marske United,Match Cancelled
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Macclesfield,2,0,Workington,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Marine,4,0,Atherton Collieries,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Radcliffe,1,1,Basford United,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Stafford Rangers,0,1,Ashton United,Match Finished
+2024-04-20T14:00:00+00:00,2023,Non League Premier - Northern,England,Worksop Town,2,1,Rylands,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Ashton United,1,3,Marine,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Atherton Collieries,0,2,Worksop Town,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Basford United,4,0,Bamber Bridge,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,United of Manchester,4,3,Lancaster City,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Gainsborough Trinity,3,2,Radcliffe,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Marske United,,,Hyde United,Match Cancelled
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Matlock Town,5,2,Bradford (Park Avenue),Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Morpeth Town,6,0,Stafford Rangers,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Rylands,2,0,Ilkeston Town,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Whitby Town,2,0,Macclesfield,Match Finished
+2024-04-27T14:00:00+00:00,2023,Non League Premier - Northern,England,Workington,2,1,Guiseley AFC,Match Finished

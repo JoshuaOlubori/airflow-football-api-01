@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-04T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,0,1,Stuttgarter Kickers,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,0,0,Bahlinger SC,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,0,2,TSV Steinbach,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,0,0,Eintracht Frankfurt II,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,1,1,Hoffenheim II,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,2,1,Barockstadt Fulda-Lehn.,Match Finished
+2023-08-08T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,4,3,Schott Mainz,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,2,0,FSV Mainz 05 II,Match Finished
+2023-08-06T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,1,1,VfR Aalen,Match Finished
+2023-08-13T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,3,1,SGV Freiberg,Match Finished
+2023-08-11T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,2,1,Kickers Offenbach,Match Finished
+2023-08-12T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,7,0,TuS Koblenz,Match Finished
+2023-08-12T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,3,2,Hessen Kassel,Match Finished
+2023-08-23T16:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,3,Stuttgart II,Match Finished
+2023-08-15T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,1,1,Balingen,Match Finished
+2023-08-16T16:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,3,0,FC Astoria Walldorf,Match Finished
+2023-08-16T16:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,0,0,FSV Frankfurt,Match Finished
+2023-08-23T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,5,0,FC 08 Homburg,Match Finished
+2023-08-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,1,2,VfR Aalen,Match Finished
+2023-08-20T14:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,3,2,Eintracht Frankfurt II,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,1,2,Hoffenheim II,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,0,4,Barockstadt Fulda-Lehn.,Match Finished
+2023-08-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,1,1,Schott Mainz,Match Finished
+2023-08-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,3,2,Bahlinger SC,Match Finished
+2023-08-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,3,0,TSV Steinbach,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,2,1,Stuttgarter Kickers,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,2,3,FSV Frankfurt,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,4,SGV Freiberg,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,2,2,FC 08 Homburg,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,1,2,Kickers Offenbach,Match Finished
+2023-08-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,3,1,TuS Koblenz,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,1,1,Hessen Kassel,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,4,1,FSV Mainz 05 II,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,2,2,Balingen,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,1,3,Stuttgart II,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,2,1,FC Astoria Walldorf,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,1,2,Stuttgart II,Match Finished
+2023-08-30T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,0,4,Hoffenheim II,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,1,1,Barockstadt Fulda-Lehn.,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,2,2,Schott Mainz,Match Finished
+2023-08-29T15:30:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,3,2,Bahlinger SC,Match Finished
+2023-08-30T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,2,1,FSV Frankfurt,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,1,3,Stuttgarter Kickers,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,1,1,VfR Aalen,Match Finished
+2023-08-30T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,2,2,Eintracht Frankfurt II,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,2,1,Kickers Offenbach,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,4,1,TuS Koblenz,Match Finished
+2023-09-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,2,1,Hessen Kassel,Match Finished
+2023-09-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,6,1,FSV Mainz 05 II,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,0,3,TSV Steinbach,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,2,2,Balingen,Match Finished
+2023-09-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,1,2,FC Astoria Walldorf,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,2,3,SGV Freiberg,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,0,1,FC 08 Homburg,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,6,3,FC Astoria Walldorf,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,2,0,Schott Mainz,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,5,2,Bahlinger SC,Match Finished
+2023-09-08T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,1,1,FSV Frankfurt,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,3,1,Stuttgart II,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,0,0,VfR Aalen,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,1,3,Eintracht Frankfurt II,Match Finished
+2023-09-19T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,1,0,Hoffenheim II,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,2,1,Barockstadt Fulda-Lehn.,Match Finished
+2023-09-17T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,0,5,Hessen Kassel,Match Finished
+2023-09-16T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,2,1,FSV Mainz 05 II,Match Finished
+2023-09-16T15:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,0,1,TSV Steinbach,Match Finished
+2023-09-15T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,1,0,Stuttgarter Kickers,Match Finished
+2023-09-15T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,1,0,Balingen,Match Finished
+2023-09-16T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,1,2,SGV Freiberg,Match Finished
+2023-09-16T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,1,8,FC 08 Homburg,Match Finished
+2023-09-16T14:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,1,1,Kickers Offenbach,Match Finished
+2023-09-16T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,5,2,TuS Koblenz,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,4,4,SGV Freiberg,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,2,3,FSV Frankfurt,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,2,2,Stuttgart II,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,5,0,FC Astoria Walldorf,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,3,2,Eintracht Frankfurt II,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,1,0,Hoffenheim II,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,1,3,Barockstadt Fulda-Lehn.,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,3,0,Schott Mainz,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,0,1,Bahlinger SC,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,2,4,TSV Steinbach,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,0,2,Stuttgarter Kickers,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,3,1,VfR Aalen,Match Finished
+2023-09-29T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,1,1,Balingen,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,2,1,FC 08 Homburg,Match Finished
+2023-09-29T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,1,0,Kickers Offenbach,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,7,3,TuS Koblenz,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,2,0,Hessen Kassel,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,2,1,FSV Mainz 05 II,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,0,3,FC 08 Homburg,Match Finished
+2023-10-04T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,0,4,FC Astoria Walldorf,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,2,0,SGV Freiberg,Match Finished
+2023-10-04T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,2,1,Hoffenheim II,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,2,0,Barockstadt Fulda-Lehn.,Match Finished
+2023-10-04T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,3,0,Schott Mainz,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,2,0,Bahlinger SC,Match Finished
+2023-10-03T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,2,0,FSV Frankfurt,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,1,5,Stuttgart II,Match Finished
+2023-10-08T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,2,3,VfR Aalen,Match Finished
+2023-10-08T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,2,0,Eintracht Frankfurt II,Match Finished
+2023-10-08T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,4,0,Balingen,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,2,1,Kickers Offenbach,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,2,0,TuS Koblenz,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,0,1,Hessen Kassel,Match Finished
+2023-10-08T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,4,0,FSV Mainz 05 II,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,0,3,TSV Steinbach,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,1,1,Stuttgarter Kickers,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,2,3,Kickers Offenbach,Match Finished
+2023-10-13T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,1,1,FC 08 Homburg,Match Finished
+2023-10-25T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,4,0,Barockstadt Fulda-Lehn.,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,2,2,Schott Mainz,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,0,2,Bahlinger SC,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,0,0,FSV Frankfurt,Match Finished
+2023-10-24T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,2,1,Stuttgart II,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,1,2,FC Astoria Walldorf,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,1,2,SGV Freiberg,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,3,Hoffenheim II,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,6,2,Balingen,Match Finished
+2023-10-20T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,1,1,TuS Koblenz,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,2,1,Hessen Kassel,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,1,2,FSV Mainz 05 II,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,1,2,TSV Steinbach,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,0,2,Stuttgarter Kickers,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,3,0,VfR Aalen,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,0,2,Eintracht Frankfurt II,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,2,0,TuS Koblenz,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,2,0,Schott Mainz,Match Finished
+2023-10-29T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,4,0,Bahlinger SC,Match Finished
+2023-10-29T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,5,1,FSV Frankfurt,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,2,2,Stuttgart II,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,2,2,FC Astoria Walldorf,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,0,1,SGV Freiberg,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,2,4,FC 08 Homburg,Match Finished
+2023-10-27T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,1,2,Kickers Offenbach,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,2,2,Schott Mainz,Match Finished
+2023-11-05T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,1,0,Hessen Kassel,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,1,3,FSV Mainz 05 II,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,3,0,TSV Steinbach,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,0,2,Stuttgarter Kickers,Match Finished
+2023-11-05T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,2,1,VfR Aalen,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,6,0,Eintracht Frankfurt II,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,0,1,Hoffenheim II,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,1,0,Barockstadt Fulda-Lehn.,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,2,2,Bahlinger SC,Match Finished
+2023-11-12T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,2,0,FSV Frankfurt,Match Finished
+2023-11-12T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,1,1,Stuttgart II,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,0,2,FC Astoria Walldorf,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,2,1,SGV Freiberg,Match Finished
+2023-11-12T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,2,2,FC 08 Homburg,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,1,2,Kickers Offenbach,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,2,1,TuS Koblenz,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,3,2,Balingen,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,2,0,Balingen,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,1,1,TuS Koblenz,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,1,0,Kickers Offenbach,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,1,6,FC 08 Homburg,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,1,1,SGV Freiberg,Match Finished
+2023-11-28T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,2,0,FC Astoria Walldorf,Match Finished
+2023-11-29T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,0,0,Stuttgart II,Match Finished
+2023-11-19T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,1,FSV Frankfurt,Match Finished
+2023-11-17T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,4,1,Hessen Kassel,Match Finished
+2023-11-26T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,6,0,Schott Mainz,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,2,1,Barockstadt Fulda-Lehn.,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,3,1,Hoffenheim II,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,2,0,Eintracht Frankfurt II,Match Finished
+2023-11-24T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,1,0,VfR Aalen,Match Finished
+2023-11-26T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,0,0,Stuttgarter Kickers,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,3,2,TSV Steinbach,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,2,3,FSV Mainz 05 II,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,1,0,Bahlinger SC,Match Finished
+2023-12-01T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,2,2,Balingen,Match Finished
+2023-12-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,1,3,TuS Koblenz,Match Finished
+2023-12-03T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,1,1,Kickers Offenbach,Match Finished
+2023-12-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,1,1,FC 08 Homburg,Match Finished
+2024-02-24T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,1,0,SGV Freiberg,Match Finished
+2023-12-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,2,2,FC Astoria Walldorf,Match Finished
+2023-12-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,3,3,Stuttgart II,Match Finished
+2023-12-16T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,4,4,FSV Mainz 05 II,Match Finished
+2023-12-16T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,2,1,Hessen Kassel,Match Finished
+2023-12-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,3,0,Schott Mainz,Match Finished
+2023-12-10T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,0,2,Barockstadt Fulda-Lehn.,Match Finished
+2023-12-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,0,1,Hoffenheim II,Match Finished
+2023-12-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,1,1,Eintracht Frankfurt II,Match Finished
+2023-12-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,3,2,VfR Aalen,Match Finished
+2023-12-10T15:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,1,4,Stuttgarter Kickers,Match Finished
+2024-02-24T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,1,0,TSV Steinbach,Match Finished
+2023-12-08T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,1,2,FSV Frankfurt,Match Finished
+2023-12-08T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,0,0,Bahlinger SC,Match Finished
+2024-03-03T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,2,2,Balingen,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,4,0,TuS Koblenz,Match Finished
+2024-03-03T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,0,0,Kickers Offenbach,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,2,FC 08 Homburg,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,0,0,SGV Freiberg,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,1,1,FC Astoria Walldorf,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,4,0,TSV Steinbach,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,0,0,FSV Mainz 05 II,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,2,2,Hessen Kassel,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,6,1,Schott Mainz,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,1,2,Barockstadt Fulda-Lehn.,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,1,0,Hoffenheim II,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,0,1,Eintracht Frankfurt II,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,2,3,VfR Aalen,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,1,2,Stuttgarter Kickers,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,0,1,Stuttgart II,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,0,0,FSV Frankfurt,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,0,2,Bahlinger SC,Match Finished
+2024-03-17T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,0,3,Balingen,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,0,TuS Koblenz,Match Finished
+2024-03-17T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,2,1,Kickers Offenbach,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,0,1,FC 08 Homburg,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,1,0,SGV Freiberg,Match Finished
+2024-03-15T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,0,0,Stuttgarter Kickers,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,4,1,TSV Steinbach,Match Finished
+2024-03-17T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,2,0,FSV Mainz 05 II,Match Finished
+2024-03-15T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,1,1,Hessen Kassel,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,0,0,Schott Mainz,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,2,3,Barockstadt Fulda-Lehn.,Match Finished
+2024-04-17T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,1,0,Hoffenheim II,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,1,3,Eintracht Frankfurt II,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,2,2,VfR Aalen,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,2,0,FC Astoria Walldorf,Match Finished
+2024-03-22T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,1,2,Stuttgart II,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,3,0,FSV Frankfurt,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,0,2,Bahlinger SC,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,4,0,Balingen,Match Finished
+2024-03-28T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,3,1,TuS Koblenz,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,0,1,Kickers Offenbach,Match Finished
+2024-03-28T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,2,0,FC 08 Homburg,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,1,0,VfR Aalen,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,5,0,Stuttgarter Kickers,Match Finished
+2024-03-28T18:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,2,3,TSV Steinbach,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,2,FSV Mainz 05 II,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,1,1,Hessen Kassel,Match Finished
+2024-04-02T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,1,3,Schott Mainz,Match Finished
+2024-04-03T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,1,0,Barockstadt Fulda-Lehn.,Match Finished
+2024-04-02T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,1,2,Hoffenheim II,Match Finished
+2024-04-03T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,2,3,Eintracht Frankfurt II,Match Finished
+2024-04-03T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,0,3,SGV Freiberg,Match Finished
+2024-04-02T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,5,0,FC Astoria Walldorf,Match Finished
+2024-04-02T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,1,3,Stuttgart II,Match Finished
+2024-04-02T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,0,0,FSV Frankfurt,Match Finished
+2024-04-02T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,2,0,Bahlinger SC,Match Finished
+2024-04-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,2,1,Balingen,Match Finished
+2024-04-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,0,0,TuS Koblenz,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,2,2,Kickers Offenbach,Match Finished
+2024-04-07T10:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,3,0,Eintracht Frankfurt II,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,0,0,VfR Aalen,Match Finished
+2024-04-07T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,1,3,Stuttgarter Kickers,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,2,2,TSV Steinbach,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,2,3,FSV Mainz 05 II,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,2,1,Hessen Kassel,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,2,3,Schott Mainz,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,5,0,Barockstadt Fulda-Lehn.,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,0,5,Hoffenheim II,Match Finished
+2024-04-12T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,3,5,FC 08 Homburg,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,0,1,SGV Freiberg,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,1,0,FC Astoria Walldorf,Match Finished
+2024-04-14T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,1,1,Stuttgart II,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,0,2,FSV Frankfurt,Match Finished
+2024-04-12T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,4,0,Bahlinger SC,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,5,0,Balingen,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,2,0,TuS Koblenz,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,1,0,Hoffenheim II,Match Finished
+2024-04-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,3,0,Eintracht Frankfurt II,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,2,1,VfR Aalen,Match Finished
+2024-04-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,3,1,Stuttgarter Kickers,Match Finished
+2024-04-21T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,4,3,TSV Steinbach,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,4,1,FSV Mainz 05 II,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,1,1,Hessen Kassel,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,1,1,Schott Mainz,Match Finished
+2024-04-26T17:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,1,0,Barockstadt Fulda-Lehn.,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,3,1,Kickers Offenbach,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,2,1,FC 08 Homburg,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,0,2,SGV Freiberg,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,2,0,FC Astoria Walldorf,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,2,2,Stuttgart II,Match Finished
+2024-04-28T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,,,FSV Frankfurt,Not Started
+2024-04-27T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,1,0,Bahlinger SC,Match Finished
+2024-05-04T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,,,Balingen,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,,,Barockstadt Fulda-Lehn.,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,,,Hoffenheim II,Not Started
+2024-05-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Eintracht Frankfurt II,Not Started
+2024-05-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,,,VfR Aalen,Not Started
+2024-05-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Stuttgarter Kickers,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,,,TSV Steinbach,Not Started
+2024-05-05T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,,,FSV Mainz 05 II,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,,,Hessen Kassel,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Schott Mainz,,,Balingen,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hessen Kassel,,,TuS Koblenz,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Mainz 05 II,,,Kickers Offenbach,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TSV Steinbach,,,FC 08 Homburg,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgarter Kickers,,,SGV Freiberg,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,VfR Aalen,,,FC Astoria Walldorf,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Eintracht Frankfurt II,,,Stuttgart II,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Hoffenheim II,,,FSV Frankfurt,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Barockstadt Fulda-Lehn.,,,Bahlinger SC,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Bahlinger SC,,,Schott Mainz,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FSV Frankfurt,,,Barockstadt Fulda-Lehn.,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Stuttgart II,,,Hoffenheim II,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC Astoria Walldorf,,,Eintracht Frankfurt II,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,SGV Freiberg,,,VfR Aalen,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,FC 08 Homburg,,,Stuttgarter Kickers,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Kickers Offenbach,,,TSV Steinbach,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,TuS Koblenz,,,FSV Mainz 05 II,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - SudWest,Germany,Balingen,,,Hessen Kassel,Not Started

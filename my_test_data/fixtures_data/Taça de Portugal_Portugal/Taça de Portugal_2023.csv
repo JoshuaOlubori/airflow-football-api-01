@@ -1,0 +1,148 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-09-23T16:00:00+00:00,2023,Taça de Portugal,Portugal,Trofense,0,1,Pevidem,Match Finished
+2023-09-24T10:00:00+00:00,2023,Taça de Portugal,Portugal,Vilar de Perdizes,5,1,Vasco da Gama Vidigueira,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Sertanense,0,2,Amarante,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Atlético Arcos,2,2,Atlético Malveira,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Pedrógão São Pedro,0,12,União de Leiria,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Recreativa de Lamelas,1,3,Tirsense,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,FC Barreirense,0,3,Mirandela,Match Finished
+2023-09-23T14:00:00+00:00,2023,Taça de Portugal,Portugal,Ponte,0,5,Vilaverdense,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Brito,0,2,Feirense,Match Finished
+2023-09-23T13:00:00+00:00,2023,Taça de Portugal,Portugal,São João Ver,0,1,Leixoes,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Gafetense,0,5,Mafra,Match Finished
+2023-09-23T14:00:00+00:00,2023,Taça de Portugal,Portugal,O Elvas,1,0,Lanheses,Match Finished
+2023-09-24T11:00:00+00:00,2023,Taça de Portugal,Portugal,Rabo Peixe,3,2,CF Oliveira Douro,Match Finished
+2023-09-24T10:00:00+00:00,2023,Taça de Portugal,Portugal,Oriental Lisboa,0,1,Torreense,Match Finished
+2023-09-27T10:00:00+00:00,2023,Taça de Portugal,Portugal,Luzense,0,3,Camacha,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,1º Dezembro,1,0,Pacos Ferreira,Match Finished
+2023-09-24T11:00:00+00:00,2023,Taça de Portugal,Portugal,Lusitânia,1,0,Os Marialvas,Match Finished
+2023-09-11T18:00:00+00:00,2023,Taça de Portugal,Portugal,Sintrense,2,0,Operário,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Amora,8,0,Vitória do Pico,Match Finished
+2023-09-09T14:00:00+00:00,2023,Taça de Portugal,Portugal,Peniche,1,1,Marinhense,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Amiense,0,7,Benfica Castelo Branco,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,União Santarém,6,0,Proença-a-Nova,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Alverca,13,0,Gavionenses,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Alqueidão da Serra,3,2,CD Torres Novas,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Real,1,2,CD Olivais e Moscavide,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Juventude Évora,3,0,Portel,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Atlético Reguengos,0,2,Quarteirense SAD,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Louletano,1,0,Imortal Albufeira,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Lusitano Évora 1911,2,0,Comércio Indústria,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Padernense,1,2,FC Serpa,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Castrense,1,0,Penedo Gordo,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Pêro Pinheiro,1,1,Caldas,Match Finished
+2023-09-10T15:30:00+00:00,2023,Taça de Portugal,Portugal,Anadia,2,2,Sanjoanense,Match Finished
+2023-09-10T13:00:00+00:00,2023,Taça de Portugal,Portugal,Fafe,1,2,Felgueiras 1932,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Rebordosa,2,1,Lobão,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Salgueiros,2,0,Foz,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Aliados Lordelo,1,3,Vianense,Match Finished
+2023-09-08T16:00:00+00:00,2023,Taça de Portugal,Portugal,Os Limianos,2,2,Varzim,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Mondinense,0,2,Montalegre,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Rebordelo,1,3,Sandinenses,Match Finished
+2023-09-09T10:00:00+00:00,2023,Taça de Portugal,Portugal,União Lamas,2,2,Paredes,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Lusitânia Lourosa,10,0,Régua,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Lusitano FCV,0,2,Tocha,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Florgrade,3,1,Beira-Mar,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Os Vilanovenses,0,2,Pombal,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,AD Fornos Algodres,0,5,Oliveira Hospital,Match Finished
+2023-09-09T16:30:00+00:00,2023,Taça de Portugal,Portugal,Academica,3,0,União de Coimbra,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Portosantense,0,0,Gondomar,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Valadares Gaia,4,0,Torre de Moncorvo,Match Finished
+2023-09-10T14:00:00+00:00,2023,Taça de Portugal,Portugal,Vila Real,0,2,Ribeirão,Match Finished
+2023-09-09T14:30:00+00:00,2023,Taça de Portugal,Portugal,Flamengos,0,2,Fontinhas,Match Finished
+2023-09-10T11:00:00+00:00,2023,Taça de Portugal,Portugal,Guadalupe,0,1,Fabril Barreiro,Match Finished
+2023-09-10T15:00:00+00:00,2023,Taça de Portugal,Portugal,União Micaelense,1,0,Alcochetense,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Canelas 2010,5,0,Fontinhas,Match Finished
+2023-09-24T13:00:00+00:00,2023,Taça de Portugal,Portugal,Moncarapachense,6,2,União Micaelense,Match Finished
+2023-09-24T13:00:00+00:00,2023,Taça de Portugal,Portugal,Lusitânia Lourosa,1,2,Academico Viseu,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Benfica Castelo Branco,1,1,Oliveirense,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Lusitano Évora 1911,0,0,SC Covilha,Match Finished
+2023-09-23T10:00:00+00:00,2023,Taça de Portugal,Portugal,Fabril Barreiro,1,3,Maritimo,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Vitória de Sernache,0,3,Vianense,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Pombal,0,5,Tondela,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Mortágua,2,1,Amora,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Peniche,2,2,Montalegre,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Valadares Gaia,1,1,Penafiel,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Quarteirense SAD,0,1,CF Os Belenenses,Match Finished
+2023-09-24T19:00:00+00:00,2023,Taça de Portugal,Portugal,Felgueiras 1932,4,0,Os Limianos,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Sanjoanense,0,1,Vitoria Setubal,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,FC Serpa,2,1,Gouveia,Match Finished
+2023-09-23T14:00:00+00:00,2023,Taça de Portugal,Portugal,Louletano,0,1,AVS,Match Finished
+2023-09-24T13:00:00+00:00,2023,Taça de Portugal,Portugal,Castrense,0,3,Vila Meã,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,União de Tomar,1,2,Pêro Pinheiro,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Dumiense,4,3,União Santarém,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Ribeirão,0,3,Santa Clara,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Alqueidão da Serra,1,3,AD Marco 09,Match Finished
+2023-09-24T16:00:00+00:00,2023,Taça de Portugal,Portugal,Academica,3,2,Oliveira Hospital,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Paredes,5,1,Florgrade,Match Finished
+2023-09-23T14:00:00+00:00,2023,Taça de Portugal,Portugal,Portosantense,2,4,Nacional,Match Finished
+2023-09-23T14:00:00+00:00,2023,Taça de Portugal,Portugal,Tocha,2,4,Rebordosa,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Atlético CP,0,0,Alverca,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Sandinenses,1,3,CD Olivais e Moscavide,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Juventude Évora,1,2,Sintrense,Match Finished
+2023-09-24T14:00:00+00:00,2023,Taça de Portugal,Portugal,Salgueiros,0,1,Santa Maria FC,Match Finished
+2023-10-21T14:30:00+00:00,2023,Taça de Portugal,Portugal,Vila Meã,0,1,Estrela,Match Finished
+2023-10-21T18:00:00+00:00,2023,Taça de Portugal,Portugal,Felgueiras 1932,1,3,Arouca,Match Finished
+2023-10-21T19:45:00+00:00,2023,Taça de Portugal,Portugal,CD Olivais e Moscavide,1,3,Sporting CP,Match Finished
+2023-10-21T14:00:00+00:00,2023,Taça de Portugal,Portugal,Atlético CP,0,1,Vizela,Match Finished
+2023-10-22T19:00:00+00:00,2023,Taça de Portugal,Portugal,Oliveirense,1,3,Boavista,Match Finished
+2023-11-18T14:15:00+00:00,2023,Taça de Portugal,Portugal,Camacha,0,5,Famalicao,Match Finished
+2023-10-19T19:00:00+00:00,2023,Taça de Portugal,Portugal,Rebordosa,0,2,SC Braga,Match Finished
+2023-10-21T13:00:00+00:00,2023,Taça de Portugal,Portugal,Paredes,2,1,Moreirense,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Vilaverdense,3,2,Farense,Match Finished
+2023-10-20T19:45:00+00:00,2023,Taça de Portugal,Portugal,Vilar de Perdizes,0,2,FC Porto,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Moncarapachense,1,3,Guimaraes,Match Finished
+2023-10-22T10:00:00+00:00,2023,Taça de Portugal,Portugal,Sintrense,0,5,Estoril,Match Finished
+2023-10-21T15:00:00+00:00,2023,Taça de Portugal,Portugal,Rabo Peixe,0,2,Casa Pia,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Canelas 2010,0,0,Chaves,Match Finished
+2023-10-22T13:00:00+00:00,2023,Taça de Portugal,Portugal,Torreense,2,1,Rio Ave,Match Finished
+2023-10-22T16:00:00+00:00,2023,Taça de Portugal,Portugal,CF Os Belenenses,1,2,GIL Vicente,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Tondela,2,1,1º Dezembro,Match Finished
+2023-10-20T18:00:00+00:00,2023,Taça de Portugal,Portugal,SC Covilha,1,4,Portimonense,Match Finished
+2023-10-21T19:00:00+00:00,2023,Taça de Portugal,Portugal,Academico Viseu,1,3,União de Leiria,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Amarante,1,0,Academica,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Dumiense,1,0,AVS,Match Finished
+2023-10-21T14:00:00+00:00,2023,Taça de Portugal,Portugal,Nacional,6,1,Mirandela,Match Finished
+2023-10-21T15:30:00+00:00,2023,Taça de Portugal,Portugal,Atlético Malveira,1,1,AD Marco 09,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Pêro Pinheiro,0,0,FC Serpa,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Mafra,3,1,Feirense,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,O Elvas,1,1,Tirsense,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Maritimo,4,1,Mortágua,Match Finished
+2023-10-21T16:00:00+00:00,2023,Taça de Portugal,Portugal,Leixoes,1,1,Vitoria Setubal,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Montalegre,2,1,Pevidem,Match Finished
+2023-10-22T14:00:00+00:00,2023,Taça de Portugal,Portugal,Penafiel,3,0,Santa Maria FC,Match Finished
+2023-10-20T15:30:00+00:00,2023,Taça de Portugal,Portugal,Lusitânia,1,4,Benfica,Match Finished
+2023-10-21T11:00:00+00:00,2023,Taça de Portugal,Portugal,Santa Clara,2,0,Vianense,Match Finished
+2023-11-26T17:00:00+00:00,2023,Taça de Portugal,Portugal,Torreense,1,1,Tondela,Match Finished
+2023-11-26T17:00:00+00:00,2023,Taça de Portugal,Portugal,Estoril,2,1,Mafra,Match Finished
+2023-11-26T15:00:00+00:00,2023,Taça de Portugal,Portugal,União de Leiria,5,0,Atlético Malveira,Match Finished
+2023-11-25T14:00:00+00:00,2023,Taça de Portugal,Portugal,FC Serpa,0,1,GIL Vicente,Match Finished
+2023-11-24T19:30:00+00:00,2023,Taça de Portugal,Portugal,Vizela,2,1,Estrela,Match Finished
+2023-11-25T15:30:00+00:00,2023,Taça de Portugal,Portugal,Portimonense,1,4,SC Braga,Match Finished
+2023-11-26T15:00:00+00:00,2023,Taça de Portugal,Portugal,Paredes,0,2,Amarante,Match Finished
+2023-11-26T11:00:00+00:00,2023,Taça de Portugal,Portugal,O Elvas,1,1,Santa Clara,Match Finished
+2023-11-26T20:00:00+00:00,2023,Taça de Portugal,Portugal,Arouca,2,2,Boavista,Match Finished
+2023-11-25T17:00:00+00:00,2023,Taça de Portugal,Portugal,Penafiel,3,2,Vitoria Setubal,Match Finished
+2023-11-25T11:00:00+00:00,2023,Taça de Portugal,Portugal,Canelas 2010,1,3,Maritimo,Match Finished
+2023-11-25T20:00:00+00:00,2023,Taça de Portugal,Portugal,Guimaraes,4,1,Vilaverdense,Match Finished
+2023-11-24T20:45:00+00:00,2023,Taça de Portugal,Portugal,FC Porto,4,0,Montalegre,Match Finished
+2023-11-25T15:00:00+00:00,2023,Taça de Portugal,Portugal,Nacional,0,0,Casa Pia,Match Finished
+2023-11-26T18:00:00+00:00,2023,Taça de Portugal,Portugal,Sporting CP,8,0,Dumiense,Match Finished
+2023-11-25T20:45:00+00:00,2023,Taça de Portugal,Portugal,Benfica,2,0,Famalicao,Match Finished
+2024-01-10T19:15:00+00:00,2023,Taça de Portugal,Portugal,GIL Vicente,3,1,Amarante,Match Finished
+2024-01-09T20:45:00+00:00,2023,Taça de Portugal,Portugal,Estoril,0,4,FC Porto,Match Finished
+2024-01-09T18:45:00+00:00,2023,Taça de Portugal,Portugal,Sporting CP,4,0,Tondela,Match Finished
+2024-01-10T20:45:00+00:00,2023,Taça de Portugal,Portugal,Benfica,3,2,SC Braga,Match Finished
+2024-01-10T18:45:00+00:00,2023,Taça de Portugal,Portugal,Maritimo,0,3,União de Leiria,Match Finished
+2024-01-11T20:15:00+00:00,2023,Taça de Portugal,Portugal,Guimaraes,1,0,Penafiel,Match Finished
+2024-01-10T20:00:00+00:00,2023,Taça de Portugal,Portugal,Vizela,1,0,Arouca,Match Finished
+2024-01-11T18:00:00+00:00,2023,Taça de Portugal,Portugal,Santa Clara,1,1,Nacional,Match Finished
+2024-02-08T18:45:00+00:00,2023,Taça de Portugal,Portugal,Guimaraes,3,1,GIL Vicente,Match Finished
+2024-02-08T20:45:00+00:00,2023,Taça de Portugal,Portugal,Vizela,1,2,Benfica,Match Finished
+2024-02-07T20:45:00+00:00,2023,Taça de Portugal,Portugal,União de Leiria,0,3,Sporting CP,Match Finished
+2024-02-29T16:00:00+00:00,2023,Taça de Portugal,Portugal,Santa Clara,1,2,FC Porto,Match Finished
+2024-02-29T20:45:00+00:00,2023,Taça de Portugal,Portugal,Sporting CP,2,1,Benfica,Match Finished
+2024-04-02T19:45:00+00:00,2023,Taça de Portugal,Portugal,Benfica,2,2,Sporting CP,Match Finished
+2024-04-03T19:15:00+00:00,2023,Taça de Portugal,Portugal,Guimaraes,0,1,FC Porto,Match Finished
+2024-04-17T19:15:00+00:00,2023,Taça de Portugal,Portugal,FC Porto,3,1,Guimaraes,Match Finished
+2024-05-26T16:15:00+00:00,2023,Taça de Portugal,Portugal,FC Porto,,,Sporting CP,Not Started

@@ -1,0 +1,382 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-26T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,0,0,Rayo Majadahonda,Match Finished
+2023-08-27T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,2,1,Teruel,Match Finished
+2023-08-27T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,1,Cultural Leonesa,Match Finished
+2023-08-26T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,0,0,Sestao River,Match Finished
+2023-08-27T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,1,0,Tarazona,Match Finished
+2023-08-27T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,1,0,Barcelona B,Match Finished
+2023-08-27T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,2,1,Sabadell,Match Finished
+2023-08-26T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,0,Cornellà,Match Finished
+2023-08-26T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,1,0,Arenteiro,Match Finished
+2023-08-27T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,2,1,Celta de Vigo II,Match Finished
+2023-09-03T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,2,1,Real Unión,Match Finished
+2023-09-03T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,1,0,Fuenlabrada,Match Finished
+2023-09-03T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,3,0,SD Logroñés,Match Finished
+2023-09-02T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,1,0,Tarazona,Match Finished
+2023-09-02T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,1,Gimnastic,Match Finished
+2023-09-02T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,3,Deportivo La Coruna,Match Finished
+2023-09-03T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,2,1,Osasuna II,Match Finished
+2023-09-02T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,1,0,Cultural Leonesa,Match Finished
+2023-09-03T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,0,1,Ponferradina,Match Finished
+2023-09-03T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,0,Real Sociedad II,Match Finished
+2023-09-10T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,0,0,Teruel,Match Finished
+2023-09-09T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,1,2,Cornellà,Match Finished
+2023-09-10T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,0,Lugo,Match Finished
+2023-09-09T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,1,Sabadell,Match Finished
+2023-09-10T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,3,0,Sestao River,Match Finished
+2023-09-10T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,1,1,Unionistas de Salamanca,Match Finished
+2023-09-10T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,1,0,Barcelona B,Match Finished
+2023-09-09T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,0,0,Arenteiro,Match Finished
+2023-09-10T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,4,0,Rayo Majadahonda,Match Finished
+2023-09-09T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,0,0,Cultural Leonesa,Match Finished
+2023-09-16T15:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,2,2,Fuenlabrada,Match Finished
+2023-09-17T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,1,1,Tarazona,Match Finished
+2023-09-17T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,0,Ponferradina,Match Finished
+2023-09-16T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,2,3,Real Unión,Match Finished
+2023-09-17T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,0,2,Osasuna II,Match Finished
+2023-09-17T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,1,Gimnastic,Match Finished
+2023-09-16T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,1,1,Deportivo La Coruna,Match Finished
+2023-09-17T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,1,Celta de Vigo II,Match Finished
+2023-09-16T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,1,2,SD Logroñés,Match Finished
+2023-09-17T15:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,0,0,Real Sociedad II,Match Finished
+2023-09-24T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,2,0,Sabadell,Match Finished
+2023-09-24T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,0,Unionistas de Salamanca,Match Finished
+2023-09-24T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,1,Rayo Majadahonda,Match Finished
+2023-09-24T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,0,2,Barcelona B,Match Finished
+2023-09-23T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,1,1,Cornellà,Match Finished
+2023-09-23T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,1,1,Lugo,Match Finished
+2023-09-24T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,4,3,Arenteiro,Match Finished
+2023-09-24T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,0,Fuenlabrada,Match Finished
+2023-09-24T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,3,2,Teruel,Match Finished
+2023-09-23T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,0,0,Cultural Leonesa,Match Finished
+2023-10-01T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,1,Celta de Vigo II,Match Finished
+2023-10-01T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,3,0,Sestao River,Match Finished
+2023-10-01T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,0,1,Real Sociedad II,Match Finished
+2023-09-30T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,1,Gimnastic,Match Finished
+2023-10-01T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,1,Tarazona,Match Finished
+2023-09-30T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,0,0,Teruel,Match Finished
+2023-10-01T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,1,0,Real Unión,Match Finished
+2023-09-30T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,1,0,SD Logroñés,Match Finished
+2023-10-01T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,2,1,Deportivo La Coruna,Match Finished
+2023-09-30T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,2,1,Osasuna II,Match Finished
+2023-10-07T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,0,0,Ponferradina,Match Finished
+2023-10-08T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,2,1,Rayo Majadahonda,Match Finished
+2023-10-07T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,1,Unionistas de Salamanca,Match Finished
+2023-10-08T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,1,0,Barcelona B,Match Finished
+2023-10-07T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,1,1,Cornellà,Match Finished
+2023-10-08T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,2,Lugo,Match Finished
+2023-10-07T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,0,Arenteiro,Match Finished
+2023-10-08T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,0,1,Celta de Vigo II,Match Finished
+2023-10-08T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,0,1,Fuenlabrada,Match Finished
+2023-10-08T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,1,0,Tarazona,Match Finished
+2023-10-15T14:15:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,0,Teruel,Match Finished
+2023-10-14T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,3,0,Unionistas de Salamanca,Match Finished
+2023-10-15T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,0,Sestao River,Match Finished
+2023-10-14T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,3,0,Real Unión,Match Finished
+2023-10-15T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,2,1,Gimnastic,Match Finished
+2023-10-14T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,3,1,Sabadell,Match Finished
+2023-10-15T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,1,Deportivo La Coruna,Match Finished
+2023-10-14T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,1,3,Osasuna II,Match Finished
+2023-10-15T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,0,0,Cultural Leonesa,Match Finished
+2023-10-15T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,2,1,SD Logroñés,Match Finished
+2023-10-22T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,2,2,Real Sociedad II,Match Finished
+2023-10-21T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,0,0,Tarazona,Match Finished
+2023-10-22T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,1,3,Barcelona B,Match Finished
+2023-10-22T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,2,2,Cornellà,Match Finished
+2023-10-21T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,0,1,Deportivo La Coruna,Match Finished
+2023-10-22T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,2,Lugo,Match Finished
+2023-10-21T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,1,0,Arenteiro,Match Finished
+2023-10-22T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,2,3,Celta de Vigo II,Match Finished
+2023-10-21T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,0,Fuenlabrada,Match Finished
+2023-10-22T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,1,1,Ponferradina,Match Finished
+2023-10-29T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,2,1,Osasuna II,Match Finished
+2023-10-29T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,1,1,Teruel,Match Finished
+2023-10-29T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,1,0,Gimnastic,Match Finished
+2023-10-29T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,2,0,Real Unión,Match Finished
+2023-10-28T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,4,0,Unionistas de Salamanca,Match Finished
+2023-10-28T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,4,2,Sabadell,Match Finished
+2023-10-28T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,2,1,SD Logroñés,Match Finished
+2023-10-29T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,2,0,Rayo Majadahonda,Match Finished
+2023-10-29T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,2,Cultural Leonesa,Match Finished
+2023-10-29T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,3,0,Sestao River,Match Finished
+2023-11-04T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,1,Fuenlabrada,Match Finished
+2023-11-05T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,2,1,Tarazona,Match Finished
+2023-11-04T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,2,Barcelona B,Match Finished
+2023-11-04T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,1,0,Cornellà,Match Finished
+2023-11-05T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,0,Gimnastic,Match Finished
+2023-11-05T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,3,0,Deportivo La Coruna,Match Finished
+2023-11-05T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,1,1,Lugo,Match Finished
+2023-11-05T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,1,0,Celta de Vigo II,Match Finished
+2023-11-05T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,2,Ponferradina,Match Finished
+2023-11-05T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,1,2,Real Sociedad II,Match Finished
+2023-11-11T16:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,4,1,Sabadell,Match Finished
+2023-11-11T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,3,1,Real Unión,Match Finished
+2023-11-12T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,0,0,Sestao River,Match Finished
+2023-11-11T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,2,0,SD Logroñés,Match Finished
+2023-11-12T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,2,1,Unionistas de Salamanca,Match Finished
+2023-11-12T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,4,1,Osasuna II,Match Finished
+2023-11-12T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,0,0,Teruel,Match Finished
+2023-11-11T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,2,2,Arenteiro,Match Finished
+2023-11-12T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,0,Rayo Majadahonda,Match Finished
+2023-11-12T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,3,Cultural Leonesa,Match Finished
+2023-11-18T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,0,Cornellà,Match Finished
+2023-11-19T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,2,Real Sociedad II,Match Finished
+2023-11-19T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,3,1,Barcelona B,Match Finished
+2023-11-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,1,1,Gimnastic,Match Finished
+2023-11-18T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,1,1,Deportivo La Coruna,Match Finished
+2023-11-19T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,0,1,Lugo,Match Finished
+2023-11-19T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,2,Celta de Vigo II,Match Finished
+2023-11-19T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,1,2,Fuenlabrada,Match Finished
+2023-11-19T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,1,Rayo Majadahonda,Match Finished
+2023-11-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,0,1,Ponferradina,Match Finished
+2023-11-26T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,1,1,Osasuna II,Match Finished
+2023-11-26T14:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,1,2,Real Sociedad II,Match Finished
+2023-11-26T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,0,Unionistas de Salamanca,Match Finished
+2023-11-26T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,0,2,Sestao River,Match Finished
+2023-11-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,0,1,Tarazona,Match Finished
+2023-11-26T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,0,2,Barcelona B,Match Finished
+2023-11-25T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,2,2,Sabadell,Match Finished
+2023-11-25T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,1,Arenteiro,Match Finished
+2023-11-25T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,3,0,Cultural Leonesa,Match Finished
+2023-11-26T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,0,1,SD Logroñés,Match Finished
+2023-12-03T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,2,Deportivo La Coruna,Match Finished
+2023-12-02T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,2,2,Rayo Majadahonda,Match Finished
+2023-12-03T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,2,0,Sabadell,Match Finished
+2023-12-03T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,1,Teruel,Match Finished
+2023-12-02T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,2,0,Real Unión,Match Finished
+2023-12-03T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,2,0,Gimnastic,Match Finished
+2023-12-02T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,0,1,Lugo,Match Finished
+2023-12-03T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,2,3,Celta de Vigo II,Match Finished
+2023-12-02T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,1,0,Fuenlabrada,Match Finished
+2023-12-03T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,1,2,Ponferradina,Match Finished
+2023-12-09T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,1,0,Unionistas de Salamanca,Match Finished
+2023-12-10T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,2,1,Tarazona,Match Finished
+2023-12-10T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,1,1,Sestao River,Match Finished
+2023-12-09T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,2,0,Cultural Leonesa,Match Finished
+2023-12-09T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,1,1,Real Sociedad II,Match Finished
+2023-12-10T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,1,1,Barcelona B,Match Finished
+2023-12-10T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,0,Cornellà,Match Finished
+2023-12-10T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,2,0,Arenteiro,Match Finished
+2023-12-10T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,2,3,Osasuna II,Match Finished
+2023-12-10T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,2,SD Logroñés,Match Finished
+2023-12-17T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,1,Ponferradina,Match Finished
+2023-12-16T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,1,0,Lugo,Match Finished
+2023-12-17T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,2,Deportivo La Coruna,Match Finished
+2023-12-16T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,0,0,Teruel,Match Finished
+2023-12-17T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,3,0,Sabadell,Match Finished
+2023-12-17T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,2,Gimnastic,Match Finished
+2023-12-17T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,2,2,Real Unión,Match Finished
+2023-12-17T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,2,Celta de Vigo II,Match Finished
+2023-12-16T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,2,0,Rayo Majadahonda,Match Finished
+2023-12-16T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,2,1,Osasuna II,Match Finished
+2024-01-03T20:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,0,2,Unionistas de Salamanca,Match Finished
+2024-01-04T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,3,1,Tarazona,Match Finished
+2024-01-04T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,2,1,Real Sociedad II,Match Finished
+2024-01-03T19:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,3,0,Cornellà,Match Finished
+2024-01-03T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,2,1,Arenteiro,Match Finished
+2024-01-02T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,1,Celta de Vigo II,Match Finished
+2024-01-04T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,0,0,Fuenlabrada,Match Finished
+2024-01-03T18:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,0,Cultural Leonesa,Match Finished
+2024-01-04T20:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,3,0,SD Logroñés,Match Finished
+2024-01-03T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,4,2,Sestao River,Match Finished
+2024-01-14T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,0,1,Sabadell,Match Finished
+2024-01-13T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,2,0,Barcelona B,Match Finished
+2024-01-14T14:45:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,0,1,Gimnastic,Match Finished
+2024-01-14T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,0,Real Unión,Match Finished
+2024-01-14T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,3,Ponferradina,Match Finished
+2024-01-13T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,1,1,Teruel,Match Finished
+2024-01-14T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,1,0,Deportivo La Coruna,Match Finished
+2024-01-13T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,1,0,Lugo,Match Finished
+2024-01-13T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,2,1,Rayo Majadahonda,Match Finished
+2024-01-14T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,2,2,Osasuna II,Match Finished
+2024-01-21T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,2,1,Real Sociedad II,Match Finished
+2024-01-21T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,2,0,Ponferradina,Match Finished
+2024-01-21T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,1,Tarazona,Match Finished
+2024-01-20T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,1,0,Cornellà,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,2,0,Lugo,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,1,2,Arenteiro,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,2,1,Celta de Vigo II,Match Finished
+2024-01-20T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,1,1,Fuenlabrada,Match Finished
+2024-01-21T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,0,0,Unionistas de Salamanca,Match Finished
+2024-01-21T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,0,SD Logroñés,Match Finished
+2024-01-28T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,1,1,Osasuna II,Match Finished
+2024-01-27T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,1,0,Real Sociedad II,Match Finished
+2024-01-27T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,1,Teruel,Match Finished
+2024-01-28T20:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,1,2,Deportivo La Coruna,Match Finished
+2024-01-27T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,0,1,Real Unión,Match Finished
+2024-01-27T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,1,Sestao River,Match Finished
+2024-01-27T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,1,1,Sabadell,Match Finished
+2024-01-27T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,1,2,Barcelona B,Match Finished
+2024-01-28T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,3,0,Cornellà,Match Finished
+2024-01-28T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,1,Cultural Leonesa,Match Finished
+2024-02-04T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,1,SD Logroñés,Match Finished
+2024-02-04T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,4,1,Fuenlabrada,Match Finished
+2024-02-04T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,0,1,Ponferradina,Match Finished
+2024-02-04T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,1,1,Unionistas de Salamanca,Match Finished
+2024-02-04T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,0,2,Gimnastic,Match Finished
+2024-02-03T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,0,0,Lugo,Match Finished
+2024-02-04T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,1,0,Arenteiro,Match Finished
+2024-02-03T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,2,1,Celta de Vigo II,Match Finished
+2024-02-04T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,1,1,Rayo Majadahonda,Match Finished
+2024-02-03T17:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,0,0,Tarazona,Match Finished
+2024-02-10T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,2,1,Real Unión,Match Finished
+2024-02-11T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,1,1,Osasuna II,Match Finished
+2024-02-10T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,0,Cultural Leonesa,Match Finished
+2024-02-10T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,3,3,Teruel,Match Finished
+2024-02-11T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,3,1,Sestao River,Match Finished
+2024-02-11T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,1,Real Sociedad II,Match Finished
+2024-02-10T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,1,Unionistas de Salamanca,Match Finished
+2024-02-11T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,0,1,Barcelona B,Match Finished
+2024-02-10T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,0,0,Cornellà,Match Finished
+2024-02-10T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,5,Deportivo La Coruna,Match Finished
+2024-02-18T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,3,1,Rayo Majadahonda,Match Finished
+2024-02-17T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,0,0,SD Logroñés,Match Finished
+2024-02-18T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,4,1,Tarazona,Match Finished
+2024-02-17T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,0,Osasuna II,Match Finished
+2024-02-18T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,0,0,Ponferradina,Match Finished
+2024-02-17T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,0,1,Sabadell,Match Finished
+2024-02-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,1,1,Gimnastic,Match Finished
+2024-02-17T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,1,2,Lugo,Match Finished
+2024-02-18T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,1,1,Celta de Vigo II,Match Finished
+2024-02-18T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,2,0,Fuenlabrada,Match Finished
+2024-02-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,4,0,Cultural Leonesa,Match Finished
+2024-02-24T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,1,0,Real Unión,Match Finished
+2024-02-25T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,0,2,Teruel,Match Finished
+2024-02-24T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,4,0,Sestao River,Match Finished
+2024-02-24T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,2,0,Real Sociedad II,Match Finished
+2024-02-24T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,3,Cornellà,Match Finished
+2024-02-25T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,0,4,Deportivo La Coruna,Match Finished
+2024-02-24T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,1,0,Arenteiro,Match Finished
+2024-02-25T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,0,Fuenlabrada,Match Finished
+2024-02-24T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,0,0,Unionistas de Salamanca,Match Finished
+2024-03-02T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,0,0,Osasuna II,Match Finished
+2024-03-03T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,4,1,Lugo,Match Finished
+2024-03-02T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,0,1,Gimnastic,Match Finished
+2024-03-02T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,2,1,Ponferradina,Match Finished
+2024-03-02T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,1,1,Tarazona,Match Finished
+2024-03-03T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,0,0,Barcelona B,Match Finished
+2024-03-03T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,3,0,Sabadell,Match Finished
+2024-03-02T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,0,2,Celta de Vigo II,Match Finished
+2024-03-02T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,1,0,Rayo Majadahonda,Match Finished
+2024-03-02T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,1,0,SD Logroñés,Match Finished
+2024-03-09T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,2,1,Sestao River,Match Finished
+2024-03-10T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,1,1,Unionistas de Salamanca,Match Finished
+2024-03-09T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,0,0,Ponferradina,Match Finished
+2024-03-09T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,1,1,Real Unión,Match Finished
+2024-03-09T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,2,Teruel,Match Finished
+2024-03-09T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,1,2,Cornellà,Match Finished
+2024-03-10T11:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,1,1,Deportivo La Coruna,Match Finished
+2024-03-09T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,1,2,Arenteiro,Match Finished
+2024-03-10T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,1,2,Fuenlabrada,Match Finished
+2024-03-10T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,1,1,Cultural Leonesa,Match Finished
+2024-03-16T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,0,0,Gimnastic,Match Finished
+2024-03-16T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,1,1,Sabadell,Match Finished
+2024-03-17T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,2,2,Rayo Majadahonda,Match Finished
+2024-03-16T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,0,Tarazona,Match Finished
+2024-03-16T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,2,4,Barcelona B,Match Finished
+2024-03-17T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,0,0,Lugo,Match Finished
+2024-03-17T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,0,0,Celta de Vigo II,Match Finished
+2024-03-16T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,1,2,Osasuna II,Match Finished
+2024-03-16T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,2,0,SD Logroñés,Match Finished
+2024-03-17T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,1,3,Real Sociedad II,Match Finished
+2024-03-24T15:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,0,Cornellà,Match Finished
+2024-03-24T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,0,1,Unionistas de Salamanca,Match Finished
+2024-03-24T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,4,3,Sestao River,Match Finished
+2024-03-23T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,4,1,Fuenlabrada,Match Finished
+2024-03-23T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,1,1,Real Unión,Match Finished
+2024-03-23T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,2,2,Teruel,Match Finished
+2024-03-23T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,0,2,Deportivo La Coruna,Match Finished
+2024-03-23T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,0,1,Arenteiro,Match Finished
+2024-03-24T19:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,0,0,Cultural Leonesa,Match Finished
+2024-03-24T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,2,0,Ponferradina,Match Finished
+2024-03-30T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,0,1,Deportivo La Coruna,Match Finished
+2024-03-31T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,1,1,Real Sociedad II,Match Finished
+2024-03-30T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,1,2,Sabadell,Match Finished
+2024-03-30T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,2,1,Real Unión,Match Finished
+2024-03-31T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,2,0,Lugo,Match Finished
+2024-03-31T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,2,3,Barcelona B,Match Finished
+2024-03-31T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,0,1,Gimnastic,Match Finished
+2024-03-30T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,1,0,Celta de Vigo II,Match Finished
+2024-03-30T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,2,1,Rayo Majadahonda,Match Finished
+2024-03-30T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,1,0,SD Logroñés,Match Finished
+2024-04-06T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,1,1,Teruel,Match Finished
+2024-04-07T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,1,0,Unionistas de Salamanca,Match Finished
+2024-04-07T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,0,1,Tarazona,Match Finished
+2024-04-06T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,4,1,Osasuna II,Match Finished
+2024-04-06T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,0,1,Ponferradina,Match Finished
+2024-04-06T13:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,2,3,Sestao River,Match Finished
+2024-04-06T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,1,0,Cornellà,Match Finished
+2024-04-07T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,1,Arenteiro,Match Finished
+2024-04-07T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,1,0,Fuenlabrada,Match Finished
+2024-04-07T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,0,0,Cultural Leonesa,Match Finished
+2024-04-14T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,4,1,Lugo,Match Finished
+2024-04-13T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,1,Rayo Majadahonda,Match Finished
+2024-04-14T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,2,0,Sabadell,Match Finished
+2024-04-13T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,3,1,Real Sociedad II,Match Finished
+2024-04-13T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,3,1,Real Unión,Match Finished
+2024-04-14T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,4,1,Barcelona B,Match Finished
+2024-04-14T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,1,0,Gimnastic,Match Finished
+2024-04-13T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,1,3,Deportivo La Coruna,Match Finished
+2024-04-13T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,1,2,Arenteiro,Match Finished
+2024-04-14T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,3,0,SD Logroñés,Match Finished
+2024-04-21T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,1,0,Lugo,Match Finished
+2024-04-20T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,2,0,Cultural Leonesa,Match Finished
+2024-04-21T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,0,0,Ponferradina,Match Finished
+2024-04-20T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,0,0,Tarazona,Match Finished
+2024-04-21T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,1,1,Osasuna II,Match Finished
+2024-04-20T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,2,1,Cornellà,Match Finished
+2024-04-21T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,1,0,Celta de Vigo II,Match Finished
+2024-04-20T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,2,0,Fuenlabrada,Match Finished
+2024-04-21T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,3,1,Unionistas de Salamanca,Match Finished
+2024-04-20T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,1,0,Sestao River,Match Finished
+2024-04-27T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,1,1,Sestao River,Match Finished
+2024-04-27T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,3,1,Rayo Majadahonda,Match Finished
+2024-04-27T14:30:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,4,0,SD Logroñés,Match Finished
+2024-04-27T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,0,0,Teruel,Match Finished
+2024-04-27T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,2,1,Real Unión,Match Finished
+2024-04-28T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Gimnastic,Not Started
+2024-04-27T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,1,3,Barcelona B,Match Finished
+2024-04-27T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,4,0,Sabadell,Match Finished
+2024-04-28T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,,,Arenteiro,Not Started
+2024-04-28T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,,,Real Sociedad II,Not Started
+2024-05-04T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,,,Tarazona,Not Started
+2024-05-05T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,,,Ponferradina,Not Started
+2024-05-05T00:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,,,Lugo,Match Cancelled
+2024-05-05T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,,,Osasuna II,Not Started
+2024-05-05T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,,,Gimnastic,Not Started
+2024-05-04T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,,,Deportivo La Coruna,Not Started
+2024-05-04T15:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Celta de Vigo II,Not Started
+2024-05-04T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,,,Fuenlabrada,Not Started
+2024-05-04T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,,,Unionistas de Salamanca,Not Started
+2024-05-04T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,,,Cultural Leonesa,Not Started
+2024-05-11T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Rayo Majadahonda,Not Started
+2024-05-12T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,,,Sestao River,Not Started
+2024-05-12T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Teruel,Not Started
+2024-05-12T10:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,,,Real Unión,Not Started
+2024-05-12T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,,,Barcelona B,Not Started
+2024-05-11T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,,,Sabadell,Not Started
+2024-05-11T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,,,Cornellà,Not Started
+2024-05-11T18:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,,,Arenteiro,Not Started
+2024-05-11T16:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,,,SD Logroñés,Not Started
+2024-05-12T14:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Real Sociedad II,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Barcelona B,,,Gimnastic,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cornellà,,,Cultural Leonesa,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,,,Celta de Vigo II,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Rayo Majadahonda,,,Unionistas de Salamanca,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,SD Logroñés,,,Lugo,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sestao River,,,Tarazona,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Sociedad II,,,Deportivo La Coruna,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Real Unión,,,Fuenlabrada,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Teruel,,,Osasuna II,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Sabadell,,,Ponferradina,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Deportivo La Coruna,,,Real Unión,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Lugo,,,Sabadell,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Osasuna II,,,Real Sociedad II,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Cultural Leonesa,,,Sestao River,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Ponferradina,,,Teruel,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Celta de Vigo II,,,Barcelona B,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Fuenlabrada,,,Cornellà,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Unionistas de Salamanca,,,Arenteiro,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Gimnastic,,,Rayo Majadahonda,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Tarazona,,,SD Logroñés,Not Started
+2024-05-05T17:00:00+00:00,2023,Primera División RFEF - Group 1,Spain,Arenteiro,,,Lugo,Not Started

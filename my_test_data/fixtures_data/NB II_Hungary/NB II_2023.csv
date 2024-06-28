@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-30T15:30:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,0,Siofok,Match Finished
+2023-07-30T15:30:00+00:00,2023,NB II,Hungary,BVSC,1,0,Szombathelyi Haladas,Match Finished
+2023-07-30T15:30:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,3,Gyori ETO FC,Match Finished
+2023-07-30T17:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,1,2,Tiszakecske FC,Match Finished
+2023-07-30T17:00:00+00:00,2023,NB II,Hungary,Csakvar,1,2,Budapest Honved,Match Finished
+2023-07-30T17:00:00+00:00,2023,NB II,Hungary,Ajka,1,1,Soroksar,Match Finished
+2023-07-30T17:00:00+00:00,2023,NB II,Hungary,Vasas,0,1,Budafoki LC,Match Finished
+2023-07-30T17:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,0,1,Szeged 2011,Match Finished
+2023-07-30T17:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,1,0,MTE 1904,Match Finished
+2023-08-06T15:30:00+00:00,2023,NB II,Hungary,MTE 1904,0,3,Kazincbarcikai,Match Finished
+2023-08-06T15:30:00+00:00,2023,NB II,Hungary,Budafoki LC,2,0,Ajka,Match Finished
+2023-08-06T15:30:00+00:00,2023,NB II,Hungary,Soroksar,1,0,Gyirmot SE,Match Finished
+2023-08-06T15:30:00+00:00,2023,NB II,Hungary,Budapest Honved,1,2,Kozarmisleny FC,Match Finished
+2023-08-05T18:00:00+00:00,2023,NB II,Hungary,Szeged 2011,4,3,Vasas,Match Finished
+2023-08-06T17:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,4,0,BVSC,Match Finished
+2023-08-06T17:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,1,1,Nyiregyhaza,Match Finished
+2023-08-06T17:00:00+00:00,2023,NB II,Hungary,Siofok,0,1,Pécsi MFC,Match Finished
+2023-08-06T17:00:00+00:00,2023,NB II,Hungary,Csakvar,4,2,Szombathelyi Haladas,Match Finished
+2023-08-13T15:30:00+00:00,2023,NB II,Hungary,Nyiregyhaza,0,0,Budapest Honved,Match Finished
+2023-08-13T15:30:00+00:00,2023,NB II,Hungary,BVSC,1,2,Soroksar,Match Finished
+2023-08-13T15:30:00+00:00,2023,NB II,Hungary,Gyirmot SE,1,1,Budafoki LC,Match Finished
+2023-08-13T17:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,2,0,Szombathelyi Haladas,Match Finished
+2023-08-13T17:00:00+00:00,2023,NB II,Hungary,Csakvar,1,2,Gyori ETO FC,Match Finished
+2023-08-13T17:00:00+00:00,2023,NB II,Hungary,Ajka,0,0,Szeged 2011,Match Finished
+2023-08-13T17:00:00+00:00,2023,NB II,Hungary,Vasas,5,1,MTE 1904,Match Finished
+2023-08-13T17:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,0,0,Pécsi MFC,Match Finished
+2023-08-13T17:00:00+00:00,2023,NB II,Hungary,Siofok,1,1,Tiszakecske FC,Match Finished
+2023-08-16T17:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,1,1,Siofok,Match Finished
+2023-08-16T16:30:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,0,Vasas,Match Finished
+2023-08-16T15:30:00+00:00,2023,NB II,Hungary,MTE 1904,0,2,Ajka,Match Finished
+2023-08-16T17:00:00+00:00,2023,NB II,Hungary,Szeged 2011,1,1,Gyirmot SE,Match Finished
+2023-08-16T15:30:00+00:00,2023,NB II,Hungary,Budafoki LC,2,0,BVSC,Match Finished
+2023-08-16T15:30:00+00:00,2023,NB II,Hungary,Soroksar,2,0,Csakvar,Match Finished
+2023-08-16T17:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,2,1,Kozarmisleny FC,Match Finished
+2023-08-16T15:30:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,1,1,Nyiregyhaza,Match Finished
+2023-08-16T17:00:00+00:00,2023,NB II,Hungary,Budapest Honved,2,1,Tiszakecske FC,Match Finished
+2023-08-19T15:30:00+00:00,2023,NB II,Hungary,Nyiregyhaza,3,2,Gyori ETO FC,Match Finished
+2023-08-19T17:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,2,1,Soroksar,Match Finished
+2023-08-19T17:00:00+00:00,2023,NB II,Hungary,Csakvar,0,1,Budafoki LC,Match Finished
+2023-08-19T15:30:00+00:00,2023,NB II,Hungary,BVSC,0,1,Szeged 2011,Match Finished
+2023-08-19T15:30:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,2,MTE 1904,Match Finished
+2023-08-19T17:00:00+00:00,2023,NB II,Hungary,Ajka,0,2,Pécsi MFC,Match Finished
+2023-08-19T17:00:00+00:00,2023,NB II,Hungary,Vasas,2,2,Kazincbarcikai,Match Finished
+2023-08-19T17:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,2,3,Szombathelyi Haladas,Match Finished
+2023-08-19T17:00:00+00:00,2023,NB II,Hungary,Siofok,2,1,Budapest Honved,Match Finished
+2023-08-27T17:00:00+00:00,2023,NB II,Hungary,Vasas,4,0,Siofok,Match Finished
+2023-08-27T17:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,1,0,Ajka,Match Finished
+2023-08-27T17:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,0,Gyirmot SE,Match Finished
+2023-08-27T15:30:00+00:00,2023,NB II,Hungary,MTE 1904,3,3,BVSC,Match Finished
+2023-08-27T17:00:00+00:00,2023,NB II,Hungary,Szeged 2011,0,2,Csakvar,Match Finished
+2023-08-27T15:30:00+00:00,2023,NB II,Hungary,Budafoki LC,1,2,Kozarmisleny FC,Match Finished
+2023-08-27T15:30:00+00:00,2023,NB II,Hungary,Soroksar,1,2,Nyiregyhaza,Match Finished
+2023-08-27T17:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,2,0,Tiszakecske FC,Match Finished
+2024-03-03T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,1,0,Budapest Honved,Match Finished
+2023-09-03T14:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,0,Budafoki LC,Match Finished
+2023-09-03T15:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,1,1,Szeged 2011,Match Finished
+2023-09-03T15:00:00+00:00,2023,NB II,Hungary,Csakvar,2,0,MTE 1904,Match Finished
+2023-09-03T14:00:00+00:00,2023,NB II,Hungary,BVSC,0,0,Pécsi MFC,Match Finished
+2023-09-03T14:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,2,Kazincbarcikai,Match Finished
+2023-09-03T15:00:00+00:00,2023,NB II,Hungary,Ajka,1,2,Vasas,Match Finished
+2023-09-03T14:00:00+00:00,2023,NB II,Hungary,Budapest Honved,2,1,Gyori ETO FC,Match Finished
+2023-09-03T14:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,1,0,Soroksar,Match Finished
+2023-09-03T15:00:00+00:00,2023,NB II,Hungary,Siofok,1,1,Szombathelyi Haladas,Match Finished
+2023-09-24T15:00:00+00:00,2023,NB II,Hungary,Ajka,0,2,Siofok,Match Finished
+2023-09-24T15:00:00+00:00,2023,NB II,Hungary,Vasas,2,0,Gyirmot SE,Match Finished
+2023-09-24T15:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,2,2,BVSC,Match Finished
+2023-09-24T15:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,1,Csakvar,Match Finished
+2023-09-24T14:00:00+00:00,2023,NB II,Hungary,MTE 1904,1,1,Kozarmisleny FC,Match Finished
+2023-09-24T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,1,1,Nyiregyhaza,Match Finished
+2023-09-24T14:00:00+00:00,2023,NB II,Hungary,Budafoki LC,2,1,Tiszakecske FC,Match Finished
+2023-09-24T14:00:00+00:00,2023,NB II,Hungary,Soroksar,1,1,Budapest Honved,Match Finished
+2023-09-24T17:45:00+00:00,2023,NB II,Hungary,Gyori ETO FC,1,1,Szombathelyi Haladas,Match Finished
+2023-09-27T14:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,0,MTE 1904,Match Finished
+2023-09-27T16:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,3,0,Pécsi MFC,Match Finished
+2023-09-27T16:00:00+00:00,2023,NB II,Hungary,Csakvar,0,0,Kazincbarcikai,Match Finished
+2023-09-27T14:00:00+00:00,2023,NB II,Hungary,BVSC,0,2,Vasas,Match Finished
+2023-09-27T14:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,1,Ajka,Match Finished
+2023-09-27T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,2,1,Soroksar,Match Finished
+2023-09-28T17:45:00+00:00,2023,NB II,Hungary,Budapest Honved,2,2,Budafoki LC,Match Finished
+2023-09-27T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,2,2,Szeged 2011,Match Finished
+2023-09-27T16:00:00+00:00,2023,NB II,Hungary,Siofok,2,4,Gyori ETO FC,Match Finished
+2023-10-01T13:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,1,0,Siofok,Match Finished
+2023-10-01T15:00:00+00:00,2023,NB II,Hungary,Ajka,0,1,BVSC,Match Finished
+2023-10-01T15:00:00+00:00,2023,NB II,Hungary,Vasas,1,1,Csakvar,Match Finished
+2023-10-01T15:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,1,0,Kozarmisleny FC,Match Finished
+2023-10-02T18:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,4,Nyiregyhaza,Match Finished
+2023-10-01T13:00:00+00:00,2023,NB II,Hungary,MTE 1904,0,2,Tiszakecske FC,Match Finished
+2023-10-01T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,1,0,Budapest Honved,Match Finished
+2023-10-01T13:00:00+00:00,2023,NB II,Hungary,Budafoki LC,0,1,Szombathelyi Haladas,Match Finished
+2023-10-01T13:00:00+00:00,2023,NB II,Hungary,Soroksar,1,3,Gyori ETO FC,Match Finished
+2023-10-08T13:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,1,0,Kazincbarcikai,Match Finished
+2023-10-08T13:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,4,3,Vasas,Match Finished
+2023-10-08T13:00:00+00:00,2023,NB II,Hungary,Csakvar,1,0,Ajka,Match Finished
+2023-10-08T13:00:00+00:00,2023,NB II,Hungary,BVSC,0,3,Gyirmot SE,Match Finished
+2023-10-08T15:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,4,1,Budafoki LC,Match Finished
+2023-10-08T15:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,1,1,Szeged 2011,Match Finished
+2023-10-08T13:00:00+00:00,2023,NB II,Hungary,Budapest Honved,3,1,MTE 1904,Match Finished
+2023-10-08T13:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,0,0,Pécsi MFC,Match Finished
+2023-10-08T13:00:00+00:00,2023,NB II,Hungary,Siofok,0,1,Soroksar,Match Finished
+2023-10-22T11:00:00+00:00,2023,NB II,Hungary,BVSC,2,0,Siofok,Match Finished
+2023-10-22T11:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,1,Csakvar,Match Finished
+2023-10-22T15:00:00+00:00,2023,NB II,Hungary,Ajka,0,3,Kozarmisleny FC,Match Finished
+2023-10-22T15:00:00+00:00,2023,NB II,Hungary,Vasas,3,0,Nyiregyhaza,Match Finished
+2023-10-22T11:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,2,2,Tiszakecske FC,Match Finished
+2023-10-22T15:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,0,Budapest Honved,Match Finished
+2023-10-22T11:00:00+00:00,2023,NB II,Hungary,MTE 1904,2,1,Szombathelyi Haladas,Match Finished
+2023-10-22T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,1,1,Gyori ETO FC,Match Finished
+2023-10-22T11:00:00+00:00,2023,NB II,Hungary,Budafoki LC,0,0,Soroksar,Match Finished
+2023-10-29T12:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,1,Ajka,Match Finished
+2023-10-29T16:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,2,2,Gyirmot SE,Match Finished
+2023-10-29T12:00:00+00:00,2023,NB II,Hungary,Csakvar,0,1,BVSC,Match Finished
+2023-10-29T12:00:00+00:00,2023,NB II,Hungary,Soroksar,1,1,Szeged 2011,Match Finished
+2023-10-28T15:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,4,0,MTE 1904,Match Finished
+2023-10-29T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,0,1,Pécsi MFC,Match Finished
+2023-10-29T16:00:00+00:00,2023,NB II,Hungary,Budapest Honved,0,1,Kazincbarcikai,Match Finished
+2023-10-29T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,1,2,Vasas,Match Finished
+2023-10-29T12:00:00+00:00,2023,NB II,Hungary,Siofok,3,1,Budafoki LC,Match Finished
+2023-11-05T16:00:00+00:00,2023,NB II,Hungary,Csakvar,1,0,Siofok,Match Finished
+2023-11-05T12:00:00+00:00,2023,NB II,Hungary,BVSC,0,1,Kozarmisleny FC,Match Finished
+2023-11-05T12:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,4,Nyiregyhaza,Match Finished
+2023-11-05T16:00:00+00:00,2023,NB II,Hungary,Ajka,1,0,Tiszakecske FC,Match Finished
+2023-11-06T19:00:00+00:00,2023,NB II,Hungary,Vasas,3,0,Budapest Honved,Match Finished
+2023-11-05T12:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,2,2,Szombathelyi Haladas,Match Finished
+2023-11-05T12:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,1,Gyori ETO FC,Match Finished
+2023-11-05T12:00:00+00:00,2023,NB II,Hungary,MTE 1904,0,2,Soroksar,Match Finished
+2023-11-05T16:00:00+00:00,2023,NB II,Hungary,Szeged 2011,1,0,Budafoki LC,Match Finished
+2023-11-12T12:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,0,BVSC,Match Finished
+2023-11-12T16:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,1,1,Csakvar,Match Finished
+2023-11-12T12:00:00+00:00,2023,NB II,Hungary,Budafoki LC,2,2,MTE 1904,Match Finished
+2023-11-12T12:00:00+00:00,2023,NB II,Hungary,Soroksar,0,0,Pécsi MFC,Match Finished
+2023-11-12T16:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,2,0,Kazincbarcikai,Match Finished
+2023-11-12T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,3,3,Vasas,Match Finished
+2023-11-12T16:00:00+00:00,2023,NB II,Hungary,Budapest Honved,1,0,Ajka,Match Finished
+2023-11-12T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,0,1,Gyirmot SE,Match Finished
+2023-11-12T12:00:00+00:00,2023,NB II,Hungary,Siofok,0,0,Szeged 2011,Match Finished
+2023-11-26T16:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,7,0,Siofok,Match Finished
+2023-11-26T12:00:00+00:00,2023,NB II,Hungary,Csakvar,1,7,Nyiregyhaza,Match Finished
+2023-11-26T12:00:00+00:00,2023,NB II,Hungary,BVSC,0,0,Tiszakecske FC,Match Finished
+2023-11-26T12:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,1,1,Budapest Honved,Match Finished
+2023-11-26T16:00:00+00:00,2023,NB II,Hungary,Ajka,3,1,Szombathelyi Haladas,Match Finished
+2023-11-27T19:00:00+00:00,2023,NB II,Hungary,Vasas,6,0,Gyori ETO FC,Match Finished
+2023-11-26T12:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,3,1,Soroksar,Match Finished
+2023-11-26T12:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,1,0,Budafoki LC,Match Finished
+2023-11-26T12:00:00+00:00,2023,NB II,Hungary,MTE 1904,0,1,Szeged 2011,Match Finished
+2023-12-04T17:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,5,1,Kozarmisleny FC,Match Finished
+2023-12-03T16:00:00+00:00,2023,NB II,Hungary,Szeged 2011,1,0,Pécsi MFC,Match Finished
+2023-12-03T12:00:00+00:00,2023,NB II,Hungary,Budafoki LC,2,0,Kazincbarcikai,Match Finished
+2023-12-03T12:00:00+00:00,2023,NB II,Hungary,Soroksar,1,1,Vasas,Match Finished
+2023-12-03T16:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,1,0,Ajka,Match Finished
+2023-12-03T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,1,1,Gyirmot SE,Match Finished
+2023-12-03T16:00:00+00:00,2023,NB II,Hungary,Budapest Honved,1,1,BVSC,Match Finished
+2023-12-03T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,1,1,Csakvar,Match Finished
+2023-12-03T12:00:00+00:00,2023,NB II,Hungary,Siofok,1,3,MTE 1904,Match Finished
+2023-12-10T12:00:00+00:00,2023,NB II,Hungary,Siofok,1,3,Nyiregyhaza,Match Finished
+2024-02-14T17:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,0,0,Kozarmisleny FC,Match Finished
+2023-12-10T16:00:00+00:00,2023,NB II,Hungary,Budapest Honved,2,2,Csakvar,Match Finished
+2024-02-14T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,1,0,BVSC,Match Finished
+2024-02-14T15:30:00+00:00,2023,NB II,Hungary,Gyori ETO FC,0,0,Gyirmot SE,Match Finished
+2024-02-14T13:00:00+00:00,2023,NB II,Hungary,Soroksar,1,3,Ajka,Match Finished
+2024-02-14T16:00:00+00:00,2023,NB II,Hungary,Budafoki LC,0,0,Vasas,Match Finished
+2023-12-10T16:00:00+00:00,2023,NB II,Hungary,Szeged 2011,3,0,Kazincbarcikai,Match Finished
+2023-12-10T12:00:00+00:00,2023,NB II,Hungary,MTE 1904,0,1,Pécsi MFC,Match Finished
+2024-02-04T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,2,2,Csakvar,Match Finished
+2024-02-04T13:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,1,0,MTE 1904,Match Finished
+2024-02-05T19:00:00+00:00,2023,NB II,Hungary,Vasas,0,0,Szeged 2011,Match Finished
+2024-02-04T13:00:00+00:00,2023,NB II,Hungary,Ajka,3,1,Budafoki LC,Match Finished
+2024-02-04T13:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,1,0,Soroksar,Match Finished
+2024-02-04T13:00:00+00:00,2023,NB II,Hungary,BVSC,1,0,Gyori ETO FC,Match Finished
+2024-02-03T13:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,1,2,Budapest Honved,Match Finished
+2024-02-04T13:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,0,Tiszakecske FC,Match Finished
+2024-02-04T13:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,2,2,Siofok,Match Finished
+2024-02-11T13:00:00+00:00,2023,NB II,Hungary,Budapest Honved,1,1,Nyiregyhaza,Match Finished
+2024-02-11T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,1,1,Kozarmisleny FC,Match Finished
+2024-02-11T13:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,2,1,Csakvar,Match Finished
+2024-02-11T13:00:00+00:00,2023,NB II,Hungary,Soroksar,2,1,BVSC,Match Finished
+2024-02-11T13:00:00+00:00,2023,NB II,Hungary,Budafoki LC,1,3,Gyirmot SE,Match Finished
+2024-02-11T16:00:00+00:00,2023,NB II,Hungary,Szeged 2011,0,2,Ajka,Match Finished
+2024-02-11T13:00:00+00:00,2023,NB II,Hungary,MTE 1904,1,3,Vasas,Match Finished
+2024-02-11T13:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,3,Kazincbarcikai,Match Finished
+2024-02-11T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,1,3,Siofok,Match Finished
+2024-02-18T13:00:00+00:00,2023,NB II,Hungary,Siofok,3,0,Kazincbarcikai,Match Finished
+2024-02-19T19:00:00+00:00,2023,NB II,Hungary,Vasas,4,1,Pécsi MFC,Match Finished
+2024-02-18T13:00:00+00:00,2023,NB II,Hungary,Ajka,1,0,MTE 1904,Match Finished
+2024-02-18T13:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,0,0,Szeged 2011,Match Finished
+2024-02-18T13:00:00+00:00,2023,NB II,Hungary,BVSC,2,1,Budafoki LC,Match Finished
+2024-02-18T16:00:00+00:00,2023,NB II,Hungary,Csakvar,1,2,Soroksar,Match Finished
+2024-02-18T13:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,1,0,Gyori ETO FC,Match Finished
+2024-02-18T13:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,1,Szombathelyi Haladas,Match Finished
+2024-02-18T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,1,1,Budapest Honved,Match Finished
+2024-02-26T19:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,0,1,Nyiregyhaza,Match Finished
+2024-02-25T13:00:00+00:00,2023,NB II,Hungary,Soroksar,2,1,Kozarmisleny FC,Match Finished
+2024-02-25T13:00:00+00:00,2023,NB II,Hungary,Budafoki LC,1,2,Csakvar,Match Finished
+2024-02-25T16:00:00+00:00,2023,NB II,Hungary,Szeged 2011,2,0,BVSC,Match Finished
+2024-02-25T13:00:00+00:00,2023,NB II,Hungary,MTE 1904,2,2,Gyirmot SE,Match Finished
+2024-02-25T13:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,0,1,Ajka,Match Finished
+2024-02-25T16:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,1,1,Vasas,Match Finished
+2024-02-25T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,2,1,Tiszakecske FC,Match Finished
+2024-02-25T13:00:00+00:00,2023,NB II,Hungary,Budapest Honved,0,1,Siofok,Match Finished
+2024-03-03T13:00:00+00:00,2023,NB II,Hungary,Siofok,0,1,Vasas,Match Finished
+2024-03-03T16:00:00+00:00,2023,NB II,Hungary,Ajka,1,0,Kazincbarcikai,Match Finished
+2024-03-03T13:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,1,Pécsi MFC,Match Finished
+2024-03-03T13:00:00+00:00,2023,NB II,Hungary,BVSC,1,0,MTE 1904,Match Finished
+2024-03-03T16:00:00+00:00,2023,NB II,Hungary,Csakvar,0,1,Szeged 2011,Match Finished
+2024-03-03T13:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,2,0,Budafoki LC,Match Finished
+2024-03-04T19:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,1,1,Soroksar,Match Finished
+2024-03-03T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,0,1,Gyori ETO FC,Match Finished
+2023-08-28T18:00:00+00:00,2023,NB II,Hungary,Budapest Honved,1,2,Szombathelyi Haladas,Match Finished
+2024-03-10T13:00:00+00:00,2023,NB II,Hungary,Budafoki LC,3,2,Nyiregyhaza,Match Finished
+2024-03-10T16:00:00+00:00,2023,NB II,Hungary,Szeged 2011,2,0,Kozarmisleny FC,Match Finished
+2024-03-10T13:00:00+00:00,2023,NB II,Hungary,MTE 1904,0,1,Csakvar,Match Finished
+2024-03-10T16:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,1,1,BVSC,Match Finished
+2024-03-10T16:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,1,0,Gyirmot SE,Match Finished
+2024-03-10T16:00:00+00:00,2023,NB II,Hungary,Vasas,0,0,Ajka,Match Finished
+2024-03-11T19:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,0,1,Budapest Honved,Match Finished
+2024-03-10T16:00:00+00:00,2023,NB II,Hungary,Soroksar,1,0,Tiszakecske FC,Match Finished
+2024-03-10T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,3,2,Siofok,Match Finished
+2024-03-17T13:00:00+00:00,2023,NB II,Hungary,Siofok,1,1,Ajka,Match Finished
+2024-03-17T13:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,1,2,Vasas,Match Finished
+2024-03-17T13:00:00+00:00,2023,NB II,Hungary,BVSC,3,0,Kazincbarcikai,Match Finished
+2024-03-17T16:00:00+00:00,2023,NB II,Hungary,Csakvar,1,0,Pécsi MFC,Match Finished
+2024-03-17T13:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,2,1,MTE 1904,Match Finished
+2024-03-17T13:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,0,0,Szeged 2011,Match Finished
+2024-03-17T16:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,2,2,Budafoki LC,Match Finished
+2024-03-17T13:00:00+00:00,2023,NB II,Hungary,Budapest Honved,4,1,Soroksar,Match Finished
+2024-03-17T16:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,1,3,Gyori ETO FC,Match Finished
+2024-03-30T15:00:00+00:00,2023,NB II,Hungary,MTE 1904,0,3,Nyiregyhaza,Match Finished
+2024-03-31T15:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,2,2,Kozarmisleny FC,Match Finished
+2024-03-31T15:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,1,1,Csakvar,Match Finished
+2024-03-31T15:00:00+00:00,2023,NB II,Hungary,Vasas,2,0,BVSC,Match Finished
+2024-03-31T15:00:00+00:00,2023,NB II,Hungary,Ajka,1,0,Gyirmot SE,Match Finished
+2024-03-31T14:00:00+00:00,2023,NB II,Hungary,Soroksar,1,1,Szombathelyi Haladas,Match Finished
+2024-03-31T14:00:00+00:00,2023,NB II,Hungary,Budafoki LC,1,0,Budapest Honved,Match Finished
+2024-03-31T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,0,2,Tiszakecske FC,Match Finished
+2024-04-01T18:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,4,2,Siofok,Match Finished
+2024-04-07T14:00:00+00:00,2023,NB II,Hungary,Siofok,2,4,Gyirmot SE,Match Finished
+2024-04-07T14:00:00+00:00,2023,NB II,Hungary,BVSC,0,2,Ajka,Match Finished
+2024-04-07T15:00:00+00:00,2023,NB II,Hungary,Csakvar,2,3,Vasas,Match Finished
+2024-04-07T15:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,0,2,Kazincbarcikai,Match Finished
+2024-04-08T18:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,2,1,Pécsi MFC,Match Finished
+2024-04-07T15:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,0,1,MTE 1904,Match Finished
+2024-04-07T14:00:00+00:00,2023,NB II,Hungary,Budapest Honved,0,1,Szeged 2011,Match Finished
+2024-04-07T15:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,2,0,Budafoki LC,Match Finished
+2024-04-07T15:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,2,0,Soroksar,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,0,1,Nyiregyhaza,Match Finished
+2024-04-15T18:00:00+00:00,2023,NB II,Hungary,Vasas,2,1,Kozarmisleny FC,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,Ajka,0,1,Csakvar,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,2,1,BVSC,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,Budafoki LC,2,1,Gyori ETO FC,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,2,1,Szombathelyi Haladas,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,MTE 1904,0,2,Budapest Honved,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,1,0,Tiszakecske FC,Match Finished
+2024-04-14T15:00:00+00:00,2023,NB II,Hungary,Soroksar,2,0,Siofok,Match Finished
+2024-04-21T15:00:00+00:00,2023,NB II,Hungary,Siofok,1,0,BVSC,Match Finished
+2024-04-21T15:00:00+00:00,2023,NB II,Hungary,Csakvar,0,2,Gyirmot SE,Match Finished
+2024-04-21T15:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,1,0,Ajka,Match Finished
+2024-04-20T10:30:00+00:00,2023,NB II,Hungary,Nyiregyhaza,3,1,Vasas,Match Finished
+2024-04-21T15:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,2,0,Kazincbarcikai,Match Finished
+2024-04-21T15:00:00+00:00,2023,NB II,Hungary,Budapest Honved,4,0,Pécsi MFC,Match Finished
+2024-04-21T15:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,0,1,MTE 1904,Match Finished
+2024-04-22T18:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,0,1,Szeged 2011,Match Finished
+2024-04-21T15:00:00+00:00,2023,NB II,Hungary,Soroksar,3,1,Budafoki LC,Match Finished
+2024-04-29T18:00:00+00:00,2023,NB II,Hungary,Ajka,,,Nyiregyhaza,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,,,Kozarmisleny FC,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,BVSC,,,Csakvar,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,,,Soroksar,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,MTE 1904,,,Gyori ETO FC,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,,,Szombathelyi Haladas,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,,,Budapest Honved,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,Vasas,,,Tiszakecske FC,Not Started
+2024-04-28T15:00:00+00:00,2023,NB II,Hungary,Budafoki LC,,,Siofok,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Siofok,,,Csakvar,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,,,BVSC,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,,,Gyirmot SE,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,,,Ajka,Not Started
+2024-05-06T18:00:00+00:00,2023,NB II,Hungary,Budapest Honved,,,Vasas,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,,,Kazincbarcikai,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,,,Pécsi MFC,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Soroksar,,,MTE 1904,Not Started
+2024-05-05T15:00:00+00:00,2023,NB II,Hungary,Budafoki LC,,,Szeged 2011,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,BVSC,,,Nyiregyhaza,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,Csakvar,,,Kozarmisleny FC,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,MTE 1904,,,Budafoki LC,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,,,Soroksar,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,,,Gyori ETO FC,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,Vasas,,,Szombathelyi Haladas,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,Ajka,,,Budapest Honved,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,,,Tiszakecske FC,Not Started
+2024-05-12T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,,,Siofok,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Siofok,,,Kozarmisleny FC,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Nyiregyhaza,,,Csakvar,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Tiszakecske FC,,,BVSC,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Budapest Honved,,,Gyirmot SE,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Szombathelyi Haladas,,,Ajka,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Gyori ETO FC,,,Vasas,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Soroksar,,,Kazincbarcikai,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Budafoki LC,,,Pécsi MFC,Not Started
+2024-05-19T15:00:00+00:00,2023,NB II,Hungary,Szeged 2011,,,MTE 1904,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,Kozarmisleny FC,,,Nyiregyhaza,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,Pécsi MFC,,,Szeged 2011,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,Kazincbarcikai,,,Budafoki LC,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,Vasas,,,Soroksar,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,Ajka,,,Gyori ETO FC,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,Gyirmot SE,,,Szombathelyi Haladas,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,BVSC,,,Budapest Honved,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,Csakvar,,,Tiszakecske FC,Not Started
+2024-05-26T15:00:00+00:00,2023,NB II,Hungary,MTE 1904,,,Siofok,Not Started

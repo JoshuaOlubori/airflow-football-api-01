@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-24T16:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,5,Odra Opole,Match Finished
+2023-07-21T16:00:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,2,Nieciecza,Match Finished
+2023-07-23T16:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,1,0,GKS Katowice,Match Finished
+2023-07-22T13:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,2,4,Lechia Gdansk,Match Finished
+2023-07-21T18:30:00+00:00,2023,I Liga,Poland,Motor Lublin,3,2,Zaglebie Sosnowiec,Match Finished
+2023-07-23T13:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,2,0,Resovia Rzeszów,Match Finished
+2023-07-22T18:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,2,3,Tychy 71,Match Finished
+2023-07-22T15:30:00+00:00,2023,I Liga,Poland,Górnik Łęczna,2,2,Wisla Krakow,Match Finished
+2023-07-23T10:40:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,1,Wisla Plock,Match Finished
+2023-07-30T13:00:00+00:00,2023,I Liga,Poland,Odra Opole,3,0,Resovia Rzeszów,Match Finished
+2023-07-29T13:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,1,Znicz Pruszków,Match Finished
+2023-07-29T15:30:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,1,1,Wisla Plock,Match Finished
+2023-07-28T18:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,0,1,Motor Lublin,Match Finished
+2023-07-31T16:00:00+00:00,2023,I Liga,Poland,GKS Katowice,3,1,Chrobry Głogów,Match Finished
+2023-07-29T18:00:00+00:00,2023,I Liga,Poland,Nieciecza,1,4,Miedz Legnica,Match Finished
+2023-07-28T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,0,0,Arka Gdynia,Match Finished
+2023-07-30T10:40:00+00:00,2023,I Liga,Poland,Polonia Warszawa,2,3,Wisla Krakow,Match Finished
+2023-07-30T16:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,1,2,Tychy 71,Match Finished
+2023-08-05T15:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,0,0,Stal Rzeszów,Match Finished
+2023-08-07T16:00:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,3,Polonia Warszawa,Match Finished
+2023-08-05T13:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,0,0,Górnik Łęczna,Match Finished
+2023-08-05T18:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,0,5,Nieciecza,Match Finished
+2023-08-06T13:00:00+00:00,2023,I Liga,Poland,Motor Lublin,1,1,GKS Katowice,Match Finished
+2023-08-04T18:30:00+00:00,2023,I Liga,Poland,Wisla Plock,1,1,Lechia Gdansk,Match Finished
+2023-08-04T16:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,1,0,Zaglebie Sosnowiec,Match Finished
+2023-08-07T18:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,1,1,Podbeskidzie,Match Finished
+2023-08-06T16:00:00+00:00,2023,I Liga,Poland,Odra Opole,0,2,Tychy 71,Match Finished
+2023-08-12T13:00:00+00:00,2023,I Liga,Poland,Odra Opole,1,0,Podbeskidzie,Match Finished
+2023-08-12T18:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,1,Resovia Rzeszów,Match Finished
+2023-08-13T10:40:00+00:00,2023,I Liga,Poland,Lechia Gdansk,1,0,Znicz Pruszków,Match Finished
+2023-08-11T18:30:00+00:00,2023,I Liga,Poland,GKS Katowice,4,1,Wisla Plock,Match Finished
+2023-08-13T16:00:00+00:00,2023,I Liga,Poland,Nieciecza,0,2,Motor Lublin,Match Finished
+2023-08-11T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,3,1,Chrobry Głogów,Match Finished
+2023-08-14T16:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,3,4,Miedz Legnica,Match Finished
+2023-08-13T13:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,3,Arka Gdynia,Match Finished
+2023-08-12T15:30:00+00:00,2023,I Liga,Poland,Tychy 71,1,0,Wisla Krakow,Match Finished
+2023-08-18T18:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,1,3,Odra Opole,Match Finished
+2023-08-20T10:40:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,0,Tychy 71,Match Finished
+2023-08-20T13:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,2,1,Stal Rzeszów,Match Finished
+2023-08-19T18:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,0,3,Polonia Warszawa,Match Finished
+2023-08-19T15:30:00+00:00,2023,I Liga,Poland,Motor Lublin,0,1,Górnik Łęczna,Match Finished
+2023-08-19T13:00:00+00:00,2023,I Liga,Poland,Wisla Plock,3,1,Nieciecza,Match Finished
+2023-08-21T16:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,0,2,GKS Katowice,Match Finished
+2023-08-20T16:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,2,0,Lechia Gdansk,Match Finished
+2023-08-18T16:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,2,1,Zaglebie Sosnowiec,Match Finished
+2023-08-28T16:00:00+00:00,2023,I Liga,Poland,Odra Opole,0,0,Zaglebie Sosnowiec,Match Finished
+2023-08-25T18:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,3,0,Podbeskidzie,Match Finished
+2023-08-26T13:00:00+00:00,2023,I Liga,Poland,GKS Katowice,3,0,Resovia Rzeszów,Match Finished
+2023-08-27T16:00:00+00:00,2023,I Liga,Poland,Nieciecza,1,0,Znicz Pruszków,Match Finished
+2023-08-26T18:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,1,0,Wisla Plock,Match Finished
+2023-08-26T15:30:00+00:00,2023,I Liga,Poland,Polonia Warszawa,0,1,Motor Lublin,Match Finished
+2023-08-27T13:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,1,Chrobry Głogów,Match Finished
+2023-08-25T16:00:00+00:00,2023,I Liga,Poland,Tychy 71,0,0,Miedz Legnica,Match Finished
+2023-08-27T10:40:00+00:00,2023,I Liga,Poland,Wisla Krakow,5,1,Arka Gdynia,Match Finished
+2023-09-01T18:30:00+00:00,2023,I Liga,Poland,Miedz Legnica,1,1,Wisla Krakow,Match Finished
+2023-09-03T16:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,2,1,Tychy 71,Match Finished
+2023-09-03T16:00:00+00:00,2023,I Liga,Poland,Motor Lublin,3,2,Stal Rzeszów,Match Finished
+2023-09-02T15:30:00+00:00,2023,I Liga,Poland,Wisla Plock,3,0,Polonia Warszawa,Match Finished
+2023-09-02T18:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,0,1,Górnik Łęczna,Match Finished
+2023-09-01T16:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,0,4,Nieciecza,Match Finished
+2023-09-03T13:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,1,GKS Katowice,Match Finished
+2023-09-03T10:40:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,5,2,Lechia Gdansk,Match Finished
+2023-09-02T13:00:00+00:00,2023,I Liga,Poland,Odra Opole,1,0,Arka Gdynia,Match Finished
+2023-09-16T18:00:00+00:00,2023,I Liga,Poland,Odra Opole,0,0,Lechia Gdansk,Match Finished
+2023-09-15T18:30:00+00:00,2023,I Liga,Poland,GKS Katowice,0,1,Zaglebie Sosnowiec,Match Finished
+2023-09-17T14:00:00+00:00,2023,I Liga,Poland,Nieciecza,2,2,Podbeskidzie,Match Finished
+2023-09-18T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,3,1,Resovia Rzeszów,Match Finished
+2023-09-16T13:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,0,1,Znicz Pruszków,Match Finished
+2023-09-15T16:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,0,1,Wisla Plock,Match Finished
+2023-09-17T10:40:00+00:00,2023,I Liga,Poland,Tychy 71,2,0,Motor Lublin,Match Finished
+2023-09-16T15:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,1,1,Chrobry Głogów,Match Finished
+2023-09-17T16:00:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,1,Miedz Legnica,Match Finished
+2023-09-22T16:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,1,2,Odra Opole,Match Finished
+2023-09-23T18:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,1,0,Arka Gdynia,Match Finished
+2023-09-23T15:30:00+00:00,2023,I Liga,Poland,Motor Lublin,1,4,Wisla Krakow,Match Finished
+2023-09-24T10:40:00+00:00,2023,I Liga,Poland,Wisla Plock,4,1,Tychy 71,Match Finished
+2023-09-24T13:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,1,2,Stal Rzeszów,Match Finished
+2023-09-23T13:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,1,1,Polonia Warszawa,Match Finished
+2023-09-22T16:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,1,Górnik Łęczna,Match Finished
+2023-09-24T16:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,1,3,Nieciecza,Match Finished
+2023-09-22T18:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,5,1,GKS Katowice,Match Finished
+2023-09-30T15:30:00+00:00,2023,I Liga,Poland,Odra Opole,1,0,GKS Katowice,Match Finished
+2023-10-01T13:00:00+00:00,2023,I Liga,Poland,Nieciecza,0,0,Lechia Gdansk,Match Finished
+2023-10-02T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,1,1,Zaglebie Sosnowiec,Match Finished
+2023-09-29T16:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,2,0,Podbeskidzie,Match Finished
+2023-09-30T18:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,1,Resovia Rzeszów,Match Finished
+2023-10-01T16:00:00+00:00,2023,I Liga,Poland,Tychy 71,2,1,Znicz Pruszków,Match Finished
+2023-10-01T10:40:00+00:00,2023,I Liga,Poland,Wisla Krakow,0,0,Wisla Plock,Match Finished
+2023-09-29T18:30:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,0,Motor Lublin,Match Finished
+2023-09-30T13:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,1,1,Chrobry Głogów,Match Finished
+2023-10-06T16:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,0,0,Odra Opole,Match Finished
+2023-10-08T10:40:00+00:00,2023,I Liga,Poland,Motor Lublin,1,3,Miedz Legnica,Match Finished
+2023-10-07T18:00:00+00:00,2023,I Liga,Poland,Wisla Plock,0,3,Arka Gdynia,Match Finished
+2023-10-08T13:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,2,0,Tychy 71,Match Finished
+2023-10-07T13:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,0,1,Stal Rzeszów,Match Finished
+2023-10-08T16:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,2,Polonia Warszawa,Match Finished
+2023-10-06T18:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,1,1,Górnik Łęczna,Match Finished
+2023-10-08T16:00:00+00:00,2023,I Liga,Poland,GKS Katowice,0,0,Nieciecza,Match Finished
+2023-10-07T15:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,6,2,Znicz Pruszków,Match Finished
+2023-10-22T13:00:00+00:00,2023,I Liga,Poland,Odra Opole,2,1,Nieciecza,Match Finished
+2023-10-22T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,1,1,GKS Katowice,Match Finished
+2023-10-31T17:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,0,1,Lechia Gdansk,Match Finished
+2023-10-21T13:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,0,0,Zaglebie Sosnowiec,Match Finished
+2023-10-21T15:30:00+00:00,2023,I Liga,Poland,Tychy 71,3,0,Podbeskidzie,Match Finished
+2023-10-20T18:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,4,1,Resovia Rzeszów,Match Finished
+2023-10-23T16:00:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,0,Znicz Pruszków,Match Finished
+2023-10-21T18:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,4,0,Wisla Plock,Match Finished
+2023-10-20T16:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,0,1,Motor Lublin,Match Finished
+2023-10-29T11:40:00+00:00,2023,I Liga,Poland,Motor Lublin,2,0,Odra Opole,Match Finished
+2023-10-27T16:00:00+00:00,2023,I Liga,Poland,Wisla Plock,2,1,Chrobry Głogów,Match Finished
+2023-10-30T17:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,1,1,Miedz Legnica,Match Finished
+2023-10-29T14:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,1,2,Arka Gdynia,Match Finished
+2023-10-27T18:30:00+00:00,2023,I Liga,Poland,Podbeskidzie,2,1,Wisla Krakow,Match Finished
+2023-10-28T15:30:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,1,Tychy 71,Match Finished
+2023-10-28T13:00:00+00:00,2023,I Liga,Poland,Lechia Gdansk,2,1,Stal Rzeszów,Match Finished
+2023-10-27T16:00:00+00:00,2023,I Liga,Poland,GKS Katowice,0,2,Polonia Warszawa,Match Finished
+2023-10-28T18:00:00+00:00,2023,I Liga,Poland,Nieciecza,3,0,Górnik Łęczna,Match Finished
+2023-11-04T16:30:00+00:00,2023,I Liga,Poland,Odra Opole,0,3,Górnik Łęczna,Match Finished
+2023-11-04T19:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,1,1,Nieciecza,Match Finished
+2023-11-05T14:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,2,GKS Katowice,Match Finished
+2023-11-05T11:40:00+00:00,2023,I Liga,Poland,Tychy 71,1,3,Lechia Gdansk,Match Finished
+2023-11-03T19:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,0,0,Zaglebie Sosnowiec,Match Finished
+2023-11-04T14:00:00+00:00,2023,I Liga,Poland,Arka Gdynia,1,0,Podbeskidzie,Match Finished
+2023-11-03T17:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,1,2,Resovia Rzeszów,Match Finished
+2023-11-06T17:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,1,0,Znicz Pruszków,Match Finished
+2023-11-05T17:00:00+00:00,2023,I Liga,Poland,Motor Lublin,2,2,Wisla Plock,Match Finished
+2023-11-11T16:30:00+00:00,2023,I Liga,Poland,Wisla Plock,2,0,Odra Opole,Match Finished
+2023-11-10T17:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,1,0,Motor Lublin,Match Finished
+2023-11-12T14:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,0,1,Chrobry Głogów,Match Finished
+2023-11-12T17:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,0,0,Miedz Legnica,Match Finished
+2023-11-12T17:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,1,3,Arka Gdynia,Match Finished
+2023-11-10T19:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,0,0,Wisla Krakow,Match Finished
+2023-11-12T11:40:00+00:00,2023,I Liga,Poland,GKS Katowice,1,0,Tychy 71,Match Finished
+2023-11-11T19:00:00+00:00,2023,I Liga,Poland,Nieciecza,1,2,Stal Rzeszów,Match Finished
+2023-11-11T14:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,0,0,Polonia Warszawa,Match Finished
+2023-11-26T11:40:00+00:00,2023,I Liga,Poland,Odra Opole,3,0,Polonia Warszawa,Match Finished
+2023-11-25T14:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,3,0,Górnik Łęczna,Match Finished
+2023-11-27T17:00:00+00:00,2023,I Liga,Poland,Tychy 71,3,2,Nieciecza,Match Finished
+2023-11-25T16:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,3,2,GKS Katowice,Match Finished
+2023-11-24T19:30:00+00:00,2023,I Liga,Poland,Arka Gdynia,1,0,Lechia Gdansk,Match Finished
+2023-11-26T17:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,2,0,Zaglebie Sosnowiec,Match Finished
+2023-11-24T17:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,3,0,Podbeskidzie,Match Finished
+2023-11-25T18:15:00+00:00,2023,I Liga,Poland,Motor Lublin,3,2,Resovia Rzeszów,Match Finished
+2023-11-26T14:00:00+00:00,2023,I Liga,Poland,Wisla Plock,0,1,Znicz Pruszków,Match Finished
+2023-12-03T17:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,1,0,Odra Opole,Match Finished
+2024-02-10T14:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,2,2,Wisla Plock,Match Finished
+2024-02-28T17:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,2,Motor Lublin,Match Finished
+2023-12-19T16:30:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,1,2,Chrobry Głogów,Match Finished
+2023-12-03T11:40:00+00:00,2023,I Liga,Poland,Lechia Gdansk,2,0,Miedz Legnica,Match Finished
+2023-12-02T14:00:00+00:00,2023,I Liga,Poland,GKS Katowice,1,1,Arka Gdynia,Match Finished
+2023-12-01T19:30:00+00:00,2023,I Liga,Poland,Nieciecza,2,1,Wisla Krakow,Match Finished
+2024-02-20T17:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,2,0,Tychy 71,Match Finished
+2023-12-01T17:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,2,2,Stal Rzeszów,Match Finished
+2023-12-08T17:00:00+00:00,2023,I Liga,Poland,Tychy 71,1,0,Polonia Warszawa,Match Finished
+2023-12-10T11:40:00+00:00,2023,I Liga,Poland,Wisla Krakow,4,0,Górnik Łęczna,Match Finished
+2023-12-09T14:00:00+00:00,2023,I Liga,Poland,Wisla Plock,2,1,Podbeskidzie,Match Finished
+2023-12-10T11:40:00+00:00,2023,I Liga,Poland,Odra Opole,1,1,Stal Rzeszów,Match Finished
+2023-12-11T17:00:00+00:00,2023,I Liga,Poland,Nieciecza,2,1,Arka Gdynia,Match Finished
+2024-02-27T17:00:00+00:00,2023,I Liga,Poland,GKS Katowice,2,0,Miedz Legnica,Match Finished
+2023-12-09T16:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,1,0,Chrobry Głogów,Match Finished
+2023-12-08T19:30:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,4,Motor Lublin,Match Finished
+2023-12-09T19:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,1,2,Znicz Pruszków,Match Finished
+2023-12-15T17:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,1,0,Odra Opole,Match Finished
+2023-12-17T14:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,0,1,Podbeskidzie,Match Finished
+2023-12-15T19:30:00+00:00,2023,I Liga,Poland,Wisla Plock,2,0,Zaglebie Sosnowiec,Match Finished
+2023-12-16T19:00:00+00:00,2023,I Liga,Poland,Motor Lublin,1,0,Lechia Gdansk,Match Finished
+2023-12-16T14:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,1,4,GKS Katowice,Match Finished
+2023-12-18T17:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,2,2,Nieciecza,Match Finished
+2023-12-16T16:30:00+00:00,2023,I Liga,Poland,Arka Gdynia,0,0,Górnik Łęczna,Match Finished
+2023-12-17T11:40:00+00:00,2023,I Liga,Poland,Wisla Krakow,2,1,Polonia Warszawa,Match Finished
+2023-12-17T17:00:00+00:00,2023,I Liga,Poland,Tychy 71,2,0,Stal Rzeszów,Match Finished
+2024-02-16T19:30:00+00:00,2023,I Liga,Poland,Tychy 71,2,0,Odra Opole,Match Finished
+2024-02-18T11:40:00+00:00,2023,I Liga,Poland,Stal Rzeszów,1,2,Wisla Krakow,Match Finished
+2024-02-17T16:30:00+00:00,2023,I Liga,Poland,Polonia Warszawa,0,3,Arka Gdynia,Match Finished
+2024-02-16T17:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,0,0,Miedz Legnica,Match Finished
+2024-02-18T14:00:00+00:00,2023,I Liga,Poland,Nieciecza,1,1,Chrobry Głogów,Match Finished
+2024-02-19T17:00:00+00:00,2023,I Liga,Poland,GKS Katowice,2,0,Motor Lublin,Match Finished
+2024-02-17T19:00:00+00:00,2023,I Liga,Poland,Lechia Gdansk,3,1,Wisla Plock,Match Finished
+2024-02-18T17:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,1,Znicz Pruszków,Match Finished
+2024-02-17T14:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,2,2,Resovia Rzeszów,Match Finished
+2024-02-24T11:40:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,2,Odra Opole,Match Finished
+2024-02-25T17:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,1,0,Zaglebie Sosnowiec,Match Finished
+2024-02-25T14:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,0,2,Lechia Gdansk,Match Finished
+2024-02-24T14:00:00+00:00,2023,I Liga,Poland,Wisla Plock,2,1,GKS Katowice,Match Finished
+2024-02-24T16:30:00+00:00,2023,I Liga,Poland,Motor Lublin,1,0,Nieciecza,Match Finished
+2024-02-26T17:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,0,1,Górnik Łęczna,Match Finished
+2024-02-23T17:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,2,1,Polonia Warszawa,Match Finished
+2024-02-25T11:40:00+00:00,2023,I Liga,Poland,Arka Gdynia,5,1,Stal Rzeszów,Match Finished
+2024-02-23T19:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,0,1,Tychy 71,Match Finished
+2024-03-02T16:30:00+00:00,2023,I Liga,Poland,Odra Opole,1,2,Wisla Krakow,Match Finished
+2024-03-01T19:30:00+00:00,2023,I Liga,Poland,Tychy 71,0,1,Arka Gdynia,Match Finished
+2024-03-01T17:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,1,3,Miedz Legnica,Match Finished
+2024-03-03T14:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,1,1,Chrobry Głogów,Match Finished
+2024-03-03T11:40:00+00:00,2023,I Liga,Poland,Górnik Łęczna,1,1,Motor Lublin,Match Finished
+2024-03-02T14:00:00+00:00,2023,I Liga,Poland,Nieciecza,2,2,Wisla Plock,Match Finished
+2024-03-02T11:40:00+00:00,2023,I Liga,Poland,GKS Katowice,3,1,Znicz Pruszków,Match Finished
+2024-03-04T17:00:00+00:00,2023,I Liga,Poland,Lechia Gdansk,4,0,Resovia Rzeszów,Match Finished
+2024-03-03T17:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,0,Podbeskidzie,Match Finished
+2024-03-10T17:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,1,1,Odra Opole,Match Finished
+2024-03-10T11:40:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,2,Lechia Gdansk,Match Finished
+2024-03-10T14:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,0,2,GKS Katowice,Match Finished
+2024-03-08T17:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,2,0,Nieciecza,Match Finished
+2024-03-11T17:00:00+00:00,2023,I Liga,Poland,Wisla Plock,2,1,Górnik Łęczna,Match Finished
+2024-03-09T14:00:00+00:00,2023,I Liga,Poland,Motor Lublin,1,1,Polonia Warszawa,Match Finished
+2024-03-09T14:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,2,1,Stal Rzeszów,Match Finished
+2024-03-09T16:30:00+00:00,2023,I Liga,Poland,Miedz Legnica,2,2,Tychy 71,Match Finished
+2024-03-08T19:30:00+00:00,2023,I Liga,Poland,Arka Gdynia,1,1,Wisla Krakow,Match Finished
+2024-03-17T11:40:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,2,Odra Opole,Match Finished
+2024-03-15T19:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,2,0,Miedz Legnica,Match Finished
+2024-03-16T14:00:00+00:00,2023,I Liga,Poland,Tychy 71,1,2,Chrobry Głogów,Match Finished
+2024-03-16T16:30:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,1,Motor Lublin,Match Finished
+2024-03-15T17:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,2,2,Wisla Plock,Match Finished
+2024-03-17T14:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,1,1,Znicz Pruszków,Match Finished
+2024-03-16T11:40:00+00:00,2023,I Liga,Poland,Nieciecza,1,4,Resovia Rzeszów,Match Finished
+2024-03-17T14:00:00+00:00,2023,I Liga,Poland,GKS Katowice,5,0,Podbeskidzie,Match Finished
+2024-03-15T17:00:00+00:00,2023,I Liga,Poland,Lechia Gdansk,4,0,Zaglebie Sosnowiec,Match Finished
+2024-04-02T18:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,2,1,Odra Opole,Match Finished
+2024-04-01T13:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,4,GKS Katowice,Match Finished
+2024-03-30T19:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,2,1,Nieciecza,Match Finished
+2024-03-30T11:40:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,2,3,Górnik Łęczna,Match Finished
+2024-04-01T10:40:00+00:00,2023,I Liga,Poland,Znicz Pruszków,0,0,Polonia Warszawa,Match Finished
+2024-04-02T16:00:00+00:00,2023,I Liga,Poland,Wisla Plock,1,2,Stal Rzeszów,Match Finished
+2024-04-01T15:30:00+00:00,2023,I Liga,Poland,Motor Lublin,1,1,Tychy 71,Match Finished
+2024-03-30T16:30:00+00:00,2023,I Liga,Poland,Chrobry Głogów,3,2,Wisla Krakow,Match Finished
+2024-03-30T14:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,0,1,Arka Gdynia,Match Finished
+2024-04-06T18:00:00+00:00,2023,I Liga,Poland,Odra Opole,0,0,Miedz Legnica,Match Finished
+2024-04-05T18:30:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,1,Chrobry Głogów,Match Finished
+2024-04-07T10:40:00+00:00,2023,I Liga,Poland,Wisla Krakow,1,3,Motor Lublin,Match Finished
+2024-04-06T15:30:00+00:00,2023,I Liga,Poland,Tychy 71,0,1,Wisla Plock,Match Finished
+2024-04-07T16:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,0,Znicz Pruszków,Match Finished
+2024-04-08T16:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,1,0,Resovia Rzeszów,Match Finished
+2024-04-05T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,2,0,Podbeskidzie,Match Finished
+2024-04-06T13:00:00+00:00,2023,I Liga,Poland,Nieciecza,1,1,Zaglebie Sosnowiec,Match Finished
+2024-04-07T13:00:00+00:00,2023,I Liga,Poland,GKS Katowice,1,0,Lechia Gdansk,Match Finished
+2024-04-13T13:00:00+00:00,2023,I Liga,Poland,GKS Katowice,1,3,Odra Opole,Match Finished
+2024-04-14T10:40:00+00:00,2023,I Liga,Poland,Lechia Gdansk,3,1,Nieciecza,Match Finished
+2024-04-12T16:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,1,Górnik Łęczna,Match Finished
+2024-04-14T16:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,1,2,Polonia Warszawa,Match Finished
+2024-04-12T18:30:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,0,2,Stal Rzeszów,Match Finished
+2024-04-14T13:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,2,3,Tychy 71,Match Finished
+2024-04-13T15:30:00+00:00,2023,I Liga,Poland,Wisla Plock,1,1,Wisla Krakow,Match Finished
+2024-04-12T18:30:00+00:00,2023,I Liga,Poland,Motor Lublin,2,2,Arka Gdynia,Match Finished
+2024-04-13T18:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,0,0,Miedz Legnica,Match Finished
+2024-04-19T18:30:00+00:00,2023,I Liga,Poland,Znicz Pruszków,2,3,Wisla Krakow,Match Finished
+2024-04-20T18:00:00+00:00,2023,I Liga,Poland,Odra Opole,3,0,Chrobry Głogów,Match Finished
+2024-04-21T13:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,2,0,Motor Lublin,Match Finished
+2024-04-21T10:40:00+00:00,2023,I Liga,Poland,Arka Gdynia,2,0,Wisla Plock,Match Finished
+2024-04-20T13:00:00+00:00,2023,I Liga,Poland,Tychy 71,1,3,Resovia Rzeszów,Match Finished
+2024-04-19T16:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,2,2,Podbeskidzie,Match Finished
+2024-04-19T16:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,3,3,Zaglebie Sosnowiec,Match Finished
+2024-04-20T15:30:00+00:00,2023,I Liga,Poland,Górnik Łęczna,0,1,Lechia Gdansk,Match Finished
+2024-04-21T16:00:00+00:00,2023,I Liga,Poland,Nieciecza,2,2,GKS Katowice,Match Finished
+2024-04-25T16:00:00+00:00,2023,I Liga,Poland,Nieciecza,0,1,Odra Opole,Match Finished
+2024-04-25T18:30:00+00:00,2023,I Liga,Poland,GKS Katowice,0,0,Górnik Łęczna,Match Finished
+2024-04-24T18:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,1,0,Polonia Warszawa,Match Finished
+2024-04-23T16:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,0,1,Stal Rzeszów,Match Finished
+2024-04-23T16:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,0,2,Tychy 71,Match Finished
+2024-04-23T18:30:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,1,1,Wisla Krakow,Match Finished
+2024-04-24T16:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,2,0,Arka Gdynia,Match Finished
+2024-04-24T16:00:00+00:00,2023,I Liga,Poland,Wisla Plock,2,1,Miedz Legnica,Match Finished
+2024-04-25T16:00:00+00:00,2023,I Liga,Poland,Motor Lublin,1,1,Chrobry Głogów,Match Finished
+2024-04-29T16:00:00+00:00,2023,I Liga,Poland,Odra Opole,,,Motor Lublin,Not Started
+2024-04-29T16:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,,,Wisla Plock,Not Started
+2024-04-28T13:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,,,Znicz Pruszków,Not Started
+2024-04-28T10:40:00+00:00,2023,I Liga,Poland,Arka Gdynia,,,Resovia Rzeszów,Not Started
+2024-04-26T18:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,3,1,Podbeskidzie,Match Finished
+2024-04-27T18:00:00+00:00,2023,I Liga,Poland,Tychy 71,2,0,Zaglebie Sosnowiec,Match Finished
+2024-04-27T15:30:00+00:00,2023,I Liga,Poland,Stal Rzeszów,4,2,Lechia Gdansk,Match Finished
+2024-04-28T13:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,,,GKS Katowice,Not Started
+2024-04-28T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,,,Nieciecza,Not Started
+2024-05-03T16:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,,,Odra Opole,Not Started
+2024-05-05T10:40:00+00:00,2023,I Liga,Poland,Nieciecza,,,Polonia Warszawa,Not Started
+2024-05-04T18:00:00+00:00,2023,I Liga,Poland,GKS Katowice,,,Stal Rzeszów,Not Started
+2024-05-04T15:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,,,Tychy 71,Not Started
+2024-05-06T16:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,,,Wisla Krakow,Not Started
+2024-05-03T18:30:00+00:00,2023,I Liga,Poland,Podbeskidzie,,,Arka Gdynia,Not Started
+2024-05-04T13:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,,,Miedz Legnica,Not Started
+2024-05-05T16:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,,,Chrobry Głogów,Not Started
+2024-05-05T13:00:00+00:00,2023,I Liga,Poland,Wisla Plock,,,Motor Lublin,Not Started
+2024-05-12T13:00:00+00:00,2023,I Liga,Poland,Odra Opole,,,Wisla Plock,Not Started
+2024-05-10T16:00:00+00:00,2023,I Liga,Poland,Motor Lublin,,,Znicz Pruszków,Not Started
+2024-05-11T13:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,,,Resovia Rzeszów,Not Started
+2024-05-13T16:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,,,Podbeskidzie,Not Started
+2024-05-12T10:40:00+00:00,2023,I Liga,Poland,Arka Gdynia,,,Zaglebie Sosnowiec,Not Started
+2024-05-11T15:30:00+00:00,2023,I Liga,Poland,Wisla Krakow,,,Lechia Gdansk,Not Started
+2024-05-10T18:30:00+00:00,2023,I Liga,Poland,Tychy 71,,,GKS Katowice,Not Started
+2024-05-11T18:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,,,Nieciecza,Not Started
+2024-05-12T16:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,,,Górnik Łęczna,Not Started
+2024-05-19T13:00:00+00:00,2023,I Liga,Poland,Polonia Warszawa,,,Odra Opole,Not Started
+2024-05-18T18:00:00+00:00,2023,I Liga,Poland,Górnik Łęczna,,,Stal Rzeszów,Not Started
+2024-05-19T16:00:00+00:00,2023,I Liga,Poland,Nieciecza,,,Tychy 71,Not Started
+2024-05-18T15:30:00+00:00,2023,I Liga,Poland,GKS Katowice,,,Wisla Krakow,Not Started
+2024-05-19T18:30:00+00:00,2023,I Liga,Poland,Lechia Gdansk,,,Arka Gdynia,Not Started
+2024-05-18T13:00:00+00:00,2023,I Liga,Poland,Zaglebie Sosnowiec,,,Miedz Legnica,Not Started
+2024-05-20T16:00:00+00:00,2023,I Liga,Poland,Podbeskidzie,,,Chrobry Głogów,Not Started
+2024-05-18T00:00:00+00:00,2023,I Liga,Poland,Resovia Rzeszów,,,Motor Lublin,Time to be defined
+2024-05-18T00:00:00+00:00,2023,I Liga,Poland,Znicz Pruszków,,,Wisla Plock,Time to be defined
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Odra Opole,,,Znicz Pruszków,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Wisla Plock,,,Resovia Rzeszów,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Motor Lublin,,,Podbeskidzie,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Chrobry Głogów,,,Zaglebie Sosnowiec,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Miedz Legnica,,,Lechia Gdansk,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Arka Gdynia,,,GKS Katowice,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Wisla Krakow,,,Nieciecza,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Tychy 71,,,Górnik Łęczna,Not Started
+2024-05-26T13:00:00+00:00,2023,I Liga,Poland,Stal Rzeszów,,,Polonia Warszawa,Not Started

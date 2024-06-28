@@ -1,0 +1,557 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T14:00:00+00:00,2023,National League,England,Aldershot Town,5,2,Oxford City,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Altrincham,1,1,Dagenham & Redbridge,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Barnet,3,2,Hartlepool,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Chesterfield,4,3,Dorking Wanderers,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,FC Halifax Town,2,0,Bromley,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Gateshead,2,2,Boreham Wood,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,0,0,Woking,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Maidenhead,2,2,AFC Fylde,Match Finished
+2023-08-05T16:30:00+00:00,2023,National League,England,Rochdale,0,1,Ebbsfleet United,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Solihull Moors,1,1,Eastleigh,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Southend,4,0,Oldham,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League,England,Wealdstone,2,1,York,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,AFC Fylde,2,4,Chesterfield,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Boreham Wood,2,0,FC Halifax Town,Match Finished
+2023-08-12T16:30:00+00:00,2023,National League,England,Bromley,0,2,Barnet,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Dagenham & Redbridge,0,2,Southend,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Dorking Wanderers,0,2,Maidenhead,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Eastleigh,0,0,Wealdstone,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Ebbsfleet United,1,2,Solihull Moors,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Hartlepool,2,1,Gateshead,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Oldham,5,1,Aldershot Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Oxford City,0,1,Rochdale,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,Woking,2,3,Altrincham,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League,England,York,0,1,Kidderminster Harriers,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,AFC Fylde,2,1,Kidderminster Harriers,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Bromley,1,1,Wealdstone,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Dagenham & Redbridge,2,4,Gateshead,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Dorking Wanderers,2,1,Southend,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Eastleigh,3,3,Barnet,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Ebbsfleet United,2,0,Aldershot Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Hartlepool,3,1,Maidenhead,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Oldham,1,2,FC Halifax Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Oxford City,1,2,Chesterfield,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,Woking,3,2,Rochdale,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League,England,York,2,2,Altrincham,Match Finished
+2023-08-16T18:45:00+00:00,2023,National League,England,Boreham Wood,1,2,Solihull Moors,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Aldershot Town,1,1,York,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Altrincham,1,1,Boreham Wood,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Barnet,2,0,Woking,Match Finished
+2023-08-19T11:30:00+00:00,2023,National League,England,Chesterfield,1,1,Oldham,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,FC Halifax Town,1,1,Oxford City,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Gateshead,4,1,Ebbsfleet United,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,0,0,Bromley,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Maidenhead,1,0,Dagenham & Redbridge,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Rochdale,2,0,Eastleigh,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Solihull Moors,3,0,Dorking Wanderers,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Southend,2,3,Hartlepool,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League,England,Wealdstone,3,2,AFC Fylde,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Aldershot Town,3,1,Wealdstone,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Altrincham,2,1,Chesterfield,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Boreham Wood,0,0,Oldham,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Dagenham & Redbridge,1,0,Barnet,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Dorking Wanderers,2,2,York,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Ebbsfleet United,3,0,Kidderminster Harriers,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Gateshead,1,3,Woking,Match Finished
+2023-08-26T16:30:00+00:00,2023,National League,England,Hartlepool,3,1,AFC Fylde,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League,England,Maidenhead,0,0,Oxford City,Match Finished
+2023-08-25T18:45:00+00:00,2023,National League,England,Rochdale,2,2,Bromley,Match Finished
+2023-08-25T18:45:00+00:00,2023,National League,England,Solihull Moors,1,1,FC Halifax Town,Match Finished
+2023-08-25T18:45:00+00:00,2023,National League,England,Southend,2,0,Eastleigh,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,AFC Fylde,3,3,Altrincham,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Barnet,3,2,Ebbsfleet United,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Bromley,2,1,Southend,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Chesterfield,3,2,Hartlepool,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Eastleigh,3,0,Aldershot Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,FC Halifax Town,0,0,Gateshead,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,0,0,Maidenhead,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Oldham,0,2,Solihull Moors,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Oxford City,4,0,Boreham Wood,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Wealdstone,0,2,Dagenham & Redbridge,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,Woking,2,0,Dorking Wanderers,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League,England,York,1,3,Rochdale,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Aldershot Town,3,4,Chesterfield,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Altrincham,1,2,Bromley,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Boreham Wood,0,1,Barnet,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Dagenham & Redbridge,3,1,AFC Fylde,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Dorking Wanderers,0,0,Eastleigh,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Ebbsfleet United,4,1,York,Match Finished
+2023-09-02T16:30:00+00:00,2023,National League,England,Gateshead,2,2,Oldham,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Hartlepool,2,1,Wealdstone,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Maidenhead,0,0,Woking,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Rochdale,0,1,FC Halifax Town,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Solihull Moors,3,3,Oxford City,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League,England,Southend,2,1,Kidderminster Harriers,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,AFC Fylde,0,2,Aldershot Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Barnet,3,0,Altrincham,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Bromley,4,1,Maidenhead,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Chesterfield,3,1,Dagenham & Redbridge,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Eastleigh,0,6,Gateshead,Match Finished
+2023-09-09T11:30:00+00:00,2023,National League,England,FC Halifax Town,1,1,Southend,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,1,1,Rochdale,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Oldham,0,0,Dorking Wanderers,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Oxford City,5,2,Hartlepool,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Wealdstone,2,1,Ebbsfleet United,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,Woking,1,1,Solihull Moors,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League,England,York,2,2,Boreham Wood,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,AFC Fylde,1,2,Eastleigh,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Aldershot Town,1,1,Gateshead,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Bromley,3,0,Oldham,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Ebbsfleet United,0,1,Chesterfield,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,FC Halifax Town,0,1,Dorking Wanderers,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Hartlepool,0,2,Woking,Match Finished
+2023-09-16T16:30:00+00:00,2023,National League,England,Kidderminster Harriers,0,1,Solihull Moors,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Maidenhead,0,1,Boreham Wood,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Oxford City,0,0,Dagenham & Redbridge,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Rochdale,4,2,Barnet,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,Wealdstone,0,0,Altrincham,Match Finished
+2023-09-16T14:00:00+00:00,2023,National League,England,York,3,0,Southend,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Altrincham,2,2,Hartlepool,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Barnet,2,1,Aldershot Town,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Chesterfield,3,2,FC Halifax Town,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Dagenham & Redbridge,0,1,Bromley,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Dorking Wanderers,3,1,Wealdstone,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Eastleigh,2,2,Oxford City,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Gateshead,3,0,Kidderminster Harriers,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Oldham,2,0,York,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Solihull Moors,2,1,AFC Fylde,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Southend,2,0,Maidenhead,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Woking,1,1,Ebbsfleet United,Match Finished
+2023-09-19T18:45:00+00:00,2023,National League,England,Boreham Wood,1,1,Rochdale,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Altrincham,6,1,Ebbsfleet United,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Barnet,0,0,FC Halifax Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Boreham Wood,1,2,Aldershot Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Chesterfield,3,2,Wealdstone,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Dagenham & Redbridge,0,1,Hartlepool,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Dorking Wanderers,1,2,Rochdale,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Eastleigh,2,1,Kidderminster Harriers,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Gateshead,3,0,Maidenhead,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Oldham,4,0,Oxford City,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Solihull Moors,1,1,Bromley,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League,England,Southend,1,2,AFC Fylde,Match Finished
+2023-09-23T11:30:00+00:00,2023,National League,England,Woking,1,2,York,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,AFC Fylde,2,2,Boreham Wood,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Aldershot Town,1,1,Southend,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Bromley,1,0,Eastleigh,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Ebbsfleet United,0,1,Dorking Wanderers,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,FC Halifax Town,0,0,Dagenham & Redbridge,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Hartlepool,0,2,Solihull Moors,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Kidderminster Harriers,1,2,Oldham,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Maidenhead,0,1,Altrincham,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Oxford City,0,4,Gateshead,Match Finished
+2023-09-26T19:00:00+00:00,2023,National League,England,Rochdale,1,2,Chesterfield,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,Wealdstone,1,0,Woking,Match Finished
+2023-09-26T18:45:00+00:00,2023,National League,England,York,2,4,Barnet,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,AFC Fylde,0,2,Woking,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Aldershot Town,3,2,Dagenham & Redbridge,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Bromley,3,1,Gateshead,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Ebbsfleet United,3,1,Boreham Wood,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,FC Halifax Town,2,3,Eastleigh,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Hartlepool,0,2,Dorking Wanderers,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,1,2,Barnet,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Maidenhead,1,1,Chesterfield,Match Finished
+2023-09-30T16:30:00+00:00,2023,National League,England,Oxford City,1,2,Altrincham,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Rochdale,2,2,Southend,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,Wealdstone,1,1,Oldham,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League,England,York,2,2,Solihull Moors,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Altrincham,2,1,Aldershot Town,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Barnet,2,1,AFC Fylde,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Chesterfield,2,0,Bromley,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Dagenham & Redbridge,1,2,York,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Dorking Wanderers,0,1,Kidderminster Harriers,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Eastleigh,5,2,Ebbsfleet United,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Gateshead,2,1,Wealdstone,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Oldham,1,1,Maidenhead,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Solihull Moors,2,0,Rochdale,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Southend,2,0,Oxford City,Match Finished
+2023-10-03T18:45:00+00:00,2023,National League,England,Woking,1,2,FC Halifax Town,Match Finished
+2023-10-04T18:45:00+00:00,2023,National League,England,Boreham Wood,1,0,Hartlepool,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Boreham Wood,0,2,Chesterfield,Match Finished
+2023-10-07T16:30:00+00:00,2023,National League,England,Dorking Wanderers,2,3,Barnet,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Ebbsfleet United,0,2,FC Halifax Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Gateshead,0,2,Altrincham,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Hartlepool,3,1,Eastleigh,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,1,0,Wealdstone,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Maidenhead,2,2,Rochdale,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Oldham,1,1,Dagenham & Redbridge,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Oxford City,3,0,AFC Fylde,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Solihull Moors,0,1,Aldershot Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,Woking,0,2,Southend,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League,England,York,2,2,Bromley,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,AFC Fylde,1,1,Ebbsfleet United,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,Aldershot Town,2,1,Hartlepool,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League,England,Altrincham,2,1,Dorking Wanderers,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,Barnet,3,2,Maidenhead,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,Bromley,3,1,Oxford City,Match Finished
+2024-01-10T19:45:00+00:00,2023,National League,England,Chesterfield,5,0,Gateshead,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,Dagenham & Redbridge,2,1,Woking,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,Eastleigh,3,1,York,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,FC Halifax Town,2,1,Kidderminster Harriers,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,Rochdale,3,4,Oldham,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League,England,Southend,5,0,Solihull Moors,Match Finished
+2023-10-21T16:30:00+00:00,2023,National League,England,Wealdstone,1,1,Boreham Wood,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,AFC Fylde,3,0,Oldham,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Aldershot Town,4,2,Maidenhead,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Altrincham,1,1,Kidderminster Harriers,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Barnet,1,1,Solihull Moors,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Bromley,2,1,Dorking Wanderers,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Chesterfield,4,0,York,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Dagenham & Redbridge,1,3,Boreham Wood,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Eastleigh,0,1,Woking,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,FC Halifax Town,2,1,Hartlepool,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Rochdale,2,2,Gateshead,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Southend,3,0,Ebbsfleet United,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League,England,Wealdstone,3,1,Oxford City,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Boreham Wood,1,1,Southend,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Dorking Wanderers,2,1,Aldershot Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Ebbsfleet United,0,1,Dagenham & Redbridge,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Gateshead,0,4,AFC Fylde,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Hartlepool,2,3,Rochdale,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,1,3,Chesterfield,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Maidenhead,3,2,Eastleigh,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Oldham,2,2,Altrincham,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Oxford City,0,2,Barnet,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Solihull Moors,1,0,Wealdstone,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League,England,Woking,0,1,Bromley,Match Finished
+2023-10-28T16:30:00+00:00,2023,National League,England,York,1,1,FC Halifax Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,AFC Fylde,0,2,York,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Aldershot Town,1,0,Kidderminster Harriers,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Altrincham,2,0,Southend,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Boreham Wood,1,1,Bromley,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Chesterfield,4,2,Barnet,Match Finished
+2023-11-11T17:30:00+00:00,2023,National League,England,Dagenham & Redbridge,1,2,Solihull Moors,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Gateshead,6,0,Dorking Wanderers,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Hartlepool,2,2,Ebbsfleet United,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Maidenhead,1,0,FC Halifax Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Oldham,1,1,Eastleigh,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Oxford City,3,2,Woking,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League,England,Wealdstone,3,2,Rochdale,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Barnet,0,2,Gateshead,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Bromley,1,0,AFC Fylde,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Dorking Wanderers,2,1,Boreham Wood,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Eastleigh,2,1,Altrincham,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Ebbsfleet United,0,4,Oxford City,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,FC Halifax Town,1,0,Wealdstone,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,0,1,Dagenham & Redbridge,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Rochdale,2,1,Aldershot Town,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Solihull Moors,1,2,Maidenhead,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Southend,2,1,Chesterfield,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,Woking,0,1,Oldham,Match Finished
+2023-11-18T15:00:00+00:00,2023,National League,England,York,1,3,Hartlepool,Match Finished
+2023-11-22T20:00:00+00:00,2023,National League,England,Barnet,1,4,Oldham,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,Bromley,2,3,Aldershot Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League,England,Dorking Wanderers,1,3,Dagenham & Redbridge,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,Eastleigh,2,1,Boreham Wood,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,Ebbsfleet United,1,1,Maidenhead,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,FC Halifax Town,2,2,AFC Fylde,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,Kidderminster Harriers,1,1,Hartlepool,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,Rochdale,3,0,Altrincham,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,Solihull Moors,1,2,Gateshead,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League,England,Southend,1,1,Wealdstone,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,Woking,0,2,Chesterfield,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League,England,York,2,0,Oxford City,Match Finished
+2023-11-25T12:00:00+00:00,2023,National League,England,AFC Fylde,3,3,Dorking Wanderers,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Aldershot Town,1,0,FC Halifax Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Altrincham,6,1,Solihull Moors,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Boreham Wood,4,2,Woking,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Chesterfield,3,2,Eastleigh,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,1,2,Rochdale,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Gateshead,1,1,Southend,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Hartlepool,1,4,Bromley,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Maidenhead,1,1,York,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Oldham,1,4,Ebbsfleet United,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Oxford City,2,2,Kidderminster Harriers,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League,England,Wealdstone,3,2,Barnet,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League,England,AFC Fylde,2,1,Hartlepool,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League,England,Barnet,2,1,Dagenham & Redbridge,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League,England,Bromley,1,0,Rochdale,Match Finished
+2024-01-16T19:45:00+00:00,2023,National League,England,Chesterfield,2,1,Altrincham,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League,England,Eastleigh,0,1,Southend,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League,England,FC Halifax Town,1,3,Solihull Moors,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,2,0,Ebbsfleet United,Match Finished
+2024-02-13T19:45:00+00:00,2023,National League,England,Oldham,2,1,Boreham Wood,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League,England,Oxford City,1,4,Maidenhead,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League,England,Wealdstone,3,3,Aldershot Town,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League,England,Woking,3,2,Gateshead,Match Finished
+2024-02-13T19:45:00+00:00,2023,National League,England,York,0,1,Dorking Wanderers,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Aldershot Town,3,5,Eastleigh,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Altrincham,2,1,AFC Fylde,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Boreham Wood,2,1,Oxford City,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,0,2,Wealdstone,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Dorking Wanderers,1,2,Woking,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Ebbsfleet United,1,1,Barnet,Match Finished
+2023-12-16T12:30:00+00:00,2023,National League,England,Gateshead,0,2,FC Halifax Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Hartlepool,0,1,Chesterfield,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Maidenhead,1,0,Kidderminster Harriers,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Rochdale,0,0,York,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Solihull Moors,2,3,Oldham,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League,England,Southend,1,2,Bromley,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,AFC Fylde,1,1,Dagenham & Redbridge,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Barnet,6,0,Boreham Wood,Match Finished
+2023-12-23T17:30:00+00:00,2023,National League,England,Bromley,2,2,Altrincham,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Chesterfield,4,1,Aldershot Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Eastleigh,2,1,Dorking Wanderers,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,FC Halifax Town,2,2,Rochdale,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,1,2,Southend,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Oldham,1,2,Gateshead,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Oxford City,1,2,Solihull Moors,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Wealdstone,4,4,Hartlepool,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,Woking,0,0,Maidenhead,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League,England,York,1,1,Ebbsfleet United,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Aldershot Town,0,0,Woking,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Altrincham,1,2,FC Halifax Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Boreham Wood,1,1,Kidderminster Harriers,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,4,1,Eastleigh,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Dorking Wanderers,0,2,Oxford City,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Ebbsfleet United,2,3,Bromley,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Gateshead,1,1,York,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Hartlepool,1,3,Oldham,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Maidenhead,0,2,Wealdstone,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Rochdale,2,0,AFC Fylde,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Solihull Moors,2,0,Chesterfield,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League,England,Southend,0,2,Barnet,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League,England,AFC Fylde,2,0,Rochdale,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League,England,Barnet,1,0,Southend,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League,England,Bromley,5,1,Ebbsfleet United,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League,England,Chesterfield,3,2,Solihull Moors,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League,England,Eastleigh,4,4,Dagenham & Redbridge,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League,England,FC Halifax Town,0,0,Altrincham,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,1,2,Boreham Wood,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League,England,Oldham,2,0,Hartlepool,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League,England,Oxford City,1,2,Dorking Wanderers,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League,England,Wealdstone,0,1,Maidenhead,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League,England,Woking,2,3,Aldershot Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League,England,York,2,0,Gateshead,Match Finished
+2024-02-13T19:45:00+00:00,2023,National League,England,Aldershot Town,0,5,AFC Fylde,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Altrincham,3,2,Barnet,Match Finished
+2024-01-07T14:00:00+00:00,2023,National League,England,Boreham Wood,1,1,York,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League,England,Dagenham & Redbridge,1,2,Chesterfield,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Dorking Wanderers,0,1,Oldham,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Ebbsfleet United,2,0,Wealdstone,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League,England,Gateshead,1,1,Eastleigh,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Hartlepool,2,1,Oxford City,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Maidenhead,0,0,Bromley,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Rochdale,2,0,Kidderminster Harriers,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Solihull Moors,3,0,Woking,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League,England,Southend,3,0,FC Halifax Town,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League,England,Barnet,0,2,Chesterfield,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League,England,Bromley,2,2,Boreham Wood,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League,England,Dorking Wanderers,1,0,Gateshead,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League,England,Eastleigh,1,2,Oldham,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League,England,Ebbsfleet United,0,1,Hartlepool,Match Finished
+2024-02-13T19:45:00+00:00,2023,National League,England,FC Halifax Town,2,1,Maidenhead,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,4,2,Aldershot Town,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League,England,Rochdale,3,0,Wealdstone,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League,England,Solihull Moors,1,1,Dagenham & Redbridge,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League,England,Southend,2,1,Altrincham,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League,England,Woking,2,0,Oxford City,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League,England,York,1,3,AFC Fylde,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,AFC Fylde,2,2,FC Halifax Town,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,Aldershot Town,1,1,Bromley,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League,England,Altrincham,3,0,Rochdale,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,Chesterfield,1,0,Woking,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,Dagenham & Redbridge,2,1,Dorking Wanderers,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League,England,Gateshead,2,3,Solihull Moors,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,Hartlepool,0,1,Kidderminster Harriers,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,Maidenhead,0,1,Ebbsfleet United,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,Oldham,2,0,Barnet,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League,England,Oxford City,1,2,York,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League,England,Wealdstone,1,2,Southend,Match Finished
+2024-01-24T19:45:00+00:00,2023,National League,England,Boreham Wood,4,4,Eastleigh,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,AFC Fylde,1,0,Bromley,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Aldershot Town,3,1,Rochdale,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Altrincham,4,0,Eastleigh,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Boreham Wood,0,3,Dorking Wanderers,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Chesterfield,3,0,Southend,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,0,1,Kidderminster Harriers,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Gateshead,2,1,Barnet,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Hartlepool,2,1,York,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Maidenhead,2,1,Solihull Moors,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Oldham,0,1,Woking,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Oxford City,1,0,Ebbsfleet United,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League,England,Wealdstone,2,0,FC Halifax Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Barnet,1,1,Wealdstone,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Bromley,1,2,Hartlepool,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Dorking Wanderers,1,3,AFC Fylde,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Eastleigh,1,3,Chesterfield,Match Finished
+2024-02-03T17:30:00+00:00,2023,National League,England,Ebbsfleet United,0,0,Oldham,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,FC Halifax Town,1,2,Aldershot Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,3,2,Oxford City,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Rochdale,1,2,Dagenham & Redbridge,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Solihull Moors,0,1,Altrincham,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Southend,0,1,Gateshead,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,Woking,0,1,Boreham Wood,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League,England,York,1,1,Maidenhead,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League,England,Altrincham,4,1,Wealdstone,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League,England,Barnet,2,0,Rochdale,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League,England,Boreham Wood,1,0,Maidenhead,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League,England,Chesterfield,2,2,Ebbsfleet United,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,7,1,Oxford City,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League,England,Dorking Wanderers,1,3,FC Halifax Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League,England,Eastleigh,1,2,AFC Fylde,Match Finished
+2024-04-17T18:45:00+00:00,2023,National League,England,Gateshead,0,1,Aldershot Town,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League,England,Oldham,0,0,Bromley,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League,England,Solihull Moors,0,1,Kidderminster Harriers,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League,England,Southend,0,1,York,Match Finished
+2024-02-10T17:30:00+00:00,2023,National League,England,Woking,1,1,Hartlepool,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,AFC Fylde,2,4,Barnet,Match Finished
+2024-02-17T17:30:00+00:00,2023,National League,England,Aldershot Town,2,0,Altrincham,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Bromley,4,3,Chesterfield,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Ebbsfleet United,3,0,Eastleigh,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,FC Halifax Town,2,1,Woking,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Hartlepool,3,1,Boreham Wood,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,0,0,Dorking Wanderers,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Maidenhead,1,3,Oldham,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Oxford City,0,0,Southend,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Rochdale,1,2,Solihull Moors,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,Wealdstone,2,4,Gateshead,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League,England,York,1,1,Dagenham & Redbridge,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,AFC Fylde,2,2,Solihull Moors,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,Aldershot Town,1,0,Barnet,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,Bromley,2,2,Dagenham & Redbridge,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,Ebbsfleet United,1,0,Woking,Match Finished
+2024-03-20T19:45:00+00:00,2023,National League,England,FC Halifax Town,4,2,Chesterfield,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,Hartlepool,3,2,Altrincham,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,Kidderminster Harriers,0,2,Gateshead,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,Maidenhead,1,2,Southend,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,Oxford City,2,5,Eastleigh,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League,England,Rochdale,0,0,Boreham Wood,Match Finished
+2024-04-11T18:45:00+00:00,2023,National League,England,Wealdstone,4,2,Dorking Wanderers,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League,England,York,1,1,Oldham,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Altrincham,1,3,Maidenhead,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Barnet,2,0,York,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Boreham Wood,4,0,AFC Fylde,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Chesterfield,2,2,Rochdale,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,0,1,FC Halifax Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Dorking Wanderers,1,4,Ebbsfleet United,Match Finished
+2024-02-24T12:30:00+00:00,2023,National League,England,Eastleigh,2,0,Bromley,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Gateshead,4,0,Oxford City,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Oldham,1,2,Kidderminster Harriers,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Solihull Moors,2,1,Hartlepool,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Southend,4,1,Aldershot Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League,England,Woking,1,1,Wealdstone,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,AFC Fylde,4,1,Maidenhead,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Boreham Wood,1,1,Gateshead,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Bromley,2,0,FC Halifax Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,3,1,Altrincham,Match Finished
+2024-03-02T12:30:00+00:00,2023,National League,England,Dorking Wanderers,4,1,Chesterfield,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Eastleigh,3,3,Solihull Moors,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Ebbsfleet United,2,1,Rochdale,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Hartlepool,1,2,Barnet,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Oldham,1,1,Southend,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,Oxford City,1,2,Aldershot Town,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League,England,Woking,2,1,Kidderminster Harriers,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League,England,York,2,3,Wealdstone,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League,England,Aldershot Town,2,0,Oldham,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League,England,Altrincham,0,1,Woking,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League,England,Barnet,1,1,Bromley,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League,England,Chesterfield,4,1,AFC Fylde,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League,England,FC Halifax Town,2,1,Boreham Wood,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League,England,Gateshead,7,1,Hartlepool,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,0,0,York,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League,England,Maidenhead,4,2,Dorking Wanderers,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League,England,Rochdale,2,2,Oxford City,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League,England,Solihull Moors,3,0,Ebbsfleet United,Match Finished
+2024-03-09T17:30:00+00:00,2023,National League,England,Southend,1,1,Dagenham & Redbridge,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League,England,Wealdstone,0,1,Eastleigh,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Aldershot Town,4,1,Ebbsfleet United,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Altrincham,6,1,York,Match Finished
+2024-03-19T19:45:00+00:00,2023,National League,England,Barnet,2,1,Eastleigh,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Chesterfield,2,0,Oxford City,Match Finished
+2024-04-18T18:45:00+00:00,2023,National League,England,FC Halifax Town,2,2,Oldham,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Gateshead,1,0,Dagenham & Redbridge,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Kidderminster Harriers,1,1,AFC Fylde,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League,England,Maidenhead,3,1,Hartlepool,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Rochdale,2,1,Woking,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Solihull Moors,2,0,Boreham Wood,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League,England,Southend,2,0,Dorking Wanderers,Match Finished
+2024-03-20T19:45:00+00:00,2023,National League,England,Wealdstone,0,1,Bromley,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,AFC Fylde,1,2,Wealdstone,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Boreham Wood,0,1,Altrincham,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Bromley,0,0,Kidderminster Harriers,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,4,1,Maidenhead,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Dorking Wanderers,1,1,Solihull Moors,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Eastleigh,1,4,Rochdale,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Ebbsfleet United,4,2,Gateshead,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Hartlepool,0,0,Southend,Match Finished
+2024-03-16T12:30:00+00:00,2023,National League,England,Oldham,2,2,Chesterfield,Match Finished
+2024-03-17T12:15:00+00:00,2023,National League,England,Oxford City,0,2,FC Halifax Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,Woking,1,0,Barnet,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League,England,York,1,0,Aldershot Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,AFC Fylde,2,1,Oxford City,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Aldershot Town,1,1,Solihull Moors,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Altrincham,2,3,Gateshead,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Barnet,6,0,Dorking Wanderers,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Bromley,0,2,York,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Chesterfield,3,0,Boreham Wood,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Dagenham & Redbridge,0,0,Oldham,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Eastleigh,1,1,Hartlepool,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League,England,FC Halifax Town,0,0,Ebbsfleet United,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Rochdale,1,0,Maidenhead,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Southend,0,0,Woking,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League,England,Wealdstone,1,1,Kidderminster Harriers,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Boreham Wood,1,4,Dagenham & Redbridge,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Dorking Wanderers,0,2,Bromley,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Ebbsfleet United,1,1,Southend,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Gateshead,1,0,Rochdale,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Hartlepool,1,0,FC Halifax Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Kidderminster Harriers,1,3,Altrincham,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Maidenhead,4,0,Aldershot Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Oldham,1,3,AFC Fylde,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Oxford City,1,0,Wealdstone,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Solihull Moors,2,2,Barnet,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,Woking,0,1,Eastleigh,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League,England,York,2,1,Chesterfield,Match Finished
+2024-04-11T18:45:00+00:00,2023,National League,England,AFC Fylde,2,0,Gateshead,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Aldershot Town,1,1,Dorking Wanderers,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Altrincham,1,0,Oldham,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Barnet,3,1,Oxford City,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Bromley,1,1,Woking,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Chesterfield,1,3,Kidderminster Harriers,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Dagenham & Redbridge,1,1,Ebbsfleet United,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Eastleigh,2,3,Maidenhead,Match Finished
+2024-04-02T18:45:00+00:00,2023,National League,England,FC Halifax Town,1,1,York,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Rochdale,1,1,Hartlepool,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Southend,4,2,Boreham Wood,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League,England,Wealdstone,0,1,Solihull Moors,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League,England,Boreham Wood,4,0,Wealdstone,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League,England,Dorking Wanderers,0,0,Altrincham,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League,England,Ebbsfleet United,2,1,AFC Fylde,Match Finished
+2024-04-15T18:45:00+00:00,2023,National League,England,Gateshead,2,1,Chesterfield,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League,England,Hartlepool,2,0,Aldershot Town,Match Finished
+2024-04-06T16:30:00+00:00,2023,National League,England,Kidderminster Harriers,0,2,FC Halifax Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League,England,Maidenhead,2,2,Barnet,Match Finished
+2024-04-06T11:30:00+00:00,2023,National League,England,Oldham,1,1,Rochdale,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League,England,Oxford City,1,3,Bromley,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League,England,Solihull Moors,0,3,Southend,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League,England,Woking,3,2,Dagenham & Redbridge,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League,England,York,0,1,Eastleigh,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,AFC Fylde,0,2,Southend,Match Finished
+2024-04-13T16:30:00+00:00,2023,National League,England,Aldershot Town,0,3,Boreham Wood,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Bromley,3,0,Solihull Moors,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Ebbsfleet United,0,2,Altrincham,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,FC Halifax Town,0,2,Barnet,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Hartlepool,1,1,Dagenham & Redbridge,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Kidderminster Harriers,0,1,Eastleigh,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Maidenhead,2,1,Gateshead,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Oxford City,0,0,Oldham,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Rochdale,1,1,Dorking Wanderers,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,Wealdstone,1,0,Chesterfield,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League,England,York,2,0,Woking,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Altrincham,1,0,Oxford City,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Barnet,4,1,Kidderminster Harriers,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Boreham Wood,0,0,Ebbsfleet United,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Chesterfield,3,2,Maidenhead,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Dagenham & Redbridge,3,3,Aldershot Town,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Dorking Wanderers,3,4,Hartlepool,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Eastleigh,0,3,FC Halifax Town,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Gateshead,2,1,Bromley,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Oldham,2,3,Wealdstone,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Solihull Moors,1,0,York,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Southend,1,2,Rochdale,Match Finished
+2024-04-20T11:15:00+00:00,2023,National League,England,Woking,3,0,AFC Fylde,Match Finished
+2024-04-23T18:00:00+00:00,2023,National League,England,Solihull Moors,3,0,Gateshead,Technical loss
+2024-04-24T18:00:00+00:00,2023,National League,England,Altrincham,4,2,FC Halifax Town,Match Finished
+2024-04-27T16:30:00+00:00,2023,National League,England,Barnet,0,4,Solihull Moors,Match Finished
+2024-04-28T15:00:00+00:00,2023,National League,England,Bromley,,,Altrincham,Not Started

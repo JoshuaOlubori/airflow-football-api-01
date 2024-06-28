@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-11T17:30:00+00:00,2023,La Liga,Spain,Almeria,0,2,Rayo Vallecano,Match Finished
+2023-08-12T19:30:00+00:00,2023,La Liga,Spain,Athletic Club,0,2,Real Madrid,Match Finished
+2023-08-14T19:30:00+00:00,2023,La Liga,Spain,Atletico Madrid,3,1,Granada CF,Match Finished
+2023-08-13T15:00:00+00:00,2023,La Liga,Spain,Celta Vigo,0,2,Osasuna,Match Finished
+2023-08-11T20:00:00+00:00,2023,La Liga,Spain,Sevilla,1,2,Valencia,Match Finished
+2023-08-12T17:30:00+00:00,2023,La Liga,Spain,Las Palmas,1,1,Mallorca,Match Finished
+2023-08-13T19:30:00+00:00,2023,La Liga,Spain,Getafe,0,0,Barcelona,Match Finished
+2023-08-13T17:30:00+00:00,2023,La Liga,Spain,Villarreal,1,2,Real Betis,Match Finished
+2023-08-12T15:00:00+00:00,2023,La Liga,Spain,Real Sociedad,1,1,Girona,Match Finished
+2023-08-14T17:30:00+00:00,2023,La Liga,Spain,Cadiz,1,0,Alaves,Match Finished
+2023-08-19T17:30:00+00:00,2023,La Liga,Spain,Almeria,1,3,Real Madrid,Match Finished
+2023-08-20T17:30:00+00:00,2023,La Liga,Spain,Barcelona,2,0,Cadiz,Match Finished
+2023-08-18T17:30:00+00:00,2023,La Liga,Spain,Mallorca,0,1,Villarreal,Match Finished
+2023-08-21T19:30:00+00:00,2023,La Liga,Spain,Granada CF,0,2,Rayo Vallecano,Match Finished
+2023-08-21T17:00:00+00:00,2023,La Liga,Spain,Alaves,4,3,Sevilla,Match Finished
+2023-08-19T19:30:00+00:00,2023,La Liga,Spain,Osasuna,0,2,Athletic Club,Match Finished
+2023-08-20T19:30:00+00:00,2023,La Liga,Spain,Real Betis,0,0,Atletico Madrid,Match Finished
+2023-08-19T15:00:00+00:00,2023,La Liga,Spain,Real Sociedad,1,1,Celta Vigo,Match Finished
+2023-08-20T17:00:00+00:00,2023,La Liga,Spain,Girona,3,0,Getafe,Match Finished
+2023-08-18T19:30:00+00:00,2023,La Liga,Spain,Valencia,1,0,Las Palmas,Match Finished
+2023-08-27T19:30:00+00:00,2023,La Liga,Spain,Athletic Club,4,2,Real Betis,Match Finished
+2023-08-25T19:30:00+00:00,2023,La Liga,Spain,Celta Vigo,0,1,Real Madrid,Match Finished
+2023-08-26T17:30:00+00:00,2023,La Liga,Spain,Granada CF,3,2,Mallorca,Match Finished
+2023-08-25T17:30:00+00:00,2023,La Liga,Spain,Las Palmas,0,0,Real Sociedad,Match Finished
+2023-08-26T17:00:00+00:00,2023,La Liga,Spain,Cadiz,1,1,Almeria,Match Finished
+2023-08-28T19:30:00+00:00,2023,La Liga,Spain,Rayo Vallecano,0,7,Atletico Madrid,Match Finished
+2023-08-27T15:30:00+00:00,2023,La Liga,Spain,Villarreal,3,4,Barcelona,Match Finished
+2023-08-26T19:30:00+00:00,2023,La Liga,Spain,Sevilla,1,2,Girona,Match Finished
+2023-08-27T17:30:00+00:00,2023,La Liga,Spain,Valencia,1,2,Osasuna,Match Finished
+2023-08-28T17:30:00+00:00,2023,La Liga,Spain,Getafe,1,0,Alaves,Match Finished
+2023-09-01T20:00:00+00:00,2023,La Liga,Spain,Almeria,2,3,Celta Vigo,Match Finished
+2023-12-23T15:15:00+00:00,2023,La Liga,Spain,Atletico Madrid,1,0,Sevilla,Match Finished
+2023-09-02T19:00:00+00:00,2023,La Liga,Spain,Real Betis,1,0,Rayo Vallecano,Match Finished
+2023-09-01T17:30:00+00:00,2023,La Liga,Spain,Cadiz,3,1,Villarreal,Match Finished
+2023-09-03T12:00:00+00:00,2023,La Liga,Spain,Girona,1,0,Las Palmas,Match Finished
+2023-09-02T16:30:00+00:00,2023,La Liga,Spain,Alaves,1,0,Valencia,Match Finished
+2023-09-03T14:15:00+00:00,2023,La Liga,Spain,Mallorca,0,0,Athletic Club,Match Finished
+2023-09-03T19:00:00+00:00,2023,La Liga,Spain,Osasuna,1,2,Barcelona,Match Finished
+2023-09-02T14:15:00+00:00,2023,La Liga,Spain,Real Madrid,2,1,Getafe,Match Finished
+2023-09-02T12:00:00+00:00,2023,La Liga,Spain,Real Sociedad,5,3,Granada CF,Match Finished
+2023-09-16T12:00:00+00:00,2023,La Liga,Spain,Athletic Club,3,0,Cadiz,Match Finished
+2023-09-16T19:00:00+00:00,2023,La Liga,Spain,Barcelona,5,0,Real Betis,Match Finished
+2023-09-16T16:30:00+00:00,2023,La Liga,Spain,Celta Vigo,0,1,Mallorca,Match Finished
+2023-09-17T12:00:00+00:00,2023,La Liga,Spain,Getafe,3,2,Osasuna,Match Finished
+2023-09-17T19:00:00+00:00,2023,La Liga,Spain,Real Madrid,2,1,Real Sociedad,Match Finished
+2023-09-17T14:15:00+00:00,2023,La Liga,Spain,Villarreal,2,1,Almeria,Match Finished
+2023-09-16T14:15:00+00:00,2023,La Liga,Spain,Valencia,3,0,Atletico Madrid,Match Finished
+2023-09-18T19:00:00+00:00,2023,La Liga,Spain,Granada CF,2,4,Girona,Match Finished
+2023-09-17T16:30:00+00:00,2023,La Liga,Spain,Sevilla,1,0,Las Palmas,Match Finished
+2023-09-15T19:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,2,0,Alaves,Match Finished
+2023-09-23T19:00:00+00:00,2023,La Liga,Spain,Almeria,2,2,Valencia,Match Finished
+2023-09-24T19:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,3,1,Real Madrid,Match Finished
+2023-09-23T16:30:00+00:00,2023,La Liga,Spain,Barcelona,3,2,Celta Vigo,Match Finished
+2023-09-24T16:30:00+00:00,2023,La Liga,Spain,Real Betis,1,1,Cadiz,Match Finished
+2023-09-23T12:00:00+00:00,2023,La Liga,Spain,Girona,5,3,Mallorca,Match Finished
+2023-09-23T14:15:00+00:00,2023,La Liga,Spain,Osasuna,0,0,Sevilla,Match Finished
+2023-09-24T14:15:00+00:00,2023,La Liga,Spain,Rayo Vallecano,1,1,Villarreal,Match Finished
+2023-09-22T19:00:00+00:00,2023,La Liga,Spain,Alaves,0,2,Athletic Club,Match Finished
+2023-09-24T12:00:00+00:00,2023,La Liga,Spain,Real Sociedad,4,3,Getafe,Match Finished
+2023-09-24T16:30:00+00:00,2023,La Liga,Spain,Las Palmas,1,0,Granada CF,Match Finished
+2023-09-27T17:00:00+00:00,2023,La Liga,Spain,Athletic Club,2,2,Getafe,Match Finished
+2023-09-27T19:30:00+00:00,2023,La Liga,Spain,Cadiz,0,0,Rayo Vallecano,Match Finished
+2023-09-26T17:00:00+00:00,2023,La Liga,Spain,Sevilla,5,1,Almeria,Match Finished
+2023-09-28T19:30:00+00:00,2023,La Liga,Spain,Osasuna,0,2,Atletico Madrid,Match Finished
+2023-09-26T19:30:00+00:00,2023,La Liga,Spain,Mallorca,2,2,Barcelona,Match Finished
+2023-09-28T17:00:00+00:00,2023,La Liga,Spain,Granada CF,1,1,Real Betis,Match Finished
+2023-09-27T17:00:00+00:00,2023,La Liga,Spain,Villarreal,1,2,Girona,Match Finished
+2023-09-27T19:30:00+00:00,2023,La Liga,Spain,Valencia,0,1,Real Sociedad,Match Finished
+2023-09-27T17:00:00+00:00,2023,La Liga,Spain,Real Madrid,2,0,Las Palmas,Match Finished
+2023-09-28T17:00:00+00:00,2023,La Liga,Spain,Celta Vigo,1,1,Alaves,Match Finished
+2023-10-01T12:00:00+00:00,2023,La Liga,Spain,Almeria,3,3,Granada CF,Match Finished
+2023-10-01T19:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,3,2,Cadiz,Match Finished
+2023-09-29T19:00:00+00:00,2023,La Liga,Spain,Barcelona,1,0,Sevilla,Match Finished
+2023-10-01T19:00:00+00:00,2023,La Liga,Spain,Real Betis,3,0,Valencia,Match Finished
+2023-09-30T12:00:00+00:00,2023,La Liga,Spain,Getafe,0,0,Villarreal,Match Finished
+2023-09-30T16:30:00+00:00,2023,La Liga,Spain,Girona,0,3,Real Madrid,Match Finished
+2023-10-01T14:15:00+00:00,2023,La Liga,Spain,Alaves,0,2,Osasuna,Match Finished
+2023-09-30T19:00:00+00:00,2023,La Liga,Spain,Real Sociedad,3,0,Athletic Club,Match Finished
+2023-10-02T19:00:00+00:00,2023,La Liga,Spain,Las Palmas,2,1,Celta Vigo,Match Finished
+2023-09-30T14:15:00+00:00,2023,La Liga,Spain,Rayo Vallecano,2,2,Mallorca,Match Finished
+2023-10-08T14:15:00+00:00,2023,La Liga,Spain,Atletico Madrid,2,1,Real Sociedad,Match Finished
+2023-10-07T12:00:00+00:00,2023,La Liga,Spain,Cadiz,0,1,Girona,Match Finished
+2023-10-08T16:30:00+00:00,2023,La Liga,Spain,Celta Vigo,2,2,Getafe,Match Finished
+2023-10-07T16:30:00+00:00,2023,La Liga,Spain,Mallorca,1,1,Valencia,Match Finished
+2023-10-08T16:30:00+00:00,2023,La Liga,Spain,Alaves,1,1,Real Betis,Match Finished
+2023-10-06T19:00:00+00:00,2023,La Liga,Spain,Athletic Club,3,0,Almeria,Match Finished
+2023-10-08T19:00:00+00:00,2023,La Liga,Spain,Granada CF,2,2,Barcelona,Match Finished
+2023-10-07T14:15:00+00:00,2023,La Liga,Spain,Real Madrid,4,0,Osasuna,Match Finished
+2023-10-07T19:00:00+00:00,2023,La Liga,Spain,Sevilla,2,2,Rayo Vallecano,Match Finished
+2023-10-08T12:00:00+00:00,2023,La Liga,Spain,Villarreal,1,2,Las Palmas,Match Finished
+2023-10-22T12:00:00+00:00,2023,La Liga,Spain,Las Palmas,0,1,Rayo Vallecano,Match Finished
+2023-10-22T14:15:00+00:00,2023,La Liga,Spain,Girona,5,2,Almeria,Match Finished
+2023-10-22T19:00:00+00:00,2023,La Liga,Spain,Barcelona,1,0,Athletic Club,Match Finished
+2023-10-21T19:00:00+00:00,2023,La Liga,Spain,Celta Vigo,0,3,Atletico Madrid,Match Finished
+2023-10-21T14:15:00+00:00,2023,La Liga,Spain,Getafe,1,1,Real Betis,Match Finished
+2023-10-23T19:00:00+00:00,2023,La Liga,Spain,Valencia,2,0,Cadiz,Match Finished
+2023-10-21T12:00:00+00:00,2023,La Liga,Spain,Real Sociedad,1,0,Mallorca,Match Finished
+2023-10-21T16:30:00+00:00,2023,La Liga,Spain,Sevilla,1,1,Real Madrid,Match Finished
+2023-10-20T19:00:00+00:00,2023,La Liga,Spain,Osasuna,2,0,Granada CF,Match Finished
+2023-10-22T16:30:00+00:00,2023,La Liga,Spain,Villarreal,1,1,Alaves,Match Finished
+2023-10-28T12:00:00+00:00,2023,La Liga,Spain,Almeria,1,2,Las Palmas,Match Finished
+2023-10-29T17:30:00+00:00,2023,La Liga,Spain,Athletic Club,2,2,Valencia,Match Finished
+2023-10-28T14:15:00+00:00,2023,La Liga,Spain,Barcelona,1,2,Real Madrid,Match Finished
+2023-10-29T13:00:00+00:00,2023,La Liga,Spain,Real Betis,2,1,Osasuna,Match Finished
+2023-10-28T19:00:00+00:00,2023,La Liga,Spain,Cadiz,2,2,Sevilla,Match Finished
+2023-10-29T15:15:00+00:00,2023,La Liga,Spain,Rayo Vallecano,2,2,Real Sociedad,Match Finished
+2023-10-30T20:00:00+00:00,2023,La Liga,Spain,Granada CF,2,3,Villarreal,Match Finished
+2023-10-27T19:00:00+00:00,2023,La Liga,Spain,Girona,1,0,Celta Vigo,Match Finished
+2023-10-28T16:30:00+00:00,2023,La Liga,Spain,Mallorca,0,0,Getafe,Match Finished
+2023-10-29T20:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,2,1,Alaves,Match Finished
+2023-11-04T15:15:00+00:00,2023,La Liga,Spain,Real Betis,2,0,Mallorca,Match Finished
+2023-11-04T17:30:00+00:00,2023,La Liga,Spain,Celta Vigo,1,1,Sevilla,Match Finished
+2023-11-05T13:00:00+00:00,2023,La Liga,Spain,Alaves,1,0,Almeria,Match Finished
+2023-11-05T17:30:00+00:00,2023,La Liga,Spain,Villarreal,2,3,Athletic Club,Match Finished
+2023-11-03T20:00:00+00:00,2023,La Liga,Spain,Las Palmas,2,1,Atletico Madrid,Match Finished
+2023-11-04T20:00:00+00:00,2023,La Liga,Spain,Real Sociedad,0,1,Barcelona,Match Finished
+2023-11-06T20:00:00+00:00,2023,La Liga,Spain,Getafe,1,0,Cadiz,Match Finished
+2023-11-04T13:00:00+00:00,2023,La Liga,Spain,Osasuna,2,4,Girona,Match Finished
+2023-11-05T20:00:00+00:00,2023,La Liga,Spain,Real Madrid,0,0,Rayo Vallecano,Match Finished
+2023-11-05T15:15:00+00:00,2023,La Liga,Spain,Valencia,1,0,Granada CF,Match Finished
+2023-11-11T15:15:00+00:00,2023,La Liga,Spain,Almeria,1,3,Real Sociedad,Match Finished
+2023-11-10T20:00:00+00:00,2023,La Liga,Spain,Athletic Club,4,3,Celta Vigo,Match Finished
+2023-11-12T20:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,3,1,Villarreal,Match Finished
+2023-11-11T20:00:00+00:00,2023,La Liga,Spain,Real Madrid,5,1,Valencia,Match Finished
+2023-11-12T17:30:00+00:00,2023,La Liga,Spain,Sevilla,1,1,Real Betis,Match Finished
+2023-11-29T20:00:00+00:00,2023,La Liga,Spain,Mallorca,1,1,Cadiz,Match Finished
+2023-11-11T17:30:00+00:00,2023,La Liga,Spain,Granada CF,1,1,Getafe,Match Finished
+2023-11-11T13:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,1,2,Girona,Match Finished
+2023-11-11T17:30:00+00:00,2023,La Liga,Spain,Osasuna,1,1,Las Palmas,Match Finished
+2023-11-12T15:15:00+00:00,2023,La Liga,Spain,Barcelona,2,1,Alaves,Match Finished
+2023-11-25T20:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,1,0,Mallorca,Match Finished
+2023-11-26T20:00:00+00:00,2023,La Liga,Spain,Real Betis,1,0,Las Palmas,Match Finished
+2023-11-26T17:30:00+00:00,2023,La Liga,Spain,Cadiz,0,3,Real Madrid,Match Finished
+2023-11-26T15:15:00+00:00,2023,La Liga,Spain,Real Sociedad,2,1,Sevilla,Match Finished
+2023-11-24T20:00:00+00:00,2023,La Liga,Spain,Alaves,3,1,Granada CF,Match Finished
+2023-11-25T17:30:00+00:00,2023,La Liga,Spain,Getafe,2,1,Almeria,Match Finished
+2023-11-27T20:00:00+00:00,2023,La Liga,Spain,Girona,1,1,Athletic Club,Match Finished
+2023-11-25T13:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,1,1,Barcelona,Match Finished
+2023-11-25T15:15:00+00:00,2023,La Liga,Spain,Valencia,0,0,Celta Vigo,Match Finished
+2023-11-26T13:00:00+00:00,2023,La Liga,Spain,Villarreal,3,1,Osasuna,Match Finished
+2023-12-03T15:15:00+00:00,2023,La Liga,Spain,Almeria,0,0,Real Betis,Match Finished
+2023-12-02T15:15:00+00:00,2023,La Liga,Spain,Athletic Club,4,0,Rayo Vallecano,Match Finished
+2023-12-02T13:00:00+00:00,2023,La Liga,Spain,Girona,2,1,Valencia,Match Finished
+2023-12-02T20:00:00+00:00,2023,La Liga,Spain,Osasuna,1,1,Real Sociedad,Match Finished
+2023-12-03T17:30:00+00:00,2023,La Liga,Spain,Sevilla,1,1,Villarreal,Match Finished
+2023-12-03T20:00:00+00:00,2023,La Liga,Spain,Barcelona,1,0,Atletico Madrid,Match Finished
+2023-12-04T20:00:00+00:00,2023,La Liga,Spain,Celta Vigo,1,1,Cadiz,Match Finished
+2023-12-01T20:00:00+00:00,2023,La Liga,Spain,Las Palmas,2,0,Getafe,Match Finished
+2023-12-02T17:30:00+00:00,2023,La Liga,Spain,Real Madrid,2,0,Granada CF,Match Finished
+2023-12-03T13:00:00+00:00,2023,La Liga,Spain,Mallorca,0,0,Alaves,Match Finished
+2023-12-10T20:00:00+00:00,2023,La Liga,Spain,Barcelona,2,4,Girona,Match Finished
+2023-12-09T15:15:00+00:00,2023,La Liga,Spain,Real Betis,1,1,Real Madrid,Match Finished
+2023-12-10T17:30:00+00:00,2023,La Liga,Spain,Cadiz,1,1,Osasuna,Match Finished
+2023-12-08T20:00:00+00:00,2023,La Liga,Spain,Getafe,1,0,Valencia,Match Finished
+2023-12-09T20:00:00+00:00,2023,La Liga,Spain,Mallorca,1,0,Sevilla,Match Finished
+2023-12-09T13:00:00+00:00,2023,La Liga,Spain,Alaves,0,1,Las Palmas,Match Finished
+2023-12-10T13:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,2,1,Almeria,Match Finished
+2023-12-11T15:15:00+00:00,2023,La Liga,Spain,Granada CF,1,1,Athletic Club,Match Finished
+2023-12-11T20:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,0,0,Celta Vigo,Match Finished
+2023-12-09T17:30:00+00:00,2023,La Liga,Spain,Villarreal,0,3,Real Sociedad,Match Finished
+2023-12-17T13:00:00+00:00,2023,La Liga,Spain,Almeria,0,0,Mallorca,Match Finished
+2023-12-16T15:15:00+00:00,2023,La Liga,Spain,Athletic Club,2,0,Atletico Madrid,Match Finished
+2023-12-16T13:00:00+00:00,2023,La Liga,Spain,Celta Vigo,1,0,Granada CF,Match Finished
+2023-12-15T20:00:00+00:00,2023,La Liga,Spain,Osasuna,1,0,Rayo Vallecano,Match Finished
+2023-12-17T20:00:00+00:00,2023,La Liga,Spain,Real Madrid,4,1,Villarreal,Match Finished
+2023-12-16T20:00:00+00:00,2023,La Liga,Spain,Valencia,1,1,Barcelona,Match Finished
+2023-12-17T15:15:00+00:00,2023,La Liga,Spain,Real Sociedad,0,0,Real Betis,Match Finished
+2023-12-17T17:30:00+00:00,2023,La Liga,Spain,Las Palmas,1,1,Cadiz,Match Finished
+2023-12-16T17:30:00+00:00,2023,La Liga,Spain,Sevilla,0,3,Getafe,Match Finished
+2023-12-18T20:00:00+00:00,2023,La Liga,Spain,Girona,3,0,Alaves,Match Finished
+2023-12-20T20:30:00+00:00,2023,La Liga,Spain,Athletic Club,1,0,Las Palmas,Match Finished
+2023-12-19T20:30:00+00:00,2023,La Liga,Spain,Atletico Madrid,3,3,Getafe,Match Finished
+2023-12-21T18:00:00+00:00,2023,La Liga,Spain,Real Betis,1,1,Girona,Match Finished
+2023-12-21T18:00:00+00:00,2023,La Liga,Spain,Cadiz,0,0,Real Sociedad,Match Finished
+2023-12-21T20:30:00+00:00,2023,La Liga,Spain,Mallorca,3,2,Osasuna,Match Finished
+2023-12-19T18:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,0,1,Valencia,Match Finished
+2023-12-19T20:30:00+00:00,2023,La Liga,Spain,Granada CF,0,3,Sevilla,Match Finished
+2023-12-21T20:30:00+00:00,2023,La Liga,Spain,Alaves,0,1,Real Madrid,Match Finished
+2023-12-20T18:00:00+00:00,2023,La Liga,Spain,Barcelona,3,2,Almeria,Match Finished
+2023-12-20T20:30:00+00:00,2023,La Liga,Spain,Villarreal,3,2,Celta Vigo,Match Finished
+2024-01-02T16:00:00+00:00,2023,La Liga,Spain,Getafe,0,2,Rayo Vallecano,Match Finished
+2024-01-02T20:30:00+00:00,2023,La Liga,Spain,Valencia,3,1,Villarreal,Match Finished
+2024-01-04T16:00:00+00:00,2023,La Liga,Spain,Osasuna,1,0,Almeria,Match Finished
+2024-01-04T18:15:00+00:00,2023,La Liga,Spain,Sevilla,0,2,Athletic Club,Match Finished
+2024-01-03T20:30:00+00:00,2023,La Liga,Spain,Girona,4,3,Atletico Madrid,Match Finished
+2024-01-04T20:30:00+00:00,2023,La Liga,Spain,Las Palmas,1,2,Barcelona,Match Finished
+2024-01-03T18:15:00+00:00,2023,La Liga,Spain,Celta Vigo,2,1,Real Betis,Match Finished
+2024-01-03T16:00:00+00:00,2023,La Liga,Spain,Granada CF,2,0,Cadiz,Match Finished
+2024-01-03T18:15:00+00:00,2023,La Liga,Spain,Real Madrid,1,0,Mallorca,Match Finished
+2024-01-02T18:15:00+00:00,2023,La Liga,Spain,Real Sociedad,1,1,Alaves,Match Finished
+2024-01-14T13:00:00+00:00,2023,La Liga,Spain,Almeria,0,0,Girona,Match Finished
+2024-01-13T17:30:00+00:00,2023,La Liga,Spain,Athletic Club,2,1,Real Sociedad,Match Finished
+2024-01-31T20:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,2,1,Rayo Vallecano,Match Finished
+2024-01-31T18:00:00+00:00,2023,La Liga,Spain,Barcelona,1,0,Osasuna,Match Finished
+2024-01-13T20:00:00+00:00,2023,La Liga,Spain,Real Betis,1,0,Granada CF,Match Finished
+2024-01-14T15:15:00+00:00,2023,La Liga,Spain,Cadiz,1,4,Valencia,Match Finished
+2024-02-01T20:00:00+00:00,2023,La Liga,Spain,Getafe,0,2,Real Madrid,Match Finished
+2024-01-13T13:00:00+00:00,2023,La Liga,Spain,Las Palmas,3,0,Villarreal,Match Finished
+2024-01-13T15:15:00+00:00,2023,La Liga,Spain,Mallorca,1,1,Celta Vigo,Match Finished
+2024-01-12T20:00:00+00:00,2023,La Liga,Spain,Sevilla,2,3,Alaves,Match Finished
+2024-01-20T20:00:00+00:00,2023,La Liga,Spain,Celta Vigo,0,1,Real Sociedad,Match Finished
+2024-01-21T20:00:00+00:00,2023,La Liga,Spain,Girona,5,1,Sevilla,Match Finished
+2024-01-19T20:00:00+00:00,2023,La Liga,Spain,Alaves,1,0,Cadiz,Match Finished
+2024-01-21T15:15:00+00:00,2023,La Liga,Spain,Real Madrid,3,2,Almeria,Match Finished
+2024-01-20T17:30:00+00:00,2023,La Liga,Spain,Valencia,1,0,Athletic Club,Match Finished
+2024-01-22T20:00:00+00:00,2023,La Liga,Spain,Granada CF,0,1,Atletico Madrid,Match Finished
+2024-01-21T17:30:00+00:00,2023,La Liga,Spain,Real Betis,2,4,Barcelona,Match Finished
+2024-01-21T13:00:00+00:00,2023,La Liga,Spain,Osasuna,3,2,Getafe,Match Finished
+2024-01-20T15:15:00+00:00,2023,La Liga,Spain,Villarreal,1,1,Mallorca,Match Finished
+2024-01-20T13:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,0,2,Las Palmas,Match Finished
+2024-01-28T20:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,2,0,Valencia,Match Finished
+2024-01-27T17:30:00+00:00,2023,La Liga,Spain,Barcelona,3,5,Villarreal,Match Finished
+2024-01-28T13:00:00+00:00,2023,La Liga,Spain,Celta Vigo,0,1,Girona,Match Finished
+2024-01-29T20:00:00+00:00,2023,La Liga,Spain,Getafe,2,0,Granada CF,Match Finished
+2024-01-27T15:15:00+00:00,2023,La Liga,Spain,Las Palmas,1,2,Real Madrid,Match Finished
+2024-01-28T15:15:00+00:00,2023,La Liga,Spain,Cadiz,0,0,Athletic Club,Match Finished
+2024-01-27T20:00:00+00:00,2023,La Liga,Spain,Mallorca,0,1,Real Betis,Match Finished
+2024-01-28T17:30:00+00:00,2023,La Liga,Spain,Sevilla,1,1,Osasuna,Match Finished
+2024-01-27T13:00:00+00:00,2023,La Liga,Spain,Real Sociedad,0,0,Rayo Vallecano,Match Finished
+2024-01-26T20:00:00+00:00,2023,La Liga,Spain,Almeria,0,3,Alaves,Match Finished
+2024-02-02T20:00:00+00:00,2023,La Liga,Spain,Athletic Club,4,0,Mallorca,Match Finished
+2024-02-04T17:30:00+00:00,2023,La Liga,Spain,Real Betis,1,1,Getafe,Match Finished
+2024-02-03T20:00:00+00:00,2023,La Liga,Spain,Girona,0,0,Real Sociedad,Match Finished
+2024-02-05T20:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,1,2,Sevilla,Match Finished
+2024-02-03T15:15:00+00:00,2023,La Liga,Spain,Granada CF,1,1,Las Palmas,Match Finished
+2024-02-03T17:30:00+00:00,2023,La Liga,Spain,Alaves,1,3,Barcelona,Match Finished
+2024-02-03T13:00:00+00:00,2023,La Liga,Spain,Valencia,2,1,Almeria,Match Finished
+2024-02-04T20:00:00+00:00,2023,La Liga,Spain,Real Madrid,1,1,Atletico Madrid,Match Finished
+2024-02-04T13:00:00+00:00,2023,La Liga,Spain,Villarreal,0,0,Cadiz,Match Finished
+2024-02-04T15:15:00+00:00,2023,La Liga,Spain,Osasuna,0,3,Celta Vigo,Match Finished
+2024-02-12T20:00:00+00:00,2023,La Liga,Spain,Almeria,0,0,Athletic Club,Match Finished
+2024-02-11T20:00:00+00:00,2023,La Liga,Spain,Barcelona,3,3,Granada CF,Match Finished
+2024-02-11T15:15:00+00:00,2023,La Liga,Spain,Mallorca,2,1,Rayo Vallecano,Match Finished
+2024-02-10T20:00:00+00:00,2023,La Liga,Spain,Las Palmas,2,0,Valencia,Match Finished
+2024-02-10T13:00:00+00:00,2023,La Liga,Spain,Alaves,1,1,Villarreal,Match Finished
+2024-02-11T17:30:00+00:00,2023,La Liga,Spain,Sevilla,1,0,Atletico Madrid,Match Finished
+2024-02-09T20:00:00+00:00,2023,La Liga,Spain,Cadiz,0,2,Real Betis,Match Finished
+2024-02-11T13:00:00+00:00,2023,La Liga,Spain,Getafe,3,2,Celta Vigo,Match Finished
+2024-02-10T17:30:00+00:00,2023,La Liga,Spain,Real Madrid,4,0,Girona,Match Finished
+2024-02-10T15:15:00+00:00,2023,La Liga,Spain,Real Sociedad,0,1,Osasuna,Match Finished
+2024-02-19T20:00:00+00:00,2023,La Liga,Spain,Athletic Club,3,2,Girona,Match Finished
+2024-02-17T13:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,5,0,Las Palmas,Match Finished
+2024-02-18T17:30:00+00:00,2023,La Liga,Spain,Mallorca,1,2,Real Sociedad,Match Finished
+2024-02-18T13:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,1,1,Real Madrid,Match Finished
+2024-02-18T15:15:00+00:00,2023,La Liga,Spain,Granada CF,1,1,Almeria,Match Finished
+2024-02-17T17:30:00+00:00,2023,La Liga,Spain,Celta Vigo,1,2,Barcelona,Match Finished
+2024-02-17T15:15:00+00:00,2023,La Liga,Spain,Osasuna,2,0,Cadiz,Match Finished
+2024-02-16T20:00:00+00:00,2023,La Liga,Spain,Villarreal,1,1,Getafe,Match Finished
+2024-02-17T20:00:00+00:00,2023,La Liga,Spain,Valencia,0,0,Sevilla,Match Finished
+2024-02-18T20:00:00+00:00,2023,La Liga,Spain,Real Betis,0,0,Alaves,Match Finished
+2024-02-24T20:00:00+00:00,2023,La Liga,Spain,Almeria,2,2,Atletico Madrid,Match Finished
+2024-02-24T15:15:00+00:00,2023,La Liga,Spain,Barcelona,4,0,Getafe,Match Finished
+2024-02-25T13:00:00+00:00,2023,La Liga,Spain,Cadiz,2,2,Celta Vigo,Match Finished
+2024-02-26T20:00:00+00:00,2023,La Liga,Spain,Girona,3,0,Rayo Vallecano,Match Finished
+2024-02-25T20:00:00+00:00,2023,La Liga,Spain,Real Madrid,1,0,Sevilla,Match Finished
+2024-02-23T20:00:00+00:00,2023,La Liga,Spain,Real Sociedad,1,3,Villarreal,Match Finished
+2024-04-04T18:00:00+00:00,2023,La Liga,Spain,Granada CF,0,1,Valencia,Match Finished
+2024-02-25T17:30:00+00:00,2023,La Liga,Spain,Las Palmas,1,1,Osasuna,Match Finished
+2024-02-24T17:30:00+00:00,2023,La Liga,Spain,Alaves,1,1,Mallorca,Match Finished
+2024-02-25T15:15:00+00:00,2023,La Liga,Spain,Real Betis,3,1,Athletic Club,Match Finished
+2024-03-03T20:00:00+00:00,2023,La Liga,Spain,Athletic Club,0,0,Barcelona,Match Finished
+2024-03-03T15:15:00+00:00,2023,La Liga,Spain,Atletico Madrid,2,1,Real Betis,Match Finished
+2024-03-02T17:30:00+00:00,2023,La Liga,Spain,Getafe,3,3,Las Palmas,Match Finished
+2024-03-01T20:00:00+00:00,2023,La Liga,Spain,Celta Vigo,1,0,Almeria,Match Finished
+2024-03-02T15:15:00+00:00,2023,La Liga,Spain,Rayo Vallecano,1,1,Cadiz,Match Finished
+2024-03-03T17:30:00+00:00,2023,La Liga,Spain,Mallorca,1,0,Girona,Match Finished
+2024-03-02T20:00:00+00:00,2023,La Liga,Spain,Valencia,2,2,Real Madrid,Match Finished
+2024-03-02T13:00:00+00:00,2023,La Liga,Spain,Sevilla,3,2,Real Sociedad,Match Finished
+2024-03-03T13:00:00+00:00,2023,La Liga,Spain,Villarreal,5,1,Granada CF,Match Finished
+2024-03-04T20:00:00+00:00,2023,La Liga,Spain,Osasuna,1,0,Alaves,Match Finished
+2024-03-11T20:00:00+00:00,2023,La Liga,Spain,Almeria,2,2,Sevilla,Match Finished
+2024-03-08T20:00:00+00:00,2023,La Liga,Spain,Barcelona,1,0,Mallorca,Match Finished
+2024-03-10T20:00:00+00:00,2023,La Liga,Spain,Real Betis,2,3,Villarreal,Match Finished
+2024-03-09T20:00:00+00:00,2023,La Liga,Spain,Girona,2,0,Osasuna,Match Finished
+2024-03-09T17:30:00+00:00,2023,La Liga,Spain,Granada CF,2,3,Real Sociedad,Match Finished
+2024-03-10T13:00:00+00:00,2023,La Liga,Spain,Alaves,1,0,Rayo Vallecano,Match Finished
+2024-03-10T15:15:00+00:00,2023,La Liga,Spain,Las Palmas,0,2,Athletic Club,Match Finished
+2024-03-09T15:15:00+00:00,2023,La Liga,Spain,Cadiz,2,0,Atletico Madrid,Match Finished
+2024-03-10T17:30:00+00:00,2023,La Liga,Spain,Real Madrid,4,0,Celta Vigo,Match Finished
+2024-03-09T13:00:00+00:00,2023,La Liga,Spain,Valencia,1,0,Getafe,Match Finished
+2024-03-17T20:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,0,3,Barcelona,Match Finished
+2024-03-16T17:30:00+00:00,2023,La Liga,Spain,Getafe,1,0,Girona,Match Finished
+2024-03-16T15:15:00+00:00,2023,La Liga,Spain,Osasuna,2,4,Real Madrid,Match Finished
+2024-03-17T15:15:00+00:00,2023,La Liga,Spain,Las Palmas,0,1,Almeria,Match Finished
+2024-03-17T17:30:00+00:00,2023,La Liga,Spain,Rayo Vallecano,2,0,Real Betis,Match Finished
+2024-03-15T20:00:00+00:00,2023,La Liga,Spain,Real Sociedad,2,0,Cadiz,Match Finished
+2024-03-17T13:00:00+00:00,2023,La Liga,Spain,Sevilla,1,2,Celta Vigo,Match Finished
+2024-03-17T15:15:00+00:00,2023,La Liga,Spain,Villarreal,1,0,Valencia,Match Finished
+2024-03-16T13:00:00+00:00,2023,La Liga,Spain,Mallorca,1,0,Granada CF,Match Finished
+2024-03-16T20:00:00+00:00,2023,La Liga,Spain,Athletic Club,2,0,Alaves,Match Finished
+2024-03-30T15:15:00+00:00,2023,La Liga,Spain,Almeria,0,3,Osasuna,Match Finished
+2024-03-30T20:00:00+00:00,2023,La Liga,Spain,Barcelona,1,0,Las Palmas,Match Finished
+2024-03-29T20:00:00+00:00,2023,La Liga,Spain,Cadiz,1,0,Granada CF,Match Finished
+2024-03-31T12:00:00+00:00,2023,La Liga,Spain,Celta Vigo,0,0,Rayo Vallecano,Match Finished
+2024-03-30T13:00:00+00:00,2023,La Liga,Spain,Getafe,0,1,Sevilla,Match Finished
+2024-03-31T16:30:00+00:00,2023,La Liga,Spain,Alaves,0,1,Real Sociedad,Match Finished
+2024-03-31T19:00:00+00:00,2023,La Liga,Spain,Real Madrid,2,0,Athletic Club,Match Finished
+2024-04-01T19:00:00+00:00,2023,La Liga,Spain,Villarreal,1,2,Atletico Madrid,Match Finished
+2024-03-31T14:15:00+00:00,2023,La Liga,Spain,Girona,3,2,Real Betis,Match Finished
+2024-03-30T17:30:00+00:00,2023,La Liga,Spain,Valencia,0,0,Mallorca,Match Finished
+2024-04-14T16:30:00+00:00,2023,La Liga,Spain,Athletic Club,1,1,Villarreal,Match Finished
+2024-04-13T12:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,3,1,Girona,Match Finished
+2024-04-12T19:00:00+00:00,2023,La Liga,Spain,Real Betis,2,1,Celta Vigo,Match Finished
+2024-04-13T16:30:00+00:00,2023,La Liga,Spain,Mallorca,0,1,Real Madrid,Match Finished
+2024-04-15T19:00:00+00:00,2023,La Liga,Spain,Osasuna,0,1,Valencia,Match Finished
+2024-04-14T12:00:00+00:00,2023,La Liga,Spain,Las Palmas,0,2,Sevilla,Match Finished
+2024-04-14T19:00:00+00:00,2023,La Liga,Spain,Real Sociedad,2,2,Almeria,Match Finished
+2024-04-13T19:00:00+00:00,2023,La Liga,Spain,Cadiz,0,1,Barcelona,Match Finished
+2024-04-13T14:15:00+00:00,2023,La Liga,Spain,Rayo Vallecano,0,0,Getafe,Match Finished
+2024-04-14T14:15:00+00:00,2023,La Liga,Spain,Granada CF,2,0,Alaves,Match Finished
+2024-04-21T14:15:00+00:00,2023,La Liga,Spain,Almeria,1,2,Villarreal,Match Finished
+2024-04-19T19:00:00+00:00,2023,La Liga,Spain,Athletic Club,1,1,Granada CF,Match Finished
+2024-04-20T12:00:00+00:00,2023,La Liga,Spain,Celta Vigo,4,1,Las Palmas,Match Finished
+2024-04-21T12:00:00+00:00,2023,La Liga,Spain,Getafe,1,1,Real Sociedad,Match Finished
+2024-04-21T16:30:00+00:00,2023,La Liga,Spain,Alaves,2,0,Atletico Madrid,Match Finished
+2024-04-21T19:00:00+00:00,2023,La Liga,Spain,Real Madrid,3,2,Barcelona,Match Finished
+2024-04-20T16:30:00+00:00,2023,La Liga,Spain,Valencia,1,2,Real Betis,Match Finished
+2024-04-20T19:00:00+00:00,2023,La Liga,Spain,Girona,4,1,Cadiz,Match Finished
+2024-04-22T19:00:00+00:00,2023,La Liga,Spain,Sevilla,2,1,Mallorca,Match Finished
+2024-04-20T14:15:00+00:00,2023,La Liga,Spain,Rayo Vallecano,2,1,Osasuna,Match Finished
+2024-04-27T14:15:00+00:00,2023,La Liga,Spain,Almeria,1,3,Getafe,Match Finished
+2024-04-29T19:00:00+00:00,2023,La Liga,Spain,Barcelona,,,Valencia,Not Started
+2024-04-28T19:00:00+00:00,2023,La Liga,Spain,Real Betis,,,Sevilla,Not Started
+2024-04-28T12:00:00+00:00,2023,La Liga,Spain,Cadiz,,,Mallorca,Not Started
+2024-04-28T14:15:00+00:00,2023,La Liga,Spain,Granada CF,,,Osasuna,Not Started
+2024-04-27T16:30:00+00:00,2023,La Liga,Spain,Alaves,3,0,Celta Vigo,Match Finished
+2024-04-27T19:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,3,1,Athletic Club,Match Finished
+2024-04-27T12:00:00+00:00,2023,La Liga,Spain,Las Palmas,0,2,Girona,Match Finished
+2024-04-28T16:30:00+00:00,2023,La Liga,Spain,Villarreal,,,Rayo Vallecano,Not Started
+2024-04-26T19:00:00+00:00,2023,La Liga,Spain,Real Sociedad,0,1,Real Madrid,Match Finished
+2024-05-05T14:15:00+00:00,2023,La Liga,Spain,Celta Vigo,,,Villarreal,Not Started
+2024-05-05T19:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,,,Almeria,Not Started
+2024-05-03T19:00:00+00:00,2023,La Liga,Spain,Getafe,,,Athletic Club,Not Started
+2024-05-04T19:00:00+00:00,2023,La Liga,Spain,Mallorca,,,Atletico Madrid,Not Started
+2024-05-04T16:30:00+00:00,2023,La Liga,Spain,Girona,,,Barcelona,Not Started
+2024-05-05T12:00:00+00:00,2023,La Liga,Spain,Osasuna,,,Real Betis,Not Started
+2024-05-04T14:15:00+00:00,2023,La Liga,Spain,Real Madrid,,,Cadiz,Not Started
+2024-05-05T19:00:00+00:00,2023,La Liga,Spain,Sevilla,,,Granada CF,Not Started
+2024-05-04T12:00:00+00:00,2023,La Liga,Spain,Real Sociedad,,,Las Palmas,Not Started
+2024-05-05T16:30:00+00:00,2023,La Liga,Spain,Valencia,,,Alaves,Not Started
+2024-05-11T19:00:00+00:00,2023,La Liga,Spain,Athletic Club,,,Osasuna,Not Started
+2024-05-12T14:15:00+00:00,2023,La Liga,Spain,Atletico Madrid,,,Celta Vigo,Not Started
+2024-05-13T19:00:00+00:00,2023,La Liga,Spain,Barcelona,,,Real Sociedad,Not Started
+2024-05-12T12:00:00+00:00,2023,La Liga,Spain,Cadiz,,,Getafe,Not Started
+2024-05-11T16:30:00+00:00,2023,La Liga,Spain,Granada CF,,,Real Madrid,Not Started
+2024-05-10T19:00:00+00:00,2023,La Liga,Spain,Alaves,,,Girona,Not Started
+2024-05-12T19:00:00+00:00,2023,La Liga,Spain,Real Betis,,,Almeria,Not Started
+2024-05-12T16:30:00+00:00,2023,La Liga,Spain,Valencia,,,Rayo Vallecano,Not Started
+2024-05-11T14:15:00+00:00,2023,La Liga,Spain,Villarreal,,,Sevilla,Not Started
+2024-05-11T12:00:00+00:00,2023,La Liga,Spain,Mallorca,,,Las Palmas,Not Started
+2024-05-16T19:30:00+00:00,2023,La Liga,Spain,Almeria,,,Barcelona,Not Started
+2024-05-14T20:00:00+00:00,2023,La Liga,Spain,Girona,,,Villarreal,Not Started
+2024-05-16T20:00:00+00:00,2023,La Liga,Spain,Real Sociedad,,,Valencia,Not Started
+2024-05-15T20:00:00+00:00,2023,La Liga,Spain,Celta Vigo,,,Athletic Club,Not Started
+2024-05-15T20:00:00+00:00,2023,La Liga,Spain,Getafe,,,Atletico Madrid,Not Started
+2024-05-16T17:30:00+00:00,2023,La Liga,Spain,Las Palmas,,,Real Betis,Not Started
+2024-05-15T17:30:00+00:00,2023,La Liga,Spain,Sevilla,,,Cadiz,Not Started
+2024-05-14T17:30:00+00:00,2023,La Liga,Spain,Osasuna,,,Mallorca,Not Started
+2024-05-15T17:30:00+00:00,2023,La Liga,Spain,Rayo Vallecano,,,Granada CF,Not Started
+2024-05-14T19:30:00+00:00,2023,La Liga,Spain,Real Madrid,,,Alaves,Not Started
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Athletic Club,,,Sevilla,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Atletico Madrid,,,Osasuna,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Barcelona,,,Rayo Vallecano,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Real Betis,,,Real Sociedad,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Cadiz,,,Las Palmas,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Alaves,,,Getafe,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Mallorca,,,Almeria,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Granada CF,,,Celta Vigo,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Valencia,,,Girona,Time to be defined
+2024-05-19T00:00:00+00:00,2023,La Liga,Spain,Villarreal,,,Real Madrid,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Almeria,,,Cadiz,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Celta Vigo,,,Valencia,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Getafe,,,Mallorca,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Girona,,,Granada CF,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Osasuna,,,Villarreal,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Rayo Vallecano,,,Athletic Club,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Real Sociedad,,,Atletico Madrid,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Sevilla,,,Barcelona,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Real Madrid,,,Real Betis,Time to be defined
+2024-05-26T00:00:00+00:00,2023,La Liga,Spain,Las Palmas,,,Alaves,Time to be defined

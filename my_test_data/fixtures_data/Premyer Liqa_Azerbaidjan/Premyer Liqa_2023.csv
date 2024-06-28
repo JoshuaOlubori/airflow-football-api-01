@@ -1,0 +1,181 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-12-24T08:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,3,1,Araz,Match Finished
+2023-08-05T17:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,0,1,Zira,Match Finished
+2023-08-06T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,1,0,Neftchi Baku,Match Finished
+2023-08-05T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,1,4,Sumqayıt,Match Finished
+2023-08-06T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,5,0,Qabala,Match Finished
+2023-08-12T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,2,0,Qabala,Match Finished
+2023-10-25T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,1,0,Sabah FA,Match Finished
+2023-08-14T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,1,1,Səbail,Match Finished
+2023-08-12T17:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,1,0,Kapaz,Match Finished
+2023-10-20T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,2,2,Qarabag,Match Finished
+2023-08-20T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,2,1,Araz,Match Finished
+2023-08-18T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,0,2,Turan,Match Finished
+2023-08-19T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,1,2,Zira,Match Finished
+2023-08-20T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,1,1,Neftchi Baku,Match Finished
+2023-08-19T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,1,2,Sumqayıt,Match Finished
+2023-08-25T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,1,Sumqayıt,Match Finished
+2023-08-27T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,2,0,Qabala,Match Finished
+2023-08-26T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,1,0,Sabah FA,Match Finished
+2023-08-26T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,1,3,Səbail,Match Finished
+2023-08-27T16:45:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,1,1,Kapaz,Match Finished
+2023-09-03T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,1,2,Araz,Match Finished
+2023-09-03T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,2,1,Qarabag,Match Finished
+2023-09-01T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,0,3,Turan,Match Finished
+2023-09-02T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,1,0,Zira,Match Finished
+2023-09-02T16:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,0,1,Neftchi Baku,Match Finished
+2023-09-16T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,0,Neftchi Baku,Match Finished
+2023-09-15T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,1,0,Sumqayıt,Match Finished
+2023-09-17T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,2,2,Qabala,Match Finished
+2023-09-17T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,2,0,Sabah FA,Match Finished
+2023-09-16T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,0,3,Səbail,Match Finished
+2023-09-24T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,1,0,Araz,Match Finished
+2023-09-24T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,2,2,Kapaz,Match Finished
+2023-09-25T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,1,2,Qarabag,Match Finished
+2023-09-23T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,0,0,Turan,Match Finished
+2023-12-03T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,1,0,Zira,Match Finished
+2023-10-01T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,0,Zira,Match Finished
+2023-09-30T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,0,1,Neftchi Baku,Match Finished
+2023-09-29T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,5,0,Sumqayıt,Match Finished
+2023-10-01T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,0,1,Qabala,Match Finished
+2023-09-30T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,2,2,Sabah FA,Match Finished
+2023-10-07T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,1,1,Araz,Match Finished
+2023-10-07T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,0,1,Səbail,Match Finished
+2023-10-08T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,1,0,Kapaz,Match Finished
+2023-10-08T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,0,2,Qarabag,Match Finished
+2023-10-06T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,2,1,Turan,Match Finished
+2023-10-22T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,1,4,Araz,Match Finished
+2023-10-21T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,3,1,Sumqayıt,Match Finished
+2023-10-20T16:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,2,4,Neftchi Baku,Match Finished
+2023-10-21T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,0,0,Zira,Match Finished
+2023-08-13T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,3,0,Turan,Match Finished
+2023-10-30T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,2,1,Qarabag,Match Finished
+2023-10-28T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,4,0,Kapaz,Match Finished
+2023-10-28T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,2,2,Səbail,Match Finished
+2023-10-29T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,0,1,Sabah FA,Match Finished
+2023-10-29T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,0,0,Qabala,Match Finished
+2023-11-04T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,2,0,Araz,Match Finished
+2023-11-05T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,0,2,Neftchi Baku,Match Finished
+2023-11-05T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,0,1,Zira,Match Finished
+2023-11-03T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,2,1,Turan,Match Finished
+2024-01-27T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,1,2,Qarabag,Match Finished
+2023-11-10T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,0,1,Kapaz,Match Finished
+2023-11-12T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,3,1,Səbail,Match Finished
+2023-11-11T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,2,3,Sabah FA,Match Finished
+2023-11-12T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,1,0,Qabala,Match Finished
+2023-11-11T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,1,2,Sumqayıt,Match Finished
+2023-11-26T11:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,1,1,Araz,Match Finished
+2023-11-26T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,0,0,Zira,Match Finished
+2023-11-25T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,4,0,Turan,Match Finished
+2023-11-24T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,1,2,Qarabag,Match Finished
+2023-11-25T10:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,0,0,Kapaz,Match Finished
+2023-12-02T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,1,Səbail,Match Finished
+2023-12-03T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,0,2,Sabah FA,Match Finished
+2023-12-04T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,3,0,Qabala,Match Finished
+2023-12-02T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,2,2,Sumqayıt,Match Finished
+2023-09-23T16:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,1,1,Neftchi Baku,Match Finished
+2023-12-09T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,0,0,Araz,Match Finished
+2023-12-10T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,3,2,Turan,Match Finished
+2023-12-08T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,1,6,Qarabag,Match Finished
+2023-12-09T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,0,3,Kapaz,Match Finished
+2023-12-10T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,4,0,Səbail,Match Finished
+2023-12-15T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,2,0,Sabah FA,Match Finished
+2023-12-15T09:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,3,0,Qabala,Match Finished
+2023-12-14T11:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,1,1,Sumqayıt,Match Finished
+2023-12-18T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,2,0,Neftchi Baku,Match Finished
+2023-12-16T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,1,0,Zira,Match Finished
+2023-08-04T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,0,3,Turan,Match Finished
+2023-12-24T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,0,1,Qarabag,Match Finished
+2023-12-24T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,2,0,Kapaz,Match Finished
+2023-12-23T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,1,0,Səbail,Match Finished
+2023-12-22T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,1,0,Sabah FA,Match Finished
+2024-01-23T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,3,1,Araz,Match Finished
+2024-01-22T13:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,2,1,Turan,Match Finished
+2024-01-22T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,0,0,Zira,Match Finished
+2024-01-21T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,0,0,Neftchi Baku,Match Finished
+2024-01-23T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,0,1,Sumqayıt,Match Finished
+2024-01-28T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,1,Sumqayıt,Match Finished
+2024-01-28T13:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,3,1,Qabala,Match Finished
+2024-01-27T13:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,0,1,Sabah FA,Match Finished
+2024-01-26T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,3,1,Səbail,Match Finished
+2023-11-04T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,7,1,Kapaz,Match Finished
+2024-02-05T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,3,1,Araz,Match Finished
+2024-02-03T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,1,2,Qarabag,Match Finished
+2024-02-03T13:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,1,1,Turan,Match Finished
+2024-02-04T13:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,1,1,Zira,Match Finished
+2024-02-04T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,2,1,Neftchi Baku,Match Finished
+2024-02-13T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,0,Neftchi Baku,Match Finished
+2024-02-13T13:15:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,0,0,Sumqayıt,Match Finished
+2024-02-13T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,2,1,Qabala,Match Finished
+2024-02-11T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,3,3,Sabah FA,Match Finished
+2024-02-12T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,1,4,Səbail,Match Finished
+2024-02-17T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,2,2,Araz,Match Finished
+2024-02-17T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,3,2,Kapaz,Match Finished
+2024-02-28T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,0,4,Qarabag,Match Finished
+2024-02-18T11:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,0,0,Turan,Match Finished
+2024-02-18T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,1,0,Zira,Match Finished
+2024-02-25T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,0,3,Zira,Match Finished
+2024-02-24T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,1,1,Neftchi Baku,Match Finished
+2024-02-25T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,2,0,Sumqayıt,Match Finished
+2024-02-23T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,2,1,Qabala,Match Finished
+2024-02-24T13:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,2,0,Sabah FA,Match Finished
+2024-03-02T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,2,0,Araz,Match Finished
+2024-03-03T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,2,3,Səbail,Match Finished
+2024-03-01T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,1,3,Kapaz,Match Finished
+2024-03-03T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,1,4,Qarabag,Match Finished
+2024-03-02T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,1,1,Turan,Match Finished
+2024-03-10T11:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,2,0,Araz,Match Finished
+2024-03-10T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,3,1,Zira,Match Finished
+2024-03-09T11:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,3,3,Neftchi Baku,Match Finished
+2024-03-08T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,0,1,Sumqayıt,Match Finished
+2024-03-09T13:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,2,1,Qabala,Match Finished
+2024-03-16T14:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,1,Qabala,Match Finished
+2024-03-17T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,1,2,Sabah FA,Match Finished
+2024-03-15T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,3,0,Səbail,Match Finished
+2024-03-16T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,2,1,Kapaz,Match Finished
+2024-03-17T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,1,3,Qarabag,Match Finished
+2024-03-31T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,1,0,Araz,Match Finished
+2024-03-29T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,0,1,Neftchi Baku,Match Finished
+2024-03-30T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,0,1,Zira,Match Finished
+2024-03-30T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,1,1,Turan,Match Finished
+2024-03-29T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,1,6,Qarabag,Match Finished
+2024-04-05T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,1,2,Kapaz,Match Finished
+2024-04-06T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,4,2,Səbail,Match Finished
+2024-04-06T12:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,2,0,Sabah FA,Match Finished
+2024-04-07T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,4,0,Qabala,Match Finished
+2024-04-07T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,1,1,Sumqayıt,Match Finished
+2024-04-13T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,3,0,Araz,Match Finished
+2024-04-12T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,0,0,Zira,Match Finished
+2024-04-13T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,1,2,Turan,Match Finished
+2024-04-14T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,3,2,Qarabag,Match Finished
+2024-04-14T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,3,3,Kapaz,Match Finished
+2024-04-21T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,0,2,Səbail,Match Finished
+2024-04-21T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,1,2,Sabah FA,Match Finished
+2024-04-20T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,2,2,Qabala,Match Finished
+2024-04-19T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,1,4,Sumqayıt,Match Finished
+2024-04-20T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,3,1,Neftchi Baku,Match Finished
+2024-04-29T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,,,Araz,Not Started
+2024-04-28T13:45:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,,,Turan,Not Started
+2024-04-28T16:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,,,Qarabag,Not Started
+2024-04-28T11:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,,,Kapaz,Not Started
+2024-04-27T14:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,2,0,Səbail,Match Finished
+2024-05-05T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,,,Sabah FA,Not Started
+2024-05-06T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,,,Qabala,Not Started
+2024-05-04T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,,,Sumqayıt,Not Started
+2024-05-04T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,,,Neftchi Baku,Not Started
+2024-05-05T12:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,,,Zira,Not Started
+2024-05-11T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,,,Turan,Not Started
+2024-05-11T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,,,Qarabag,Not Started
+2024-05-10T15:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,,,Kapaz,Not Started
+2024-05-12T15:30:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,,,Səbail,Not Started
+2024-05-12T13:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,,,Sabah FA,Not Started
+2024-05-19T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qabala,,,Araz,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sabah FA,,,Sumqayıt,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Səbail,,,Neftchi Baku,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Kapaz,,,Zira,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Qarabag,,,Turan,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Araz,,,Qarabag,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Turan,,,Kapaz,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Zira,,,Səbail,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Neftchi Baku,,,Sabah FA,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Premyer Liqa,Azerbaidjan,Sumqayıt,,,Qabala,Time to be defined

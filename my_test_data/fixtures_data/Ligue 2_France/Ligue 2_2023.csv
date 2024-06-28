@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Amiens,1,0,Quevilly,Match Finished
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Ajaccio,1,1,Rodez,Match Finished
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Annecy,1,4,Guingamp,Match Finished
+2023-08-07T18:45:00+00:00,2023,Ligue 2,France,PAU,3,0,Bordeaux,Match Finished
+2023-08-05T13:00:00+00:00,2023,Ligue 2,France,Saint Etienne,0,1,Grenoble,Match Finished
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Valenciennes,1,4,Auxerre,Match Finished
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Laval,1,0,Angers,Match Finished
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Paris FC,0,2,Caen,Match Finished
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Dunkerque,2,2,Estac Troyes,Match Finished
+2023-08-05T17:00:00+00:00,2023,Ligue 2,France,Concarneau,0,0,Bastia,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Angers,0,0,Annecy,Match Finished
+2023-08-14T18:45:00+00:00,2023,Ligue 2,France,Bordeaux,1,0,Concarneau,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Bastia,3,0,Valenciennes,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Auxerre,0,1,Amiens,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Caen,2,0,PAU,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Guingamp,0,1,Dunkerque,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Estac Troyes,3,1,Laval,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Grenoble,2,0,Paris FC,Match Finished
+2023-08-12T17:00:00+00:00,2023,Ligue 2,France,Quevilly,0,1,Ajaccio,Match Finished
+2023-08-12T13:00:00+00:00,2023,Ligue 2,France,Rodez,2,1,Saint Etienne,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,Amiens,2,1,Bastia,Match Finished
+2023-08-21T18:45:00+00:00,2023,Ligue 2,France,Ajaccio,0,0,Bordeaux,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,Annecy,3,0,Dunkerque,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,PAU,2,0,Paris FC,Match Finished
+2023-08-19T13:00:00+00:00,2023,Ligue 2,France,Angers,2,2,Auxerre,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,Saint Etienne,2,1,Quevilly,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,0,Guingamp,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,Laval,1,0,Rodez,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,Concarneau,0,2,Caen,Match Finished
+2023-08-19T17:00:00+00:00,2023,Ligue 2,France,Grenoble,0,0,Estac Troyes,Match Finished
+2023-08-28T18:45:00+00:00,2023,Ligue 2,France,Annecy,1,1,Saint Etienne,Match Finished
+2023-08-26T13:00:00+00:00,2023,Ligue 2,France,Bordeaux,2,0,Amiens,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Bastia,3,2,Estac Troyes,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Auxerre,0,0,Grenoble,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Caen,3,0,Ajaccio,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Guingamp,4,0,PAU,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Paris FC,3,0,Concarneau,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Dunkerque,0,1,Angers,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Quevilly,0,0,Laval,Match Finished
+2023-08-26T17:00:00+00:00,2023,Ligue 2,France,Rodez,0,1,Valenciennes,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Amiens,4,1,Guingamp,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Ajaccio,2,2,Dunkerque,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,PAU,2,2,Rodez,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Angers,2,0,Paris FC,Match Finished
+2023-09-02T13:00:00+00:00,2023,Ligue 2,France,Bordeaux,2,4,Auxerre,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Saint Etienne,0,0,Valenciennes,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Laval,2,1,Caen,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Estac Troyes,2,2,Quevilly,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Concarneau,1,1,Annecy,Match Finished
+2023-09-02T17:00:00+00:00,2023,Ligue 2,France,Grenoble,0,0,Bastia,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Annecy,0,0,Estac Troyes,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Bastia,0,3,Laval,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Auxerre,2,2,PAU,Match Finished
+2023-09-16T13:00:00+00:00,2023,Ligue 2,France,Caen,1,2,Saint Etienne,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Valenciennes,1,2,Bordeaux,Match Finished
+2023-09-18T18:45:00+00:00,2023,Ligue 2,France,Guingamp,3,0,Ajaccio,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Paris FC,3,0,Amiens,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Dunkerque,0,0,Grenoble,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Quevilly,2,3,Concarneau,Match Finished
+2023-09-16T17:00:00+00:00,2023,Ligue 2,France,Rodez,4,1,Angers,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,Amiens,0,0,Valenciennes,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,Ajaccio,2,1,Paris FC,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,PAU,0,3,Annecy,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,Angers,2,0,Bastia,Match Finished
+2023-10-03T16:45:00+00:00,2023,Ligue 2,France,Bordeaux,1,1,Caen,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,Laval,2,1,Guingamp,Match Finished
+2023-09-23T13:00:00+00:00,2023,Ligue 2,France,Estac Troyes,1,2,Auxerre,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,Dunkerque,1,2,Rodez,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,Concarneau,0,1,Saint Etienne,Match Finished
+2023-09-23T17:00:00+00:00,2023,Ligue 2,France,Grenoble,2,1,Quevilly,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Amiens,0,0,Ajaccio,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Bastia,1,4,PAU,Match Finished
+2023-10-04T16:45:00+00:00,2023,Ligue 2,France,Saint Etienne,2,0,Dunkerque,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Auxerre,4,0,Annecy,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Caen,1,2,Grenoble,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Valenciennes,0,1,Concarneau,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Guingamp,0,0,Bordeaux,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Paris FC,0,1,Laval,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Quevilly,0,1,Angers,Match Finished
+2023-09-26T18:45:00+00:00,2023,Ligue 2,France,Rodez,2,1,Estac Troyes,Match Finished
+2023-10-02T18:45:00+00:00,2023,Ligue 2,France,Ajaccio,2,0,Bastia,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,Annecy,2,2,Paris FC,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,PAU,1,0,Amiens,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,Angers,2,0,Concarneau,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,Auxerre,3,1,Rodez,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,Caen,0,1,Guingamp,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,Laval,1,0,Valenciennes,Match Finished
+2023-09-30T13:00:00+00:00,2023,Ligue 2,France,Estac Troyes,0,1,Saint Etienne,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,Dunkerque,0,1,Quevilly,Match Finished
+2023-09-30T17:00:00+00:00,2023,Ligue 2,France,Grenoble,2,0,Bordeaux,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Amiens,1,4,Angers,Match Finished
+2023-10-07T13:00:00+00:00,2023,Ligue 2,France,Bordeaux,0,1,Laval,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Bastia,2,1,Annecy,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Saint Etienne,0,0,Ajaccio,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Valenciennes,1,1,Estac Troyes,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Guingamp,2,2,Grenoble,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Paris FC,0,2,Auxerre,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Concarneau,4,3,Dunkerque,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Quevilly,2,2,PAU,Match Finished
+2023-10-07T17:00:00+00:00,2023,Ligue 2,France,Rodez,5,3,Caen,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Ajaccio,2,0,PAU,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Annecy,1,1,Amiens,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Angers,2,0,Bordeaux,Match Finished
+2023-10-21T13:00:00+00:00,2023,Ligue 2,France,Caen,1,1,Auxerre,Match Finished
+2023-10-23T18:45:00+00:00,2023,Ligue 2,France,Laval,0,1,Saint Etienne,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Guingamp,2,2,Quevilly,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Estac Troyes,0,0,Concarneau,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Dunkerque,1,3,Paris FC,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Grenoble,3,3,Valenciennes,Match Finished
+2023-10-21T17:00:00+00:00,2023,Ligue 2,France,Rodez,1,1,Bastia,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,Amiens,0,0,Laval,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,PAU,3,2,Grenoble,Match Finished
+2023-10-28T13:00:00+00:00,2023,Ligue 2,France,Bordeaux,2,2,Rodez,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,Bastia,0,0,Guingamp,Match Finished
+2023-10-30T19:45:00+00:00,2023,Ligue 2,France,Saint Etienne,2,0,Angers,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,Auxerre,0,1,Dunkerque,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,Valenciennes,2,2,Caen,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,Paris FC,2,2,Estac Troyes,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,Concarneau,2,1,Ajaccio,Match Finished
+2023-10-28T17:00:00+00:00,2023,Ligue 2,France,Quevilly,1,2,Annecy,Match Finished
+2023-11-04T18:00:00+00:00,2023,Ligue 2,France,Annecy,1,3,Laval,Match Finished
+2023-11-04T18:00:00+00:00,2023,Ligue 2,France,Angers,2,0,Valenciennes,Match Finished
+2023-11-04T18:00:00+00:00,2023,Ligue 2,France,Bastia,3,1,Bordeaux,Match Finished
+2023-11-04T14:00:00+00:00,2023,Ligue 2,France,Saint Etienne,0,1,Paris FC,Match Finished
+2023-11-06T19:45:00+00:00,2023,Ligue 2,France,Guingamp,2,1,Auxerre,Match Finished
+2023-11-04T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,2,1,Caen,Match Finished
+2023-11-04T18:00:00+00:00,2023,Ligue 2,France,Dunkerque,0,1,Amiens,Match Finished
+2023-11-28T18:00:00+00:00,2023,Ligue 2,France,Concarneau,1,2,PAU,Match Finished
+2023-11-04T18:00:00+00:00,2023,Ligue 2,France,Grenoble,0,3,Ajaccio,Match Finished
+2023-11-04T18:00:00+00:00,2023,Ligue 2,France,Quevilly,3,1,Rodez,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Amiens,1,2,Grenoble,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Ajaccio,1,0,Estac Troyes,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,PAU,4,4,Angers,Match Finished
+2023-11-11T14:00:00+00:00,2023,Ligue 2,France,Bordeaux,3,1,Annecy,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Auxerre,5,2,Saint Etienne,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Caen,3,3,Quevilly,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,1,Dunkerque,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Laval,0,3,Concarneau,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Paris FC,1,0,Bastia,Match Finished
+2023-11-11T18:00:00+00:00,2023,Ligue 2,France,Rodez,0,0,Guingamp,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Annecy,2,0,Ajaccio,Match Finished
+2023-11-27T19:45:00+00:00,2023,Ligue 2,France,Angers,3,0,Caen,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Bastia,0,0,Auxerre,Match Finished
+2023-11-25T14:00:00+00:00,2023,Ligue 2,France,Saint Etienne,1,2,PAU,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Paris FC,1,2,Bordeaux,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,0,1,Guingamp,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Dunkerque,0,2,Laval,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Concarneau,0,0,Amiens,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Grenoble,2,1,Rodez,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Quevilly,0,0,Valenciennes,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Amiens,1,0,Saint Etienne,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Ajaccio,1,1,Angers,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,PAU,1,1,Dunkerque,Match Finished
+2023-12-02T14:00:00+00:00,2023,Ligue 2,France,Bordeaux,0,1,Estac Troyes,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Auxerre,3,2,Quevilly,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Caen,1,0,Bastia,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,0,Annecy,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Laval,1,1,Grenoble,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Guingamp,0,1,Paris FC,Match Finished
+2023-12-02T18:00:00+00:00,2023,Ligue 2,France,Rodez,2,0,Concarneau,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Ajaccio,2,0,Laval,Match Finished
+2023-12-06T18:00:00+00:00,2023,Ligue 2,France,Annecy,1,2,Caen,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,PAU,3,1,Valenciennes,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Angers,1,0,Grenoble,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Saint Etienne,1,3,Guingamp,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Paris FC,2,0,Rodez,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Estac Troyes,2,0,Amiens,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Dunkerque,0,5,Bastia,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Concarneau,1,2,Auxerre,Match Finished
+2023-12-05T19:45:00+00:00,2023,Ligue 2,France,Quevilly,3,2,Bordeaux,Match Finished
+2023-12-16T14:00:00+00:00,2023,Ligue 2,France,Bordeaux,0,0,Saint Etienne,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Bastia,0,0,Quevilly,Match Finished
+2023-12-16T14:00:00+00:00,2023,Ligue 2,France,Auxerre,2,0,Ajaccio,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Caen,1,0,Dunkerque,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,1,Paris FC,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Laval,1,1,PAU,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Guingamp,0,1,Concarneau,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,1,4,Angers,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Grenoble,1,0,Annecy,Match Finished
+2023-12-16T18:00:00+00:00,2023,Ligue 2,France,Rodez,2,2,Amiens,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Amiens,0,0,Caen,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Ajaccio,2,1,Valenciennes,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Annecy,1,2,Rodez,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,PAU,1,1,Estac Troyes,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Angers,1,0,Guingamp,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Saint Etienne,3,2,Bastia,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Laval,1,3,Auxerre,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Paris FC,2,2,Quevilly,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Dunkerque,0,2,Bordeaux,Match Finished
+2023-12-19T19:45:00+00:00,2023,Ligue 2,France,Concarneau,0,3,Grenoble,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Bastia,2,0,Angers,Match Finished
+2024-01-13T14:00:00+00:00,2023,Ligue 2,France,Saint Etienne,0,0,Laval,Match Finished
+2024-01-15T19:45:00+00:00,2023,Ligue 2,France,Auxerre,3,1,Bordeaux,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Caen,1,0,Concarneau,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,1,Amiens,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Paris FC,2,1,Annecy,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,3,1,Ajaccio,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Grenoble,2,2,Dunkerque,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Quevilly,0,1,Guingamp,Match Finished
+2024-01-13T18:00:00+00:00,2023,Ligue 2,France,Rodez,2,1,PAU,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Amiens,1,0,Annecy,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,PAU,0,1,Saint Etienne,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Angers,3,2,Quevilly,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Bordeaux,3,1,Valenciennes,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Bastia,1,2,Caen,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Laval,1,1,Paris FC,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Guingamp,3,3,Rodez,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Dunkerque,2,0,Ajaccio,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Concarneau,1,0,Estac Troyes,Match Finished
+2024-01-23T19:45:00+00:00,2023,Ligue 2,France,Grenoble,1,1,Auxerre,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Ajaccio,1,0,Concarneau,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Annecy,0,0,PAU,Match Finished
+2024-01-29T19:45:00+00:00,2023,Ligue 2,France,Bordeaux,1,0,Angers,Match Finished
+2024-01-27T14:00:00+00:00,2023,Ligue 2,France,Saint Etienne,0,1,Amiens,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Auxerre,1,1,Guingamp,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Caen,0,0,Estac Troyes,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,3,1,Bastia,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Paris FC,1,2,Dunkerque,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Quevilly,1,1,Grenoble,Match Finished
+2024-01-27T18:00:00+00:00,2023,Ligue 2,France,Rodez,1,2,Laval,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,Amiens,1,1,Paris FC,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,PAU,2,2,Auxerre,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,Angers,2,1,Rodez,Match Finished
+2024-02-05T19:45:00+00:00,2023,Ligue 2,France,Bastia,1,0,Ajaccio,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,Laval,2,4,Quevilly,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,Guingamp,1,4,Annecy,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,2,1,Bordeaux,Match Finished
+2024-02-03T14:00:00+00:00,2023,Ligue 2,France,Dunkerque,1,0,Saint Etienne,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,Concarneau,1,0,Valenciennes,Match Finished
+2024-02-03T18:00:00+00:00,2023,Ligue 2,France,Grenoble,5,1,Caen,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Ajaccio,3,0,Guingamp,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Annecy,0,3,Concarneau,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Bordeaux,1,0,Grenoble,Match Finished
+2024-02-12T19:45:00+00:00,2023,Ligue 2,France,Saint Etienne,5,0,Estac Troyes,Match Finished
+2024-02-10T14:00:00+00:00,2023,Ligue 2,France,Auxerre,1,0,Angers,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Caen,2,0,Amiens,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,1,1,Laval,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Paris FC,1,1,PAU,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Quevilly,0,1,Bastia,Match Finished
+2024-02-10T18:00:00+00:00,2023,Ligue 2,France,Rodez,0,0,Dunkerque,Match Finished
+2024-02-19T19:45:00+00:00,2023,Ligue 2,France,Amiens,1,1,Bordeaux,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,Annecy,0,2,Auxerre,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,PAU,0,2,Quevilly,Match Finished
+2024-02-17T14:00:00+00:00,2023,Ligue 2,France,Angers,0,3,Saint Etienne,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,Bastia,0,2,Rodez,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,Laval,1,1,Ajaccio,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,Guingamp,1,0,Caen,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,3,1,Grenoble,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,Dunkerque,2,1,Valenciennes,Match Finished
+2024-02-17T18:00:00+00:00,2023,Ligue 2,France,Concarneau,2,2,Paris FC,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Ajaccio,0,0,Amiens,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Bordeaux,1,0,Guingamp,Match Finished
+2024-02-24T14:00:00+00:00,2023,Ligue 2,France,Saint Etienne,2,1,Annecy,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Auxerre,1,1,Bastia,Match Finished
+2024-02-26T19:45:00+00:00,2023,Ligue 2,France,Caen,2,0,Angers,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,2,Rodez,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,1,2,Dunkerque,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Concarneau,1,3,Laval,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Grenoble,0,1,PAU,Match Finished
+2024-02-24T18:00:00+00:00,2023,Ligue 2,France,Quevilly,0,0,Paris FC,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,Annecy,0,0,Quevilly,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,PAU,2,3,Caen,Match Finished
+2024-03-04T19:45:00+00:00,2023,Ligue 2,France,Angers,3,1,Ajaccio,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,Bastia,1,0,Grenoble,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,Auxerre,0,0,Valenciennes,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,Laval,1,1,Amiens,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,Guingamp,0,0,Estac Troyes,Match Finished
+2024-03-02T14:00:00+00:00,2023,Ligue 2,France,Paris FC,0,0,Saint Etienne,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,Dunkerque,2,2,Concarneau,Match Finished
+2024-03-02T18:00:00+00:00,2023,Ligue 2,France,Rodez,2,2,Bordeaux,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Amiens,1,1,Rodez,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Ajaccio,1,3,Annecy,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Bordeaux,0,0,Quevilly,Match Finished
+2024-03-09T14:00:00+00:00,2023,Ligue 2,France,Saint Etienne,1,0,Auxerre,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Caen,0,1,Paris FC,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,0,Angers,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,2,0,Bastia,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Dunkerque,1,0,PAU,Match Finished
+2024-03-09T18:00:00+00:00,2023,Ligue 2,France,Concarneau,2,3,Guingamp,Match Finished
+2024-03-11T19:45:00+00:00,2023,Ligue 2,France,Grenoble,0,2,Laval,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Annecy,3,1,Bordeaux,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,PAU,2,0,Concarneau,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Angers,1,3,Amiens,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Bastia,0,4,Saint Etienne,Match Finished
+2024-03-16T14:00:00+00:00,2023,Ligue 2,France,Auxerre,2,1,Caen,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Laval,1,2,Dunkerque,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Guingamp,3,0,Valenciennes,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Paris FC,2,0,Ajaccio,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Quevilly,1,1,Estac Troyes,Match Finished
+2024-03-16T18:00:00+00:00,2023,Ligue 2,France,Rodez,3,1,Grenoble,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Amiens,2,3,PAU,Match Finished
+2024-04-01T18:45:00+00:00,2023,Ligue 2,France,Ajaccio,0,1,Auxerre,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Bordeaux,3,3,Paris FC,Match Finished
+2024-03-30T14:00:00+00:00,2023,Ligue 2,France,Valenciennes,0,2,Saint Etienne,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Laval,1,2,Bastia,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,2,3,Rodez,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Dunkerque,0,2,Annecy,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Concarneau,2,4,Angers,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Grenoble,0,0,Guingamp,Match Finished
+2024-03-30T18:00:00+00:00,2023,Ligue 2,France,Quevilly,1,2,Caen,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,Annecy,2,1,Valenciennes,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,PAU,1,1,Ajaccio,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,Angers,1,1,Laval,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,Bastia,1,1,Dunkerque,Match Finished
+2024-04-06T13:00:00+00:00,2023,Ligue 2,France,Saint Etienne,1,0,Concarneau,Match Finished
+2024-04-08T18:45:00+00:00,2023,Ligue 2,France,Auxerre,2,0,Estac Troyes,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,Caen,0,1,Bordeaux,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,Guingamp,0,0,Amiens,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,Paris FC,2,1,Grenoble,Match Finished
+2024-04-06T17:00:00+00:00,2023,Ligue 2,France,Rodez,3,3,Quevilly,Match Finished
+2023-11-25T18:00:00+00:00,2023,Ligue 2,France,Amiens,1,1,Concarneau,Match Finished
+2024-04-13T13:00:00+00:00,2023,Ligue 2,France,Ajaccio,2,0,Saint Etienne,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Bordeaux,2,3,Bastia,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Caen,1,0,Rodez,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Valenciennes,1,4,PAU,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Laval,0,3,Annecy,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Estac Troyes,1,2,Paris FC,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Dunkerque,0,1,Guingamp,Match Finished
+2024-04-15T18:45:00+00:00,2023,Ligue 2,France,Grenoble,0,0,Angers,Match Finished
+2024-04-13T17:00:00+00:00,2023,Ligue 2,France,Quevilly,4,3,Auxerre,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Amiens,0,1,Dunkerque,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Ajaccio,2,1,Caen,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Annecy,0,1,Grenoble,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,PAU,3,0,Laval,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Angers,2,1,Estac Troyes,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Saint Etienne,2,1,Bordeaux,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Guingamp,0,1,Bastia,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Paris FC,2,1,Valenciennes,Match Finished
+2024-04-20T17:00:00+00:00,2023,Ligue 2,France,Concarneau,0,0,Quevilly,Match Finished
+2024-04-20T13:00:00+00:00,2023,Ligue 2,France,Rodez,2,0,Auxerre,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Bordeaux,2,0,Dunkerque,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Bastia,2,0,Concarneau,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Auxerre,4,0,Laval,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Caen,2,1,Annecy,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Valenciennes,1,0,Ajaccio,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Guingamp,1,2,Angers,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Estac Troyes,2,2,PAU,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Grenoble,0,2,Saint Etienne,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Quevilly,3,3,Amiens,Match Finished
+2024-04-23T18:45:00+00:00,2023,Ligue 2,France,Rodez,1,0,Paris FC,Match Finished
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,Amiens,0,0,Estac Troyes,Match Finished
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,Ajaccio,1,1,Quevilly,Match Finished
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,Annecy,3,2,Bastia,Match Finished
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,PAU,1,2,Guingamp,Match Finished
+2024-04-27T13:00:00+00:00,2023,Ligue 2,France,Saint Etienne,1,0,Caen,Match Finished
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,Valenciennes,2,0,Grenoble,Match Finished
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,Laval,1,0,Bordeaux,Match Finished
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,Paris FC,3,1,Angers,Match Finished
+2024-04-29T18:45:00+00:00,2023,Ligue 2,France,Dunkerque,,,Auxerre,Not Started
+2024-04-27T17:00:00+00:00,2023,Ligue 2,France,Concarneau,1,2,Rodez,Match Finished
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Angers,,,PAU,Not Started
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Bordeaux,,,Ajaccio,Not Started
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Bastia,,,Amiens,Not Started
+2024-05-04T13:00:00+00:00,2023,Ligue 2,France,Auxerre,,,Paris FC,Not Started
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Caen,,,Laval,Not Started
+2024-05-04T17:00:00+00:00,2023,Ligue 2,France,Guingamp,,,Saint Etienne,Not Started
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Estac Troyes,,,Valenciennes,Not Started
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Grenoble,,,Concarneau,Not Started
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Quevilly,,,Dunkerque,Not Started
+2024-05-03T18:00:00+00:00,2023,Ligue 2,France,Rodez,,,Annecy,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Amiens,,,Auxerre,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Ajaccio,,,Grenoble,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Annecy,,,Angers,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,PAU,,,Bastia,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Saint Etienne,,,Rodez,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Valenciennes,,,Quevilly,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Laval,,,Estac Troyes,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Paris FC,,,Guingamp,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Dunkerque,,,Caen,Not Started
+2024-05-10T18:45:00+00:00,2023,Ligue 2,France,Concarneau,,,Bordeaux,Not Started
+2024-05-18T00:00:00+00:00,2023,Ligue 2,France,Angers,,,Dunkerque,Time to be defined
+2024-05-17T18:45:00+00:00,2023,Ligue 2,France,Bordeaux,,,PAU,Not Started
+2024-05-18T00:00:00+00:00,2023,Ligue 2,France,Bastia,,,Paris FC,Time to be defined
+2024-05-17T18:45:00+00:00,2023,Ligue 2,France,Auxerre,,,Concarneau,Not Started
+2024-05-18T00:00:00+00:00,2023,Ligue 2,France,Caen,,,Valenciennes,Time to be defined
+2024-05-18T00:00:00+00:00,2023,Ligue 2,France,Guingamp,,,Laval,Time to be defined
+2024-05-18T00:00:00+00:00,2023,Ligue 2,France,Estac Troyes,,,Annecy,Time to be defined
+2024-05-17T18:45:00+00:00,2023,Ligue 2,France,Grenoble,,,Amiens,Not Started
+2024-05-18T00:00:00+00:00,2023,Ligue 2,France,Quevilly,,,Saint Etienne,Time to be defined
+2024-05-18T00:00:00+00:00,2023,Ligue 2,France,Rodez,,,Ajaccio,Time to be defined

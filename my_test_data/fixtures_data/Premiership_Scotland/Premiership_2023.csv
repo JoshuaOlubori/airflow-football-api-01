@@ -1,0 +1,229 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T11:30:00+00:00,2023,Premiership,Scotland,Celtic,4,2,Ross County,Match Finished
+2023-08-05T14:00:00+00:00,2023,Premiership,Scotland,Dundee,1,1,Motherwell,Match Finished
+2023-08-05T14:00:00+00:00,2023,Premiership,Scotland,Livingston,0,0,Aberdeen,Match Finished
+2023-08-05T14:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,0,2,Heart OF Midlothian,Match Finished
+2023-08-05T16:15:00+00:00,2023,Premiership,Scotland,Kilmarnock,1,0,Rangers,Match Finished
+2023-08-06T14:00:00+00:00,2023,Premiership,Scotland,Hibernian,2,3,ST Mirren,Match Finished
+2023-08-13T14:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,0,0,Kilmarnock,Match Finished
+2023-08-13T14:00:00+00:00,2023,Premiership,Scotland,Motherwell,2,1,Hibernian,Match Finished
+2023-08-12T14:00:00+00:00,2023,Premiership,Scotland,Rangers,4,0,Livingston,Match Finished
+2023-08-12T14:00:00+00:00,2023,Premiership,Scotland,Ross County,2,0,ST Johnstone,Match Finished
+2023-08-12T14:00:00+00:00,2023,Premiership,Scotland,ST Mirren,2,1,Dundee,Match Finished
+2023-08-13T11:00:00+00:00,2023,Premiership,Scotland,Aberdeen,1,3,Celtic,Match Finished
+2023-08-26T11:30:00+00:00,2023,Premiership,Scotland,Ross County,0,2,Rangers,Match Finished
+2023-08-26T14:00:00+00:00,2023,Premiership,Scotland,Celtic,0,0,ST Johnstone,Match Finished
+2023-08-27T14:00:00+00:00,2023,Premiership,Scotland,Dundee,1,0,Heart OF Midlothian,Match Finished
+2023-08-26T14:00:00+00:00,2023,Premiership,Scotland,Hibernian,2,3,Livingston,Match Finished
+2023-08-26T14:00:00+00:00,2023,Premiership,Scotland,Motherwell,2,1,Kilmarnock,Match Finished
+2023-08-27T14:00:00+00:00,2023,Premiership,Scotland,ST Mirren,2,2,Aberdeen,Match Finished
+2023-09-03T14:00:00+00:00,2023,Premiership,Scotland,Aberdeen,0,2,Hibernian,Match Finished
+2023-09-03T14:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,0,1,Motherwell,Match Finished
+2023-09-02T14:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,0,1,Ross County,Match Finished
+2023-09-02T14:00:00+00:00,2023,Premiership,Scotland,Livingston,1,1,ST Mirren,Match Finished
+2023-09-02T14:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,2,2,Dundee,Match Finished
+2023-09-03T11:00:00+00:00,2023,Premiership,Scotland,Rangers,0,1,Celtic,Match Finished
+2023-09-16T11:30:00+00:00,2023,Premiership,Scotland,ST Johnstone,0,2,Rangers,Match Finished
+2023-09-16T14:00:00+00:00,2023,Premiership,Scotland,Celtic,3,0,Dundee,Match Finished
+2023-09-16T14:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,2,0,Aberdeen,Match Finished
+2023-09-16T14:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,2,2,Hibernian,Match Finished
+2023-09-16T14:00:00+00:00,2023,Premiership,Scotland,Motherwell,0,1,ST Mirren,Match Finished
+2023-09-16T14:00:00+00:00,2023,Premiership,Scotland,Ross County,1,1,Livingston,Match Finished
+2023-09-23T11:30:00+00:00,2023,Premiership,Scotland,Livingston,0,3,Celtic,Match Finished
+2023-09-24T14:00:00+00:00,2023,Premiership,Scotland,Aberdeen,4,0,Ross County,Match Finished
+2023-09-23T14:00:00+00:00,2023,Premiership,Scotland,Dundee,2,2,Kilmarnock,Match Finished
+2023-09-23T14:00:00+00:00,2023,Premiership,Scotland,Hibernian,2,0,ST Johnstone,Match Finished
+2023-09-24T14:00:00+00:00,2023,Premiership,Scotland,Rangers,1,0,Motherwell,Match Finished
+2023-09-23T14:00:00+00:00,2023,Premiership,Scotland,ST Mirren,1,0,Heart OF Midlothian,Match Finished
+2023-09-30T14:00:00+00:00,2023,Premiership,Scotland,Hibernian,0,0,Dundee,Match Finished
+2023-09-30T14:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,1,1,ST Mirren,Match Finished
+2023-09-30T11:30:00+00:00,2023,Premiership,Scotland,Motherwell,1,2,Celtic,Match Finished
+2023-09-30T14:00:00+00:00,2023,Premiership,Scotland,Rangers,1,3,Aberdeen,Match Finished
+2023-09-30T14:00:00+00:00,2023,Premiership,Scotland,Ross County,0,1,Heart OF Midlothian,Match Finished
+2023-09-30T14:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,1,Livingston,Match Finished
+2023-10-08T14:00:00+00:00,2023,Premiership,Scotland,Aberdeen,0,0,ST Johnstone,Match Finished
+2023-10-07T14:00:00+00:00,2023,Premiership,Scotland,Celtic,3,1,Kilmarnock,Match Finished
+2023-10-24T18:45:00+00:00,2023,Premiership,Scotland,Dundee,0,0,Ross County,Match Finished
+2023-10-07T14:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,2,2,Hibernian,Match Finished
+2023-10-07T14:00:00+00:00,2023,Premiership,Scotland,Livingston,2,0,Motherwell,Match Finished
+2023-10-08T11:00:00+00:00,2023,Premiership,Scotland,ST Mirren,0,3,Rangers,Match Finished
+2024-01-30T19:45:00+00:00,2023,Premiership,Scotland,Aberdeen,1,1,Dundee,Match Finished
+2023-10-22T13:15:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,1,4,Celtic,Match Finished
+2023-10-21T14:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,3,1,Livingston,Match Finished
+2023-10-21T14:00:00+00:00,2023,Premiership,Scotland,Rangers,4,0,Hibernian,Match Finished
+2023-11-28T19:45:00+00:00,2023,Premiership,Scotland,Ross County,1,0,ST Mirren,Match Finished
+2023-11-07T19:45:00+00:00,2023,Premiership,Scotland,ST Johnstone,2,2,Motherwell,Match Finished
+2023-10-28T14:00:00+00:00,2023,Premiership,Scotland,Hibernian,0,0,Celtic,Match Finished
+2023-10-29T12:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,2,0,Aberdeen,Match Finished
+2023-10-28T14:00:00+00:00,2023,Premiership,Scotland,Livingston,0,2,Dundee,Match Finished
+2023-10-28T14:00:00+00:00,2023,Premiership,Scotland,Motherwell,3,3,Ross County,Match Finished
+2023-10-29T15:00:00+00:00,2023,Premiership,Scotland,Rangers,2,1,Heart OF Midlothian,Match Finished
+2023-10-28T14:00:00+00:00,2023,Premiership,Scotland,ST Mirren,4,0,ST Johnstone,Match Finished
+2023-11-01T19:45:00+00:00,2023,Premiership,Scotland,Celtic,2,1,ST Mirren,Match Finished
+2023-11-01T20:30:00+00:00,2023,Premiership,Scotland,Dundee,0,5,Rangers,Match Finished
+2023-11-01T19:45:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,1,0,Livingston,Match Finished
+2023-10-31T19:45:00+00:00,2023,Premiership,Scotland,Hibernian,2,2,Ross County,Match Finished
+2023-11-01T19:45:00+00:00,2023,Premiership,Scotland,Motherwell,2,4,Aberdeen,Match Finished
+2023-11-01T19:45:00+00:00,2023,Premiership,Scotland,ST Johnstone,2,1,Kilmarnock,Match Finished
+2023-12-20T19:45:00+00:00,2023,Premiership,Scotland,Aberdeen,2,1,Livingston,Match Finished
+2024-01-23T19:45:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,3,2,Dundee,Match Finished
+2023-11-04T15:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,1,0,Motherwell,Match Finished
+2023-12-20T19:45:00+00:00,2023,Premiership,Scotland,Rangers,2,0,ST Johnstone,Match Finished
+2023-11-04T12:30:00+00:00,2023,Premiership,Scotland,Ross County,0,3,Celtic,Match Finished
+2023-11-08T19:45:00+00:00,2023,Premiership,Scotland,ST Mirren,2,2,Hibernian,Match Finished
+2023-11-12T14:30:00+00:00,2023,Premiership,Scotland,Celtic,6,0,Aberdeen,Match Finished
+2023-11-11T15:00:00+00:00,2023,Premiership,Scotland,Dundee,4,0,ST Mirren,Match Finished
+2023-11-11T15:00:00+00:00,2023,Premiership,Scotland,Hibernian,1,0,Kilmarnock,Match Finished
+2023-11-12T12:00:00+00:00,2023,Premiership,Scotland,Livingston,0,2,Rangers,Match Finished
+2023-11-11T15:00:00+00:00,2023,Premiership,Scotland,Motherwell,1,2,Heart OF Midlothian,Match Finished
+2023-11-11T15:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,0,Ross County,Match Finished
+2023-11-26T12:00:00+00:00,2023,Premiership,Scotland,Aberdeen,1,1,Rangers,Match Finished
+2023-11-25T15:00:00+00:00,2023,Premiership,Scotland,Celtic,1,1,Motherwell,Match Finished
+2023-11-25T15:00:00+00:00,2023,Premiership,Scotland,Dundee,1,2,Hibernian,Match Finished
+2023-11-25T15:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,1,0,ST Johnstone,Match Finished
+2023-11-25T15:00:00+00:00,2023,Premiership,Scotland,Ross County,0,0,Kilmarnock,Match Finished
+2023-11-25T15:00:00+00:00,2023,Premiership,Scotland,ST Mirren,1,0,Livingston,Match Finished
+2023-12-03T15:00:00+00:00,2023,Premiership,Scotland,Hibernian,2,0,Aberdeen,Match Finished
+2023-12-02T15:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,0,1,Heart OF Midlothian,Match Finished
+2024-01-30T19:45:00+00:00,2023,Premiership,Scotland,Livingston,2,2,Ross County,Match Finished
+2023-12-02T15:00:00+00:00,2023,Premiership,Scotland,Motherwell,3,3,Dundee,Match Finished
+2023-12-03T15:00:00+00:00,2023,Premiership,Scotland,Rangers,2,0,ST Mirren,Match Finished
+2023-12-03T12:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,3,Celtic,Match Finished
+2023-12-06T19:45:00+00:00,2023,Premiership,Scotland,Aberdeen,0,1,Kilmarnock,Match Finished
+2023-12-06T19:45:00+00:00,2023,Premiership,Scotland,Celtic,4,1,Hibernian,Match Finished
+2023-11-05T14:00:00+00:00,2023,Premiership,Scotland,Dundee,1,0,Livingston,Match Finished
+2023-12-06T20:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,0,1,Rangers,Match Finished
+2023-12-05T19:45:00+00:00,2023,Premiership,Scotland,Ross County,3,0,Motherwell,Match Finished
+2023-12-06T19:45:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,0,ST Mirren,Match Finished
+2023-12-09T15:00:00+00:00,2023,Premiership,Scotland,Aberdeen,2,1,Heart OF Midlothian,Match Finished
+2023-12-10T12:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,2,1,Celtic,Match Finished
+2023-12-09T15:00:00+00:00,2023,Premiership,Scotland,Livingston,0,1,Hibernian,Match Finished
+2023-12-09T15:00:00+00:00,2023,Premiership,Scotland,Motherwell,1,1,ST Johnstone,Match Finished
+2023-12-09T15:00:00+00:00,2023,Premiership,Scotland,Rangers,3,1,Dundee,Match Finished
+2023-12-09T15:00:00+00:00,2023,Premiership,Scotland,ST Mirren,2,0,Ross County,Match Finished
+2023-12-16T15:00:00+00:00,2023,Premiership,Scotland,Celtic,0,2,Heart OF Midlothian,Match Finished
+2024-01-24T19:45:00+00:00,2023,Premiership,Scotland,Hibernian,0,3,Rangers,Match Finished
+2023-12-16T15:00:00+00:00,2023,Premiership,Scotland,Livingston,0,0,Kilmarnock,Match Finished
+2023-12-16T15:00:00+00:00,2023,Premiership,Scotland,Ross County,0,1,Dundee,Match Finished
+2024-01-24T19:45:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,1,Aberdeen,Match Finished
+2023-12-16T15:00:00+00:00,2023,Premiership,Scotland,ST Mirren,0,0,Motherwell,Match Finished
+2023-12-23T15:00:00+00:00,2023,Premiership,Scotland,Celtic,2,0,Livingston,Match Finished
+2024-03-13T19:45:00+00:00,2023,Premiership,Scotland,Dundee,1,0,Aberdeen,Match Finished
+2023-12-23T15:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,2,0,ST Mirren,Match Finished
+2023-12-23T15:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,2,1,ST Johnstone,Match Finished
+2023-12-24T12:00:00+00:00,2023,Premiership,Scotland,Motherwell,0,2,Rangers,Match Finished
+2024-03-13T19:45:00+00:00,2023,Premiership,Scotland,Ross County,2,2,Hibernian,Match Finished
+2024-02-14T19:45:00+00:00,2023,Premiership,Scotland,Aberdeen,3,3,Motherwell,Match Finished
+2023-12-26T15:00:00+00:00,2023,Premiership,Scotland,Dundee,0,3,Celtic,Match Finished
+2023-12-27T19:45:00+00:00,2023,Premiership,Scotland,Livingston,0,0,ST Johnstone,Match Finished
+2024-02-14T19:45:00+00:00,2023,Premiership,Scotland,Rangers,3,1,Ross County,Match Finished
+2023-12-27T19:45:00+00:00,2023,Premiership,Scotland,ST Mirren,0,1,Kilmarnock,Match Finished
+2023-12-27T20:00:00+00:00,2023,Premiership,Scotland,Hibernian,0,1,Heart OF Midlothian,Match Finished
+2023-12-30T12:30:00+00:00,2023,Premiership,Scotland,Celtic,2,1,Rangers,Match Finished
+2023-12-30T15:00:00+00:00,2023,Premiership,Scotland,Aberdeen,0,3,ST Mirren,Match Finished
+2023-12-30T15:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,2,2,Ross County,Match Finished
+2023-12-30T15:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,2,2,Dundee,Match Finished
+2023-12-30T15:00:00+00:00,2023,Premiership,Scotland,Motherwell,3,1,Livingston,Match Finished
+2023-12-16T15:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,0,Hibernian,Match Finished
+2024-02-11T14:00:00+00:00,2023,Premiership,Scotland,Dundee,2,1,ST Johnstone,Match Finished
+2024-01-02T15:00:00+00:00,2023,Premiership,Scotland,Hibernian,2,2,Motherwell,Match Finished
+2024-01-02T15:00:00+00:00,2023,Premiership,Scotland,Livingston,1,2,Heart OF Midlothian,Match Finished
+2024-01-02T15:00:00+00:00,2023,Premiership,Scotland,Rangers,3,1,Kilmarnock,Match Finished
+2024-01-02T15:00:00+00:00,2023,Premiership,Scotland,Ross County,0,3,Aberdeen,Match Finished
+2024-01-02T17:00:00+00:00,2023,Premiership,Scotland,ST Mirren,0,3,Celtic,Match Finished
+2024-01-27T15:00:00+00:00,2023,Premiership,Scotland,Celtic,1,0,Ross County,Match Finished
+2024-01-27T15:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,2,0,Aberdeen,Match Finished
+2024-01-27T15:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,2,2,Hibernian,Match Finished
+2024-01-27T15:00:00+00:00,2023,Premiership,Scotland,Livingston,1,4,Dundee,Match Finished
+2024-01-27T15:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,1,Motherwell,Match Finished
+2024-01-27T12:30:00+00:00,2023,Premiership,Scotland,ST Mirren,0,1,Rangers,Match Finished
+2024-02-03T12:30:00+00:00,2023,Premiership,Scotland,Aberdeen,1,1,Celtic,Match Finished
+2024-02-03T15:00:00+00:00,2023,Premiership,Scotland,Dundee,2,3,Heart OF Midlothian,Match Finished
+2024-02-03T15:00:00+00:00,2023,Premiership,Scotland,Hibernian,0,3,ST Mirren,Match Finished
+2024-02-03T15:00:00+00:00,2023,Premiership,Scotland,Motherwell,1,1,Kilmarnock,Match Finished
+2024-02-03T15:00:00+00:00,2023,Premiership,Scotland,Rangers,3,0,Livingston,Match Finished
+2024-02-03T15:00:00+00:00,2023,Premiership,Scotland,Ross County,0,1,ST Johnstone,Match Finished
+2024-02-07T20:00:00+00:00,2023,Premiership,Scotland,Hibernian,1,2,Celtic,Match Finished
+2024-02-07T19:45:00+00:00,2023,Premiership,Scotland,Kilmarnock,1,0,Livingston,Match Finished
+2024-02-06T19:45:00+00:00,2023,Premiership,Scotland,Motherwell,5,0,Ross County,Match Finished
+2024-02-06T20:00:00+00:00,2023,Premiership,Scotland,Rangers,2,1,Aberdeen,Match Finished
+2024-02-07T19:45:00+00:00,2023,Premiership,Scotland,ST Johnstone,0,1,Heart OF Midlothian,Match Finished
+2024-02-07T19:45:00+00:00,2023,Premiership,Scotland,ST Mirren,2,0,Dundee,Match Finished
+2024-02-17T15:00:00+00:00,2023,Premiership,Scotland,Aberdeen,2,2,Hibernian,Match Finished
+2024-02-17T15:00:00+00:00,2023,Premiership,Scotland,Celtic,1,1,Kilmarnock,Match Finished
+2024-02-17T15:00:00+00:00,2023,Premiership,Scotland,Dundee,2,0,Ross County,Match Finished
+2024-02-17T15:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,2,0,Motherwell,Match Finished
+2024-02-17T15:00:00+00:00,2023,Premiership,Scotland,Livingston,1,0,ST Mirren,Match Finished
+2024-02-18T12:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,0,3,Rangers,Match Finished
+2024-02-24T15:00:00+00:00,2023,Premiership,Scotland,Hibernian,2,1,Dundee,Match Finished
+2024-02-24T15:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,2,0,Aberdeen,Match Finished
+2024-02-25T12:00:00+00:00,2023,Premiership,Scotland,Motherwell,1,3,Celtic,Match Finished
+2024-02-24T15:00:00+00:00,2023,Premiership,Scotland,Rangers,5,0,Heart OF Midlothian,Match Finished
+2024-02-24T15:00:00+00:00,2023,Premiership,Scotland,Ross County,3,2,Livingston,Match Finished
+2024-02-24T15:00:00+00:00,2023,Premiership,Scotland,ST Mirren,2,0,ST Johnstone,Match Finished
+2024-02-28T19:45:00+00:00,2023,Premiership,Scotland,Aberdeen,0,2,ST Johnstone,Match Finished
+2024-02-28T19:45:00+00:00,2023,Premiership,Scotland,Celtic,7,1,Dundee,Match Finished
+2024-02-28T19:45:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,1,1,Hibernian,Match Finished
+2024-02-28T19:45:00+00:00,2023,Premiership,Scotland,Kilmarnock,1,2,Rangers,Match Finished
+2024-02-28T20:00:00+00:00,2023,Premiership,Scotland,Livingston,1,3,Motherwell,Match Finished
+2024-02-27T20:00:00+00:00,2023,Premiership,Scotland,Ross County,1,1,ST Mirren,Match Finished
+2024-03-02T15:00:00+00:00,2023,Premiership,Scotland,Dundee,2,2,Kilmarnock,Match Finished
+2024-03-03T12:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,2,0,Celtic,Match Finished
+2024-03-02T15:00:00+00:00,2023,Premiership,Scotland,Hibernian,2,0,Ross County,Match Finished
+2024-03-02T15:00:00+00:00,2023,Premiership,Scotland,Rangers,1,2,Motherwell,Match Finished
+2024-03-02T15:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,1,Livingston,Match Finished
+2024-03-02T15:00:00+00:00,2023,Premiership,Scotland,ST Mirren,2,1,Aberdeen,Match Finished
+2024-03-16T15:00:00+00:00,2023,Premiership,Scotland,Celtic,3,1,ST Johnstone,Match Finished
+2024-04-17T19:00:00+00:00,2023,Premiership,Scotland,Dundee,0,0,Rangers,Match Finished
+2024-03-16T15:00:00+00:00,2023,Premiership,Scotland,Hibernian,3,0,Livingston,Match Finished
+2024-03-16T15:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,5,2,ST Mirren,Match Finished
+2024-03-16T15:00:00+00:00,2023,Premiership,Scotland,Motherwell,0,1,Aberdeen,Match Finished
+2024-03-16T15:00:00+00:00,2023,Premiership,Scotland,Ross County,2,1,Heart OF Midlothian,Match Finished
+2024-03-30T15:00:00+00:00,2023,Premiership,Scotland,Aberdeen,2,1,Ross County,Match Finished
+2024-03-30T15:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,1,1,Kilmarnock,Match Finished
+2024-03-31T11:00:00+00:00,2023,Premiership,Scotland,Livingston,0,3,Celtic,Match Finished
+2024-03-30T15:00:00+00:00,2023,Premiership,Scotland,Motherwell,1,1,ST Mirren,Match Finished
+2024-03-30T15:00:00+00:00,2023,Premiership,Scotland,Rangers,3,1,Hibernian,Match Finished
+2024-03-30T15:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,2,Dundee,Match Finished
+2024-04-06T14:00:00+00:00,2023,Premiership,Scotland,Dundee,2,3,Motherwell,Match Finished
+2024-04-06T14:00:00+00:00,2023,Premiership,Scotland,Hibernian,1,2,ST Johnstone,Match Finished
+2024-04-06T14:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,1,0,Ross County,Match Finished
+2024-04-06T14:00:00+00:00,2023,Premiership,Scotland,Livingston,0,0,Aberdeen,Match Finished
+2024-04-07T11:00:00+00:00,2023,Premiership,Scotland,Rangers,3,3,Celtic,Match Finished
+2024-04-06T14:00:00+00:00,2023,Premiership,Scotland,ST Mirren,1,2,Heart OF Midlothian,Match Finished
+2024-04-13T14:00:00+00:00,2023,Premiership,Scotland,Aberdeen,0,0,Dundee,Match Finished
+2024-04-13T14:00:00+00:00,2023,Premiership,Scotland,Celtic,3,0,ST Mirren,Match Finished
+2024-04-13T14:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,4,2,Livingston,Match Finished
+2024-04-13T14:00:00+00:00,2023,Premiership,Scotland,Motherwell,1,1,Hibernian,Match Finished
+2024-04-14T11:00:00+00:00,2023,Premiership,Scotland,Ross County,3,2,Rangers,Match Finished
+2024-04-13T14:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,0,2,Kilmarnock,Match Finished
+2024-04-27T14:00:00+00:00,2023,Premiership,Scotland,Kilmarnock,0,0,Heart OF Midlothian,Match Finished
+2024-04-27T14:00:00+00:00,2023,Premiership,Scotland,Aberdeen,1,0,Motherwell,Match Finished
+2024-04-27T14:00:00+00:00,2023,Premiership,Scotland,Livingston,2,0,Ross County,Match Finished
+2024-04-27T14:00:00+00:00,2023,Premiership,Scotland,ST Johnstone,1,3,Hibernian,Match Finished
+2024-04-28T11:30:00+00:00,2023,Premiership,Scotland,ST Mirren,,,Rangers,Not Started
+2024-04-28T14:00:00+00:00,2023,Premiership,Scotland,Dundee,,,Celtic,Not Started
+2024-05-04T14:00:00+00:00,2023,Premiership,Scotland,Celtic,,,Heart OF Midlothian,Not Started
+2024-05-04T14:00:00+00:00,2023,Premiership,Scotland,Dundee,,,ST Mirren,Not Started
+2024-05-04T14:00:00+00:00,2023,Premiership,Scotland,Aberdeen,,,ST Johnstone,Not Started
+2024-05-04T14:00:00+00:00,2023,Premiership,Scotland,Motherwell,,,Livingston,Not Started
+2024-05-04T14:00:00+00:00,2023,Premiership,Scotland,Ross County,,,Hibernian,Not Started
+2024-05-05T12:00:00+00:00,2023,Premiership,Scotland,Rangers,,,Kilmarnock,Not Started
+2024-05-11T11:30:00+00:00,2023,Premiership,Scotland,Celtic,,,Rangers,Not Started
+2024-05-11T14:00:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,,,Dundee,Not Started
+2024-05-11T14:00:00+00:00,2023,Premiership,Scotland,ST Mirren,,,Kilmarnock,Not Started
+2024-05-11T14:00:00+00:00,2023,Premiership,Scotland,Livingston,,,ST Johnstone,Not Started
+2024-05-11T14:00:00+00:00,2023,Premiership,Scotland,Ross County,,,Motherwell,Not Started
+2024-05-12T14:00:00+00:00,2023,Premiership,Scotland,Hibernian,,,Aberdeen,Not Started
+2024-05-14T18:30:00+00:00,2023,Premiership,Scotland,Rangers,,,Dundee,Not Started
+2024-05-15T18:30:00+00:00,2023,Premiership,Scotland,Kilmarnock,,,Celtic,Not Started
+2024-05-15T18:45:00+00:00,2023,Premiership,Scotland,ST Mirren,,,Heart OF Midlothian,Not Started
+2024-05-15T18:45:00+00:00,2023,Premiership,Scotland,Aberdeen,,,Livingston,Not Started
+2024-05-15T18:45:00+00:00,2023,Premiership,Scotland,Hibernian,,,Motherwell,Not Started
+2024-05-15T18:45:00+00:00,2023,Premiership,Scotland,ST Johnstone,,,Ross County,Not Started
+2024-05-18T11:30:00+00:00,2023,Premiership,Scotland,Celtic,,,ST Mirren,Not Started
+2024-05-18T11:30:00+00:00,2023,Premiership,Scotland,Dundee,,,Kilmarnock,Not Started
+2024-05-18T11:30:00+00:00,2023,Premiership,Scotland,Heart OF Midlothian,,,Rangers,Not Started
+2024-05-19T14:00:00+00:00,2023,Premiership,Scotland,Livingston,,,Hibernian,Not Started
+2024-05-19T14:00:00+00:00,2023,Premiership,Scotland,Motherwell,,,ST Johnstone,Not Started
+2024-05-19T14:00:00+00:00,2023,Premiership,Scotland,Ross County,,,Aberdeen,Not Started

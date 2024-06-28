@@ -1,0 +1,181 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-04T18:45:00+00:00,2023,Championship,Scotland,Arbroath,0,4,Dundee Utd,Match Finished
+2023-08-05T14:00:00+00:00,2023,Championship,Scotland,Dunfermline,2,1,Airdrie United,Match Finished
+2023-08-05T14:00:00+00:00,2023,Championship,Scotland,Morton,3,1,Ayr Utd,Match Finished
+2023-08-05T14:00:00+00:00,2023,Championship,Scotland,Inverness CT,1,2,Queen's Park,Match Finished
+2023-08-05T14:00:00+00:00,2023,Championship,Scotland,Partick,2,2,Raith Rovers,Match Finished
+2023-08-12T14:00:00+00:00,2023,Championship,Scotland,Airdrie United,2,1,Partick,Match Finished
+2023-08-12T14:00:00+00:00,2023,Championship,Scotland,Ayr Utd,1,0,Inverness CT,Match Finished
+2023-08-12T14:00:00+00:00,2023,Championship,Scotland,Dundee Utd,1,1,Dunfermline,Match Finished
+2023-08-12T14:00:00+00:00,2023,Championship,Scotland,Queen's Park,2,1,Arbroath,Match Finished
+2023-08-12T14:00:00+00:00,2023,Championship,Scotland,Raith Rovers,3,2,Morton,Match Finished
+2023-08-26T14:00:00+00:00,2023,Championship,Scotland,Airdrie United,2,1,Inverness CT,Match Finished
+2023-08-26T14:00:00+00:00,2023,Championship,Scotland,Ayr Utd,0,3,Dundee Utd,Match Finished
+2023-08-26T14:00:00+00:00,2023,Championship,Scotland,Dunfermline,0,1,Raith Rovers,Match Finished
+2023-08-26T14:00:00+00:00,2023,Championship,Scotland,Morton,0,3,Arbroath,Match Finished
+2023-08-26T14:00:00+00:00,2023,Championship,Scotland,Partick,3,1,Queen's Park,Match Finished
+2023-09-02T14:00:00+00:00,2023,Championship,Scotland,Arbroath,2,1,Ayr Utd,Match Finished
+2023-09-02T14:00:00+00:00,2023,Championship,Scotland,Dundee Utd,2,0,Airdrie United,Match Finished
+2023-09-02T14:00:00+00:00,2023,Championship,Scotland,Morton,1,4,Partick,Match Finished
+2023-09-02T14:00:00+00:00,2023,Championship,Scotland,Inverness CT,1,1,Dunfermline,Match Finished
+2023-09-02T14:00:00+00:00,2023,Championship,Scotland,Raith Rovers,3,2,Queen's Park,Match Finished
+2023-09-16T14:00:00+00:00,2023,Championship,Scotland,Arbroath,4,0,Airdrie United,Match Finished
+2023-09-15T18:45:00+00:00,2023,Championship,Scotland,Ayr Utd,0,4,Partick,Match Finished
+2023-09-16T14:00:00+00:00,2023,Championship,Scotland,Dundee Utd,1,1,Morton,Match Finished
+2023-09-16T14:00:00+00:00,2023,Championship,Scotland,Queen's Park,0,2,Dunfermline,Match Finished
+2023-09-16T14:00:00+00:00,2023,Championship,Scotland,Raith Rovers,1,0,Inverness CT,Match Finished
+2023-09-22T18:45:00+00:00,2023,Championship,Scotland,Queen's Park,2,5,Ayr Utd,Match Finished
+2023-09-23T14:00:00+00:00,2023,Championship,Scotland,Airdrie United,1,0,Raith Rovers,Match Finished
+2023-09-23T14:00:00+00:00,2023,Championship,Scotland,Dunfermline,3,1,Morton,Match Finished
+2023-09-23T14:00:00+00:00,2023,Championship,Scotland,Inverness CT,0,1,Dundee Utd,Match Finished
+2023-09-23T14:00:00+00:00,2023,Championship,Scotland,Partick,0,3,Arbroath,Match Finished
+2023-09-30T14:00:00+00:00,2023,Championship,Scotland,Arbroath,2,3,Inverness CT,Match Finished
+2023-09-30T14:00:00+00:00,2023,Championship,Scotland,Ayr Utd,1,2,Raith Rovers,Match Finished
+2023-09-30T14:00:00+00:00,2023,Championship,Scotland,Dundee Utd,4,1,Queen's Park,Match Finished
+2023-09-30T14:00:00+00:00,2023,Championship,Scotland,Morton,0,1,Airdrie United,Match Finished
+2023-09-30T14:00:00+00:00,2023,Championship,Scotland,Partick,3,0,Dunfermline,Match Finished
+2023-10-07T14:00:00+00:00,2023,Championship,Scotland,Airdrie United,1,2,Ayr Utd,Match Finished
+2023-11-28T19:45:00+00:00,2023,Championship,Scotland,Dunfermline,3,0,Arbroath,Match Finished
+2023-10-07T14:00:00+00:00,2023,Championship,Scotland,Inverness CT,0,0,Partick,Match Finished
+2023-10-07T14:00:00+00:00,2023,Championship,Scotland,Queen's Park,0,0,Morton,Match Finished
+2023-10-07T14:00:00+00:00,2023,Championship,Scotland,Raith Rovers,1,1,Dundee Utd,Match Finished
+2023-10-20T18:45:00+00:00,2023,Championship,Scotland,Airdrie United,1,1,Queen's Park,Match Finished
+2023-12-13T19:45:00+00:00,2023,Championship,Scotland,Arbroath,1,2,Raith Rovers,Match Finished
+2023-10-21T14:00:00+00:00,2023,Championship,Scotland,Dunfermline,0,1,Ayr Utd,Match Finished
+2023-12-12T19:45:00+00:00,2023,Championship,Scotland,Morton,2,1,Inverness CT,Match Finished
+2023-10-21T14:00:00+00:00,2023,Championship,Scotland,Partick,0,5,Dundee Utd,Match Finished
+2023-10-27T18:45:00+00:00,2023,Championship,Scotland,Queen's Park,2,2,Partick,Match Finished
+2023-10-28T14:00:00+00:00,2023,Championship,Scotland,Ayr Utd,0,1,Morton,Match Finished
+2023-10-27T18:45:00+00:00,2023,Championship,Scotland,Dundee Utd,6,0,Arbroath,Match Finished
+2023-10-28T14:00:00+00:00,2023,Championship,Scotland,Inverness CT,1,0,Airdrie United,Match Finished
+2023-10-28T14:00:00+00:00,2023,Championship,Scotland,Raith Rovers,1,0,Dunfermline,Match Finished
+2023-10-31T19:45:00+00:00,2023,Championship,Scotland,Airdrie United,0,2,Dundee Utd,Match Finished
+2023-08-19T14:00:00+00:00,2023,Championship,Scotland,Arbroath,0,1,Queen's Park,Match Finished
+2023-11-18T15:00:00+00:00,2023,Championship,Scotland,Dunfermline,1,1,Inverness CT,Match Finished
+2023-10-31T19:45:00+00:00,2023,Championship,Scotland,Morton,1,2,Raith Rovers,Match Finished
+2023-10-31T19:45:00+00:00,2023,Championship,Scotland,Partick,2,2,Ayr Utd,Match Finished
+2023-11-04T15:00:00+00:00,2023,Championship,Scotland,Arbroath,1,3,Partick,Match Finished
+2023-11-04T15:00:00+00:00,2023,Championship,Scotland,Ayr Utd,2,2,Queen's Park,Match Finished
+2023-11-04T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,1,1,Inverness CT,Match Finished
+2023-11-03T19:45:00+00:00,2023,Championship,Scotland,Morton,1,2,Dunfermline,Match Finished
+2023-11-04T15:00:00+00:00,2023,Championship,Scotland,Raith Rovers,1,1,Airdrie United,Match Finished
+2023-11-11T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,2,0,Arbroath,Match Finished
+2023-11-10T19:45:00+00:00,2023,Championship,Scotland,Dunfermline,1,2,Dundee Utd,Match Finished
+2023-11-11T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,3,1,Ayr Utd,Match Finished
+2023-11-11T15:00:00+00:00,2023,Championship,Scotland,Partick,2,1,Morton,Match Finished
+2023-11-11T15:00:00+00:00,2023,Championship,Scotland,Queen's Park,2,3,Raith Rovers,Match Finished
+2024-01-23T19:45:00+00:00,2023,Championship,Scotland,Ayr Utd,2,0,Arbroath,Match Finished
+2024-02-10T15:00:00+00:00,2023,Championship,Scotland,Dunfermline,0,3,Queen's Park,Match Finished
+2024-03-05T19:45:00+00:00,2023,Championship,Scotland,Morton,0,1,Dundee Utd,Match Finished
+2023-12-02T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,1,2,Raith Rovers,Match Finished
+2023-12-02T15:00:00+00:00,2023,Championship,Scotland,Partick,2,1,Airdrie United,Match Finished
+2023-12-09T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,1,2,Dunfermline,Match Finished
+2023-12-09T15:00:00+00:00,2023,Championship,Scotland,Arbroath,1,2,Morton,Match Finished
+2023-12-09T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,1,0,Ayr Utd,Match Finished
+2023-12-09T15:00:00+00:00,2023,Championship,Scotland,Queen's Park,1,4,Inverness CT,Match Finished
+2023-12-08T19:45:00+00:00,2023,Championship,Scotland,Raith Rovers,4,3,Partick,Match Finished
+2023-12-16T15:00:00+00:00,2023,Championship,Scotland,Ayr Utd,1,0,Airdrie United,Match Finished
+2023-12-16T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,0,1,Raith Rovers,Match Finished
+2023-12-16T15:00:00+00:00,2023,Championship,Scotland,Dunfermline,1,2,Partick,Match Finished
+2023-12-16T15:00:00+00:00,2023,Championship,Scotland,Morton,1,0,Queen's Park,Match Finished
+2023-12-16T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,1,2,Arbroath,Match Finished
+2023-12-23T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,0,0,Morton,Match Finished
+2023-12-23T15:00:00+00:00,2023,Championship,Scotland,Arbroath,1,1,Dunfermline,Match Finished
+2023-12-23T15:00:00+00:00,2023,Championship,Scotland,Partick,1,1,Inverness CT,Match Finished
+2023-12-22T19:45:00+00:00,2023,Championship,Scotland,Queen's Park,0,0,Dundee Utd,Match Finished
+2023-12-22T19:45:00+00:00,2023,Championship,Scotland,Raith Rovers,4,4,Ayr Utd,Match Finished
+2023-12-30T15:00:00+00:00,2023,Championship,Scotland,Ayr Utd,2,2,Dunfermline,Match Finished
+2023-12-29T19:45:00+00:00,2023,Championship,Scotland,Dundee Utd,3,0,Partick,Match Finished
+2023-12-30T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,0,0,Morton,Match Finished
+2023-12-30T15:00:00+00:00,2023,Championship,Scotland,Queen's Park,1,2,Airdrie United,Match Finished
+2023-12-30T15:00:00+00:00,2023,Championship,Scotland,Raith Rovers,2,2,Arbroath,Match Finished
+2024-01-02T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,2,0,Inverness CT,Match Finished
+2024-01-02T15:00:00+00:00,2023,Championship,Scotland,Arbroath,0,3,Dundee Utd,Match Finished
+2024-01-02T15:00:00+00:00,2023,Championship,Scotland,Dunfermline,1,2,Raith Rovers,Match Finished
+2024-01-02T15:00:00+00:00,2023,Championship,Scotland,Morton,3,0,Ayr Utd,Match Finished
+2024-01-02T15:00:00+00:00,2023,Championship,Scotland,Partick,3,2,Queen's Park,Match Finished
+2024-01-06T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,1,0,Raith Rovers,Match Finished
+2024-01-06T15:00:00+00:00,2023,Championship,Scotland,Ayr Utd,1,3,Inverness CT,Match Finished
+2024-01-06T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,2,3,Morton,Match Finished
+2024-01-06T15:00:00+00:00,2023,Championship,Scotland,Partick,4,0,Arbroath,Match Finished
+2024-01-05T19:45:00+00:00,2023,Championship,Scotland,Queen's Park,2,1,Dunfermline,Match Finished
+2024-01-13T15:00:00+00:00,2023,Championship,Scotland,Arbroath,0,0,Ayr Utd,Match Finished
+2024-03-05T19:45:00+00:00,2023,Championship,Scotland,Dunfermline,0,2,Airdrie United,Match Finished
+2024-01-13T15:00:00+00:00,2023,Championship,Scotland,Morton,1,1,Partick,Match Finished
+2024-01-12T19:45:00+00:00,2023,Championship,Scotland,Inverness CT,0,1,Dundee Utd,Match Finished
+2024-01-13T15:00:00+00:00,2023,Championship,Scotland,Raith Rovers,1,2,Queen's Park,Match Finished
+2024-01-27T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,1,1,Partick,Match Finished
+2024-01-27T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,0,0,Dunfermline,Match Finished
+2024-01-27T15:00:00+00:00,2023,Championship,Scotland,Morton,3,0,Arbroath,Match Finished
+2024-01-27T15:00:00+00:00,2023,Championship,Scotland,Queen's Park,1,2,Ayr Utd,Match Finished
+2024-01-27T15:00:00+00:00,2023,Championship,Scotland,Raith Rovers,2,3,Inverness CT,Match Finished
+2024-04-02T18:45:00+00:00,2023,Championship,Scotland,Arbroath,1,2,Airdrie United,Match Finished
+2024-02-03T15:00:00+00:00,2023,Championship,Scotland,Ayr Utd,1,2,Dundee Utd,Match Finished
+2024-02-03T15:00:00+00:00,2023,Championship,Scotland,Dunfermline,0,5,Morton,Match Finished
+2024-02-03T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,0,1,Queen's Park,Match Finished
+2024-03-12T19:45:00+00:00,2023,Championship,Scotland,Partick,0,1,Raith Rovers,Match Finished
+2024-02-17T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,2,3,Ayr Utd,Match Finished
+2024-02-17T15:00:00+00:00,2023,Championship,Scotland,Dunfermline,1,1,Arbroath,Match Finished
+2024-02-17T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,3,3,Partick,Match Finished
+2024-02-17T15:00:00+00:00,2023,Championship,Scotland,Queen's Park,0,0,Morton,Match Finished
+2024-02-16T19:45:00+00:00,2023,Championship,Scotland,Raith Rovers,2,1,Dundee Utd,Match Finished
+2024-02-24T15:00:00+00:00,2023,Championship,Scotland,Arbroath,1,1,Inverness CT,Match Finished
+2024-02-24T15:00:00+00:00,2023,Championship,Scotland,Ayr Utd,1,2,Raith Rovers,Match Finished
+2024-02-24T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,3,1,Queen's Park,Match Finished
+2024-02-24T15:00:00+00:00,2023,Championship,Scotland,Morton,2,1,Airdrie United,Match Finished
+2024-02-23T19:45:00+00:00,2023,Championship,Scotland,Partick,1,3,Dunfermline,Match Finished
+2024-02-27T19:45:00+00:00,2023,Championship,Scotland,Ayr Utd,4,3,Partick,Match Finished
+2024-02-27T19:45:00+00:00,2023,Championship,Scotland,Dundee Utd,0,2,Airdrie United,Match Finished
+2024-02-27T19:45:00+00:00,2023,Championship,Scotland,Inverness CT,0,0,Dunfermline,Match Finished
+2024-02-27T19:45:00+00:00,2023,Championship,Scotland,Queen's Park,6,0,Arbroath,Match Finished
+2024-02-27T19:45:00+00:00,2023,Championship,Scotland,Raith Rovers,0,0,Morton,Match Finished
+2024-03-02T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,1,1,Queen's Park,Match Finished
+2024-03-01T19:45:00+00:00,2023,Championship,Scotland,Arbroath,3,2,Raith Rovers,Match Finished
+2024-03-02T15:00:00+00:00,2023,Championship,Scotland,Dunfermline,2,0,Ayr Utd,Match Finished
+2024-03-02T15:00:00+00:00,2023,Championship,Scotland,Morton,0,2,Inverness CT,Match Finished
+2024-03-02T15:00:00+00:00,2023,Championship,Scotland,Partick,1,1,Dundee Utd,Match Finished
+2024-04-09T18:45:00+00:00,2023,Championship,Scotland,Ayr Utd,1,1,Morton,Match Finished
+2024-03-09T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,4,0,Arbroath,Match Finished
+2024-03-09T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,0,0,Airdrie United,Match Finished
+2024-03-09T15:00:00+00:00,2023,Championship,Scotland,Queen's Park,2,2,Partick,Match Finished
+2024-03-09T15:00:00+00:00,2023,Championship,Scotland,Raith Rovers,2,0,Dunfermline,Match Finished
+2024-03-16T15:00:00+00:00,2023,Championship,Scotland,Airdrie United,5,2,Arbroath,Match Finished
+2024-03-15T19:45:00+00:00,2023,Championship,Scotland,Dunfermline,3,1,Dundee Utd,Match Finished
+2024-03-16T15:00:00+00:00,2023,Championship,Scotland,Inverness CT,1,2,Ayr Utd,Match Finished
+2024-03-16T15:00:00+00:00,2023,Championship,Scotland,Partick,2,1,Morton,Match Finished
+2024-03-16T15:00:00+00:00,2023,Championship,Scotland,Queen's Park,0,0,Raith Rovers,Match Finished
+2024-03-23T15:00:00+00:00,2023,Championship,Scotland,Arbroath,0,1,Partick,Match Finished
+2024-03-23T15:00:00+00:00,2023,Championship,Scotland,Ayr Utd,1,2,Queen's Park,Match Finished
+2024-03-23T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,1,1,Inverness CT,Match Finished
+2024-03-23T15:00:00+00:00,2023,Championship,Scotland,Morton,0,1,Dunfermline,Match Finished
+2024-04-09T18:45:00+00:00,2023,Championship,Scotland,Raith Rovers,1,3,Airdrie United,Match Finished
+2024-03-30T15:00:00+00:00,2023,Championship,Scotland,Arbroath,2,3,Dunfermline,Match Finished
+2024-03-29T19:45:00+00:00,2023,Championship,Scotland,Ayr Utd,2,1,Airdrie United,Match Finished
+2024-03-30T15:00:00+00:00,2023,Championship,Scotland,Dundee Utd,2,0,Raith Rovers,Match Finished
+2024-03-30T15:00:00+00:00,2023,Championship,Scotland,Morton,2,0,Queen's Park,Match Finished
+2024-03-30T15:00:00+00:00,2023,Championship,Scotland,Partick,1,0,Inverness CT,Match Finished
+2024-04-06T14:00:00+00:00,2023,Championship,Scotland,Airdrie United,3,1,Morton,Match Finished
+2024-04-06T14:00:00+00:00,2023,Championship,Scotland,Dunfermline,1,1,Partick,Match Finished
+2024-04-06T14:00:00+00:00,2023,Championship,Scotland,Inverness CT,2,1,Arbroath,Match Finished
+2024-04-06T14:00:00+00:00,2023,Championship,Scotland,Queen's Park,0,5,Dundee Utd,Match Finished
+2024-04-06T14:00:00+00:00,2023,Championship,Scotland,Raith Rovers,2,1,Ayr Utd,Match Finished
+2024-04-13T14:00:00+00:00,2023,Championship,Scotland,Airdrie United,2,1,Dunfermline,Match Finished
+2024-04-13T14:00:00+00:00,2023,Championship,Scotland,Ayr Utd,5,0,Arbroath,Match Finished
+2024-04-12T18:45:00+00:00,2023,Championship,Scotland,Morton,1,4,Dundee Utd,Match Finished
+2024-04-13T14:00:00+00:00,2023,Championship,Scotland,Queen's Park,0,1,Inverness CT,Match Finished
+2024-04-13T14:00:00+00:00,2023,Championship,Scotland,Raith Rovers,0,0,Partick,Match Finished
+2024-04-20T14:00:00+00:00,2023,Championship,Scotland,Arbroath,1,2,Morton,Match Finished
+2024-04-20T14:00:00+00:00,2023,Championship,Scotland,Dundee Utd,1,0,Ayr Utd,Match Finished
+2024-04-20T14:00:00+00:00,2023,Championship,Scotland,Dunfermline,0,0,Queen's Park,Match Finished
+2024-04-19T18:45:00+00:00,2023,Championship,Scotland,Inverness CT,0,1,Raith Rovers,Match Finished
+2024-04-20T14:00:00+00:00,2023,Championship,Scotland,Partick,4,0,Airdrie United,Match Finished
+2024-04-26T18:45:00+00:00,2023,Championship,Scotland,Airdrie United,0,0,Dundee Utd,Match Finished
+2024-04-27T14:00:00+00:00,2023,Championship,Scotland,Arbroath,0,5,Queen's Park,Match Finished
+2024-04-27T14:00:00+00:00,2023,Championship,Scotland,Dunfermline,1,1,Inverness CT,Match Finished
+2024-04-27T14:00:00+00:00,2023,Championship,Scotland,Morton,0,0,Raith Rovers,Match Finished
+2024-04-27T14:00:00+00:00,2023,Championship,Scotland,Partick,0,0,Ayr Utd,Match Finished
+2024-05-03T18:45:00+00:00,2023,Championship,Scotland,Ayr Utd,,,Dunfermline,Not Started
+2024-05-03T18:45:00+00:00,2023,Championship,Scotland,Dundee Utd,,,Partick,Not Started
+2024-05-03T18:45:00+00:00,2023,Championship,Scotland,Inverness CT,,,Morton,Not Started
+2024-05-03T18:45:00+00:00,2023,Championship,Scotland,Queen's Park,,,Airdrie United,Not Started
+2024-05-03T18:45:00+00:00,2023,Championship,Scotland,Raith Rovers,,,Arbroath,Not Started

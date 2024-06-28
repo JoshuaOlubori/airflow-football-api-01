@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Banbury United,0,3,Spennymoor Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,2,0,Chester,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Blyth Spartans,4,2,Gloucester City,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Buxton,1,1,Boston United,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Chorley,1,1,Brackley Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Darlington 1883,1,3,Curzon Ashton,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,2,2,Hereford,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,1,0,Scarborough Athletic,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,0,2,Farsley Celtic FC,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,South Shields,3,1,Alfreton Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Southport,0,4,Warrington Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,National League - North,England,Tamworth,1,2,Scunthorpe,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Alfreton Town,3,1,Southport,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Boston United,3,1,South Shields,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Brackley Town,2,1,Buxton,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Chester,3,0,King's Lynn Town,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,1,1,Rushall Olympic,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,1,Chorley,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Gloucester City,1,1,Bishop's Stortford,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Hereford,1,0,Darlington 1883,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,3,0,Banbury United,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Scunthorpe,1,1,Peterborough Sports,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Spennymoor Town,1,4,Tamworth,Match Finished
+2023-08-12T14:00:00+00:00,2023,National League - North,England,Warrington Town,0,2,Blyth Spartans,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Alfreton Town,2,1,Peterborough Sports,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Boston United,0,2,Tamworth,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Brackley Town,1,0,Bishop's Stortford,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Chester,0,0,Chorley,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Curzon Ashton,1,1,King's Lynn Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,1,South Shields,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Gloucester City,0,2,Banbury United,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Hereford,1,0,Rushall Olympic,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Scarborough Athletic,1,0,Blyth Spartans,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Scunthorpe,4,0,Darlington 1883,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Spennymoor Town,5,1,Southport,Match Finished
+2023-08-15T18:45:00+00:00,2023,National League - North,England,Warrington Town,1,0,Buxton,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Banbury United,1,0,Chester,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,0,1,Farsley Celtic FC,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,1,Hereford,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Buxton,1,1,Curzon Ashton,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Chorley,0,1,Warrington Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Darlington 1883,1,1,Brackley Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,1,1,Gloucester City,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,0,2,Spennymoor Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,0,3,Scunthorpe,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,South Shields,1,0,Scarborough Athletic,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Southport,0,2,Boston United,Match Finished
+2023-08-19T14:00:00+00:00,2023,National League - North,England,Tamworth,0,1,Alfreton Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Alfreton Town,2,3,Darlington 1883,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Boston United,2,0,Warrington Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Brackley Town,0,0,Southport,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Buxton,3,0,Blyth Spartans,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Chorley,3,1,King's Lynn Town,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,1,0,Scunthorpe,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,2,2,Tamworth,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Hereford,0,1,Peterborough Sports,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,1,1,Banbury United,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,1,0,Chester,Match Finished
+2023-08-26T14:00:00+00:00,2023,National League - North,England,South Shields,3,0,Gloucester City,Match Finished
+2023-08-26T12:00:00+00:00,2023,National League - North,England,Spennymoor Town,1,0,Bishop's Stortford,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Banbury United,0,3,Buxton,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,1,0,Boston United,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,0,Spennymoor Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Chester,2,0,Farsley Celtic FC,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Darlington 1883,2,2,South Shields,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Gloucester City,2,0,Rushall Olympic,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,2,1,Alfreton Town,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,0,3,Brackley Town,Match Finished
+2023-08-28T12:00:00+00:00,2023,National League - North,England,Scunthorpe,4,1,Scarborough Athletic,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Southport,0,2,Chorley,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Tamworth,4,0,Hereford,Match Finished
+2023-08-28T14:00:00+00:00,2023,National League - North,England,Warrington Town,1,4,Curzon Ashton,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Alfreton Town,2,2,Scunthorpe,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Boston United,3,1,Blyth Spartans,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Brackley Town,2,0,Warrington Town,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Buxton,5,0,Darlington 1883,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Chorley,2,1,Bishop's Stortford,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,0,1,Tamworth,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,0,0,King's Lynn Town,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Hereford,0,1,Southport,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,1,0,Peterborough Sports,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,1,1,Gloucester City,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,South Shields,4,0,Banbury United,Match Finished
+2023-09-02T14:00:00+00:00,2023,National League - North,England,Spennymoor Town,1,1,Chester,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Banbury United,0,0,Alfreton Town,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Bishop's Stortford,1,4,Rushall Olympic,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Blyth Spartans,4,0,Farsley Celtic FC,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Chester,1,2,Hereford,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Darlington 1883,0,0,Boston United,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Gloucester City,0,0,Buxton,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,King's Lynn Town,2,2,Brackley Town,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Peterborough Sports,1,1,Curzon Ashton,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Scunthorpe,3,1,South Shields,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Southport,3,1,Scarborough Athletic,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Tamworth,2,1,Chorley,Match Finished
+2023-09-05T18:45:00+00:00,2023,National League - North,England,Warrington Town,3,3,Spennymoor Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Alfreton Town,4,0,Boston United,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Banbury United,3,0,Warrington Town,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,1,0,Darlington 1883,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Chester,2,1,Blyth Spartans,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,0,1,Chorley,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Gloucester City,0,1,Farsley Celtic FC,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,1,4,Southport,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,2,1,Brackley Town,Match Finished
+2023-09-30T14:00:00+00:00,2023,National League - North,England,Scunthorpe,0,3,Buxton,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,South Shields,2,0,Rushall Olympic,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Spennymoor Town,2,0,Hereford,Match Finished
+2023-09-09T14:00:00+00:00,2023,National League - North,England,Tamworth,3,0,Peterborough Sports,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Blyth Spartans,1,3,Alfreton Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Boston United,1,0,Chester,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Brackley Town,0,2,Curzon Ashton,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Buxton,0,2,Spennymoor Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Chorley,1,1,Scunthorpe,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Darlington 1883,1,1,Gloucester City,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,0,1,Banbury United,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Hereford,1,0,Bishop's Stortford,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,2,4,South Shields,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,4,2,Scarborough Athletic,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Southport,0,0,Tamworth,Match Finished
+2023-09-23T14:00:00+00:00,2023,National League - North,England,Warrington Town,1,0,King's Lynn Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Alfreton Town,1,1,Warrington Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Banbury United,0,0,Blyth Spartans,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,2,3,Southport,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Chester,3,2,Peterborough Sports,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,3,1,Boston United,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Gloucester City,0,2,Chorley,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,1,3,Buxton,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,1,2,Farsley Celtic FC,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Scunthorpe,1,0,Brackley Town,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,South Shields,0,0,Hereford,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Spennymoor Town,3,0,Rushall Olympic,Match Finished
+2023-10-07T14:00:00+00:00,2023,National League - North,England,Tamworth,4,0,Darlington 1883,Match Finished
+2023-10-14T12:00:00+00:00,2023,National League - North,England,Blyth Spartans,3,0,Bishop's Stortford,Match Finished
+2023-10-31T19:45:00+00:00,2023,National League - North,England,Boston United,1,1,Scunthorpe,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - North,England,Brackley Town,3,1,Spennymoor Town,Match Finished
+2023-10-31T19:45:00+00:00,2023,National League - North,England,Buxton,2,1,Tamworth,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League - North,England,Chorley,3,2,Alfreton Town,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - North,England,Darlington 1883,1,2,King's Lynn Town,Match Finished
+2023-12-12T19:45:00+00:00,2023,National League - North,England,Farsley Celtic FC,2,1,Curzon Ashton,Match Finished
+2023-11-28T19:45:00+00:00,2023,National League - North,England,Hereford,3,1,Scarborough Athletic,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,2,0,Banbury United,Match Finished
+2023-11-28T19:45:00+00:00,2023,National League - North,England,Rushall Olympic,1,1,Chester,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - North,England,Southport,2,1,Gloucester City,Match Finished
+2023-10-14T14:00:00+00:00,2023,National League - North,England,Warrington Town,2,2,South Shields,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League - North,England,Banbury United,2,1,Darlington 1883,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,1,4,Warrington Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Blyth Spartans,0,1,Tamworth,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Chester,2,0,Scunthorpe,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,4,Brackley Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Gloucester City,3,0,Alfreton Town,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Hereford,3,1,Curzon Ashton,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,2,0,Southport,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,5,0,Chorley,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,1,0,Buxton,Match Finished
+2023-10-21T14:00:00+00:00,2023,National League - North,England,South Shields,2,0,King's Lynn Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - North,England,Spennymoor Town,0,0,Boston United,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Alfreton Town,3,1,Hereford,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Boston United,1,2,Banbury United,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Brackley Town,0,1,Rushall Olympic,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Buxton,2,2,Peterborough Sports,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Chorley,2,1,South Shields,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Curzon Ashton,0,1,Scarborough Athletic,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Darlington 1883,0,0,Blyth Spartans,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,King's Lynn Town,3,2,Bishop's Stortford,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Scunthorpe,6,0,Spennymoor Town,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Southport,0,2,Chester,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Tamworth,1,0,Gloucester City,Match Finished
+2023-10-24T18:45:00+00:00,2023,National League - North,England,Warrington Town,1,1,Farsley Celtic FC,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Alfreton Town,2,0,Farsley Celtic FC,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Boston United,1,0,Gloucester City,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Brackley Town,1,1,South Shields,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Buxton,2,2,Rushall Olympic,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Chorley,1,2,Hereford,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,0,1,Chester,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Darlington 1883,1,2,Spennymoor Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,1,1,Blyth Spartans,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Scunthorpe,6,1,Bishop's Stortford,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Southport,0,1,Banbury United,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Tamworth,2,0,Scarborough Athletic,Match Finished
+2023-10-28T14:00:00+00:00,2023,National League - North,England,Warrington Town,0,1,Peterborough Sports,Match Finished
+2023-12-19T19:45:00+00:00,2023,National League - North,England,Banbury United,1,4,Chorley,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - North,England,Bishop's Stortford,3,1,Buxton,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - North,England,Blyth Spartans,1,1,Scunthorpe,Match Finished
+2023-12-05T19:45:00+00:00,2023,National League - North,England,Chester,1,0,Brackley Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,2,Darlington 1883,Match Finished
+2023-12-19T19:45:00+00:00,2023,National League - North,England,Gloucester City,3,0,Curzon Ashton,Match Finished
+2023-12-05T19:45:00+00:00,2023,National League - North,England,Hereford,2,1,Warrington Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - North,England,Peterborough Sports,1,1,King's Lynn Town,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,2,3,Southport,Match Finished
+2024-01-16T19:45:00+00:00,2023,National League - North,England,Scarborough Athletic,3,2,Boston United,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - North,England,South Shields,1,0,Tamworth,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - North,England,Spennymoor Town,2,1,Alfreton Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Banbury United,0,2,Scunthorpe,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Bishop's Stortford,0,4,Alfreton Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Blyth Spartans,3,3,Southport,Match Finished
+2023-12-09T15:00:00+00:00,2023,National League - North,England,Chester,2,0,Tamworth,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Farsley Celtic FC,2,0,Boston United,Match Finished
+2023-11-04T15:00:00+00:00,2023,National League - North,England,Gloucester City,1,3,Warrington Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Hereford,1,0,Brackley Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Peterborough Sports,2,0,Darlington 1883,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Rushall Olympic,1,2,King's Lynn Town,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Scarborough Athletic,1,1,Chorley,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,South Shields,1,0,Buxton,Match Finished
+2023-11-07T19:45:00+00:00,2023,National League - North,England,Spennymoor Town,1,2,Curzon Ashton,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Alfreton Town,1,3,Scarborough Athletic,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Boston United,1,0,Hereford,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Brackley Town,1,1,Blyth Spartans,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Buxton,1,2,Farsley Celtic FC,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Chorley,2,0,Peterborough Sports,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,1,0,Bishop's Stortford,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Darlington 1883,3,2,Chester,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,0,1,Spennymoor Town,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Scunthorpe,2,0,Gloucester City,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Southport,1,0,South Shields,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Tamworth,1,2,Banbury United,Match Finished
+2023-11-11T15:00:00+00:00,2023,National League - North,England,Warrington Town,2,1,Rushall Olympic,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Bishop's Stortford,1,2,Tamworth,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Brackley Town,2,0,Gloucester City,Match Finished
+2024-01-16T19:45:00+00:00,2023,National League - North,England,Chester,0,1,Buxton,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Chorley,8,0,Darlington 1883,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Curzon Ashton,3,1,Blyth Spartans,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Hereford,4,1,Banbury United,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,King's Lynn Town,3,1,Scunthorpe,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Peterborough Sports,0,2,Boston United,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Rushall Olympic,1,1,Alfreton Town,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Southport,1,1,Farsley Celtic FC,Match Finished
+2023-11-14T19:45:00+00:00,2023,National League - North,England,Spennymoor Town,2,5,South Shields,Match Finished
+2023-12-09T15:00:00+00:00,2023,National League - North,England,Warrington Town,4,0,Scarborough Athletic,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Alfreton Town,1,1,Chester,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Banbury United,2,2,Bishop's Stortford,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Blyth Spartans,1,1,Chorley,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Boston United,0,1,Rushall Olympic,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Buxton,2,1,Hereford,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Darlington 1883,1,1,Warrington Town,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Farsley Celtic FC,0,0,Spennymoor Town,Match Finished
+2023-12-12T19:45:00+00:00,2023,National League - North,England,Gloucester City,2,1,Peterborough Sports,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Scarborough Athletic,2,0,King's Lynn Town,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Scunthorpe,1,0,Southport,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,South Shields,0,0,Curzon Ashton,Match Finished
+2023-11-21T19:45:00+00:00,2023,National League - North,England,Tamworth,1,0,Brackley Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Alfreton Town,0,1,Brackley Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Banbury United,0,1,Curzon Ashton,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,3,Peterborough Sports,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Boston United,2,2,Chorley,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Buxton,0,1,Southport,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Darlington 1883,1,1,Rushall Olympic,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,0,0,Hereford,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Gloucester City,4,2,Spennymoor Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Scarborough Athletic,5,0,Bishop's Stortford,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Scunthorpe,1,0,Warrington Town,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,South Shields,0,1,Chester,Match Finished
+2023-11-25T15:00:00+00:00,2023,National League - North,England,Tamworth,3,1,King's Lynn Town,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League - North,England,Bishop's Stortford,2,3,South Shields,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - North,England,Brackley Town,2,1,Boston United,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Chester,3,0,Gloucester City,Match Finished
+2023-12-12T19:45:00+00:00,2023,National League - North,England,Chorley,3,2,Buxton,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - North,England,Curzon Ashton,2,1,Alfreton Town,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - North,England,Hereford,1,5,Scunthorpe,Match Finished
+2023-12-12T19:45:00+00:00,2023,National League - North,England,King's Lynn Town,1,2,Banbury United,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - North,England,Peterborough Sports,1,0,Farsley Celtic FC,Match Finished
+2023-12-02T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,1,3,Blyth Spartans,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League - North,England,Southport,2,0,Darlington 1883,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League - North,England,Spennymoor Town,1,1,Scarborough Athletic,Match Finished
+2024-01-09T19:45:00+00:00,2023,National League - North,England,Warrington Town,0,3,Tamworth,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Alfreton Town,3,0,Blyth Spartans,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Banbury United,1,1,Farsley Celtic FC,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Bishop's Stortford,0,1,Hereford,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Chester,0,0,Boston United,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,2,0,Brackley Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Gloucester City,0,1,Darlington 1883,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,0,0,Warrington Town,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Scarborough Athletic,3,1,Rushall Olympic,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Scunthorpe,3,0,Chorley,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,South Shields,1,2,Peterborough Sports,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Spennymoor Town,2,3,Buxton,Match Finished
+2023-12-16T15:00:00+00:00,2023,National League - North,England,Tamworth,4,0,Southport,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,2,Chester,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Boston United,3,1,Alfreton Town,Match Finished
+2023-12-23T14:00:00+00:00,2023,National League - North,England,Brackley Town,0,1,Scarborough Athletic,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Buxton,0,0,Scunthorpe,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Chorley,4,0,Curzon Ashton,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Darlington 1883,0,2,Bishop's Stortford,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,0,Gloucester City,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Hereford,2,1,Spennymoor Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Peterborough Sports,1,4,Tamworth,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,2,0,South Shields,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Southport,0,4,King's Lynn Town,Match Finished
+2023-12-23T15:00:00+00:00,2023,National League - North,England,Warrington Town,2,1,Banbury United,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,Alfreton Town,2,1,Buxton,Match Finished
+2023-12-26T13:00:00+00:00,2023,National League - North,England,Banbury United,0,1,Brackley Town,Match Finished
+2023-12-26T13:00:00+00:00,2023,National League - North,England,Bishop's Stortford,0,2,Peterborough Sports,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,Chester,2,0,Warrington Town,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,3,2,Southport,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,Gloucester City,2,3,Hereford,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,1,2,Boston United,Match Finished
+2023-12-26T13:00:00+00:00,2023,National League - North,England,Scarborough Athletic,2,0,Darlington 1883,Match Finished
+2023-12-26T13:00:00+00:00,2023,National League - North,England,Scunthorpe,2,0,Farsley Celtic FC,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,South Shields,1,3,Blyth Spartans,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,Spennymoor Town,0,2,Chorley,Match Finished
+2023-12-26T15:00:00+00:00,2023,National League - North,England,Tamworth,2,1,Rushall Olympic,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,1,South Shields,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - North,England,Boston United,2,0,King's Lynn Town,Match Finished
+2024-01-01T13:00:00+00:00,2023,National League - North,England,Brackley Town,3,1,Banbury United,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - North,England,Buxton,1,2,Alfreton Town,Match Finished
+2024-02-13T19:45:00+00:00,2023,National League - North,England,Chorley,2,1,Spennymoor Town,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League - North,England,Darlington 1883,0,1,Scarborough Athletic,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,0,2,Scunthorpe,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - North,England,Hereford,1,1,Gloucester City,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League - North,England,Peterborough Sports,4,2,Bishop's Stortford,Match Finished
+2023-12-30T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,1,2,Tamworth,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - North,England,Southport,0,3,Curzon Ashton,Match Finished
+2024-01-01T15:00:00+00:00,2023,National League - North,England,Warrington Town,1,0,Chester,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Alfreton Town,2,0,Chorley,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - North,England,Banbury United,0,3,Peterborough Sports,Match Finished
+2024-01-06T13:00:00+00:00,2023,National League - North,England,Bishop's Stortford,1,3,Blyth Spartans,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Chester,0,1,Rushall Olympic,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,0,0,Farsley Celtic FC,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Gloucester City,2,2,Southport,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,0,1,Darlington 1883,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Scarborough Athletic,3,0,Hereford,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Scunthorpe,2,2,Boston United,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,South Shields,1,1,Warrington Town,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Spennymoor Town,0,1,Brackley Town,Match Finished
+2024-01-06T15:00:00+00:00,2023,National League - North,England,Tamworth,2,0,Buxton,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,2,Banbury United,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Boston United,1,1,Curzon Ashton,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Brackley Town,2,0,Scunthorpe,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Buxton,2,2,King's Lynn Town,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - North,England,Chorley,3,1,Gloucester City,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Darlington 1883,0,1,Tamworth,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,2,0,Scarborough Athletic,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League - North,England,Hereford,0,3,South Shields,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - North,England,Peterborough Sports,1,1,Chester,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,4,3,Spennymoor Town,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League - North,England,Southport,4,1,Bishop's Stortford,Match Finished
+2024-01-13T15:00:00+00:00,2023,National League - North,England,Warrington Town,2,2,Alfreton Town,Match Finished
+2024-02-13T19:45:00+00:00,2023,National League - North,England,Alfreton Town,1,0,South Shields,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - North,England,Boston United,2,3,Buxton,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - North,England,Brackley Town,1,0,Chorley,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - North,England,Chester,2,0,Bishop's Stortford,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - North,England,Curzon Ashton,1,3,Darlington 1883,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,4,Rushall Olympic,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - North,England,Gloucester City,0,1,Blyth Spartans,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - North,England,Hereford,2,2,King's Lynn Town,Match Finished
+2024-01-20T15:00:00+00:00,2023,National League - North,England,Scarborough Athletic,1,1,Peterborough Sports,Match Finished
+2024-01-30T19:45:00+00:00,2023,National League - North,England,Scunthorpe,0,1,Tamworth,Match Finished
+2024-04-11T18:45:00+00:00,2023,National League - North,England,Spennymoor Town,5,2,Banbury United,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - North,England,Warrington Town,0,3,Southport,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Banbury United,1,2,Gloucester City,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Bishop's Stortford,1,2,Brackley Town,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Blyth Spartans,0,1,Scarborough Athletic,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Buxton,0,6,Warrington Town,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Chorley,0,2,Chester,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - North,England,Darlington 1883,4,0,Scunthorpe,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,King's Lynn Town,0,4,Curzon Ashton,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Peterborough Sports,1,1,Alfreton Town,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Rushall Olympic,0,1,Hereford,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,South Shields,2,1,Farsley Celtic FC,Match Finished
+2024-02-06T19:45:00+00:00,2023,National League - North,England,Southport,1,2,Spennymoor Town,Match Finished
+2024-01-23T19:45:00+00:00,2023,National League - North,England,Tamworth,0,0,Boston United,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Banbury United,1,0,Scarborough Athletic,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Bishop's Stortford,1,4,Gloucester City,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,1,2,Warrington Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Buxton,0,0,Brackley Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Chorley,1,1,Farsley Celtic FC,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Darlington 1883,2,0,Hereford,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,0,0,Chester,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Peterborough Sports,0,1,Scunthorpe,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,2,2,Curzon Ashton,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,South Shields,1,2,Boston United,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Southport,2,3,Alfreton Town,Match Finished
+2024-01-27T15:00:00+00:00,2023,National League - North,England,Tamworth,2,0,Spennymoor Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Alfreton Town,0,0,Tamworth,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Boston United,3,0,Southport,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Brackley Town,1,0,Darlington 1883,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Chester,1,1,Banbury United,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,0,3,Buxton,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,3,1,Bishop's Stortford,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Gloucester City,1,2,King's Lynn Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Hereford,5,2,Blyth Spartans,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Scarborough Athletic,1,1,South Shields,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Scunthorpe,2,0,Rushall Olympic,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Spennymoor Town,0,0,Peterborough Sports,Match Finished
+2024-02-03T15:00:00+00:00,2023,National League - North,England,Warrington Town,2,1,Chorley,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - North,England,Banbury United,1,2,Rushall Olympic,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - North,England,Bishop's Stortford,0,1,Spennymoor Town,Match Finished
+2024-03-19T19:45:00+00:00,2023,National League - North,England,Blyth Spartans,3,2,Buxton,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - North,England,Chester,3,0,Scarborough Athletic,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - North,England,Darlington 1883,0,2,Alfreton Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - North,England,Gloucester City,0,5,South Shields,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - North,England,King's Lynn Town,1,0,Chorley,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - North,England,Peterborough Sports,1,4,Hereford,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - North,England,Scunthorpe,0,1,Curzon Ashton,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - North,England,Southport,3,1,Brackley Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - North,England,Tamworth,1,0,Farsley Celtic FC,Match Finished
+2024-02-10T15:00:00+00:00,2023,National League - North,England,Warrington Town,0,0,Boston United,Match Finished
+2024-02-27T19:45:00+00:00,2023,National League - North,England,Alfreton Town,1,1,King's Lynn Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Boston United,3,0,Bishop's Stortford,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Brackley Town,3,1,Peterborough Sports,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Buxton,3,1,Banbury United,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Chorley,3,0,Southport,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,0,3,Warrington Town,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,2,Chester,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Hereford,0,0,Tamworth,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,3,3,Gloucester City,Match Finished
+2024-02-17T13:00:00+00:00,2023,National League - North,England,Scarborough Athletic,0,0,Scunthorpe,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,South Shields,0,4,Darlington 1883,Match Finished
+2024-02-17T15:00:00+00:00,2023,National League - North,England,Spennymoor Town,2,0,Blyth Spartans,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Alfreton Town,2,0,Banbury United,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Boston United,2,0,Darlington 1883,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Brackley Town,1,3,King's Lynn Town,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Buxton,2,0,Gloucester City,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Chorley,1,0,Tamworth,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Curzon Ashton,1,2,Peterborough Sports,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,0,Blyth Spartans,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Hereford,1,1,Chester,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - North,England,Rushall Olympic,4,0,Bishop's Stortford,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Scarborough Athletic,0,1,Southport,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,South Shields,2,1,Scunthorpe,Match Finished
+2024-02-20T19:45:00+00:00,2023,National League - North,England,Spennymoor Town,2,0,Warrington Town,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League - North,England,Banbury United,0,3,South Shields,Match Finished
+2024-03-05T19:45:00+00:00,2023,National League - North,England,Bishop's Stortford,1,4,Chorley,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,2,Boston United,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Chester,1,1,Spennymoor Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Darlington 1883,2,1,Buxton,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Gloucester City,1,0,Scarborough Athletic,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,0,0,Farsley Celtic FC,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Peterborough Sports,4,0,Rushall Olympic,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Scunthorpe,1,0,Alfreton Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Southport,1,2,Hereford,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Tamworth,0,0,Curzon Ashton,Match Finished
+2024-02-24T15:00:00+00:00,2023,National League - North,England,Warrington Town,2,2,Brackley Town,Match Finished
+2024-04-09T18:45:00+00:00,2023,National League - North,England,Alfreton Town,3,0,Gloucester City,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Boston United,1,2,Spennymoor Town,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Brackley Town,0,0,Farsley Celtic FC,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Buxton,0,0,Scarborough Athletic,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Chorley,2,1,Rushall Olympic,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,1,0,Hereford,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Darlington 1883,3,1,Banbury United,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,3,1,South Shields,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Scunthorpe,2,2,Chester,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Southport,0,0,Peterborough Sports,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Tamworth,3,1,Blyth Spartans,Match Finished
+2024-03-02T15:00:00+00:00,2023,National League - North,England,Warrington Town,2,1,Bishop's Stortford,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Banbury United,0,1,Southport,Match Finished
+2024-03-09T15:15:00+00:00,2023,National League - North,England,Bishop's Stortford,0,5,Scunthorpe,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,0,1,King's Lynn Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Chester,0,0,Curzon Ashton,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,2,3,Alfreton Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Gloucester City,3,7,Boston United,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Hereford,0,1,Chorley,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League - North,England,Peterborough Sports,1,3,Warrington Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,0,3,Buxton,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,Scarborough Athletic,0,1,Tamworth,Match Finished
+2024-03-09T15:00:00+00:00,2023,National League - North,England,South Shields,0,1,Brackley Town,Match Finished
+2024-03-09T13:00:00+00:00,2023,National League - North,England,Spennymoor Town,2,1,Darlington 1883,Match Finished
+2024-04-16T18:45:00+00:00,2023,National League - North,England,Banbury United,0,1,Boston United,Match Finished
+2024-03-19T19:45:00+00:00,2023,National League - North,England,Bishop's Stortford,0,2,King's Lynn Town,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Blyth Spartans,1,2,Darlington 1883,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Chester,0,1,Southport,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Farsley Celtic FC,0,2,Warrington Town,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Gloucester City,1,2,Tamworth,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Hereford,3,3,Alfreton Town,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Peterborough Sports,1,3,Buxton,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Rushall Olympic,0,2,Brackley Town,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,Scarborough Athletic,0,2,Curzon Ashton,Match Finished
+2024-03-12T19:45:00+00:00,2023,National League - North,England,South Shields,2,1,Chorley,Match Finished
+2024-03-26T19:45:00+00:00,2023,National League - North,England,Spennymoor Town,1,0,Scunthorpe,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Alfreton Town,3,0,Bishop's Stortford,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Boston United,3,0,Farsley Celtic FC,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Brackley Town,2,0,Hereford,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Buxton,0,2,South Shields,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Chorley,3,0,Scarborough Athletic,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,0,3,Spennymoor Town,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Darlington 1883,1,0,Peterborough Sports,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,King's Lynn Town,2,1,Rushall Olympic,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Scunthorpe,2,0,Banbury United,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Southport,2,3,Blyth Spartans,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Tamworth,0,0,Chester,Match Finished
+2024-03-16T15:00:00+00:00,2023,National League - North,England,Warrington Town,1,2,Gloucester City,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Bishop's Stortford,0,2,Scarborough Athletic,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Brackley Town,1,0,Alfreton Town,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Chester,0,1,South Shields,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Chorley,0,3,Boston United,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Curzon Ashton,4,1,Banbury United,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Hereford,4,1,Farsley Celtic FC,Match Finished
+2024-03-23T12:30:00+00:00,2023,National League - North,England,King's Lynn Town,1,1,Tamworth,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Peterborough Sports,2,2,Blyth Spartans,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Rushall Olympic,3,2,Darlington 1883,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Southport,2,2,Buxton,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Spennymoor Town,3,0,Gloucester City,Match Finished
+2024-03-23T15:00:00+00:00,2023,National League - North,England,Warrington Town,0,2,Scunthorpe,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Alfreton Town,1,0,Rushall Olympic,Match Finished
+2024-04-03T18:45:00+00:00,2023,National League - North,England,Banbury United,1,2,Hereford,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Blyth Spartans,2,3,Curzon Ashton,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Boston United,2,1,Peterborough Sports,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Buxton,1,4,Chester,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Darlington 1883,0,3,Chorley,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,0,0,Southport,Match Finished
+2024-03-29T13:00:00+00:00,2023,National League - North,England,Gloucester City,1,1,Brackley Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Scarborough Athletic,2,2,Warrington Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Scunthorpe,0,0,King's Lynn Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,South Shields,2,0,Spennymoor Town,Match Finished
+2024-03-29T15:00:00+00:00,2023,National League - North,England,Tamworth,3,0,Bishop's Stortford,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,3,1,Banbury United,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Brackley Town,3,0,Tamworth,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Chester,0,2,Alfreton Town,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Chorley,2,0,Blyth Spartans,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,2,0,South Shields,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Hereford,2,2,Buxton,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,3,4,Scarborough Athletic,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,1,0,Gloucester City,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,1,0,Boston United,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Southport,0,1,Scunthorpe,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Spennymoor Town,3,1,Farsley Celtic FC,Match Finished
+2024-04-01T14:00:00+00:00,2023,National League - North,England,Warrington Town,1,3,Darlington 1883,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Alfreton Town,0,0,Curzon Ashton,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Banbury United,1,1,King's Lynn Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Blyth Spartans,1,2,Rushall Olympic,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Boston United,1,2,Brackley Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Buxton,3,1,Chorley,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Darlington 1883,2,0,Southport,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,1,0,Peterborough Sports,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Gloucester City,1,6,Chester,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,1,1,Spennymoor Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Scunthorpe,4,1,Hereford,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,South Shields,7,0,Bishop's Stortford,Match Finished
+2024-04-06T14:00:00+00:00,2023,National League - North,England,Tamworth,1,1,Warrington Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Alfreton Town,2,1,Spennymoor Town,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Boston United,0,0,Scarborough Athletic,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Brackley Town,3,1,Chester,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Buxton,2,0,Bishop's Stortford,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Chorley,3,0,Banbury United,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Curzon Ashton,4,1,Gloucester City,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Darlington 1883,3,1,Farsley Celtic FC,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,King's Lynn Town,0,1,Peterborough Sports,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Scunthorpe,5,1,Blyth Spartans,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Southport,3,0,Rushall Olympic,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Tamworth,3,2,South Shields,Match Finished
+2024-04-13T14:00:00+00:00,2023,National League - North,England,Warrington Town,1,2,Hereford,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Banbury United,0,3,Tamworth,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Bishop's Stortford,0,0,Curzon Ashton,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Blyth Spartans,1,5,Brackley Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Chester,0,0,Darlington 1883,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Farsley Celtic FC,2,0,Buxton,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Gloucester City,1,2,Scunthorpe,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Hereford,0,2,Boston United,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Peterborough Sports,1,3,Chorley,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Rushall Olympic,0,0,Warrington Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Scarborough Athletic,0,1,Alfreton Town,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,South Shields,3,0,Southport,Match Finished
+2024-04-20T14:00:00+00:00,2023,National League - North,England,Spennymoor Town,3,0,King's Lynn Town,Match Finished

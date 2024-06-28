@@ -1,0 +1,283 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-14T15:45:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,2,Beroe,Match Finished
+2023-07-15T18:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,3,3,Cherno More Varna,Match Finished
+2023-07-15T15:45:00+00:00,2023,First League,Bulgaria,Levski Sofia,1,2,CSKA 1948,Match Finished
+2023-07-14T18:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,3,1,Ludogorets,Match Finished
+2023-07-16T15:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,1,1,Botev Plovdiv,Match Finished
+2023-07-16T18:00:00+00:00,2023,First League,Bulgaria,Hebar 1918,0,0,CSKA Sofia,Match Finished
+2023-07-17T15:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,1,0,Botev Vratsa,Match Finished
+2023-07-17T17:45:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,0,1,Slavia Sofia,Match Finished
+2023-07-21T16:00:00+00:00,2023,First League,Bulgaria,CSKA 1948,3,0,Pirin Blagoevgrad,Match Finished
+2023-07-21T18:15:00+00:00,2023,First League,Bulgaria,CSKA Sofia,1,0,Levski Krumovgrad,Match Finished
+2023-07-22T16:15:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,1,3,Levski Sofia,Match Finished
+2023-07-22T18:30:00+00:00,2023,First League,Bulgaria,Ludogorets,5,0,Etar Veliko Tarnovo,Match Finished
+2023-07-23T16:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,1,0,Hebar 1918,Match Finished
+2023-07-23T18:15:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,2,4,Lokomotiv Plovdiv,Match Finished
+2023-07-24T16:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,2,0,Slavia Sofia,Match Finished
+2023-07-24T18:15:00+00:00,2023,First League,Bulgaria,Beroe,1,0,Arda Kardzhali,Match Finished
+2023-07-31T18:15:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,4,0,Botev Vratsa,Match Finished
+2023-07-30T18:15:00+00:00,2023,First League,Bulgaria,Levski Sofia,6,0,Lokomotiv Sofia,Match Finished
+2023-07-29T18:15:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,0,0,Botev Plovdiv,Match Finished
+2023-11-27T10:45:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,0,3,CSKA 1948,Match Finished
+2023-07-29T16:00:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,0,Beroe,Match Finished
+2023-07-28T18:15:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,1,3,Cherno More Varna,Match Finished
+2023-11-01T15:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,0,1,CSKA Sofia,Match Finished
+2023-11-02T16:00:00+00:00,2023,First League,Bulgaria,Slavia Sofia,0,2,Ludogorets,Match Finished
+2023-08-05T16:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,0,5,Ludogorets,Match Finished
+2023-08-06T15:45:00+00:00,2023,First League,Bulgaria,CSKA Sofia,1,1,Slavia Sofia,Match Finished
+2023-08-04T16:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,2,1,Etar Veliko Tarnovo,Match Finished
+2023-08-07T18:15:00+00:00,2023,First League,Bulgaria,Beroe,2,0,Levski Krumovgrad,Match Finished
+2023-08-07T16:00:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,1,Hebar 1918,Match Finished
+2023-08-04T18:15:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,0,2,Arda Kardzhali,Match Finished
+2023-08-05T18:15:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,2,0,Pirin Blagoevgrad,Match Finished
+2023-08-06T18:15:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,2,1,Levski Sofia,Match Finished
+2023-08-13T15:45:00+00:00,2023,First League,Bulgaria,Levski Sofia,1,0,Botev Vratsa,Match Finished
+2023-08-11T18:15:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,0,1,Lokomotiv Plovdiv,Match Finished
+2023-08-11T16:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,1,0,Lokomotiv Sofia,Match Finished
+2023-08-12T16:00:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,0,Botev Plovdiv,Match Finished
+2023-08-14T18:15:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,1,0,CSKA 1948,Match Finished
+2023-08-14T16:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,2,2,Beroe,Match Finished
+2023-08-12T18:15:00+00:00,2023,First League,Bulgaria,Slavia Sofia,1,5,Cherno More Varna,Match Finished
+2023-08-13T18:15:00+00:00,2023,First League,Bulgaria,Ludogorets,3,0,CSKA Sofia,Match Finished
+2023-08-19T18:15:00+00:00,2023,First League,Bulgaria,Botev Vratsa,0,2,CSKA Sofia,Match Finished
+2023-08-20T18:15:00+00:00,2023,First League,Bulgaria,Cherno More Varna,1,0,Ludogorets,Match Finished
+2023-08-19T16:00:00+00:00,2023,First League,Bulgaria,Beroe,3,0,Slavia Sofia,Match Finished
+2023-08-21T17:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,0,Etar Veliko Tarnovo,Match Finished
+2023-08-20T16:00:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,1,2,Levski Krumovgrad,Match Finished
+2023-08-18T16:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,0,1,Hebar 1918,Match Finished
+2023-08-18T18:15:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,1,0,Arda Kardzhali,Match Finished
+2023-09-14T17:30:00+00:00,2023,First League,Bulgaria,Levski Sofia,2,0,Pirin Blagoevgrad,Match Finished
+2023-08-25T16:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,0,1,Botev Vratsa,Match Finished
+2023-11-01T17:30:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,0,0,Levski Sofia,Match Finished
+2023-08-25T18:15:00+00:00,2023,First League,Bulgaria,Hebar 1918,3,4,Lokomotiv Plovdiv,Match Finished
+2023-08-26T16:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,2,0,Lokomotiv Sofia,Match Finished
+2023-08-27T16:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,1,2,Botev Plovdiv,Match Finished
+2023-08-28T17:30:00+00:00,2023,First League,Bulgaria,Slavia Sofia,0,2,CSKA 1948,Match Finished
+2023-08-27T18:15:00+00:00,2023,First League,Bulgaria,Ludogorets,5,0,Beroe,Match Finished
+2023-08-26T18:15:00+00:00,2023,First League,Bulgaria,CSKA Sofia,1,1,Cherno More Varna,Match Finished
+2023-09-01T16:15:00+00:00,2023,First League,Bulgaria,Botev Vratsa,0,1,Cherno More Varna,Match Finished
+2023-09-02T18:15:00+00:00,2023,First League,Bulgaria,Beroe,0,3,CSKA Sofia,Match Finished
+2024-04-11T15:45:00+00:00,2023,First League,Bulgaria,CSKA 1948,0,1,Ludogorets,Match Finished
+2023-09-01T18:30:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,3,1,Slavia Sofia,Match Finished
+2023-09-02T16:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,1,3,Etar Veliko Tarnovo,Match Finished
+2023-09-03T16:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,4,0,Levski Krumovgrad,Match Finished
+2023-09-03T18:15:00+00:00,2023,First League,Bulgaria,Levski Sofia,1,0,Hebar 1918,Match Finished
+2023-09-01T14:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,0,2,Arda Kardzhali,Match Finished
+2023-09-15T14:30:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,4,0,Botev Vratsa,Match Finished
+2023-09-18T14:30:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,2,Pirin Blagoevgrad,Match Finished
+2023-09-18T17:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,2,2,Levski Sofia,Match Finished
+2023-09-17T14:45:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,0,1,Lokomotiv Plovdiv,Match Finished
+2023-09-16T14:30:00+00:00,2023,First League,Bulgaria,Slavia Sofia,1,2,Lokomotiv Sofia,Match Finished
+2023-09-16T17:00:00+00:00,2023,First League,Bulgaria,Ludogorets,2,2,Botev Plovdiv,Match Finished
+2023-09-17T17:15:00+00:00,2023,First League,Bulgaria,CSKA Sofia,2,0,CSKA 1948,Match Finished
+2023-09-15T17:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,2,0,Beroe,Match Finished
+2023-09-22T12:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,1,0,Beroe,Match Finished
+2023-09-22T14:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,1,Cherno More Varna,Match Finished
+2023-09-22T17:00:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,1,2,CSKA Sofia,Match Finished
+2023-09-24T17:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,1,3,Ludogorets,Match Finished
+2023-09-23T14:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,2,0,Slavia Sofia,Match Finished
+2023-09-23T17:00:00+00:00,2023,First League,Bulgaria,Levski Sofia,1,0,Etar Veliko Tarnovo,Match Finished
+2023-09-24T15:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,0,Levski Krumovgrad,Match Finished
+2023-09-23T12:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,3,1,Hebar 1918,Match Finished
+2023-09-27T12:30:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,1,Botev Vratsa,Match Finished
+2023-09-28T15:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,1,3,Arda Kardzhali,Match Finished
+2023-09-28T12:30:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,0,2,Pirin Blagoevgrad,Match Finished
+2023-09-27T15:00:00+00:00,2023,First League,Bulgaria,Slavia Sofia,0,2,Levski Sofia,Match Finished
+2023-09-27T17:30:00+00:00,2023,First League,Bulgaria,Ludogorets,1,1,Lokomotiv Plovdiv,Match Finished
+2023-09-28T17:30:00+00:00,2023,First League,Bulgaria,CSKA Sofia,2,0,Lokomotiv Sofia,Match Finished
+2023-09-26T16:30:00+00:00,2023,First League,Bulgaria,Cherno More Varna,1,0,Botev Plovdiv,Match Finished
+2023-09-26T14:00:00+00:00,2023,First League,Bulgaria,Beroe,0,0,CSKA 1948,Match Finished
+2023-09-30T14:30:00+00:00,2023,First League,Bulgaria,Botev Vratsa,1,2,CSKA 1948,Match Finished
+2023-09-30T17:00:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,4,1,Beroe,Match Finished
+2023-10-01T14:45:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,0,0,Cherno More Varna,Match Finished
+2023-10-02T17:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,0,2,CSKA Sofia,Match Finished
+2023-10-01T17:30:00+00:00,2023,First League,Bulgaria,Levski Sofia,0,1,Ludogorets,Match Finished
+2023-10-02T14:30:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,1,Slavia Sofia,Match Finished
+2023-10-01T12:15:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,3,0,Etar Veliko Tarnovo,Match Finished
+2023-10-02T12:00:00+00:00,2023,First League,Bulgaria,Hebar 1918,0,0,Levski Krumovgrad,Match Finished
+2023-10-06T14:30:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,1,0,Botev Vratsa,Match Finished
+2023-10-08T12:15:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,2,5,Hebar 1918,Match Finished
+2023-10-07T14:45:00+00:00,2023,First League,Bulgaria,Slavia Sofia,1,0,Arda Kardzhali,Match Finished
+2023-10-08T17:15:00+00:00,2023,First League,Bulgaria,Ludogorets,4,0,Pirin Blagoevgrad,Match Finished
+2023-10-07T11:45:00+00:00,2023,First League,Bulgaria,CSKA Sofia,1,1,Levski Sofia,Match Finished
+2023-10-07T17:15:00+00:00,2023,First League,Bulgaria,Cherno More Varna,2,2,Lokomotiv Plovdiv,Match Finished
+2023-10-06T17:00:00+00:00,2023,First League,Bulgaria,Beroe,0,1,Lokomotiv Sofia,Match Finished
+2023-10-08T14:45:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,0,Botev Plovdiv,Match Finished
+2023-10-21T11:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,3,5,Botev Plovdiv,Match Finished
+2023-10-21T13:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,0,0,CSKA 1948,Match Finished
+2023-10-20T16:15:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,1,2,Beroe,Match Finished
+2023-10-22T13:30:00+00:00,2023,First League,Bulgaria,Levski Sofia,1,0,Cherno More Varna,Match Finished
+2023-10-21T16:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,2,CSKA Sofia,Match Finished
+2023-10-22T16:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,0,0,Ludogorets,Match Finished
+2023-10-22T11:00:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,0,Slavia Sofia,Match Finished
+2023-10-20T13:45:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,0,0,Etar Veliko Tarnovo,Match Finished
+2023-10-25T14:30:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,2,1,Botev Vratsa,Match Finished
+2023-10-27T11:00:00+00:00,2023,First League,Bulgaria,Slavia Sofia,2,0,Levski Krumovgrad,Match Finished
+2023-10-29T16:15:00+00:00,2023,First League,Bulgaria,Ludogorets,3,1,Hebar 1918,Match Finished
+2023-10-27T13:30:00+00:00,2023,First League,Bulgaria,CSKA Sofia,0,0,Arda Kardzhali,Match Finished
+2023-10-26T12:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,2,1,Pirin Blagoevgrad,Match Finished
+2023-10-27T16:00:00+00:00,2023,First League,Bulgaria,Beroe,2,1,Levski Sofia,Match Finished
+2023-10-26T14:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,1,Lokomotiv Plovdiv,Match Finished
+2023-10-26T09:30:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,6,0,Lokomotiv Sofia,Match Finished
+2023-11-06T11:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,0,2,Lokomotiv Sofia,Match Finished
+2023-11-03T17:30:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,0,0,Lokomotiv Plovdiv,Match Finished
+2023-11-07T15:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,0,Levski Sofia,Match Finished
+2023-11-03T15:00:00+00:00,2023,First League,Bulgaria,Beroe,0,0,Pirin Blagoevgrad,Match Finished
+2023-11-07T13:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,1,0,Arda Kardzhali,Match Finished
+2023-11-06T16:00:00+00:00,2023,First League,Bulgaria,CSKA Sofia,3,0,Hebar 1918,Match Finished
+2023-11-05T13:30:00+00:00,2023,First League,Bulgaria,Ludogorets,1,0,Levski Krumovgrad,Match Finished
+2023-11-06T13:30:00+00:00,2023,First League,Bulgaria,Slavia Sofia,1,0,Etar Veliko Tarnovo,Match Finished
+2023-11-10T13:00:00+00:00,2023,First League,Bulgaria,Slavia Sofia,1,0,Botev Vratsa,Match Finished
+2023-11-12T16:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,0,4,Ludogorets,Match Finished
+2023-11-12T11:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,1,4,CSKA Sofia,Match Finished
+2023-11-11T10:45:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,1,Cherno More Varna,Match Finished
+2023-11-11T15:45:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,1,0,Beroe,Match Finished
+2023-11-11T13:15:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,2,1,CSKA 1948,Match Finished
+2023-11-12T13:30:00+00:00,2023,First League,Bulgaria,Levski Sofia,1,1,Botev Plovdiv,Match Finished
+2023-11-10T15:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,2,1,Lokomotiv Sofia,Match Finished
+2023-11-25T10:30:00+00:00,2023,First League,Bulgaria,Botev Vratsa,2,0,Lokomotiv Plovdiv,Match Finished
+2023-11-27T15:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,2,2,Levski Sofia,Match Finished
+2023-11-25T13:00:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,3,1,Pirin Blagoevgrad,Match Finished
+2023-12-14T15:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,0,Arda Kardzhali,Match Finished
+2023-11-24T15:30:00+00:00,2023,First League,Bulgaria,Beroe,2,1,Hebar 1918,Match Finished
+2023-11-26T15:45:00+00:00,2023,First League,Bulgaria,Cherno More Varna,3,2,Levski Krumovgrad,Match Finished
+2023-11-26T15:30:00+00:00,2023,First League,Bulgaria,CSKA Sofia,2,0,Etar Veliko Tarnovo,Match Finished
+2023-11-27T13:15:00+00:00,2023,First League,Bulgaria,Ludogorets,2,3,Slavia Sofia,Match Finished
+2023-12-03T13:15:00+00:00,2023,First League,Bulgaria,Ludogorets,5,0,Botev Vratsa,Match Finished
+2023-12-01T15:30:00+00:00,2023,First League,Bulgaria,Slavia Sofia,1,1,CSKA Sofia,Match Finished
+2023-12-02T13:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,1,2,Cherno More Varna,Match Finished
+2023-12-03T15:45:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,1,0,Beroe,Match Finished
+2023-12-02T10:30:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,3,CSKA 1948,Match Finished
+2023-12-01T13:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,0,2,Botev Plovdiv,Match Finished
+2023-12-03T10:45:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,1,Lokomotiv Sofia,Match Finished
+2023-12-02T15:30:00+00:00,2023,First League,Bulgaria,Levski Sofia,3,0,Lokomotiv Plovdiv,Match Finished
+2023-12-09T15:30:00+00:00,2023,First League,Bulgaria,Botev Vratsa,0,1,Levski Sofia,Match Finished
+2023-12-11T13:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,3,0,Pirin Blagoevgrad,Match Finished
+2023-12-09T10:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,0,1,Arda Kardzhali,Match Finished
+2023-12-10T13:00:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,1,0,Hebar 1918,Match Finished
+2023-12-10T10:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,0,3,Levski Krumovgrad,Match Finished
+2023-12-11T15:30:00+00:00,2023,First League,Bulgaria,Beroe,0,0,Etar Veliko Tarnovo,Match Finished
+2023-12-09T13:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,3,0,Slavia Sofia,Match Finished
+2023-12-10T15:45:00+00:00,2023,First League,Bulgaria,CSKA Sofia,0,1,Ludogorets,Match Finished
+2024-02-18T15:45:00+00:00,2023,First League,Bulgaria,CSKA Sofia,3,0,Botev Vratsa,Match Finished
+2024-02-19T14:00:00+00:00,2023,First League,Bulgaria,Ludogorets,3,1,Cherno More Varna,Match Finished
+2024-02-17T12:30:00+00:00,2023,First League,Bulgaria,Slavia Sofia,3,0,Beroe,Match Finished
+2024-02-18T10:45:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,1,1,CSKA 1948,Match Finished
+2024-02-17T10:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,2,1,Botev Plovdiv,Match Finished
+2024-02-16T15:30:00+00:00,2023,First League,Bulgaria,Hebar 1918,0,1,Lokomotiv Sofia,Match Finished
+2024-02-18T13:15:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,1,2,Lokomotiv Plovdiv,Match Finished
+2024-02-17T15:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,2,Levski Sofia,Match Finished
+2024-02-23T13:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,1,2,Pirin Blagoevgrad,Match Finished
+2024-02-24T15:45:00+00:00,2023,First League,Bulgaria,Levski Sofia,4,0,Arda Kardzhali,Match Finished
+2024-02-24T10:45:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,1,2,Hebar 1918,Match Finished
+2024-02-25T12:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,0,2,Levski Krumovgrad,Match Finished
+2024-02-23T15:30:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,2,0,Etar Veliko Tarnovo,Match Finished
+2024-02-25T14:45:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,1,Slavia Sofia,Match Finished
+2024-02-26T15:30:00+00:00,2023,First League,Bulgaria,Beroe,0,2,Ludogorets,Match Finished
+2024-02-24T13:15:00+00:00,2023,First League,Bulgaria,Cherno More Varna,1,0,CSKA Sofia,Match Finished
+2024-03-01T15:30:00+00:00,2023,First League,Bulgaria,Cherno More Varna,2,1,Botev Vratsa,Match Finished
+2024-03-03T12:30:00+00:00,2023,First League,Bulgaria,CSKA Sofia,3,0,Beroe,Match Finished
+2024-03-03T15:00:00+00:00,2023,First League,Bulgaria,Ludogorets,2,0,CSKA 1948,Match Finished
+2024-03-02T15:45:00+00:00,2023,First League,Bulgaria,Slavia Sofia,2,2,Botev Plovdiv,Match Finished
+2024-03-02T10:45:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,1,2,Lokomotiv Sofia,Match Finished
+2024-03-02T13:15:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,3,1,Lokomotiv Plovdiv,Match Finished
+2024-03-04T15:30:00+00:00,2023,First League,Bulgaria,Hebar 1918,0,1,Levski Sofia,Match Finished
+2024-03-04T13:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,0,0,Pirin Blagoevgrad,Match Finished
+2024-03-10T10:45:00+00:00,2023,First League,Bulgaria,Botev Vratsa,1,2,Arda Kardzhali,Match Finished
+2024-03-11T15:30:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,1,Hebar 1918,Match Finished
+2024-03-10T13:15:00+00:00,2023,First League,Bulgaria,Levski Sofia,0,0,Levski Krumovgrad,Match Finished
+2024-03-08T16:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,3,0,Etar Veliko Tarnovo,Match Finished
+2024-03-09T10:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,1,2,Slavia Sofia,Match Finished
+2024-03-10T15:45:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,0,2,Ludogorets,Match Finished
+2024-03-09T13:00:00+00:00,2023,First League,Bulgaria,CSKA 1948,1,2,CSKA Sofia,Match Finished
+2024-03-09T15:30:00+00:00,2023,First League,Bulgaria,Beroe,2,0,Cherno More Varna,Match Finished
+2024-03-15T14:15:00+00:00,2023,First League,Bulgaria,Beroe,2,2,Botev Vratsa,Match Finished
+2024-03-15T16:45:00+00:00,2023,First League,Bulgaria,Cherno More Varna,2,1,CSKA 1948,Match Finished
+2024-03-17T15:45:00+00:00,2023,First League,Bulgaria,CSKA Sofia,4,0,Botev Plovdiv,Match Finished
+2024-03-16T15:45:00+00:00,2023,First League,Bulgaria,Ludogorets,6,0,Lokomotiv Sofia,Match Finished
+2024-03-16T10:45:00+00:00,2023,First League,Bulgaria,Slavia Sofia,1,2,Lokomotiv Plovdiv,Match Finished
+2024-03-16T13:15:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,0,3,Levski Sofia,Match Finished
+2024-03-17T10:45:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,2,2,Pirin Blagoevgrad,Match Finished
+2024-03-17T13:15:00+00:00,2023,First League,Bulgaria,Hebar 1918,1,0,Arda Kardzhali,Match Finished
+2024-03-30T12:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,3,2,Hebar 1918,Match Finished
+2024-03-29T14:30:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,1,1,Levski Krumovgrad,Match Finished
+2024-03-29T12:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,2,1,Etar Veliko Tarnovo,Match Finished
+2024-03-29T17:00:00+00:00,2023,First League,Bulgaria,Levski Sofia,2,0,Slavia Sofia,Match Finished
+2024-03-30T14:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,1,2,Ludogorets,Match Finished
+2024-03-30T17:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,0,1,CSKA Sofia,Match Finished
+2024-03-31T13:30:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,0,0,Cherno More Varna,Match Finished
+2024-03-31T16:00:00+00:00,2023,First League,Bulgaria,CSKA 1948,0,1,Beroe,Match Finished
+2024-04-04T11:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,0,0,Botev Vratsa,Match Finished
+2024-04-04T14:00:00+00:00,2023,First League,Bulgaria,Beroe,0,3,Botev Plovdiv,Match Finished
+2024-04-04T16:30:00+00:00,2023,First League,Bulgaria,Cherno More Varna,3,0,Lokomotiv Sofia,Match Finished
+2024-04-03T14:00:00+00:00,2023,First League,Bulgaria,CSKA Sofia,1,2,Lokomotiv Plovdiv,Match Finished
+2024-04-03T16:30:00+00:00,2023,First League,Bulgaria,Ludogorets,5,1,Levski Sofia,Match Finished
+2024-04-02T16:30:00+00:00,2023,First League,Bulgaria,Slavia Sofia,0,0,Pirin Blagoevgrad,Match Finished
+2024-04-02T14:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,2,1,Arda Kardzhali,Match Finished
+2024-04-03T11:30:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,3,2,Hebar 1918,Match Finished
+2024-04-08T14:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,0,0,Levski Krumovgrad,Match Finished
+2024-04-06T14:45:00+00:00,2023,First League,Bulgaria,Hebar 1918,3,0,Etar Veliko Tarnovo,Match Finished
+2024-04-06T17:15:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,2,1,Slavia Sofia,Match Finished
+2024-04-07T17:15:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,0,2,Ludogorets,Match Finished
+2024-04-07T11:45:00+00:00,2023,First League,Bulgaria,Levski Sofia,0,2,CSKA Sofia,Match Finished
+2024-04-08T16:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,1,0,Cherno More Varna,Match Finished
+2024-04-09T15:30:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,1,0,Beroe,Match Finished
+2024-04-07T14:45:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,0,0,CSKA 1948,Match Finished
+2024-04-12T14:45:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,2,0,Botev Vratsa,Match Finished
+2024-04-15T14:30:00+00:00,2023,First League,Bulgaria,CSKA 1948,2,1,Lokomotiv Sofia,Match Finished
+2024-04-14T16:30:00+00:00,2023,First League,Bulgaria,Beroe,2,2,Lokomotiv Plovdiv,Match Finished
+2024-04-13T17:15:00+00:00,2023,First League,Bulgaria,Cherno More Varna,3,1,Levski Sofia,Match Finished
+2024-04-12T17:15:00+00:00,2023,First League,Bulgaria,CSKA Sofia,1,2,Pirin Blagoevgrad,Match Finished
+2024-04-15T17:00:00+00:00,2023,First League,Bulgaria,Ludogorets,2,0,Arda Kardzhali,Match Finished
+2024-04-13T14:45:00+00:00,2023,First League,Bulgaria,Slavia Sofia,3,1,Hebar 1918,Match Finished
+2024-04-14T14:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,0,0,Levski Krumovgrad,Match Finished
+2024-04-19T14:30:00+00:00,2023,First League,Bulgaria,Botev Vratsa,2,0,Etar Veliko Tarnovo,Match Finished
+2024-04-19T17:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,2,0,Slavia Sofia,Match Finished
+2024-04-20T14:45:00+00:00,2023,First League,Bulgaria,Hebar 1918,0,3,Ludogorets,Match Finished
+2024-04-21T17:15:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,2,3,CSKA Sofia,Match Finished
+2024-04-20T12:15:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,0,0,Cherno More Varna,Match Finished
+2024-04-20T17:15:00+00:00,2023,First League,Bulgaria,Levski Sofia,1,0,Beroe,Match Finished
+2024-04-21T12:15:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,1,1,CSKA 1948,Match Finished
+2024-04-21T14:45:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,0,4,Botev Plovdiv,Match Finished
+2024-04-27T13:15:00+00:00,2023,First League,Bulgaria,CSKA Sofia,3,1,Levski Sofia,Match Finished
+2024-04-28T14:45:00+00:00,2023,First League,Bulgaria,Ludogorets,,,Levski Krumovgrad,Not Started
+2024-04-28T17:15:00+00:00,2023,First League,Bulgaria,Cherno More Varna,,,Lokomotiv Plovdiv,Not Started
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,,,Lokomotiv Plovdiv,Time to be defined
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,Levski Sofia,,,Cherno More Varna,Time to be defined
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,Ludogorets,,,CSKA Sofia,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,CSKA Sofia,,,Levski Krumovgrad,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,,,Ludogorets,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,,,Levski Sofia,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,Levski Krumovgrad,,,Levski Sofia,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,Ludogorets,,,Lokomotiv Plovdiv,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,CSKA Sofia,,,Cherno More Varna,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Cherno More Varna,,,Levski Krumovgrad,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Plovdiv,,,CSKA Sofia,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Levski Sofia,,,Ludogorets,Time to be defined
+2024-04-27T16:00:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,0,1,Slavia Sofia,Match Finished
+2024-04-29T14:45:00+00:00,2023,First League,Bulgaria,CSKA 1948,,,Arda Kardzhali,Not Started
+2024-05-06T14:45:00+00:00,2023,First League,Bulgaria,Slavia Sofia,,,Arda Kardzhali,Not Started
+2024-05-06T17:15:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,,,CSKA 1948,Not Started
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,CSKA 1948,,,Slavia Sofia,Time to be defined
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,,,Botev Plovdiv,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,Slavia Sofia,,,Botev Plovdiv,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,,,CSKA 1948,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,Arda Kardzhali,,,Slavia Sofia,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,CSKA 1948,,,Botev Plovdiv,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Slavia Sofia,,,CSKA 1948,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Botev Plovdiv,,,Arda Kardzhali,Time to be defined
+2024-04-26T17:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,1,2,Botev Vratsa,Match Finished
+2024-04-28T12:15:00+00:00,2023,First League,Bulgaria,Hebar 1918,,,Lokomotiv Sofia,Not Started
+2024-04-29T17:15:00+00:00,2023,First League,Bulgaria,Beroe,,,Etar Veliko Tarnovo,Not Started
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,,,Lokomotiv Sofia,Time to be defined
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,,,Hebar 1918,Time to be defined
+2024-05-11T00:00:00+00:00,2023,First League,Bulgaria,Beroe,,,Pirin Blagoevgrad,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,,,Etar Veliko Tarnovo,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,Hebar 1918,,,Beroe,Time to be defined
+2024-05-18T00:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,,,Botev Vratsa,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,Etar Veliko Tarnovo,,,Botev Vratsa,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,Beroe,,,Lokomotiv Sofia,Time to be defined
+2024-05-22T00:00:00+00:00,2023,First League,Bulgaria,Pirin Blagoevgrad,,,Hebar 1918,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Hebar 1918,,,Etar Veliko Tarnovo,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Lokomotiv Sofia,,,Pirin Blagoevgrad,Time to be defined
+2024-05-25T00:00:00+00:00,2023,First League,Bulgaria,Botev Vratsa,,,Beroe,Time to be defined

@@ -1,0 +1,181 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,1,1,Dumbarton,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,Scotland,East Fife,0,3,Peterhead,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,Scotland,Elgin City,0,1,Stranraer,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,0,0,Forfar Athletic,Match Finished
+2023-08-05T14:00:00+00:00,2023,League Two,Scotland,Spartans,1,1,Clyde,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,Scotland,Clyde,0,2,Bonnyrigg Rose Athletic,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,1,1,Spartans,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,0,0,Elgin City,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,Scotland,Peterhead,0,0,Stenhousemuir,Match Finished
+2023-08-12T14:00:00+00:00,2023,League Two,Scotland,Stranraer,1,1,East Fife,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,1,1,Stranraer,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,Scotland,Clyde,1,2,Peterhead,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,3,1,Forfar Athletic,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,Scotland,East Fife,0,2,Stenhousemuir,Match Finished
+2023-08-19T14:00:00+00:00,2023,League Two,Scotland,Spartans,2,1,Elgin City,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,Scotland,Elgin City,1,1,East Fife,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,1,2,Bonnyrigg Rose Athletic,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,Scotland,Peterhead,0,1,Spartans,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,2,4,Dumbarton,Match Finished
+2023-08-26T14:00:00+00:00,2023,League Two,Scotland,Stranraer,1,0,Clyde,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,5,1,Elgin City,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,Scotland,Clyde,0,0,Forfar Athletic,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,1,0,East Fife,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,Scotland,Stranraer,2,1,Peterhead,Match Finished
+2023-09-02T14:00:00+00:00,2023,League Two,Scotland,Spartans,0,1,Stenhousemuir,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,Scotland,East Fife,2,0,Clyde,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,Scotland,Elgin City,2,0,Dumbarton,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,2,2,Spartans,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,Scotland,Peterhead,2,1,Bonnyrigg Rose Athletic,Match Finished
+2023-09-16T14:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,5,0,Stranraer,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,0,1,Stenhousemuir,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,Scotland,Clyde,2,1,Elgin City,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,0,1,Peterhead,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,Scotland,Stranraer,0,2,Forfar Athletic,Match Finished
+2023-09-23T14:00:00+00:00,2023,League Two,Scotland,Spartans,2,2,East Fife,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,3,1,Stranraer,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,Scotland,East Fife,1,1,Forfar Athletic,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,Scotland,Peterhead,6,0,Elgin City,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,2,2,Clyde,Match Finished
+2023-09-30T14:00:00+00:00,2023,League Two,Scotland,Spartans,2,2,Bonnyrigg Rose Athletic,Match Finished
+2023-11-21T19:45:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,4,2,East Fife,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,Scotland,Clyde,0,4,Dumbarton,Match Finished
+2023-10-24T18:45:00+00:00,2023,League Two,Scotland,Elgin City,1,1,Stenhousemuir,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,1,3,Peterhead,Match Finished
+2023-10-07T14:00:00+00:00,2023,League Two,Scotland,Stranraer,3,4,Spartans,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,3,2,Clyde,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,Scotland,East Fife,4,0,Stranraer,Match Finished
+2023-11-21T19:45:00+00:00,2023,League Two,Scotland,Elgin City,1,0,Forfar Athletic,Match Finished
+2023-11-14T19:45:00+00:00,2023,League Two,Scotland,Stenhousemuir,2,0,Peterhead,Match Finished
+2023-10-21T14:00:00+00:00,2023,League Two,Scotland,Spartans,2,0,Dumbarton,Match Finished
+2023-11-04T15:00:00+00:00,2023,League Two,Scotland,Clyde,1,2,Spartans,Match Finished
+2023-11-04T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,4,0,Bonnyrigg Rose Athletic,Match Finished
+2023-11-04T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,1,3,Stenhousemuir,Match Finished
+2023-11-04T15:00:00+00:00,2023,League Two,Scotland,Peterhead,2,0,East Fife,Match Finished
+2023-11-04T15:00:00+00:00,2023,League Two,Scotland,Stranraer,3,1,Elgin City,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,Scotland,East Fife,0,1,Dumbarton,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,Scotland,Elgin City,2,0,Bonnyrigg Rose Athletic,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,1,1,Clyde,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,Scotland,Peterhead,3,2,Stranraer,Match Finished
+2023-11-11T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,3,2,Spartans,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,0,2,Forfar Athletic,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,Scotland,Clyde,0,4,East Fife,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,1,0,Elgin City,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,Scotland,Stranraer,0,3,Stenhousemuir,Match Finished
+2023-11-18T15:00:00+00:00,2023,League Two,Scotland,Spartans,1,2,Peterhead,Match Finished
+2024-01-30T19:45:00+00:00,2023,League Two,Scotland,East Fife,0,3,Spartans,Match Finished
+2024-01-30T19:45:00+00:00,2023,League Two,Scotland,Elgin City,2,1,Clyde,Match Finished
+2023-12-02T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,1,1,Stranraer,Match Finished
+2024-01-09T19:45:00+00:00,2023,League Two,Scotland,Peterhead,3,1,Dumbarton,Match Finished
+2023-12-02T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,1,0,Bonnyrigg Rose Athletic,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,1,1,Peterhead,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,Scotland,Clyde,2,2,Stranraer,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,0,1,Stenhousemuir,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,Scotland,East Fife,4,0,Elgin City,Match Finished
+2023-12-09T15:00:00+00:00,2023,League Two,Scotland,Spartans,1,0,Forfar Athletic,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,Scotland,Elgin City,0,4,Spartans,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,2,4,Dumbarton,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,Scotland,Peterhead,2,1,Clyde,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,2,1,East Fife,Match Finished
+2023-12-16T15:00:00+00:00,2023,League Two,Scotland,Stranraer,3,1,Bonnyrigg Rose Athletic,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,4,4,Clyde,Match Finished
+2023-12-22T19:30:00+00:00,2023,League Two,Scotland,East Fife,0,3,Bonnyrigg Rose Athletic,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,Scotland,Peterhead,1,2,Forfar Athletic,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,2,0,Elgin City,Match Finished
+2023-12-23T15:00:00+00:00,2023,League Two,Scotland,Spartans,3,0,Stranraer,Match Finished
+2024-03-05T19:45:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,2,2,Spartans,Match Finished
+2023-12-30T15:00:00+00:00,2023,League Two,Scotland,Clyde,1,2,Stenhousemuir,Match Finished
+2023-12-30T15:00:00+00:00,2023,League Two,Scotland,Elgin City,2,1,Peterhead,Match Finished
+2023-12-30T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,0,0,East Fife,Match Finished
+2024-03-05T19:45:00+00:00,2023,League Two,Scotland,Stranraer,5,0,Dumbarton,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,Scotland,Clyde,3,2,Bonnyrigg Rose Athletic,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,1,2,East Fife,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,Scotland,Elgin City,2,1,Stranraer,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,Scotland,Peterhead,0,1,Spartans,Match Finished
+2024-01-06T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,2,1,Forfar Athletic,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,1,1,Dumbarton,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,Scotland,East Fife,1,1,Clyde,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,2,1,Elgin City,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,Scotland,Stranraer,2,0,Peterhead,Match Finished
+2024-01-13T15:00:00+00:00,2023,League Two,Scotland,Spartans,0,2,Stenhousemuir,Match Finished
+2024-02-06T19:45:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,2,0,Elgin City,Match Finished
+2024-02-20T19:45:00+00:00,2023,League Two,Scotland,Clyde,0,2,Forfar Athletic,Match Finished
+2024-02-13T19:45:00+00:00,2023,League Two,Scotland,Dumbarton,0,0,Spartans,Match Finished
+2024-01-20T15:00:00+00:00,2023,League Two,Scotland,East Fife,2,2,Peterhead,Match Finished
+2024-01-20T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,1,0,Stranraer,Match Finished
+2024-01-27T14:00:00+00:00,2023,League Two,Scotland,Elgin City,0,1,Dumbarton,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,0,0,Bonnyrigg Rose Athletic,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,Scotland,Peterhead,2,1,Stenhousemuir,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,Scotland,Stranraer,0,1,East Fife,Match Finished
+2024-01-27T15:00:00+00:00,2023,League Two,Scotland,Spartans,1,1,Clyde,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,0,0,Stranraer,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,Scotland,Clyde,1,1,Peterhead,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,Scotland,Elgin City,1,0,East Fife,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,1,0,Spartans,Match Finished
+2024-02-03T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,1,0,Dumbarton,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,2,2,Forfar Athletic,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,Scotland,East Fife,1,1,Stenhousemuir,Match Finished
+2024-02-20T19:45:00+00:00,2023,League Two,Scotland,Peterhead,0,0,Bonnyrigg Rose Athletic,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,Scotland,Stranraer,2,0,Clyde,Match Finished
+2024-02-10T15:00:00+00:00,2023,League Two,Scotland,Spartans,1,2,Elgin City,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,0,2,East Fife,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,Scotland,Clyde,2,0,Dumbarton,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,Scotland,Elgin City,2,2,Stenhousemuir,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,3,3,Peterhead,Match Finished
+2024-02-17T15:00:00+00:00,2023,League Two,Scotland,Stranraer,1,2,Spartans,Match Finished
+2024-02-24T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,2,1,Stranraer,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,Scotland,East Fife,1,1,Forfar Athletic,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,Scotland,Peterhead,1,1,Elgin City,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,1,6,Clyde,Match Finished
+2024-02-24T15:00:00+00:00,2023,League Two,Scotland,Spartans,2,1,Bonnyrigg Rose Athletic,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,0,1,Stenhousemuir,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,Scotland,Clyde,2,1,Elgin City,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,1,0,Peterhead,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,Scotland,Stranraer,0,0,Forfar Athletic,Match Finished
+2024-03-02T15:00:00+00:00,2023,League Two,Scotland,Spartans,1,3,East Fife,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,Scotland,East Fife,3,2,Dumbarton,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,Scotland,Elgin City,1,0,Bonnyrigg Rose Athletic,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,2,1,Clyde,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,Scotland,Peterhead,2,0,Stranraer,Match Finished
+2024-03-09T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,0,0,Spartans,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,1,2,Clyde,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,1,1,Stenhousemuir,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,Scotland,Peterhead,1,1,East Fife,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,Scotland,Stranraer,1,2,Elgin City,Match Finished
+2024-03-16T15:00:00+00:00,2023,League Two,Scotland,Spartans,2,6,Dumbarton,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,Scotland,Clyde,0,0,Spartans,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,2,0,Bonnyrigg Rose Athletic,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,Scotland,East Fife,2,1,Stranraer,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,Scotland,Elgin City,1,1,Forfar Athletic,Match Finished
+2024-03-23T15:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,0,0,Peterhead,Match Finished
+2024-03-30T15:00:00+00:00,2023,League Two,Scotland,Dumbarton,0,0,Stenhousemuir,Match Finished
+2024-03-30T15:00:00+00:00,2023,League Two,Scotland,East Fife,2,0,Elgin City,Match Finished
+2024-03-30T15:00:00+00:00,2023,League Two,Scotland,Peterhead,4,1,Clyde,Match Finished
+2024-03-30T15:00:00+00:00,2023,League Two,Scotland,Stranraer,1,1,Bonnyrigg Rose Athletic,Match Finished
+2024-03-30T15:00:00+00:00,2023,League Two,Scotland,Spartans,1,0,Forfar Athletic,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,2,2,Peterhead,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,Scotland,Clyde,1,0,Stranraer,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,Scotland,Elgin City,2,2,Spartans,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,0,2,Dumbarton,Match Finished
+2024-04-06T14:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,0,0,East Fife,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,1,0,Clyde,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,Scotland,East Fife,1,4,Bonnyrigg Rose Athletic,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,Scotland,Peterhead,2,1,Forfar Athletic,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,1,1,Elgin City,Match Finished
+2024-04-13T14:00:00+00:00,2023,League Two,Scotland,Spartans,0,0,Stranraer,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,0,1,Spartans,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,Scotland,Clyde,2,2,Stenhousemuir,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,Scotland,Elgin City,1,1,Peterhead,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,2,1,East Fife,Match Finished
+2024-04-20T14:00:00+00:00,2023,League Two,Scotland,Stranraer,0,0,Dumbarton,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,Scotland,Clyde,1,0,East Fife,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,Scotland,Dumbarton,2,2,Elgin City,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,Scotland,Forfar Athletic,2,0,Stranraer,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,Scotland,Stenhousemuir,1,1,Bonnyrigg Rose Athletic,Match Finished
+2024-04-27T14:00:00+00:00,2023,League Two,Scotland,Spartans,2,2,Peterhead,Match Finished
+2024-05-04T14:00:00+00:00,2023,League Two,Scotland,Bonnyrigg Rose Athletic,,,Forfar Athletic,Not Started
+2024-05-04T14:00:00+00:00,2023,League Two,Scotland,East Fife,,,Spartans,Not Started
+2024-05-04T14:00:00+00:00,2023,League Two,Scotland,Elgin City,,,Clyde,Not Started
+2024-05-04T14:00:00+00:00,2023,League Two,Scotland,Peterhead,,,Dumbarton,Not Started
+2024-05-04T14:00:00+00:00,2023,League Two,Scotland,Stranraer,,,Stenhousemuir,Not Started

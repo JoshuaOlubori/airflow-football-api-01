@@ -1,0 +1,553 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-05T14:00:00+00:00,2023,League One,England,Barnsley,7,0,Port Vale,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Blackpool,2,0,Burton Albion,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Bolton,3,0,Lincoln,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Cambridge United,2,0,Oxford United,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Carlisle,1,1,Fleetwood Town,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Charlton,1,0,Leyton Orient,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Derby,1,2,Wigan,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Northampton,0,1,Stevenage,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Portsmouth,1,1,Bristol Rovers,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Reading,0,1,Peterborough,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Shrewsbury,1,0,Cheltenham,Match Finished
+2023-08-05T14:00:00+00:00,2023,League One,England,Wycombe,0,3,Exeter City,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Bristol Rovers,1,1,Barnsley,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Burton Albion,0,3,Derby,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Cheltenham,0,3,Bolton,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Exeter City,0,0,Blackpool,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Fleetwood Town,0,2,Cambridge United,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Lincoln,3,0,Wycombe,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Oxford United,1,0,Carlisle,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Peterborough,1,0,Charlton,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Port Vale,1,0,Reading,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Stevenage,2,0,Shrewsbury,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Wigan,2,1,Northampton,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Barnsley,1,3,Peterborough,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Blackpool,0,0,Port Vale,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Bolton,3,1,Fleetwood Town,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Cambridge United,1,2,Stevenage,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Carlisle,1,1,Wigan,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Charlton,1,2,Bristol Rovers,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Derby,1,2,Oxford United,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Northampton,2,2,Lincoln,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Shrewsbury,2,1,Burton Albion,Match Finished
+2023-08-15T18:45:00+00:00,2023,League One,England,Wycombe,3,2,Leyton Orient,Match Finished
+2023-08-15T19:00:00+00:00,2023,League One,England,Reading,1,0,Cheltenham,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Barnsley,1,3,Oxford United,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Blackpool,0,0,Leyton Orient,Match Finished
+2023-08-19T11:30:00+00:00,2023,League One,England,Bolton,0,4,Wigan,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Cambridge United,2,0,Bristol Rovers,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Carlisle,0,2,Exeter City,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Charlton,2,3,Port Vale,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Derby,1,0,Fleetwood Town,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Northampton,1,0,Peterborough,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Reading,2,0,Stevenage,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Shrewsbury,0,1,Lincoln,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Wycombe,0,0,Burton Albion,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Bristol Rovers,1,2,Wycombe,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Burton Albion,1,1,Bolton,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Cheltenham,0,1,Northampton,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Exeter City,2,1,Reading,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Fleetwood Town,0,1,Shrewsbury,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Leyton Orient,2,0,Cambridge United,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Lincoln,3,0,Blackpool,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Oxford United,2,1,Charlton,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Peterborough,2,4,Derby,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Port Vale,1,0,Carlisle,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Wigan,0,2,Barnsley,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Blackpool,2,1,Wigan,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Bolton,2,1,Derby,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Bristol Rovers,1,1,Lincoln,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Burton Albion,0,1,Exeter City,Match Finished
+2023-09-04T19:00:00+00:00,2023,League One,England,Cambridge United,1,0,Reading,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Carlisle,2,0,Shrewsbury,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Charlton,2,1,Fleetwood Town,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Cheltenham,0,2,Barnsley,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Leyton Orient,0,3,Stevenage,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Northampton,0,1,Wycombe,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Oxford United,1,2,Port Vale,Match Finished
+2023-09-02T14:00:00+00:00,2023,League One,England,Portsmouth,3,1,Peterborough,Match Finished
+2023-09-19T18:45:00+00:00,2023,League One,England,Barnsley,2,3,Portsmouth,Match Finished
+2023-10-31T19:45:00+00:00,2023,League One,England,Derby,4,0,Northampton,Match Finished
+2023-09-09T14:00:00+00:00,2023,League One,England,Exeter City,1,2,Leyton Orient,Match Finished
+2023-11-01T19:45:00+00:00,2023,League One,England,Fleetwood Town,3,3,Blackpool,Match Finished
+2023-10-31T19:45:00+00:00,2023,League One,England,Lincoln,0,2,Oxford United,Match Finished
+2023-09-19T18:45:00+00:00,2023,League One,England,Peterborough,3,0,Cheltenham,Match Finished
+2023-09-19T18:45:00+00:00,2023,League One,England,Port Vale,2,3,Burton Albion,Match Finished
+2023-11-07T20:00:00+00:00,2023,League One,England,Reading,1,1,Bristol Rovers,Match Finished
+2023-11-07T19:45:00+00:00,2023,League One,England,Shrewsbury,0,2,Bolton,Match Finished
+2023-09-09T14:00:00+00:00,2023,League One,England,Stevenage,2,2,Carlisle,Match Finished
+2023-10-31T19:45:00+00:00,2023,League One,England,Wigan,2,3,Charlton,Match Finished
+2023-10-31T19:45:00+00:00,2023,League One,England,Wycombe,0,0,Cambridge United,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Barnsley,2,0,Burton Albion,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Derby,1,1,Portsmouth,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Exeter City,1,0,Cheltenham,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Fleetwood Town,0,3,Oxford United,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Lincoln,1,1,Carlisle,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Peterborough,1,1,Leyton Orient,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Port Vale,1,0,Northampton,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Reading,2,1,Bolton,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Shrewsbury,0,2,Bristol Rovers,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Stevenage,1,1,Charlton,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Wigan,2,1,Cambridge United,Match Finished
+2023-09-16T14:00:00+00:00,2023,League One,England,Wycombe,2,0,Blackpool,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Blackpool,4,1,Reading,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Bolton,1,1,Peterborough,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Bristol Rovers,4,1,Wigan,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Burton Albion,1,1,Fleetwood Town,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Cambridge United,1,1,Port Vale,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Carlisle,0,2,Derby,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Charlton,3,1,Wycombe,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Cheltenham,0,3,Stevenage,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Leyton Orient,1,0,Shrewsbury,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Northampton,1,2,Barnsley,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Oxford United,3,0,Exeter City,Match Finished
+2023-09-23T14:00:00+00:00,2023,League One,England,Portsmouth,2,1,Lincoln,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Barnsley,0,1,Blackpool,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Derby,0,0,Cambridge United,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Exeter City,0,2,Northampton,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Fleetwood Town,1,0,Leyton Orient,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Lincoln,2,0,Cheltenham,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Peterborough,2,0,Bristol Rovers,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Port Vale,0,1,Bolton,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Reading,0,0,Burton Albion,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Shrewsbury,0,0,Charlton,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Stevenage,1,3,Oxford United,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Wycombe,2,0,Carlisle,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Blackpool,1,3,Derby,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Bolton,3,2,Stevenage,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Bristol Rovers,3,0,Port Vale,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Burton Albion,2,1,Wigan,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Cambridge United,0,4,Barnsley,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Carlisle,1,1,Peterborough,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Charlton,4,1,Exeter City,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Cheltenham,0,2,Fleetwood Town,Match Finished
+2023-11-21T19:45:00+00:00,2023,League One,England,Leyton Orient,0,1,Lincoln,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Northampton,3,1,Reading,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Oxford United,3,0,Shrewsbury,Match Finished
+2023-10-03T18:45:00+00:00,2023,League One,England,Portsmouth,2,1,Wycombe,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Bolton,1,3,Carlisle,Match Finished
+2023-10-09T19:00:00+00:00,2023,League One,England,Burton Albion,2,1,Cambridge United,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Charlton,2,2,Blackpool,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Cheltenham,1,1,Derby,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Exeter City,0,1,Barnsley,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Fleetwood Town,1,4,Wycombe,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Leyton Orient,2,1,Reading,Match Finished
+2023-10-07T11:30:00+00:00,2023,League One,England,Oxford United,2,1,Bristol Rovers,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Peterborough,2,0,Lincoln,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Shrewsbury,1,0,Northampton,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Stevenage,1,0,Wigan,Match Finished
+2024-03-05T19:45:00+00:00,2023,League One,England,Barnsley,2,2,Bolton,Match Finished
+2023-10-14T14:00:00+00:00,2023,League One,England,Blackpool,3,0,Stevenage,Match Finished
+2024-01-23T19:45:00+00:00,2023,League One,England,Bristol Rovers,0,1,Exeter City,Match Finished
+2023-10-14T14:00:00+00:00,2023,League One,England,Cambridge United,1,1,Shrewsbury,Match Finished
+2023-10-14T14:00:00+00:00,2023,League One,England,Carlisle,0,1,Leyton Orient,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Derby,1,2,Charlton,Match Finished
+2023-10-14T14:00:00+00:00,2023,League One,England,Lincoln,0,1,Burton Albion,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Port Vale,2,2,Fleetwood Town,Match Finished
+2023-12-12T20:00:00+00:00,2023,League One,England,Reading,1,1,Oxford United,Match Finished
+2023-11-07T19:45:00+00:00,2023,League One,England,Wigan,2,1,Peterborough,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Wycombe,2,0,Cheltenham,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Bolton,2,1,Northampton,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Burton Albion,4,1,Bristol Rovers,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Charlton,4,0,Reading,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Cheltenham,1,0,Cambridge United,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Exeter City,0,2,Wigan,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Fleetwood Town,0,1,Lincoln,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Leyton Orient,1,1,Barnsley,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Oxford United,1,1,Blackpool,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Peterborough,2,2,Wycombe,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Shrewsbury,1,0,Derby,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Stevenage,0,0,Port Vale,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Barnsley,3,0,Shrewsbury,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Blackpool,3,2,Cheltenham,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Bristol Rovers,1,1,Stevenage,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Carlisle,2,1,Burton Albion,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Derby,2,0,Exeter City,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Lincoln,3,1,Charlton,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Northampton,2,2,Leyton Orient,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Port Vale,0,1,Peterborough,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Wigan,2,0,Oxford United,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Wycombe,2,4,Bolton,Match Finished
+2023-10-24T19:00:00+00:00,2023,League One,England,Reading,1,2,Fleetwood Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Barnsley,2,2,Fleetwood Town,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Blackpool,2,4,Peterborough,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Bristol Rovers,2,1,Northampton,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Burton Albion,0,0,Leyton Orient,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Cambridge United,1,0,Carlisle,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Charlton,0,2,Bolton,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Exeter City,1,1,Lincoln,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Oxford United,2,2,Wycombe,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Port Vale,1,2,Cheltenham,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Stevenage,3,1,Derby,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Wigan,2,0,Shrewsbury,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Bolton,1,0,Blackpool,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Carlisle,0,1,Bristol Rovers,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Cheltenham,1,1,Wigan,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Derby,3,0,Barnsley,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Fleetwood Town,3,0,Exeter City,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Leyton Orient,2,3,Oxford United,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Lincoln,1,1,Port Vale,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Northampton,2,0,Burton Albion,Match Finished
+2023-11-11T12:00:00+00:00,2023,League One,England,Peterborough,5,0,Cambridge United,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Shrewsbury,3,2,Reading,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Wycombe,0,1,Stevenage,Match Finished
+2024-01-16T19:45:00+00:00,2023,League One,England,Barnsley,2,1,Carlisle,Match Finished
+2023-11-18T15:00:00+00:00,2023,League One,England,Blackpool,4,0,Shrewsbury,Match Finished
+2024-02-06T19:45:00+00:00,2023,League One,England,Bristol Rovers,0,2,Fleetwood Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,League One,England,Burton Albion,1,2,Cheltenham,Match Finished
+2024-02-20T19:45:00+00:00,2023,League One,England,Cambridge United,1,2,Bolton,Match Finished
+2024-01-23T19:45:00+00:00,2023,League One,England,Charlton,2,3,Northampton,Match Finished
+2024-02-06T19:45:00+00:00,2023,League One,England,Exeter City,2,1,Peterborough,Match Finished
+2024-02-06T19:45:00+00:00,2023,League One,England,Port Vale,0,1,Leyton Orient,Match Finished
+2024-01-23T20:00:00+00:00,2023,League One,England,Reading,1,0,Derby,Match Finished
+2023-11-18T15:00:00+00:00,2023,League One,England,Stevenage,1,0,Lincoln,Match Finished
+2024-01-23T19:45:00+00:00,2023,League One,England,Wigan,1,0,Wycombe,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Bolton,7,0,Exeter City,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Carlisle,1,1,Charlton,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Cheltenham,2,0,Oxford United,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Derby,2,1,Bristol Rovers,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Fleetwood Town,0,3,Stevenage,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Leyton Orient,1,1,Wigan,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Lincoln,2,2,Barnsley,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Northampton,2,1,Cambridge United,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Peterborough,4,0,Burton Albion,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Portsmouth,0,4,Blackpool,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Shrewsbury,2,1,Port Vale,Match Finished
+2023-11-25T15:00:00+00:00,2023,League One,England,Wycombe,1,2,Reading,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Barnsley,1,0,Wycombe,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Blackpool,1,2,Northampton,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Bristol Rovers,1,1,Leyton Orient,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Cambridge United,0,3,Lincoln,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Charlton,2,1,Cheltenham,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Exeter City,0,0,Shrewsbury,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Oxford United,0,0,Bolton,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Port Vale,0,1,Derby,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Stevenage,2,2,Peterborough,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Wigan,3,0,Fleetwood Town,Match Finished
+2023-11-28T20:00:00+00:00,2023,League One,England,Reading,5,1,Carlisle,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Blackpool,3,0,Carlisle,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Bristol Rovers,1,1,Cheltenham,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Burton Albion,1,2,Stevenage,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Charlton,2,2,Cambridge United,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Exeter City,0,1,Port Vale,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Leyton Orient,0,3,Derby,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Northampton,3,0,Fleetwood Town,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Peterborough,3,0,Oxford United,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Reading,1,3,Barnsley,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Wigan,0,0,Lincoln,Match Finished
+2023-12-09T15:00:00+00:00,2023,League One,England,Wycombe,0,1,Shrewsbury,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Barnsley,1,1,Charlton,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Bolton,1,2,Bristol Rovers,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Cambridge United,2,1,Blackpool,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Carlisle,2,2,Northampton,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Cheltenham,1,2,Leyton Orient,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Derby,1,1,Wycombe,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Fleetwood Town,0,1,Peterborough,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Lincoln,1,1,Reading,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Oxford United,3,0,Burton Albion,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Port Vale,3,2,Wigan,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Stevenage,1,1,Exeter City,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Barnsley,2,1,Stevenage,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Blackpool,3,1,Bristol Rovers,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Bolton,3,2,Leyton Orient,Match Finished
+2023-12-22T19:45:00+00:00,2023,League One,England,Cambridge United,2,0,Exeter City,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Carlisle,0,1,Cheltenham,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Charlton,1,1,Burton Albion,Match Finished
+2023-12-21T19:45:00+00:00,2023,League One,England,Derby,3,1,Lincoln,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Northampton,2,1,Oxford United,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Reading,2,0,Wigan,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Shrewsbury,1,2,Peterborough,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Wycombe,1,1,Port Vale,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Bristol Rovers,2,1,Portsmouth,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Burton Albion,1,0,Blackpool,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Cheltenham,2,0,Shrewsbury,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Exeter City,1,0,Wycombe,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Fleetwood Town,1,1,Carlisle,Match Finished
+2023-12-26T13:00:00+00:00,2023,League One,England,Leyton Orient,1,0,Charlton,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Lincoln,0,1,Bolton,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Oxford United,2,1,Cambridge United,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Peterborough,2,2,Reading,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Port Vale,2,3,Barnsley,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Stevenage,3,0,Northampton,Match Finished
+2023-12-26T15:00:00+00:00,2023,League One,England,Wigan,0,1,Derby,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Bristol Rovers,2,1,Charlton,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Burton Albion,1,0,Shrewsbury,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Cheltenham,2,2,Reading,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Fleetwood Town,0,2,Bolton,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Leyton Orient,0,0,Wycombe,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Lincoln,1,2,Northampton,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Oxford United,2,3,Derby,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Peterborough,2,2,Barnsley,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Port Vale,3,0,Blackpool,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Stevenage,1,0,Cambridge United,Match Finished
+2023-12-29T19:00:00+00:00,2023,League One,England,Wigan,2,0,Carlisle,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Barnsley,1,1,Wigan,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Blackpool,2,0,Lincoln,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Bolton,1,0,Burton Albion,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Cambridge United,0,2,Leyton Orient,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Carlisle,2,1,Port Vale,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Charlton,1,2,Oxford United,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Derby,2,3,Peterborough,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Northampton,1,0,Cheltenham,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Portsmouth,2,1,Stevenage,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Reading,3,2,Exeter City,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Shrewsbury,3,1,Fleetwood Town,Match Finished
+2024-01-01T15:00:00+00:00,2023,League One,England,Wycombe,3,2,Bristol Rovers,Match Finished
+2024-04-16T18:45:00+00:00,2023,League One,England,Bristol Rovers,1,0,Cambridge United,Match Finished
+2024-01-06T15:00:00+00:00,2023,League One,England,Burton Albion,1,1,Wycombe,Match Finished
+2024-01-06T15:00:00+00:00,2023,League One,England,Exeter City,2,1,Carlisle,Match Finished
+2024-01-06T12:30:00+00:00,2023,League One,England,Fleetwood Town,1,3,Derby,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Leyton Orient,1,0,Blackpool,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Lincoln,3,0,Shrewsbury,Match Finished
+2024-01-23T19:45:00+00:00,2023,League One,England,Oxford United,0,1,Barnsley,Match Finished
+2024-03-05T19:45:00+00:00,2023,League One,England,Peterborough,5,1,Northampton,Match Finished
+2024-01-06T15:00:00+00:00,2023,League One,England,Port Vale,3,3,Charlton,Match Finished
+2024-02-06T19:45:00+00:00,2023,League One,England,Stevenage,0,1,Reading,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Wigan,1,0,Bolton,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Barnsley,2,1,Bristol Rovers,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Blackpool,2,0,Exeter City,Match Finished
+2024-01-23T19:45:00+00:00,2023,League One,England,Bolton,1,0,Cheltenham,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Cambridge United,2,1,Fleetwood Town,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Carlisle,1,3,Oxford United,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Charlton,1,2,Peterborough,Match Finished
+2024-01-15T20:00:00+00:00,2023,League One,England,Derby,3,2,Burton Albion,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Northampton,1,1,Wigan,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Portsmouth,0,3,Leyton Orient,Match Finished
+2024-02-20T20:00:00+00:00,2023,League One,England,Reading,2,0,Port Vale,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Shrewsbury,0,1,Stevenage,Match Finished
+2024-01-13T15:00:00+00:00,2023,League One,England,Wycombe,1,1,Lincoln,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Bristol Rovers,1,2,Blackpool,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Burton Albion,2,0,Charlton,Match Finished
+2024-04-09T18:45:00+00:00,2023,League One,England,Cheltenham,0,1,Carlisle,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Exeter City,0,0,Cambridge United,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Fleetwood Town,0,1,Portsmouth,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Leyton Orient,1,0,Bolton,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Lincoln,0,0,Derby,Match Finished
+2024-02-20T19:45:00+00:00,2023,League One,England,Oxford United,2,2,Northampton,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Peterborough,2,1,Shrewsbury,Match Finished
+2024-04-16T18:45:00+00:00,2023,League One,England,Port Vale,1,2,Wycombe,Match Finished
+2024-04-09T18:45:00+00:00,2023,League One,England,Stevenage,2,1,Barnsley,Match Finished
+2024-01-20T15:00:00+00:00,2023,League One,England,Wigan,1,0,Reading,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Barnsley,1,2,Exeter City,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Blackpool,1,1,Charlton,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Bristol Rovers,3,1,Oxford United,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Cambridge United,0,0,Burton Albion,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Carlisle,1,4,Bolton,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Derby,2,1,Cheltenham,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Lincoln,0,0,Peterborough,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Northampton,0,2,Shrewsbury,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Port Vale,0,1,Portsmouth,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Reading,1,1,Leyton Orient,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Wigan,2,3,Stevenage,Match Finished
+2024-01-27T15:00:00+00:00,2023,League One,England,Wycombe,2,2,Fleetwood Town,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Bolton,1,1,Barnsley,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Burton Albion,0,1,Lincoln,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Charlton,0,1,Derby,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Cheltenham,1,3,Wycombe,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Exeter City,0,1,Bristol Rovers,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Fleetwood Town,3,0,Port Vale,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Leyton Orient,3,2,Carlisle,Match Finished
+2024-02-03T12:30:00+00:00,2023,League One,England,Oxford United,1,1,Reading,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Peterborough,2,3,Wigan,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Portsmouth,4,1,Northampton,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Shrewsbury,1,2,Cambridge United,Match Finished
+2024-02-03T15:00:00+00:00,2023,League One,England,Stevenage,1,0,Blackpool,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Barnsley,2,1,Leyton Orient,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Blackpool,1,1,Oxford United,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Bristol Rovers,1,2,Burton Albion,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Cambridge United,0,1,Cheltenham,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Carlisle,0,1,Portsmouth,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Derby,1,1,Shrewsbury,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Lincoln,2,1,Fleetwood Town,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Northampton,1,1,Bolton,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Port Vale,2,2,Stevenage,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Reading,2,0,Charlton,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Wigan,1,2,Exeter City,Match Finished
+2024-02-10T15:00:00+00:00,2023,League One,England,Wycombe,5,2,Peterborough,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Bolton,2,1,Wycombe,Match Finished
+2024-02-27T19:45:00+00:00,2023,League One,England,Burton Albion,0,1,Carlisle,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Charlton,1,1,Lincoln,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Cheltenham,2,0,Blackpool,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Exeter City,0,3,Derby,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Fleetwood Town,1,1,Reading,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Leyton Orient,4,3,Northampton,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Oxford United,4,2,Wigan,Match Finished
+2024-04-10T18:45:00+00:00,2023,League One,England,Peterborough,3,0,Port Vale,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Portsmouth,3,1,Cambridge United,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Shrewsbury,1,1,Barnsley,Match Finished
+2024-02-13T19:45:00+00:00,2023,League One,England,Stevenage,2,3,Bristol Rovers,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Bolton,3,3,Charlton,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Carlisle,0,4,Cambridge United,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Cheltenham,3,2,Port Vale,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Derby,1,0,Stevenage,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Fleetwood Town,1,2,Barnsley,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Leyton Orient,1,2,Burton Albion,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Lincoln,1,0,Exeter City,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Northampton,3,1,Bristol Rovers,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Peterborough,1,2,Blackpool,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Shrewsbury,0,1,Wigan,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Wycombe,0,0,Oxford United,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Barnsley,2,1,Derby,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Blackpool,4,1,Bolton,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Bristol Rovers,2,1,Carlisle,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Burton Albion,0,2,Northampton,Match Finished
+2024-02-24T12:00:00+00:00,2023,League One,England,Cambridge United,0,1,Peterborough,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Exeter City,1,1,Fleetwood Town,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Oxford United,1,2,Leyton Orient,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Port Vale,0,2,Lincoln,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Reading,2,3,Shrewsbury,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Stevenage,1,0,Wycombe,Match Finished
+2024-02-23T19:45:00+00:00,2023,League One,England,Wigan,1,1,Cheltenham,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Bolton,2,0,Cambridge United,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Carlisle,1,3,Reading,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Cheltenham,0,0,Burton Albion,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Derby,3,0,Port Vale,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Fleetwood Town,4,2,Wigan,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Leyton Orient,0,1,Bristol Rovers,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Lincoln,0,0,Stevenage,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Northampton,1,1,Charlton,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Peterborough,2,1,Exeter City,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Shrewsbury,0,2,Blackpool,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Wycombe,2,4,Barnsley,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Barnsley,1,5,Lincoln,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Blackpool,0,0,Portsmouth,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Bristol Rovers,0,3,Derby,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Burton Albion,1,3,Peterborough,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Cambridge United,1,1,Northampton,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Charlton,3,2,Carlisle,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Exeter City,2,2,Bolton,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Oxford United,2,1,Cheltenham,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Port Vale,1,2,Shrewsbury,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Reading,1,2,Wycombe,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Stevenage,0,0,Fleetwood Town,Match Finished
+2024-03-09T15:00:00+00:00,2023,League One,England,Wigan,1,0,Leyton Orient,Match Finished
+2024-03-12T20:00:00+00:00,2023,League One,England,Bolton,5,0,Oxford United,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Carlisle,2,3,Barnsley,Match Finished
+2024-03-05T19:45:00+00:00,2023,League One,England,Cheltenham,1,3,Charlton,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Derby,2,1,Reading,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Fleetwood Town,0,0,Bristol Rovers,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Leyton Orient,0,0,Port Vale,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Lincoln,6,0,Cambridge United,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Northampton,0,1,Blackpool,Match Finished
+2024-03-13T20:00:00+00:00,2023,League One,England,Peterborough,3,1,Stevenage,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Shrewsbury,0,3,Exeter City,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Wycombe,1,0,Wigan,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Barnsley,0,0,Cheltenham,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Derby,1,0,Bolton,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Exeter City,1,0,Burton Albion,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Fleetwood Town,1,1,Charlton,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Lincoln,5,0,Bristol Rovers,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Peterborough,0,1,Portsmouth,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Port Vale,0,2,Oxford United,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Reading,4,0,Cambridge United,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Shrewsbury,1,0,Carlisle,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Stevenage,0,1,Leyton Orient,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Wigan,1,0,Blackpool,Match Finished
+2024-03-16T15:00:00+00:00,2023,League One,England,Wycombe,2,0,Northampton,Match Finished
+2024-04-09T18:45:00+00:00,2023,League One,England,Blackpool,1,0,Fleetwood Town,Match Finished
+2024-04-16T18:45:00+00:00,2023,League One,England,Bolton,2,2,Shrewsbury,Match Finished
+2024-04-09T18:45:00+00:00,2023,League One,England,Bristol Rovers,0,2,Reading,Match Finished
+2024-03-23T15:00:00+00:00,2023,League One,England,Burton Albion,0,1,Port Vale,Match Finished
+2024-04-23T18:45:00+00:00,2023,League One,England,Cambridge United,1,1,Wycombe,Match Finished
+2024-03-23T15:00:00+00:00,2023,League One,England,Carlisle,2,2,Stevenage,Match Finished
+2024-04-09T18:45:00+00:00,2023,League One,England,Charlton,2,2,Wigan,Match Finished
+2024-04-23T18:45:00+00:00,2023,League One,England,Cheltenham,2,0,Peterborough,Match Finished
+2024-04-09T18:45:00+00:00,2023,League One,England,Leyton Orient,2,2,Exeter City,Match Finished
+2024-03-23T15:00:00+00:00,2023,League One,England,Northampton,1,0,Derby,Match Finished
+2024-04-16T18:45:00+00:00,2023,League One,England,Oxford United,0,1,Lincoln,Match Finished
+2024-04-16T18:45:00+00:00,2023,League One,England,Portsmouth,3,2,Barnsley,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Barnsley,0,2,Cambridge United,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Derby,1,0,Blackpool,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Exeter City,1,1,Charlton,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Fleetwood Town,1,2,Cheltenham,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Lincoln,1,0,Leyton Orient,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Peterborough,1,3,Carlisle,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Port Vale,2,0,Bristol Rovers,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Reading,1,0,Northampton,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Shrewsbury,1,1,Oxford United,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Stevenage,0,0,Bolton,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Wigan,1,1,Burton Albion,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Blackpool,0,0,Wycombe,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Bolton,5,2,Reading,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Bristol Rovers,0,0,Shrewsbury,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Burton Albion,1,3,Barnsley,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Cambridge United,3,1,Wigan,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Carlisle,1,3,Lincoln,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Charlton,0,0,Stevenage,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Cheltenham,1,2,Exeter City,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Leyton Orient,1,2,Peterborough,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Northampton,2,0,Port Vale,Match Finished
+2024-04-01T14:00:00+00:00,2023,League One,England,Oxford United,4,0,Fleetwood Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Blackpool,1,0,Cambridge United,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Bristol Rovers,0,2,Bolton,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Burton Albion,0,4,Oxford United,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Charlton,2,1,Barnsley,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Exeter City,1,0,Stevenage,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Leyton Orient,3,1,Cheltenham,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Northampton,2,0,Carlisle,Match Finished
+2024-04-16T18:45:00+00:00,2023,League One,England,Peterborough,4,1,Fleetwood Town,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Reading,1,1,Lincoln,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Wigan,0,0,Port Vale,Match Finished
+2024-04-10T18:45:00+00:00,2023,League One,England,Wycombe,0,0,Derby,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Barnsley,2,2,Reading,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Cambridge United,1,1,Charlton,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Carlisle,0,1,Blackpool,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Cheltenham,1,3,Bristol Rovers,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Derby,3,0,Leyton Orient,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Fleetwood Town,2,0,Northampton,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Lincoln,1,2,Wigan,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Oxford United,5,0,Peterborough,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Port Vale,2,4,Exeter City,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Shrewsbury,0,2,Wycombe,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Stevenage,1,2,Burton Albion,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Blackpool,3,2,Barnsley,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Bolton,2,0,Port Vale,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Bristol Rovers,0,2,Peterborough,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Burton Albion,3,2,Reading,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Cambridge United,0,1,Derby,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Carlisle,1,3,Wycombe,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Charlton,1,1,Shrewsbury,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Cheltenham,1,2,Lincoln,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Leyton Orient,0,1,Fleetwood Town,Match Finished
+2024-04-20T13:00:00+00:00,2023,League One,England,Northampton,1,2,Exeter City,Match Finished
+2024-04-19T19:00:00+00:00,2023,League One,England,Oxford United,1,1,Stevenage,Match Finished
+2024-04-20T14:00:00+00:00,2023,League One,England,Portsmouth,1,2,Wigan,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Barnsley,1,1,Northampton,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Derby,2,0,Carlisle,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Exeter City,1,2,Oxford United,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Fleetwood Town,3,0,Burton Albion,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Peterborough,3,3,Bolton,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Port Vale,0,0,Cambridge United,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Reading,3,2,Blackpool,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Shrewsbury,1,3,Leyton Orient,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Stevenage,2,1,Cheltenham,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Wigan,2,0,Bristol Rovers,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Wycombe,1,0,Charlton,Match Finished
+2023-08-12T14:00:00+00:00,2023,League One,England,Leyton Orient,0,4,Portsmouth,Match Finished
+2023-08-15T19:00:00+00:00,2023,League One,England,Portsmouth,1,0,Exeter City,Match Finished
+2023-08-19T14:00:00+00:00,2023,League One,England,Portsmouth,0,0,Cheltenham,Match Finished
+2023-08-26T14:00:00+00:00,2023,League One,England,Stevenage,0,0,Portsmouth,Match Finished
+2023-09-30T14:00:00+00:00,2023,League One,England,Wigan,1,2,Portsmouth,Match Finished
+2023-10-07T14:00:00+00:00,2023,League One,England,Portsmouth,2,0,Port Vale,Match Finished
+2023-12-02T15:00:00+00:00,2023,League One,England,Northampton,0,3,Portsmouth,Match Finished
+2023-10-21T14:00:00+00:00,2023,League One,England,Portsmouth,1,0,Carlisle,Match Finished
+2023-10-24T18:45:00+00:00,2023,League One,England,Cambridge United,0,0,Portsmouth,Match Finished
+2023-10-28T14:00:00+00:00,2023,League One,England,Reading,2,3,Portsmouth,Match Finished
+2023-11-11T15:00:00+00:00,2023,League One,England,Portsmouth,2,2,Charlton,Match Finished
+2024-01-30T19:45:00+00:00,2023,League One,England,Oxford United,2,2,Portsmouth,Match Finished
+2023-11-28T19:45:00+00:00,2023,League One,England,Burton Albion,0,2,Portsmouth,Match Finished
+2023-12-11T20:00:00+00:00,2023,League One,England,Portsmouth,2,0,Bolton,Match Finished
+2023-12-16T15:00:00+00:00,2023,League One,England,Shrewsbury,0,3,Portsmouth,Match Finished
+2023-12-23T15:00:00+00:00,2023,League One,England,Portsmouth,1,1,Fleetwood Town,Match Finished
+2023-12-29T19:45:00+00:00,2023,League One,England,Exeter City,0,0,Portsmouth,Match Finished
+2024-01-06T15:00:00+00:00,2023,League One,England,Cheltenham,2,1,Portsmouth,Match Finished
+2024-02-17T15:00:00+00:00,2023,League One,England,Portsmouth,4,1,Reading,Match Finished
+2024-02-24T15:00:00+00:00,2023,League One,England,Charlton,0,0,Portsmouth,Match Finished
+2024-03-02T15:00:00+00:00,2023,League One,England,Portsmouth,2,1,Oxford United,Match Finished
+2024-03-12T19:45:00+00:00,2023,League One,England,Portsmouth,2,1,Burton Albion,Match Finished
+2024-03-29T15:00:00+00:00,2023,League One,England,Wycombe,1,3,Portsmouth,Match Finished
+2024-04-02T19:00:00+00:00,2023,League One,England,Portsmouth,2,2,Derby,Match Finished
+2024-04-06T14:00:00+00:00,2023,League One,England,Portsmouth,3,1,Shrewsbury,Match Finished
+2024-04-13T14:00:00+00:00,2023,League One,England,Bolton,1,1,Portsmouth,Match Finished
+2024-04-27T11:30:00+00:00,2023,League One,England,Lincoln,0,2,Portsmouth,Match Finished

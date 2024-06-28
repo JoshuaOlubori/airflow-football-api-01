@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-20T16:45:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,1,0,Schalding-Heining,Match Finished
+2023-07-21T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,0,0,Memmingen,Match Finished
+2023-07-21T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,3,3,Bayern München II,Match Finished
+2023-07-22T11:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,1,0,Illertissen,Match Finished
+2023-07-22T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,0,0,Viktoria Aschaffenburg,Match Finished
+2023-07-22T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,3,5,Vilzing,Match Finished
+2023-07-22T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,1,1,Augsburg II,Match Finished
+2023-07-22T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,0,3,Aubstadt,Match Finished
+2023-07-22T15:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,0,0,Ansbach,Match Finished
+2023-07-28T16:15:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,2,0,Eintracht Bamberg,Match Finished
+2023-07-28T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,2,2,Greuther Fürth II,Match Finished
+2023-08-22T16:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,2,1,FC Schweinfurt 05,Match Finished
+2023-07-28T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,1,4,Türkgücü-Ataspor,Match Finished
+2023-07-28T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,3,Nürnberg II,Match Finished
+2023-07-28T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,2,0,Buchbach,Match Finished
+2023-07-28T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,0,2,FC Wurzburger Kickers,Match Finished
+2023-07-29T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,2,1,Wacker Burghausen,Match Finished
+2023-07-29T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,2,1,Bayreuth,Match Finished
+2023-08-04T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,2,1,Memmingen,Match Finished
+2023-08-04T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,0,1,Aubstadt,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,3,1,Buchbach,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,2,0,Bayern München II,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,3,1,Illertissen,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,0,1,Ansbach,Match Finished
+2023-08-05T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,4,1,Viktoria Aschaffenburg,Match Finished
+2023-08-05T13:30:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,1,2,Augsburg II,Match Finished
+2023-08-05T14:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,1,5,Vilzing,Match Finished
+2023-08-09T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,2,3,FC Wurzburger Kickers,Match Finished
+2023-08-11T16:15:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,3,0,Türkgücü-Ataspor,Match Finished
+2023-08-11T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,2,0,Wacker Burghausen,Match Finished
+2023-08-11T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,0,5,FC Schweinfurt 05,Match Finished
+2023-08-11T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,2,2,Nürnberg II,Match Finished
+2023-08-11T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,3,2,Schalding-Heining,Match Finished
+2023-08-11T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,0,1,Greuther Fürth II,Match Finished
+2023-08-11T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,1,0,Eintracht Bamberg,Match Finished
+2023-09-19T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,1,1,Bayreuth,Match Finished
+2023-08-18T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,1,1,Aubstadt,Match Finished
+2023-08-18T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,1,2,Bayern München II,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,4,0,Greuther Fürth II,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,0,2,Illertissen,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,4,1,Ansbach,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,1,0,Viktoria Aschaffenburg,Match Finished
+2023-08-19T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,2,1,Buchbach,Match Finished
+2023-08-18T16:15:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,4,0,Memmingen,Match Finished
+2023-08-19T14:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,2,2,Augsburg II,Match Finished
+2023-08-25T16:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,2,1,Nürnberg II,Match Finished
+2023-08-25T16:15:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,0,1,FC Wurzburger Kickers,Match Finished
+2023-08-25T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,3,1,Bayreuth,Match Finished
+2023-08-25T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,1,1,Schalding-Heining,Match Finished
+2023-08-25T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,1,1,FC Schweinfurt 05,Match Finished
+2023-08-25T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,1,0,Wacker Burghausen,Match Finished
+2023-08-25T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,2,1,Türkgücü-Ataspor,Match Finished
+2023-08-25T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,0,1,Vilzing,Match Finished
+2023-08-26T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,2,1,Eintracht Bamberg,Match Finished
+2023-08-29T16:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,3,0,Ansbach,Match Finished
+2023-08-29T16:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,3,2,Bayern München II,Match Finished
+2023-09-12T15:15:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,4,1,Illertissen,Match Finished
+2023-08-29T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,1,1,Viktoria Aschaffenburg,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,2,1,Eintracht Bamberg,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,1,0,Buchbach,Match Finished
+2023-09-19T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,1,0,Greuther Fürth II,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,2,Augsburg II,Match Finished
+2023-08-29T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,2,2,Aubstadt,Match Finished
+2023-09-01T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,3,2,Vilzing,Match Finished
+2023-09-01T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,4,3,Memmingen,Match Finished
+2023-09-01T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,0,1,FC Wurzburger Kickers,Match Finished
+2023-09-01T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,3,4,Nürnberg II,Match Finished
+2023-09-01T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,2,1,FC Schweinfurt 05,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,2,2,Bayreuth,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,4,0,Schalding-Heining,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,0,4,Wacker Burghausen,Match Finished
+2023-09-02T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,1,2,Türkgücü-Ataspor,Match Finished
+2023-09-08T15:30:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,2,0,Aubstadt,Match Finished
+2023-09-08T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,1,4,Illertissen,Match Finished
+2023-09-08T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,2,1,Viktoria Aschaffenburg,Match Finished
+2023-09-08T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,2,1,Wacker Burghausen,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,4,2,Buchbach,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,2,1,Greuther Fürth II,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,4,0,Eintracht Bamberg,Match Finished
+2023-10-31T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,4,0,Bayern München II,Match Finished
+2023-09-09T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,5,0,Ansbach,Match Finished
+2023-09-15T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,3,1,Augsburg II,Match Finished
+2024-03-28T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,2,0,FC Schweinfurt 05,Match Finished
+2023-09-15T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,0,1,Bayreuth,Match Finished
+2023-09-15T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,1,0,Schalding-Heining,Match Finished
+2023-09-16T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,1,3,Vilzing,Match Finished
+2023-09-16T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,3,1,Memmingen,Match Finished
+2023-09-15T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,0,3,Türkgücü-Ataspor,Match Finished
+2023-09-16T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,1,5,FC Wurzburger Kickers,Match Finished
+2023-09-15T15:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,2,0,Nürnberg II,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,3,2,Illertissen,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,2,1,Ansbach,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,2,2,Greuther Fürth II,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,1,1,Türkgücü-Ataspor,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,4,0,Eintracht Bamberg,Match Finished
+2023-09-22T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,3,0,Wacker Burghausen,Match Finished
+2023-09-22T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,5,0,Aubstadt,Match Finished
+2023-09-23T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,2,1,Viktoria Aschaffenburg,Match Finished
+2023-09-22T15:15:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,1,0,Buchbach,Match Finished
+2023-09-29T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,1,2,Vilzing,Match Finished
+2023-09-29T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,2,1,Memmingen,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,1,0,Augsburg II,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,0,0,Bayern München II,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,1,3,FC Schweinfurt 05,Match Finished
+2023-09-28T16:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,0,1,FC Wurzburger Kickers,Match Finished
+2023-09-29T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,1,4,Nürnberg II,Match Finished
+2023-09-30T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,2,2,Bayreuth,Match Finished
+2023-09-30T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,3,0,Schalding-Heining,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,0,2,FC Wurzburger Kickers,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,1,1,Türkgücü-Ataspor,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,1,0,Aubstadt,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,4,2,Ansbach,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,1,2,Viktoria Aschaffenburg,Match Finished
+2023-10-03T14:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,3,2,Buchbach,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,3,1,Greuther Fürth II,Match Finished
+2023-10-03T14:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,0,2,Eintracht Bamberg,Match Finished
+2023-10-03T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,1,1,Wacker Burghausen,Match Finished
+2023-10-08T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,2,1,Augsburg II,Match Finished
+2024-02-24T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,0,1,Bayern München II,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,4,0,Illertissen,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,5,0,FC Schweinfurt 05,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,3,1,Nürnberg II,Match Finished
+2023-10-08T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,1,0,Bayreuth,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,3,0,Schalding-Heining,Match Finished
+2023-10-07T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,1,4,Vilzing,Match Finished
+2023-10-08T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,1,2,Memmingen,Match Finished
+2024-04-24T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,0,0,Buchbach,Match Finished
+2023-10-13T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,2,3,Eintracht Bamberg,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,3,2,Nürnberg II,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,2,0,Ansbach,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,2,1,Viktoria Aschaffenburg,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,4,2,Greuther Fürth II,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,2,0,Wacker Burghausen,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,1,4,Türkgücü-Ataspor,Match Finished
+2023-10-14T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,1,2,FC Wurzburger Kickers,Match Finished
+2023-10-17T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,2,0,Ansbach,Match Finished
+2023-10-17T13:30:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,2,2,Bayreuth,Match Finished
+2023-10-17T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,2,2,Schalding-Heining,Match Finished
+2023-10-17T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,1,1,Vilzing,Match Finished
+2023-10-17T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,5,3,Memmingen,Match Finished
+2023-10-17T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,0,0,Augsburg II,Match Finished
+2024-05-11T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Bayern München II,Not Started
+2023-10-17T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,2,3,Illertissen,Match Finished
+2023-10-17T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,0,0,Aubstadt,Match Finished
+2023-10-20T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,6,3,Eintracht Bamberg,Match Finished
+2023-10-20T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,2,Türkgücü-Ataspor,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,3,0,Viktoria Aschaffenburg,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,3,1,Buchbach,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,2,2,Greuther Fürth II,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,3,1,Wacker Burghausen,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,1,3,FC Wurzburger Kickers,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,0,1,Nürnberg II,Match Finished
+2023-10-21T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,3,0,FC Schweinfurt 05,Match Finished
+2023-10-27T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,4,1,Wacker Burghausen,Match Finished
+2023-10-27T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,5,FC Wurzburger Kickers,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,0,2,FC Schweinfurt 05,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,4,1,Nürnberg II,Match Finished
+2023-10-27T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,0,1,Türkgücü-Ataspor,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,0,0,Eintracht Bamberg,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,3,0,Greuther Fürth II,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,5,0,Buchbach,Match Finished
+2023-10-28T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,0,0,Bayreuth,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,0,0,Vilzing,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,3,4,Ansbach,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,0,3,Aubstadt,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,3,2,Illertissen,Match Finished
+2023-11-05T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,2,0,Bayern München II,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,6,2,Augsburg II,Match Finished
+2023-11-05T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,2,1,Memmingen,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,3,1,Schalding-Heining,Match Finished
+2023-11-04T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,1,3,Viktoria Aschaffenburg,Match Finished
+2023-11-10T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,1,1,FC Wurzburger Kickers,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,1,2,Bayreuth,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,4,1,FC Schweinfurt 05,Match Finished
+2023-11-10T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,5,4,Nürnberg II,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,1,2,Türkgücü-Ataspor,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,0,1,Wacker Burghausen,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,0,0,Eintracht Bamberg,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,1,2,Greuther Fürth II,Match Finished
+2023-11-11T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,3,1,Schalding-Heining,Match Finished
+2023-11-17T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,0,1,Augsburg II,Match Finished
+2023-11-17T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,0,0,Ansbach,Match Finished
+2024-02-24T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,0,1,Aubstadt,Match Finished
+2023-11-17T17:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,2,0,Illertissen,Match Finished
+2024-04-02T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,2,0,Bayern München II,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,2,1,Memmingen,Match Finished
+2024-02-24T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,0,1,Vilzing,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,4,0,Buchbach,Match Finished
+2023-11-18T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,2,0,Viktoria Aschaffenburg,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,5,Vilzing,Match Finished
+2023-11-26T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,4,0,Bayreuth,Match Finished
+2024-03-12T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,2,0,FC Schweinfurt 05,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,3,1,Nürnberg II,Match Finished
+2024-04-02T15:45:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,1,1,FC Wurzburger Kickers,Match Finished
+2024-04-02T15:45:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,5,0,Türkgücü-Ataspor,Match Finished
+2023-11-25T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,1,1,Wacker Burghausen,Match Finished
+2024-02-24T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,0,0,Eintracht Bamberg,Match Finished
+2024-03-12T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,2,1,Schalding-Heining,Match Finished
+2024-03-01T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,0,1,Illertissen,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,4,0,Ansbach,Match Finished
+2024-03-03T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,1,1,Aubstadt,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,1,1,Bayern München II,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,1,1,Augsburg II,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,2,2,Memmingen,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,1,3,Greuther Fürth II,Match Finished
+2024-03-02T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,2,0,Buchbach,Match Finished
+2024-03-03T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,1,2,Viktoria Aschaffenburg,Match Finished
+2024-03-08T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,2,0,Vilzing,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,0,1,FC Schweinfurt 05,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,0,3,Nürnberg II,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,0,2,FC Wurzburger Kickers,Match Finished
+2024-03-08T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,1,0,Türkgücü-Ataspor,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,0,1,Wacker Burghausen,Match Finished
+2024-03-08T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,1,1,Memmingen,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,2,2,Bayreuth,Match Finished
+2024-03-09T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,3,0,Schalding-Heining,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,4,Bayern München II,Match Finished
+2024-03-18T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,2,0,Ansbach,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,0,1,Aubstadt,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,1,2,Illertissen,Match Finished
+2024-03-16T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,1,0,Augsburg II,Match Finished
+2024-03-15T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,2,2,Eintracht Bamberg,Match Finished
+2024-03-17T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,1,3,Greuther Fürth II,Match Finished
+2024-03-17T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,4,1,Viktoria Aschaffenburg,Match Finished
+2024-03-15T17:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,1,1,Buchbach,Match Finished
+2024-03-22T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,0,0,Augsburg II,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,2,0,FC Schweinfurt 05,Match Finished
+2024-03-22T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,1,3,Nürnberg II,Match Finished
+2024-04-16T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,3,1,FC Wurzburger Kickers,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,1,1,Türkgücü-Ataspor,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,3,1,Memmingen,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,0,2,Vilzing,Match Finished
+2024-03-23T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,1,2,Schalding-Heining,Match Finished
+2024-03-25T18:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,1,0,Bayreuth,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,1,Aubstadt,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,0,2,Buchbach,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,1,2,Ansbach,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,2,2,Illertissen,Match Finished
+2023-09-16T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,1,4,Bayern München II,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,0,4,Wacker Burghausen,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,4,0,Eintracht Bamberg,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,1,2,Greuther Fürth II,Match Finished
+2024-03-30T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,2,1,Viktoria Aschaffenburg,Match Finished
+2024-04-05T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,1,1,Schalding-Heining,Match Finished
+2024-04-07T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,3,3,FC Schweinfurt 05,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,2,6,Nürnberg II,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,0,1,FC Wurzburger Kickers,Match Finished
+2024-04-05T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,1,1,Bayern München II,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,1,1,Augsburg II,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,0,1,Memmingen,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,0,2,Vilzing,Match Finished
+2024-04-06T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,0,1,Bayreuth,Match Finished
+2024-04-12T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,1,1,Aubstadt,Match Finished
+2024-04-12T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,2,1,Eintracht Bamberg,Match Finished
+2024-04-12T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,0,0,Viktoria Aschaffenburg,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,3,0,Ansbach,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,0,2,Illertissen,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,4,0,Türkgücü-Ataspor,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,2,1,Wacker Burghausen,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,1,2,Greuther Fürth II,Match Finished
+2024-04-13T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,3,1,Buchbach,Match Finished
+2024-04-19T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,1,1,Augsburg II,Match Finished
+2024-04-19T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,3,2,Memmingen,Match Finished
+2024-04-19T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,3,0,FC Schweinfurt 05,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,0,2,Nürnberg II,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,0,2,Illertissen,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,0,2,Bayern München II,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,2,1,Vilzing,Match Finished
+2024-04-20T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,2,0,Schalding-Heining,Match Finished
+2024-04-19T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,1,1,Bayreuth,Match Finished
+2024-04-26T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,4,0,Türkgücü-Ataspor,Match Finished
+2024-04-26T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,1,0,Greuther Fürth II,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,1,1,Viktoria Aschaffenburg,Match Finished
+2024-04-26T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,4,0,Ansbach,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,2,2,Aubstadt,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,1,0,FC Wurzburger Kickers,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,1,2,Wacker Burghausen,Match Finished
+2024-04-27T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,0,1,Eintracht Bamberg,Match Finished
+2024-04-28T13:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,,,Buchbach,Not Started
+2024-05-03T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Illertissen,Not Started
+2024-05-03T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,,,Bayern München II,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,,,FC Schweinfurt 05,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,,,Aubstadt,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Augsburg II,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Memmingen,Not Started
+2024-05-04T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Vilzing,Not Started
+2024-05-03T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Schalding-Heining,Not Started
+2024-04-30T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Bayreuth,Not Started
+2024-05-10T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayreuth,,,Nürnberg II,Not Started
+2024-05-10T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Memmingen,,,Wacker Burghausen,Not Started
+2024-02-19T17:00:00+00:00,2023,Regionalliga - Bayern,Germany,Bayern München II,0,1,Greuther Fürth II,Match Finished
+2024-05-11T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Ansbach,,,FC Schweinfurt 05,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Schalding-Heining,,,FC Wurzburger Kickers,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Vilzing,,,Türkgücü-Ataspor,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Augsburg II,,,Eintracht Bamberg,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Illertissen,,,Buchbach,Not Started
+2024-05-11T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Aubstadt,,,Viktoria Aschaffenburg,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Viktoria Aschaffenburg,,,Ansbach,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Buchbach,,,Aubstadt,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Greuther Fürth II,,,Illertissen,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Eintracht Bamberg,,,Bayern München II,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Wacker Burghausen,,,Augsburg II,Not Started
+2024-05-17T16:30:00+00:00,2023,Regionalliga - Bayern,Germany,Türkgücü-Ataspor,,,Memmingen,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Wurzburger Kickers,,,Vilzing,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,Nürnberg II,,,Schalding-Heining,Not Started
+2024-05-18T12:00:00+00:00,2023,Regionalliga - Bayern,Germany,FC Schweinfurt 05,,,Bayreuth,Not Started

@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-13T14:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,2,1,Ümraniyespor,Match Finished
+2023-08-14T18:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,2,1,Altay,Match Finished
+2023-08-11T18:00:00+00:00,2023,1. Lig,Turkey,Boluspor,0,2,Adanaspor,Match Finished
+2023-08-12T14:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,0,1,Eyüpspor,Match Finished
+2023-08-12T18:45:00+00:00,2023,1. Lig,Turkey,Kocaelispor,0,2,Manisa BBSK,Match Finished
+2023-08-13T14:00:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,0,3,Yeni Çorumspor,Match Finished
+2023-08-13T16:15:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,1,Bandırmaspor,Match Finished
+2023-08-13T18:45:00+00:00,2023,1. Lig,Turkey,Goztepe,0,1,Sakaryaspor,Match Finished
+2023-08-12T16:15:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,1,BB Bodrumspor,Match Finished
+2023-08-19T18:45:00+00:00,2023,1. Lig,Turkey,Adanaspor,1,2,Şanlıurfaspor,Match Finished
+2023-08-20T16:15:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,0,0,Genclerbirligi,Match Finished
+2023-08-19T16:15:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,0,0,Goztepe,Match Finished
+2023-08-19T14:00:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,0,0,Erzurum BB,Match Finished
+2023-08-18T18:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,0,2,Giresunspor,Match Finished
+2023-08-20T14:00:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,0,0,Boluspor,Match Finished
+2023-08-21T18:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,2,0,Kocaelispor,Match Finished
+2023-08-20T18:45:00+00:00,2023,1. Lig,Turkey,Altay,1,0,Tuzlaspor,Match Finished
+2023-08-20T14:00:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,0,0,Keçiörengücü,Match Finished
+2023-08-26T14:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,1,0,BB Bodrumspor,Match Finished
+2023-08-26T16:15:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,1,1,Ümraniyespor,Match Finished
+2023-08-27T16:15:00+00:00,2023,1. Lig,Turkey,Boluspor,1,1,Şanlıurfaspor,Match Finished
+2023-08-27T14:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,1,0,Adanaspor,Match Finished
+2023-08-27T18:45:00+00:00,2023,1. Lig,Turkey,Kocaelispor,3,2,Altay,Match Finished
+2023-08-26T14:00:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,0,5,Eyüpspor,Match Finished
+2023-08-25T18:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,2,Manisa BBSK,Match Finished
+2023-08-26T18:45:00+00:00,2023,1. Lig,Turkey,Goztepe,1,2,Yeni Çorumspor,Match Finished
+2023-08-28T18:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,1,Bandırmaspor,Match Finished
+2023-09-01T18:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,0,2,Kocaelispor,Match Finished
+2023-09-03T18:45:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,0,Erzurum BB,Match Finished
+2023-09-02T16:15:00+00:00,2023,1. Lig,Turkey,Boluspor,0,0,Keçiörengücü,Match Finished
+2023-09-03T14:00:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,4,0,Ümraniyespor,Match Finished
+2023-09-03T16:15:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,0,1,Genclerbirligi,Match Finished
+2023-09-02T14:00:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,3,1,Sakaryaspor,Match Finished
+2023-09-02T18:45:00+00:00,2023,1. Lig,Turkey,Eyüpspor,3,1,Giresunspor,Match Finished
+2023-09-03T18:45:00+00:00,2023,1. Lig,Turkey,Altay,0,1,Goztepe,Match Finished
+2023-09-02T16:15:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,4,0,Tuzlaspor,Match Finished
+2023-09-17T16:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,1,3,Eyüpspor,Match Finished
+2023-09-18T17:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,0,2,BB Bodrumspor,Match Finished
+2023-09-16T16:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,0,3,Yeni Çorumspor,Match Finished
+2023-09-16T13:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,2,0,Şanlıurfaspor,Match Finished
+2023-09-16T16:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,2,1,Boluspor,Match Finished
+2023-09-17T13:00:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,2,1,Adanaspor,Match Finished
+2023-09-16T13:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,4,0,Altay,Match Finished
+2023-09-17T16:00:00+00:00,2023,1. Lig,Turkey,Goztepe,1,1,Bandırmaspor,Match Finished
+2023-09-17T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,0,Manisa BBSK,Match Finished
+2023-09-24T16:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,1,0,Erzurum BB,Match Finished
+2023-09-24T16:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,2,Kocaelispor,Match Finished
+2023-09-22T17:00:00+00:00,2023,1. Lig,Turkey,Boluspor,2,1,Tuzlaspor,Match Finished
+2023-09-23T13:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,3,1,Giresunspor,Match Finished
+2023-09-23T16:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,1,0,Sakaryaspor,Match Finished
+2023-09-24T13:00:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,4,1,Genclerbirligi,Match Finished
+2023-09-22T17:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,2,0,Ümraniyespor,Match Finished
+2023-09-25T17:00:00+00:00,2023,1. Lig,Turkey,Altay,1,1,BB Bodrumspor,Match Finished
+2023-09-23T16:00:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,0,1,Goztepe,Match Finished
+2023-09-30T16:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,1,1,Manisa BBSK,Match Finished
+2023-10-01T16:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,2,0,Eyüpspor,Match Finished
+2023-09-29T17:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,0,1,Bandırmaspor,Match Finished
+2023-10-01T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,2,1,Yeni Çorumspor,Match Finished
+2023-10-01T13:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,3,0,Keçiörengücü,Match Finished
+2023-09-30T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,1,Şanlıurfaspor,Match Finished
+2023-10-01T10:30:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,0,Boluspor,Match Finished
+2023-10-02T17:00:00+00:00,2023,1. Lig,Turkey,Goztepe,1,0,Adanaspor,Match Finished
+2023-09-30T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,0,Altay,Match Finished
+2023-10-08T13:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,4,2,Giresunspor,Match Finished
+2023-10-07T13:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,1,2,Genclerbirligi,Match Finished
+2023-10-08T13:00:00+00:00,2023,1. Lig,Turkey,Boluspor,0,2,Goztepe,Match Finished
+2023-10-08T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,0,2,Tuzlaspor,Match Finished
+2023-10-06T17:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,1,1,Erzurum BB,Match Finished
+2023-10-07T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,0,0,Yeni Çorumspor,Match Finished
+2023-10-07T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,3,0,BB Bodrumspor,Match Finished
+2023-10-08T16:00:00+00:00,2023,1. Lig,Turkey,Altay,0,3,Ümraniyespor,Match Finished
+2023-10-07T10:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,1,1,Sakaryaspor,Match Finished
+2023-10-23T17:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,3,0,Altay,Match Finished
+2023-10-21T13:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,2,0,Adanaspor,Match Finished
+2023-10-22T13:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,3,2,Manisa BBSK,Match Finished
+2023-10-22T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,2,1,Bandırmaspor,Match Finished
+2023-10-22T16:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,2,3,Eyüpspor,Match Finished
+2023-10-21T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,2,Kocaelispor,Match Finished
+2023-10-21T10:30:00+00:00,2023,1. Lig,Turkey,Erzurum BB,0,1,Keçiörengücü,Match Finished
+2023-10-21T16:00:00+00:00,2023,1. Lig,Turkey,Goztepe,3,0,Şanlıurfaspor,Match Finished
+2023-10-22T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,1,Boluspor,Match Finished
+2023-10-29T13:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,1,0,Ümraniyespor,Match Finished
+2023-10-27T17:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,0,Giresunspor,Match Finished
+2023-10-28T13:00:00+00:00,2023,1. Lig,Turkey,Boluspor,2,1,BB Bodrumspor,Match Finished
+2023-10-28T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,0,1,Goztepe,Match Finished
+2023-10-28T16:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,2,2,Genclerbirligi,Match Finished
+2023-10-28T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,0,1,Erzurum BB,Match Finished
+2023-10-29T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,0,1,Bandırmaspor,Match Finished
+2023-10-29T13:00:00+00:00,2023,1. Lig,Turkey,Altay,1,2,Sakaryaspor,Match Finished
+2023-10-29T10:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,2,2,Yeni Çorumspor,Match Finished
+2023-11-04T13:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,0,0,Boluspor,Match Finished
+2023-11-03T17:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,1,1,Şanlıurfaspor,Match Finished
+2023-11-06T17:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,1,1,Tuzlaspor,Match Finished
+2023-11-05T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,2,0,Manisa BBSK,Match Finished
+2023-11-04T10:30:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,2,3,Keçiörengücü,Match Finished
+2023-11-05T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,2,0,Altay,Match Finished
+2023-11-05T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,4,1,Adanaspor,Match Finished
+2023-11-04T16:00:00+00:00,2023,1. Lig,Turkey,Goztepe,0,1,Kocaelispor,Match Finished
+2023-11-05T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,1,0,Erzurum BB,Match Finished
+2023-11-10T17:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,0,2,Genclerbirligi,Match Finished
+2023-11-11T13:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,1,Ümraniyespor,Match Finished
+2023-11-12T10:30:00+00:00,2023,1. Lig,Turkey,Boluspor,2,3,Sakaryaspor,Match Finished
+2023-11-11T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,1,1,BB Bodrumspor,Match Finished
+2023-11-12T16:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,2,1,Yeni Çorumspor,Match Finished
+2023-11-11T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,3,1,Giresunspor,Match Finished
+2023-11-12T13:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,3,2,Goztepe,Match Finished
+2023-11-11T16:00:00+00:00,2023,1. Lig,Turkey,Altay,1,7,Eyüpspor,Match Finished
+2023-11-12T10:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,0,2,Bandırmaspor,Match Finished
+2023-11-27T17:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,1,1,Keçiörengücü,Match Finished
+2023-11-24T17:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,2,2,Erzurum BB,Match Finished
+2023-11-25T13:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,1,2,Boluspor,Match Finished
+2023-11-25T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,0,1,Adanaspor,Match Finished
+2023-11-26T10:30:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,3,0,Altay,Match Finished
+2023-11-25T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,0,1,Şanlıurfaspor,Match Finished
+2023-11-26T13:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,2,1,Manisa BBSK,Match Finished
+2023-11-26T16:00:00+00:00,2023,1. Lig,Turkey,Goztepe,2,0,Tuzlaspor,Match Finished
+2023-11-25T16:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,1,4,Kocaelispor,Match Finished
+2023-12-01T17:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,0,3,Yeni Çorumspor,Match Finished
+2023-12-02T16:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,2,BB Bodrumspor,Match Finished
+2023-12-02T13:00:00+00:00,2023,1. Lig,Turkey,Boluspor,0,3,Eyüpspor,Match Finished
+2023-12-02T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,1,3,Sakaryaspor,Match Finished
+2023-12-01T17:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,0,3,Ümraniyespor,Match Finished
+2023-12-02T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,1,Bandırmaspor,Match Finished
+2023-12-03T13:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,1,Genclerbirligi,Match Finished
+2023-12-03T16:00:00+00:00,2023,1. Lig,Turkey,Goztepe,3,0,Giresunspor,Match Finished
+2023-12-03T10:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,3,0,Altay,Match Finished
+2023-12-10T13:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,0,3,Goztepe,Match Finished
+2023-12-09T16:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,3,1,Giresunspor,Match Finished
+2023-12-09T13:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,2,0,Keçiörengücü,Match Finished
+2023-12-09T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,1,1,Tuzlaspor,Match Finished
+2023-12-10T10:30:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,4,1,Erzurum BB,Match Finished
+2023-12-09T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,0,3,Kocaelispor,Match Finished
+2023-12-10T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,4,0,Şanlıurfaspor,Match Finished
+2023-12-11T17:00:00+00:00,2023,1. Lig,Turkey,Altay,0,1,Boluspor,Match Finished
+2023-12-10T10:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,1,1,Adanaspor,Match Finished
+2023-12-20T14:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,0,1,Altay,Match Finished
+2023-12-21T14:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,1,1,Yeni Çorumspor,Match Finished
+2023-12-21T11:00:00+00:00,2023,1. Lig,Turkey,Boluspor,1,0,Manisa BBSK,Match Finished
+2023-12-20T11:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,1,3,Bandırmaspor,Match Finished
+2023-12-19T17:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,1,1,BB Bodrumspor,Match Finished
+2023-12-19T11:00:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,3,Sakaryaspor,Match Finished
+2023-12-20T11:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,1,Ümraniyespor,Match Finished
+2023-12-20T17:00:00+00:00,2023,1. Lig,Turkey,Goztepe,5,1,Eyüpspor,Match Finished
+2023-12-19T14:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,1,Genclerbirligi,Match Finished
+2023-12-23T10:30:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,0,2,Tuzlaspor,Match Finished
+2023-12-23T16:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,3,1,Kocaelispor,Match Finished
+2023-12-24T13:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,2,1,Giresunspor,Match Finished
+2023-12-24T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,3,0,Goztepe,Match Finished
+2023-12-25T14:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,2,0,Boluspor,Match Finished
+2023-12-24T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,2,3,Adanaspor,Match Finished
+2023-12-25T17:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,3,0,Erzurum BB,Match Finished
+2023-12-24T16:00:00+00:00,2023,1. Lig,Turkey,Altay,2,1,Keçiörengücü,Match Finished
+2023-12-25T11:00:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,1,1,Şanlıurfaspor,Match Finished
+2024-01-14T16:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,1,1,Genclerbirligi,Match Finished
+2024-01-15T17:00:00+00:00,2023,1. Lig,Turkey,Altay,1,0,Şanlıurfaspor,Match Finished
+2024-01-13T13:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,1,1,Boluspor,Match Finished
+2024-01-13T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,2,0,Keçiörengücü,Match Finished
+2024-01-14T10:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,2,1,Kocaelispor,Match Finished
+2024-01-14T13:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,2,1,Tuzlaspor,Match Finished
+2024-01-13T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,0,0,Erzurum BB,Match Finished
+2024-01-12T17:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,1,2,Goztepe,Match Finished
+2024-01-13T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,4,0,Giresunspor,Match Finished
+2024-01-21T13:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,4,0,Adanaspor,Match Finished
+2024-01-21T16:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,3,1,Sakaryaspor,Match Finished
+2024-01-22T17:00:00+00:00,2023,1. Lig,Turkey,Goztepe,4,1,Ümraniyespor,Match Finished
+2024-01-20T10:30:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,0,BB Bodrumspor,Match Finished
+2024-01-19T17:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,3,Yeni Çorumspor,Match Finished
+2024-01-20T13:00:00+00:00,2023,1. Lig,Turkey,Boluspor,2,1,Bandırmaspor,Match Finished
+2024-01-20T16:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,2,1,Eyüpspor,Match Finished
+2024-01-21T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,2,0,Altay,Match Finished
+2024-01-21T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,1,1,Manisa BBSK,Match Finished
+2024-01-28T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,1,0,Genclerbirligi,Match Finished
+2024-01-28T13:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,1,1,Sakaryaspor,Match Finished
+2024-01-29T17:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,1,Boluspor,Match Finished
+2024-01-26T17:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,1,2,Keçiörengücü,Match Finished
+2024-01-28T16:00:00+00:00,2023,1. Lig,Turkey,Altay,0,2,Kocaelispor,Match Finished
+2024-01-27T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,4,0,Tuzlaspor,Match Finished
+2024-01-27T10:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,0,2,Erzurum BB,Match Finished
+2024-01-27T13:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,1,1,Goztepe,Match Finished
+2024-01-28T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,6,0,Giresunspor,Match Finished
+2024-02-03T13:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,1,0,Adanaspor,Match Finished
+2024-02-04T10:30:00+00:00,2023,1. Lig,Turkey,Erzurum BB,2,0,Şanlıurfaspor,Match Finished
+2024-02-03T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,1,2,Boluspor,Match Finished
+2024-02-03T10:30:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,1,2,BB Bodrumspor,Match Finished
+2024-02-04T13:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,0,0,Yeni Çorumspor,Match Finished
+2024-02-02T17:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,1,0,Bandırmaspor,Match Finished
+2024-02-04T16:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,0,Eyüpspor,Match Finished
+2024-02-03T16:00:00+00:00,2023,1. Lig,Turkey,Goztepe,4,0,Altay,Match Finished
+2024-02-04T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,2,1,Manisa BBSK,Match Finished
+2024-02-12T17:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,1,0,Genclerbirligi,Match Finished
+2024-02-10T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,0,0,Sakaryaspor,Match Finished
+2024-02-09T17:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,0,1,Ümraniyespor,Match Finished
+2024-02-10T13:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,1,Keçiörengücü,Match Finished
+2024-02-11T13:00:00+00:00,2023,1. Lig,Turkey,Boluspor,1,1,Kocaelispor,Match Finished
+2024-02-11T10:30:00+00:00,2023,1. Lig,Turkey,Adanaspor,2,1,Tuzlaspor,Match Finished
+2024-02-10T16:00:00+00:00,2023,1. Lig,Turkey,Altay,0,0,Erzurum BB,Match Finished
+2024-02-11T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,0,2,Goztepe,Match Finished
+2024-02-11T16:00:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,2,0,Giresunspor,Match Finished
+2024-02-18T10:30:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,0,Adanaspor,Match Finished
+2024-02-17T16:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,0,1,Şanlıurfaspor,Match Finished
+2024-02-17T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,2,Boluspor,Match Finished
+2024-02-17T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,1,Keçiörengücü,Match Finished
+2024-02-18T13:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,3,1,Yeni Çorumspor,Match Finished
+2024-02-19T11:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,0,1,Bandırmaspor,Match Finished
+2024-02-18T16:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,1,3,Eyüpspor,Match Finished
+2024-02-18T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,3,0,Altay,Match Finished
+2024-02-16T17:00:00+00:00,2023,1. Lig,Turkey,Goztepe,0,0,Manisa BBSK,Match Finished
+2024-02-25T13:00:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,1,1,Genclerbirligi,Match Finished
+2024-02-25T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,3,2,Sakaryaspor,Match Finished
+2024-02-24T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,4,1,Ümraniyespor,Match Finished
+2024-02-24T13:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,2,1,BB Bodrumspor,Match Finished
+2024-02-25T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,2,2,Kocaelispor,Match Finished
+2024-02-26T17:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,0,Tuzlaspor,Match Finished
+2024-02-25T10:30:00+00:00,2023,1. Lig,Turkey,Boluspor,1,0,Erzurum BB,Match Finished
+2024-02-24T16:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,0,3,Goztepe,Match Finished
+2024-02-23T17:00:00+00:00,2023,1. Lig,Turkey,Altay,1,0,Giresunspor,Match Finished
+2024-03-03T10:30:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,1,Adanaspor,Match Finished
+2024-03-04T11:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,1,1,Şanlıurfaspor,Match Finished
+2024-03-03T13:00:00+00:00,2023,1. Lig,Turkey,Goztepe,2,0,Boluspor,Match Finished
+2024-03-02T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,1,Keçiörengücü,Match Finished
+2024-03-02T13:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,0,0,Kocaelispor,Match Finished
+2024-03-03T16:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,0,0,Bandırmaspor,Match Finished
+2024-03-02T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,0,1,Eyüpspor,Match Finished
+2024-03-01T17:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,2,0,Altay,Match Finished
+2024-03-02T16:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,2,0,Manisa BBSK,Match Finished
+2024-03-10T10:30:00+00:00,2023,1. Lig,Turkey,Altay,0,4,Genclerbirligi,Match Finished
+2024-03-09T13:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,0,0,Sakaryaspor,Match Finished
+2024-03-11T17:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,3,2,Ümraniyespor,Match Finished
+2024-03-09T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,0,0,BB Bodrumspor,Match Finished
+2024-03-09T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,0,1,Yeni Çorumspor,Match Finished
+2024-03-10T16:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,1,2,Tuzlaspor,Match Finished
+2024-03-10T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,0,2,Erzurum BB,Match Finished
+2024-03-10T13:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,0,1,Goztepe,Match Finished
+2024-03-08T17:00:00+00:00,2023,1. Lig,Turkey,Boluspor,2,1,Giresunspor,Match Finished
+2024-03-17T13:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,2,0,Adanaspor,Match Finished
+2024-03-17T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,6,Şanlıurfaspor,Match Finished
+2024-03-17T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,1,1,Boluspor,Match Finished
+2024-03-16T17:30:00+00:00,2023,1. Lig,Turkey,Goztepe,0,0,Keçiörengücü,Match Finished
+2024-03-15T17:30:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,2,0,Kocaelispor,Match Finished
+2024-03-17T10:30:00+00:00,2023,1. Lig,Turkey,Erzurum BB,1,0,Tuzlaspor,Match Finished
+2024-03-16T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,2,3,Eyüpspor,Match Finished
+2024-03-17T17:30:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,2,0,Altay,Match Finished
+2024-03-16T13:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,4,3,Manisa BBSK,Match Finished
+2024-04-02T14:00:00+00:00,2023,1. Lig,Turkey,Boluspor,1,2,Genclerbirligi,Match Finished
+2024-04-02T11:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,2,0,Sakaryaspor,Match Finished
+2024-04-03T11:00:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,1,Ümraniyespor,Match Finished
+2024-04-02T17:30:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,0,1,BB Bodrumspor,Match Finished
+2024-04-02T11:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,1,2,Yeni Çorumspor,Match Finished
+2024-04-03T17:30:00+00:00,2023,1. Lig,Turkey,Altay,0,6,Bandırmaspor,Match Finished
+2024-04-03T14:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,1,0,Eyüpspor,Match Finished
+2024-04-03T17:30:00+00:00,2023,1. Lig,Turkey,Kocaelispor,3,2,Goztepe,Match Finished
+2024-04-04T17:30:00+00:00,2023,1. Lig,Turkey,Erzurum BB,2,1,Giresunspor,Match Finished
+2024-04-07T13:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,1,1,Adanaspor,Match Finished
+2024-04-06T13:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,0,1,Şanlıurfaspor,Match Finished
+2024-04-06T17:30:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,2,0,Boluspor,Match Finished
+2024-04-06T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,0,0,Keçiörengücü,Match Finished
+2024-04-07T10:30:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,1,1,Kocaelispor,Match Finished
+2024-04-08T14:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,3,Tuzlaspor,Match Finished
+2024-04-08T17:30:00+00:00,2023,1. Lig,Turkey,Goztepe,3,0,Erzurum BB,Match Finished
+2024-04-07T13:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,4,1,Altay,Match Finished
+2024-04-07T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,1,1,Manisa BBSK,Match Finished
+2024-04-13T10:30:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,2,1,Genclerbirligi,Match Finished
+2024-04-15T14:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,0,0,Sakaryaspor,Match Finished
+2024-04-13T13:00:00+00:00,2023,1. Lig,Turkey,Boluspor,1,0,Ümraniyespor,Match Finished
+2024-04-15T17:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,1,1,BB Bodrumspor,Match Finished
+2024-04-13T16:00:00+00:00,2023,1. Lig,Turkey,Altay,1,3,Yeni Çorumspor,Match Finished
+2024-04-14T13:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,1,1,Bandırmaspor,Match Finished
+2024-04-12T17:00:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,2,2,Eyüpspor,Match Finished
+2024-04-14T10:30:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,1,1,Goztepe,Match Finished
+2024-04-14T16:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,2,0,Giresunspor,Match Finished
+2024-04-21T13:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,2,0,Adanaspor,Match Finished
+2024-04-21T10:30:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,2,1,Şanlıurfaspor,Match Finished
+2024-04-20T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,0,0,Boluspor,Match Finished
+2024-04-21T16:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,2,1,Keçiörengücü,Match Finished
+2024-04-22T17:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,1,0,Kocaelispor,Match Finished
+2024-04-20T10:30:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,1,1,Tuzlaspor,Match Finished
+2024-04-21T13:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,2,0,Erzurum BB,Match Finished
+2024-04-20T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,0,3,Goztepe,Match Finished
+2024-04-19T17:00:00+00:00,2023,1. Lig,Turkey,Altay,0,2,Manisa BBSK,Match Finished
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Goztepe,,,Genclerbirligi,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,,,Sakaryaspor,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,,,Ümraniyespor,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,,,BB Bodrumspor,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,,,Yeni Çorumspor,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,,,Bandırmaspor,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,,,Eyüpspor,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Boluspor,,,Altay,Not Started
+2024-04-28T13:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,,,Manisa BBSK,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Altay,,,Adanaspor,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Yeni Çorumspor,,,Şanlıurfaspor,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Manisa BBSK,,,Boluspor,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Bandırmaspor,,,Keçiörengücü,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,BB Bodrumspor,,,Kocaelispor,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Sakaryaspor,,,Tuzlaspor,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Ümraniyespor,,,Erzurum BB,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Eyüpspor,,,Goztepe,Not Started
+2024-05-05T16:00:00+00:00,2023,1. Lig,Turkey,Genclerbirligi,,,Giresunspor,Not Started
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Tuzlaspor,,,Genclerbirligi,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Kocaelispor,,,Sakaryaspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Giresunspor,,,Ümraniyespor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Goztepe,,,BB Bodrumspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Boluspor,,,Yeni Çorumspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Adanaspor,,,Bandırmaspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Erzurum BB,,,Eyüpspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Keçiörengücü,,,Altay,Time to be defined
+2024-05-12T00:00:00+00:00,2023,1. Lig,Turkey,Şanlıurfaspor,,,Manisa BBSK,Time to be defined

@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-26T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,2,1,Malaga,Match Finished
+2023-08-27T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,3,1,Sanluqueño,Match Finished
+2023-08-27T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,2,3,Ibiza,Match Finished
+2023-08-27T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,1,2,Real Murcia,Match Finished
+2023-08-27T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,3,1,Intercity,Match Finished
+2023-08-27T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,1,1,Algeciras,Match Finished
+2023-08-26T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,2,0,Antequera,Match Finished
+2023-08-26T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,1,0,Linares Deportivo,Match Finished
+2023-08-27T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,0,1,AD Ceuta FC,Match Finished
+2023-08-27T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,2,2,Melilla,Match Finished
+2023-09-03T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,2,1,San Fernando CD,Match Finished
+2023-09-03T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,1,2,Real Madrid II,Match Finished
+2023-09-03T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,0,0,Recreativo Huelva,Match Finished
+2023-09-03T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,1,2,Castellón,Match Finished
+2023-09-03T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,1,0,Alcoyano,Match Finished
+2023-09-02T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,2,1,Atlético Madrid II,Match Finished
+2023-09-02T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,3,Cordoba,Match Finished
+2023-09-02T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,0,Granada II,Match Finished
+2023-09-02T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,1,0,Atlético Baleares,Match Finished
+2023-09-02T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,2,2,Mérida AD,Match Finished
+2023-09-10T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,3,1,Intercity,Match Finished
+2023-09-10T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,0,2,Ibiza,Match Finished
+2023-09-10T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,1,3,AD Ceuta FC,Match Finished
+2023-09-09T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,2,1,Real Madrid II,Match Finished
+2023-09-09T18:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,2,3,Sanluqueño,Match Finished
+2023-09-10T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,1,2,Malaga,Match Finished
+2023-09-09T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,1,1,Algeciras,Match Finished
+2023-09-10T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,3,1,Cordoba,Match Finished
+2023-09-09T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,0,0,Antequera,Match Finished
+2023-09-10T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,2,0,Melilla,Match Finished
+2023-09-16T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,3,1,San Fernando CD,Match Finished
+2023-09-17T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,2,0,Mérida AD,Match Finished
+2023-09-16T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,0,1,Linares Deportivo,Match Finished
+2023-09-17T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,1,1,Castellón,Match Finished
+2023-10-11T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,3,1,Real Murcia,Match Finished
+2023-09-17T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,1,0,Alcoyano,Match Finished
+2023-09-16T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,2,2,Atlético Madrid II,Match Finished
+2023-09-16T19:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,3,0,Granada II,Match Finished
+2023-09-17T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,0,0,Recreativo Huelva,Match Finished
+2023-09-17T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,5,0,Atlético Baleares,Match Finished
+2023-09-24T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,0,1,Cordoba,Match Finished
+2023-09-23T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,1,1,Ibiza,Match Finished
+2023-09-23T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,1,0,Intercity,Match Finished
+2023-09-24T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,1,Malaga,Match Finished
+2023-09-24T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,1,2,AD Ceuta FC,Match Finished
+2023-09-23T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,0,1,Real Madrid II,Match Finished
+2023-09-23T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,0,3,Castellón,Match Finished
+2023-09-24T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,1,2,Algeciras,Match Finished
+2023-09-24T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,0,3,Antequera,Match Finished
+2023-09-24T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,1,1,Real Murcia,Match Finished
+2023-09-30T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,5,1,Mérida AD,Match Finished
+2023-10-01T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,1,1,Sanluqueño,Match Finished
+2023-09-30T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,3,0,Granada II,Match Finished
+2023-10-01T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,0,San Fernando CD,Match Finished
+2023-10-01T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,3,0,Atlético Baleares,Match Finished
+2023-10-01T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,4,1,Linares Deportivo,Match Finished
+2023-10-01T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,0,0,Melilla,Match Finished
+2023-10-01T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,0,0,Alcoyano,Match Finished
+2023-10-01T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,0,0,Atlético Madrid II,Match Finished
+2023-09-30T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,1,2,Recreativo Huelva,Match Finished
+2023-10-07T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,4,1,Real Madrid II,Match Finished
+2023-10-08T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,4,2,San Fernando CD,Match Finished
+2023-10-07T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,1,0,Cordoba,Match Finished
+2023-10-08T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,1,Malaga,Match Finished
+2023-10-08T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,1,Real Murcia,Match Finished
+2023-10-08T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,0,Alcoyano,Match Finished
+2023-10-08T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,1,2,Intercity,Match Finished
+2023-10-07T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,0,1,Antequera,Match Finished
+2023-10-07T17:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,1,1,Ibiza,Match Finished
+2023-10-08T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,2,1,AD Ceuta FC,Match Finished
+2023-10-14T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,1,1,Linares Deportivo,Match Finished
+2023-10-15T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,1,0,Sanluqueño,Match Finished
+2023-10-14T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,2,1,Mérida AD,Match Finished
+2023-10-12T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,0,Melilla,Match Finished
+2023-10-15T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,1,1,Intercity,Match Finished
+2023-10-15T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,1,3,Castellón,Match Finished
+2023-10-14T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,3,Atlético Madrid II,Match Finished
+2023-10-15T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,0,Algeciras,Match Finished
+2023-10-15T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,2,1,Granada II,Match Finished
+2023-10-15T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,5,2,Recreativo Huelva,Match Finished
+2023-10-21T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,1,0,AD Ceuta FC,Match Finished
+2023-10-22T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,1,Ibiza,Match Finished
+2023-10-21T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,0,0,Real Madrid II,Match Finished
+2023-10-22T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,1,San Fernando CD,Match Finished
+2023-10-21T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,0,1,Real Murcia,Match Finished
+2023-11-29T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,0,Alcoyano,Match Finished
+2023-10-22T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,2,0,Atlético Madrid II,Match Finished
+2023-11-22T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,1,2,Cordoba,Match Finished
+2023-10-22T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,0,1,Antequera,Match Finished
+2023-10-22T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,0,0,Atlético Baleares,Match Finished
+2023-10-29T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,1,0,Algeciras,Match Finished
+2023-10-29T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,1,1,Mérida AD,Match Finished
+2023-10-29T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,1,0,Recreativo Huelva,Match Finished
+2023-10-28T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,2,1,Sanluqueño,Match Finished
+2023-10-29T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,0,2,Malaga,Match Finished
+2023-10-29T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,1,0,Melilla,Match Finished
+2023-10-29T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,1,3,Intercity,Match Finished
+2023-10-28T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,2,0,Castellón,Match Finished
+2023-10-28T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,0,Linares Deportivo,Match Finished
+2023-10-29T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,1,1,AD Ceuta FC,Match Finished
+2023-11-04T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,1,0,Sanluqueño,Match Finished
+2023-11-04T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,0,San Fernando CD,Match Finished
+2023-11-04T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,5,2,Granada II,Match Finished
+2023-11-05T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,1,0,Real Murcia,Match Finished
+2023-11-05T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,2,0,Alcoyano,Match Finished
+2023-11-05T10:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,2,1,Atlético Madrid II,Match Finished
+2023-11-04T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,1,1,Algeciras,Match Finished
+2023-11-05T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,1,Cordoba,Match Finished
+2023-11-05T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,5,0,Atlético Baleares,Match Finished
+2023-11-05T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,1,2,Ibiza,Match Finished
+2023-11-12T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,3,0,Melilla,Match Finished
+2023-11-11T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,1,2,Recreativo Huelva,Match Finished
+2023-11-11T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,0,1,Intercity,Match Finished
+2023-11-12T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,0,0,Real Madrid II,Match Finished
+2023-11-12T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,1,0,Mérida AD,Match Finished
+2023-11-12T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,1,1,Malaga,Match Finished
+2023-11-12T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,3,Castellón,Match Finished
+2023-11-11T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,0,1,Antequera,Match Finished
+2023-11-12T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,3,2,Linares Deportivo,Match Finished
+2023-11-12T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,3,3,AD Ceuta FC,Match Finished
+2023-11-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,0,0,Real Murcia,Match Finished
+2023-11-18T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,1,6,Cordoba,Match Finished
+2023-11-19T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,0,Sanluqueño,Match Finished
+2023-11-19T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,2,0,Linares Deportivo,Match Finished
+2023-11-19T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,1,0,Granada II,Match Finished
+2023-11-18T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,0,2,San Fernando CD,Match Finished
+2023-11-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,2,Alcoyano,Match Finished
+2023-11-19T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,1,2,Algeciras,Match Finished
+2023-11-19T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,4,2,Atlético Baleares,Match Finished
+2023-11-19T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,0,3,Ibiza,Match Finished
+2023-11-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,0,0,Real Madrid II,Match Finished
+2023-11-26T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,2,2,Atlético Madrid II,Match Finished
+2023-11-26T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,2,0,Castellón,Match Finished
+2023-11-26T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,1,1,Intercity,Match Finished
+2023-11-26T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,0,0,Recreativo Huelva,Match Finished
+2023-11-26T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,4,Malaga,Match Finished
+2023-11-25T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,3,0,Antequera,Match Finished
+2023-11-26T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,2,Atlético Baleares,Match Finished
+2023-11-25T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,1,1,AD Ceuta FC,Match Finished
+2023-11-26T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,4,1,Melilla,Match Finished
+2023-12-02T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,4,1,Linares Deportivo,Match Finished
+2023-12-02T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,0,1,Mérida AD,Match Finished
+2023-12-03T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,2,1,San Fernando CD,Match Finished
+2023-12-02T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,3,2,Granada II,Match Finished
+2023-12-03T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,0,1,Real Murcia,Match Finished
+2023-12-02T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,0,0,Sanluqueño,Match Finished
+2023-12-03T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,0,1,Ibiza,Match Finished
+2023-12-03T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,2,1,Alcoyano,Match Finished
+2023-12-03T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,0,1,Algeciras,Match Finished
+2023-12-03T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,0,1,Cordoba,Match Finished
+2023-12-09T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,0,3,Atlético Madrid II,Match Finished
+2023-12-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,0,0,Ibiza,Match Finished
+2023-12-09T13:15:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,1,1,Real Madrid II,Match Finished
+2023-12-09T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,2,0,Castellón,Match Finished
+2023-12-10T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,2,Recreativo Huelva,Match Finished
+2023-12-10T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,1,2,Malaga,Match Finished
+2023-12-10T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,2,Antequera,Match Finished
+2023-12-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,1,1,Atlético Baleares,Match Finished
+2023-12-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,3,2,AD Ceuta FC,Match Finished
+2023-12-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,2,0,Melilla,Match Finished
+2023-12-17T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,2,1,Real Murcia,Match Finished
+2023-12-17T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,0,0,Sanluqueño,Match Finished
+2023-12-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,0,Cordoba,Match Finished
+2023-12-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,1,1,Mérida AD,Match Finished
+2023-12-17T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,0,3,Alcoyano,Match Finished
+2023-12-16T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,3,3,Intercity,Match Finished
+2023-12-17T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,2,1,Algeciras,Match Finished
+2023-12-16T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,0,Granada II,Match Finished
+2023-12-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,3,0,Antequera,Match Finished
+2023-12-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,1,0,Linares Deportivo,Match Finished
+2024-01-03T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,1,0,Mérida AD,Match Finished
+2024-01-02T20:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,2,2,Malaga,Match Finished
+2024-01-02T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,2,3,Recreativo Huelva,Match Finished
+2024-01-04T20:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,1,2,Real Madrid II,Match Finished
+2024-01-04T10:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,1,Melilla,Match Finished
+2024-01-03T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,0,0,AD Ceuta FC,Match Finished
+2024-01-03T15:30:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,3,2,San Fernando CD,Match Finished
+2024-01-03T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,0,2,Castellón,Match Finished
+2024-01-02T20:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,1,Atlético Madrid II,Match Finished
+2024-01-03T20:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,0,Atlético Baleares,Match Finished
+2024-01-14T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,2,1,Antequera,Match Finished
+2024-01-14T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,5,0,Linares Deportivo,Match Finished
+2024-01-13T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,1,0,Sanluqueño,Match Finished
+2024-01-13T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,1,0,Intercity,Match Finished
+2024-01-14T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,2,Recreativo Huelva,Match Finished
+2024-01-14T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,3,2,Malaga,Match Finished
+2024-01-14T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,0,0,Real Murcia,Match Finished
+2024-01-13T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,2,1,Algeciras,Match Finished
+2024-01-14T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,1,0,Granada II,Match Finished
+2024-01-13T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,1,1,Ibiza,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,1,0,Melilla,Match Finished
+2024-01-20T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,1,0,Atlético Madrid II,Match Finished
+2024-01-20T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,2,0,Mérida AD,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,0,0,San Fernando CD,Match Finished
+2024-01-21T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,0,1,Castellón,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,3,0,Alcoyano,Match Finished
+2024-01-20T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,2,1,Real Madrid II,Match Finished
+2024-01-21T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,1,Cordoba,Match Finished
+2024-01-21T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,1,1,Granada II,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,2,0,Atlético Baleares,Match Finished
+2024-01-27T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,2,0,Recreativo Huelva,Match Finished
+2024-01-27T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,0,0,Real Murcia,Match Finished
+2024-01-27T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,2,Malaga,Match Finished
+2024-01-28T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,0,Sanluqueño,Match Finished
+2024-01-28T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,0,0,Atlético Madrid II,Match Finished
+2024-01-28T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,0,0,Algeciras,Match Finished
+2024-01-28T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,4,1,Antequera,Match Finished
+2024-01-28T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,0,0,Linares Deportivo,Match Finished
+2024-01-28T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,0,1,Ibiza,Match Finished
+2024-01-28T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,2,0,AD Ceuta FC,Match Finished
+2024-02-03T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,1,1,Castellón,Match Finished
+2024-02-04T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,2,0,Melilla,Match Finished
+2024-02-04T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,2,2,Mérida AD,Match Finished
+2024-02-03T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,3,0,San Fernando CD,Match Finished
+2024-02-04T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,2,0,Real Madrid II,Match Finished
+2024-02-03T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,1,1,Alcoyano,Match Finished
+2024-02-04T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,3,0,Intercity,Match Finished
+2024-02-03T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,2,Cordoba,Match Finished
+2024-02-04T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,1,0,Granada II,Match Finished
+2024-02-04T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,3,0,Atlético Baleares,Match Finished
+2024-02-11T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,2,2,AD Ceuta FC,Match Finished
+2024-02-10T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,2,3,Real Murcia,Match Finished
+2024-02-11T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,2,Linares Deportivo,Match Finished
+2024-02-11T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,0,0,Sanluqueño,Match Finished
+2024-02-11T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,4,1,Atlético Madrid II,Match Finished
+2024-02-10T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,1,0,Algeciras,Match Finished
+2024-02-11T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,1,1,Recreativo Huelva,Match Finished
+2024-02-11T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,1,0,Malaga,Match Finished
+2024-02-11T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,2,1,Antequera,Match Finished
+2024-02-11T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,0,1,Mérida AD,Match Finished
+2024-02-18T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,3,0,Atlético Baleares,Match Finished
+2024-02-17T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,3,0,Real Madrid II,Match Finished
+2024-02-17T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,2,1,San Fernando CD,Match Finished
+2024-02-18T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,1,1,Cordoba,Match Finished
+2024-02-17T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,2,1,Castellón,Match Finished
+2024-02-18T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,0,2,Alcoyano,Match Finished
+2024-02-18T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,0,1,Intercity,Match Finished
+2024-02-18T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,1,0,Granada II,Match Finished
+2024-02-18T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,2,0,Recreativo Huelva,Match Finished
+2024-02-18T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,2,1,Ibiza,Match Finished
+2024-02-24T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,0,3,Malaga,Match Finished
+2024-02-25T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,1,3,Linares Deportivo,Match Finished
+2024-02-25T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,4,0,Melilla,Match Finished
+2024-02-25T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,1,Castellón,Match Finished
+2024-02-25T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,0,0,Mérida AD,Match Finished
+2024-02-24T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,0,0,Atlético Madrid II,Match Finished
+2024-02-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,0,0,Algeciras,Match Finished
+2024-02-25T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,1,2,Antequera,Match Finished
+2024-02-24T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,5,1,Real Murcia,Match Finished
+2024-02-25T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,2,1,AD Ceuta FC,Match Finished
+2024-03-03T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,1,0,San Fernando CD,Match Finished
+2024-03-02T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,1,1,Granada II,Match Finished
+2024-03-03T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,2,3,Cordoba,Match Finished
+2024-03-03T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,1,2,Sanluqueño,Match Finished
+2024-03-03T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,2,1,Intercity,Match Finished
+2024-03-03T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,0,1,Real Madrid II,Match Finished
+2024-03-03T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,1,1,Alcoyano,Match Finished
+2024-03-03T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,0,Recreativo Huelva,Match Finished
+2024-03-03T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,2,1,Atlético Baleares,Match Finished
+2024-03-03T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,0,Ibiza,Match Finished
+2024-03-10T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,2,0,Castellón,Match Finished
+2024-03-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,1,0,Melilla,Match Finished
+2024-03-10T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,2,0,Real Murcia,Match Finished
+2024-03-10T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,1,Atlético Madrid II,Match Finished
+2024-03-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,2,2,Algeciras,Match Finished
+2024-03-10T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,0,0,Malaga,Match Finished
+2024-03-09T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,0,0,Antequera,Match Finished
+2024-03-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,2,0,Atlético Baleares,Match Finished
+2024-03-10T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,1,AD Ceuta FC,Match Finished
+2024-03-10T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,0,1,Mérida AD,Match Finished
+2024-03-16T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,2,3,Cordoba,Match Finished
+2024-03-17T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,2,0,Real Madrid II,Match Finished
+2024-03-16T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,2,1,Linares Deportivo,Match Finished
+2024-03-16T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,1,1,Recreativo Huelva,Match Finished
+2024-03-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,2,San Fernando CD,Match Finished
+2024-03-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,3,0,Sanluqueño,Match Finished
+2024-03-16T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,1,3,Alcoyano,Match Finished
+2024-03-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,0,Intercity,Match Finished
+2024-03-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,4,3,Granada II,Match Finished
+2024-03-17T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,0,0,Ibiza,Match Finished
+2024-03-24T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,1,1,Atlético Baleares,Match Finished
+2024-03-23T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,0,0,Malaga,Match Finished
+2024-03-23T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,1,0,San Fernando CD,Match Finished
+2024-03-24T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,3,0,Mérida AD,Match Finished
+2024-03-24T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,0,Melilla,Match Finished
+2024-03-23T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,0,2,Castellón,Match Finished
+2024-03-24T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,1,0,Atlético Madrid II,Match Finished
+2024-03-24T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,2,1,Antequera,Match Finished
+2024-03-23T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,0,1,Real Murcia,Match Finished
+2024-03-24T11:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,1,2,AD Ceuta FC,Match Finished
+2024-03-30T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,3,2,Recreativo Huelva,Match Finished
+2024-03-31T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,2,1,Intercity,Match Finished
+2024-03-31T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,1,Real Madrid II,Match Finished
+2024-03-31T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,1,1,Sanluqueño,Match Finished
+2024-03-30T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,0,0,Alcoyano,Match Finished
+2024-03-30T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,3,2,Algeciras,Match Finished
+2024-03-30T19:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,2,2,Cordoba,Match Finished
+2024-03-31T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,1,0,Granada II,Match Finished
+2024-03-31T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,1,Linares Deportivo,Match Finished
+2024-03-31T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,1,0,Ibiza,Match Finished
+2024-04-06T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,1,1,San Fernando CD,Match Finished
+2024-04-07T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,0,1,Real Murcia,Match Finished
+2024-04-07T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,0,2,Mérida AD,Match Finished
+2024-04-07T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,4,3,Melilla,Match Finished
+2024-04-06T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,1,2,Castellón,Match Finished
+2024-04-07T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,0,3,Atlético Madrid II,Match Finished
+2024-04-07T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,0,2,Cordoba,Match Finished
+2024-04-07T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,1,Antequera,Match Finished
+2024-04-07T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,0,0,Atlético Baleares,Match Finished
+2024-04-07T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,1,1,AD Ceuta FC,Match Finished
+2024-04-14T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,3,0,Granada II,Match Finished
+2024-04-14T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,0,1,Malaga,Match Finished
+2024-04-14T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,1,0,Real Madrid II,Match Finished
+2024-04-14T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,2,1,Sanluqueño,Match Finished
+2024-04-14T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,0,1,Ibiza,Match Finished
+2024-04-14T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,4,0,Linares Deportivo,Match Finished
+2024-04-13T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,0,1,Alcoyano,Match Finished
+2024-04-13T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,1,1,Intercity,Match Finished
+2024-04-13T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,3,1,Algeciras,Match Finished
+2024-04-14T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,2,0,Melilla,Match Finished
+2024-04-20T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,2,3,Antequera,Match Finished
+2024-04-21T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,5,0,San Fernando CD,Match Finished
+2024-04-21T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,0,0,Real Murcia,Match Finished
+2024-04-21T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,2,0,Mérida AD,Match Finished
+2024-04-21T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,0,1,Castellón,Match Finished
+2024-04-20T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,3,1,Alcoyano,Match Finished
+2024-04-21T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,0,1,Atlético Madrid II,Match Finished
+2024-04-21T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,0,2,Cordoba,Match Finished
+2024-04-20T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,1,0,Recreativo Huelva,Match Finished
+2024-04-21T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,2,1,Atlético Baleares,Match Finished
+2024-04-28T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,,,Melilla,Not Started
+2024-04-28T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,,,Granada II,Not Started
+2024-04-28T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,,,Malaga,Not Started
+2024-04-28T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Linares Deportivo,Not Started
+2024-04-28T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,,,Ibiza,Not Started
+2024-04-28T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,,,Intercity,Not Started
+2024-04-28T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,,,Sanluqueño,Not Started
+2024-04-27T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,1,3,Real Madrid II,Match Finished
+2024-04-28T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Algeciras,Not Started
+2024-04-28T15:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,,,AD Ceuta FC,Not Started
+2024-05-05T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,,,Atlético Baleares,Not Started
+2024-05-05T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,,,Mérida AD,Not Started
+2024-05-05T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,,,Real Madrid II,Not Started
+2024-05-05T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,,,San Fernando CD,Not Started
+2024-05-04T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,,,Castellón,Not Started
+2024-05-04T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,,,Alcoyano,Not Started
+2024-05-05T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,,,Atlético Madrid II,Not Started
+2024-05-05T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,,,Cordoba,Not Started
+2024-05-05T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,,,Recreativo Huelva,Not Started
+2024-05-05T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Antequera,Not Started
+2024-05-12T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,,,Ibiza,Not Started
+2024-05-12T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,,,AD Ceuta FC,Not Started
+2024-05-12T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Melilla,Not Started
+2024-05-11T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,,,Sanluqueño,Not Started
+2024-05-12T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,,,Real Murcia,Not Started
+2024-05-12T10:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,,,Linares Deportivo,Not Started
+2024-05-11T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,,,Intercity,Not Started
+2024-05-11T14:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Algeciras,Not Started
+2024-05-12T18:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Granada II,Not Started
+2024-05-12T16:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,,,Malaga,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Intercity,,,Real Madrid II,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Algeciras,,,Castellón,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Granada II,,,Recreativo Huelva,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Linares Deportivo,,,Alcoyano,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,AD Ceuta FC,,,Atlético Madrid II,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Sanluqueño,,,San Fernando CD,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Ibiza,,,Cordoba,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Malaga,,,Antequera,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Melilla,,,Atlético Baleares,Not Started
+2024-05-18T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Murcia,,,Mérida AD,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Castellón,,,Sanluqueño,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Alcoyano,,,Intercity,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Madrid II,,,Real Murcia,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Recreativo Huelva,,,Ibiza,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Antequera,,,Melilla,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Atlético Baleares,,,Granada II,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Cordoba,,,Algeciras,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Real Madrid II,,,Malaga,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,San Fernando CD,,,Linares Deportivo,Not Started
+2024-05-25T17:00:00+00:00,2023,Primera División RFEF - Group 2,Spain,Mérida AD,,,AD Ceuta FC,Not Started

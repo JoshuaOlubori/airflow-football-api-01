@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-21T18:45:00+00:00,2023,Serie A,Italy,Bologna,0,2,AC Milan,Match Finished
+2023-08-19T16:30:00+00:00,2023,Serie A,Italy,Empoli,0,1,Verona,Match Finished
+2023-08-19T16:30:00+00:00,2023,Serie A,Italy,Frosinone,1,3,Napoli,Match Finished
+2023-08-19T18:45:00+00:00,2023,Serie A,Italy,Genoa,1,4,Fiorentina,Match Finished
+2023-08-19T18:45:00+00:00,2023,Serie A,Italy,Inter,2,0,Monza,Match Finished
+2023-08-20T18:45:00+00:00,2023,Serie A,Italy,Lecce,2,1,Lazio,Match Finished
+2023-08-20T16:30:00+00:00,2023,Serie A,Italy,AS Roma,2,2,Salernitana,Match Finished
+2023-08-20T16:30:00+00:00,2023,Serie A,Italy,Sassuolo,0,2,Atalanta,Match Finished
+2023-08-21T16:30:00+00:00,2023,Serie A,Italy,Torino,0,0,Cagliari,Match Finished
+2023-08-20T18:45:00+00:00,2023,Serie A,Italy,Udinese,0,3,Juventus,Match Finished
+2023-08-28T18:45:00+00:00,2023,Serie A,Italy,Cagliari,0,2,Inter,Match Finished
+2023-08-27T16:30:00+00:00,2023,Serie A,Italy,Fiorentina,2,2,Lecce,Match Finished
+2023-08-26T16:30:00+00:00,2023,Serie A,Italy,Frosinone,2,1,Atalanta,Match Finished
+2023-08-26T18:45:00+00:00,2023,Serie A,Italy,Verona,2,1,AS Roma,Match Finished
+2023-08-27T16:30:00+00:00,2023,Serie A,Italy,Juventus,1,1,Bologna,Match Finished
+2023-08-27T18:45:00+00:00,2023,Serie A,Italy,Lazio,0,1,Genoa,Match Finished
+2023-08-26T18:45:00+00:00,2023,Serie A,Italy,AC Milan,4,1,Torino,Match Finished
+2023-08-26T16:30:00+00:00,2023,Serie A,Italy,Monza,2,0,Empoli,Match Finished
+2023-08-27T18:45:00+00:00,2023,Serie A,Italy,Napoli,2,0,Sassuolo,Match Finished
+2023-08-28T16:30:00+00:00,2023,Serie A,Italy,Salernitana,1,1,Udinese,Match Finished
+2023-09-02T18:45:00+00:00,2023,Serie A,Italy,Atalanta,3,0,Monza,Match Finished
+2023-09-02T16:30:00+00:00,2023,Serie A,Italy,Bologna,2,1,Cagliari,Match Finished
+2023-09-03T18:45:00+00:00,2023,Serie A,Italy,Empoli,0,2,Juventus,Match Finished
+2023-09-03T16:30:00+00:00,2023,Serie A,Italy,Inter,4,0,Fiorentina,Match Finished
+2023-09-03T18:45:00+00:00,2023,Serie A,Italy,Lecce,2,0,Salernitana,Match Finished
+2023-09-02T18:45:00+00:00,2023,Serie A,Italy,Napoli,1,2,Lazio,Match Finished
+2023-09-01T18:45:00+00:00,2023,Serie A,Italy,AS Roma,1,2,AC Milan,Match Finished
+2023-09-01T16:30:00+00:00,2023,Serie A,Italy,Sassuolo,3,1,Verona,Match Finished
+2023-09-03T16:30:00+00:00,2023,Serie A,Italy,Torino,1,0,Genoa,Match Finished
+2023-09-02T16:30:00+00:00,2023,Serie A,Italy,Udinese,0,0,Frosinone,Match Finished
+2023-09-17T10:30:00+00:00,2023,Serie A,Italy,Cagliari,0,0,Udinese,Match Finished
+2023-09-17T16:00:00+00:00,2023,Serie A,Italy,Fiorentina,3,2,Atalanta,Match Finished
+2023-09-17T13:00:00+00:00,2023,Serie A,Italy,Frosinone,4,2,Sassuolo,Match Finished
+2023-09-16T18:45:00+00:00,2023,Serie A,Italy,Genoa,2,2,Napoli,Match Finished
+2023-09-18T18:45:00+00:00,2023,Serie A,Italy,Verona,0,0,Bologna,Match Finished
+2023-09-16T16:00:00+00:00,2023,Serie A,Italy,Inter,5,1,AC Milan,Match Finished
+2023-09-16T13:00:00+00:00,2023,Serie A,Italy,Juventus,3,1,Lazio,Match Finished
+2023-09-17T13:00:00+00:00,2023,Serie A,Italy,Monza,1,1,Lecce,Match Finished
+2023-09-17T18:45:00+00:00,2023,Serie A,Italy,AS Roma,7,0,Empoli,Match Finished
+2023-09-18T16:30:00+00:00,2023,Serie A,Italy,Salernitana,0,3,Torino,Match Finished
+2023-09-24T13:00:00+00:00,2023,Serie A,Italy,Atalanta,2,0,Cagliari,Match Finished
+2023-09-24T16:00:00+00:00,2023,Serie A,Italy,Bologna,0,0,Napoli,Match Finished
+2023-09-24T10:30:00+00:00,2023,Serie A,Italy,Empoli,0,1,Inter,Match Finished
+2023-09-23T18:45:00+00:00,2023,Serie A,Italy,Lazio,1,1,Monza,Match Finished
+2023-09-22T18:45:00+00:00,2023,Serie A,Italy,Lecce,1,0,Genoa,Match Finished
+2023-09-23T13:00:00+00:00,2023,Serie A,Italy,AC Milan,1,0,Verona,Match Finished
+2023-09-22T16:30:00+00:00,2023,Serie A,Italy,Salernitana,1,1,Frosinone,Match Finished
+2023-09-23T16:00:00+00:00,2023,Serie A,Italy,Sassuolo,4,2,Juventus,Match Finished
+2023-09-24T18:45:00+00:00,2023,Serie A,Italy,Torino,1,1,AS Roma,Match Finished
+2023-09-24T13:00:00+00:00,2023,Serie A,Italy,Udinese,0,2,Fiorentina,Match Finished
+2023-09-27T16:30:00+00:00,2023,Serie A,Italy,Cagliari,1,3,AC Milan,Match Finished
+2023-09-27T16:30:00+00:00,2023,Serie A,Italy,Empoli,1,0,Salernitana,Match Finished
+2023-09-28T16:30:00+00:00,2023,Serie A,Italy,Frosinone,1,1,Fiorentina,Match Finished
+2023-09-28T18:45:00+00:00,2023,Serie A,Italy,Genoa,4,1,AS Roma,Match Finished
+2023-09-27T16:30:00+00:00,2023,Serie A,Italy,Verona,0,1,Atalanta,Match Finished
+2023-09-27T18:45:00+00:00,2023,Serie A,Italy,Inter,1,2,Sassuolo,Match Finished
+2023-09-26T18:45:00+00:00,2023,Serie A,Italy,Juventus,1,0,Lecce,Match Finished
+2023-09-27T18:45:00+00:00,2023,Serie A,Italy,Lazio,2,0,Torino,Match Finished
+2023-09-28T16:30:00+00:00,2023,Serie A,Italy,Monza,0,0,Bologna,Match Finished
+2023-09-27T18:45:00+00:00,2023,Serie A,Italy,Napoli,4,1,Udinese,Match Finished
+2023-10-01T16:00:00+00:00,2023,Serie A,Italy,Atalanta,0,0,Juventus,Match Finished
+2023-10-01T10:30:00+00:00,2023,Serie A,Italy,Bologna,3,0,Empoli,Match Finished
+2023-10-02T18:45:00+00:00,2023,Serie A,Italy,Fiorentina,3,0,Cagliari,Match Finished
+2023-09-30T13:00:00+00:00,2023,Serie A,Italy,Lecce,0,4,Napoli,Match Finished
+2023-09-30T16:00:00+00:00,2023,Serie A,Italy,AC Milan,2,0,Lazio,Match Finished
+2023-10-01T18:45:00+00:00,2023,Serie A,Italy,AS Roma,2,0,Frosinone,Match Finished
+2023-09-30T18:45:00+00:00,2023,Serie A,Italy,Salernitana,0,4,Inter,Match Finished
+2023-10-02T16:30:00+00:00,2023,Serie A,Italy,Sassuolo,0,1,Monza,Match Finished
+2023-10-02T16:30:00+00:00,2023,Serie A,Italy,Torino,0,0,Verona,Match Finished
+2023-10-01T13:00:00+00:00,2023,Serie A,Italy,Udinese,2,2,Genoa,Match Finished
+2023-10-08T16:00:00+00:00,2023,Serie A,Italy,Cagliari,1,4,AS Roma,Match Finished
+2023-10-06T16:30:00+00:00,2023,Serie A,Italy,Empoli,0,0,Udinese,Match Finished
+2023-10-08T13:00:00+00:00,2023,Serie A,Italy,Frosinone,2,1,Verona,Match Finished
+2023-10-07T18:45:00+00:00,2023,Serie A,Italy,Genoa,0,1,AC Milan,Match Finished
+2023-10-07T13:00:00+00:00,2023,Serie A,Italy,Inter,2,2,Bologna,Match Finished
+2023-10-07T16:00:00+00:00,2023,Serie A,Italy,Juventus,2,0,Torino,Match Finished
+2023-10-08T13:00:00+00:00,2023,Serie A,Italy,Lazio,3,2,Atalanta,Match Finished
+2023-10-06T18:45:00+00:00,2023,Serie A,Italy,Lecce,1,1,Sassuolo,Match Finished
+2023-10-08T10:30:00+00:00,2023,Serie A,Italy,Monza,3,0,Salernitana,Match Finished
+2023-10-08T18:45:00+00:00,2023,Serie A,Italy,Napoli,1,3,Fiorentina,Match Finished
+2023-10-22T16:00:00+00:00,2023,Serie A,Italy,Atalanta,2,0,Genoa,Match Finished
+2023-10-22T13:00:00+00:00,2023,Serie A,Italy,Bologna,2,1,Frosinone,Match Finished
+2023-10-23T18:45:00+00:00,2023,Serie A,Italy,Fiorentina,0,2,Empoli,Match Finished
+2023-10-21T13:00:00+00:00,2023,Serie A,Italy,Verona,1,3,Napoli,Match Finished
+2023-10-22T18:45:00+00:00,2023,Serie A,Italy,AC Milan,0,1,Juventus,Match Finished
+2023-10-22T10:30:00+00:00,2023,Serie A,Italy,AS Roma,1,0,Monza,Match Finished
+2023-10-22T13:00:00+00:00,2023,Serie A,Italy,Salernitana,2,2,Cagliari,Match Finished
+2023-10-21T18:45:00+00:00,2023,Serie A,Italy,Sassuolo,0,2,Lazio,Match Finished
+2023-10-21T16:00:00+00:00,2023,Serie A,Italy,Torino,0,3,Inter,Match Finished
+2023-10-23T16:30:00+00:00,2023,Serie A,Italy,Udinese,1,1,Lecce,Match Finished
+2023-10-29T11:30:00+00:00,2023,Serie A,Italy,Cagliari,4,3,Frosinone,Match Finished
+2023-10-30T17:30:00+00:00,2023,Serie A,Italy,Empoli,0,3,Atalanta,Match Finished
+2023-10-27T18:45:00+00:00,2023,Serie A,Italy,Genoa,1,0,Salernitana,Match Finished
+2023-10-29T17:00:00+00:00,2023,Serie A,Italy,Inter,1,0,AS Roma,Match Finished
+2023-10-28T18:45:00+00:00,2023,Serie A,Italy,Juventus,1,0,Verona,Match Finished
+2023-10-30T19:45:00+00:00,2023,Serie A,Italy,Lazio,1,0,Fiorentina,Match Finished
+2023-10-28T16:00:00+00:00,2023,Serie A,Italy,Lecce,0,1,Torino,Match Finished
+2023-10-29T14:00:00+00:00,2023,Serie A,Italy,Monza,1,1,Udinese,Match Finished
+2023-10-29T19:45:00+00:00,2023,Serie A,Italy,Napoli,2,2,AC Milan,Match Finished
+2023-10-28T13:00:00+00:00,2023,Serie A,Italy,Sassuolo,1,1,Bologna,Match Finished
+2023-11-04T17:00:00+00:00,2023,Serie A,Italy,Atalanta,1,2,Inter,Match Finished
+2023-11-03T19:45:00+00:00,2023,Serie A,Italy,Bologna,1,0,Lazio,Match Finished
+2023-11-05T14:00:00+00:00,2023,Serie A,Italy,Cagliari,2,1,Genoa,Match Finished
+2023-11-05T19:45:00+00:00,2023,Serie A,Italy,Fiorentina,0,1,Juventus,Match Finished
+2023-11-06T17:30:00+00:00,2023,Serie A,Italy,Frosinone,2,1,Empoli,Match Finished
+2023-11-05T11:30:00+00:00,2023,Serie A,Italy,Verona,1,3,Monza,Match Finished
+2023-11-04T19:45:00+00:00,2023,Serie A,Italy,AC Milan,0,1,Udinese,Match Finished
+2023-11-05T17:00:00+00:00,2023,Serie A,Italy,AS Roma,2,1,Lecce,Match Finished
+2023-11-04T14:00:00+00:00,2023,Serie A,Italy,Salernitana,0,2,Napoli,Match Finished
+2023-11-06T19:45:00+00:00,2023,Serie A,Italy,Torino,2,1,Sassuolo,Match Finished
+2023-11-12T14:00:00+00:00,2023,Serie A,Italy,Fiorentina,2,1,Bologna,Match Finished
+2023-11-10T19:45:00+00:00,2023,Serie A,Italy,Genoa,1,0,Verona,Match Finished
+2023-11-12T19:45:00+00:00,2023,Serie A,Italy,Inter,2,0,Frosinone,Match Finished
+2023-11-11T17:00:00+00:00,2023,Serie A,Italy,Juventus,2,1,Cagliari,Match Finished
+2023-11-12T17:00:00+00:00,2023,Serie A,Italy,Lazio,0,0,AS Roma,Match Finished
+2023-11-11T14:00:00+00:00,2023,Serie A,Italy,Lecce,2,2,AC Milan,Match Finished
+2023-11-11T19:45:00+00:00,2023,Serie A,Italy,Monza,1,1,Torino,Match Finished
+2023-11-12T11:30:00+00:00,2023,Serie A,Italy,Napoli,0,1,Empoli,Match Finished
+2023-11-10T17:30:00+00:00,2023,Serie A,Italy,Sassuolo,2,2,Salernitana,Match Finished
+2023-11-12T14:00:00+00:00,2023,Serie A,Italy,Udinese,1,1,Atalanta,Match Finished
+2023-11-25T17:00:00+00:00,2023,Serie A,Italy,Atalanta,1,2,Napoli,Match Finished
+2023-11-27T19:45:00+00:00,2023,Serie A,Italy,Bologna,2,0,Torino,Match Finished
+2023-11-26T11:30:00+00:00,2023,Serie A,Italy,Cagliari,1,1,Monza,Match Finished
+2023-11-26T14:00:00+00:00,2023,Serie A,Italy,Empoli,3,4,Sassuolo,Match Finished
+2023-11-26T14:00:00+00:00,2023,Serie A,Italy,Frosinone,2,1,Genoa,Match Finished
+2023-11-27T17:30:00+00:00,2023,Serie A,Italy,Verona,2,2,Lecce,Match Finished
+2023-11-26T19:45:00+00:00,2023,Serie A,Italy,Juventus,1,1,Inter,Match Finished
+2023-11-25T19:45:00+00:00,2023,Serie A,Italy,AC Milan,1,0,Fiorentina,Match Finished
+2023-11-26T17:00:00+00:00,2023,Serie A,Italy,AS Roma,3,1,Udinese,Match Finished
+2023-11-25T14:00:00+00:00,2023,Serie A,Italy,Salernitana,2,1,Lazio,Match Finished
+2023-12-03T14:00:00+00:00,2023,Serie A,Italy,Fiorentina,3,0,Salernitana,Match Finished
+2023-12-02T14:00:00+00:00,2023,Serie A,Italy,Genoa,1,1,Empoli,Match Finished
+2023-12-02T17:00:00+00:00,2023,Serie A,Italy,Lazio,1,0,Cagliari,Match Finished
+2023-12-03T11:30:00+00:00,2023,Serie A,Italy,Lecce,1,1,Bologna,Match Finished
+2023-12-02T19:45:00+00:00,2023,Serie A,Italy,AC Milan,3,1,Frosinone,Match Finished
+2023-12-01T19:45:00+00:00,2023,Serie A,Italy,Monza,1,2,Juventus,Match Finished
+2023-12-03T19:45:00+00:00,2023,Serie A,Italy,Napoli,0,3,Inter,Match Finished
+2023-12-03T17:00:00+00:00,2023,Serie A,Italy,Sassuolo,1,2,AS Roma,Match Finished
+2023-12-04T19:45:00+00:00,2023,Serie A,Italy,Torino,3,0,Atalanta,Match Finished
+2023-12-03T14:00:00+00:00,2023,Serie A,Italy,Udinese,3,3,Verona,Match Finished
+2023-12-09T17:00:00+00:00,2023,Serie A,Italy,Atalanta,3,2,AC Milan,Match Finished
+2023-12-11T19:45:00+00:00,2023,Serie A,Italy,Cagliari,2,1,Sassuolo,Match Finished
+2023-12-11T17:30:00+00:00,2023,Serie A,Italy,Empoli,1,1,Lecce,Match Finished
+2023-12-10T11:30:00+00:00,2023,Serie A,Italy,Frosinone,0,0,Torino,Match Finished
+2023-12-09T14:00:00+00:00,2023,Serie A,Italy,Verona,1,1,Lazio,Match Finished
+2023-12-09T19:45:00+00:00,2023,Serie A,Italy,Inter,4,0,Udinese,Match Finished
+2023-12-08T19:45:00+00:00,2023,Serie A,Italy,Juventus,1,0,Napoli,Match Finished
+2023-12-10T14:00:00+00:00,2023,Serie A,Italy,Monza,1,0,Genoa,Match Finished
+2023-12-10T19:45:00+00:00,2023,Serie A,Italy,AS Roma,1,1,Fiorentina,Match Finished
+2023-12-10T17:00:00+00:00,2023,Serie A,Italy,Salernitana,1,2,Bologna,Match Finished
+2023-12-18T19:45:00+00:00,2023,Serie A,Italy,Atalanta,4,1,Salernitana,Match Finished
+2023-12-17T17:00:00+00:00,2023,Serie A,Italy,Bologna,2,0,AS Roma,Match Finished
+2023-12-17T14:00:00+00:00,2023,Serie A,Italy,Fiorentina,1,0,Verona,Match Finished
+2023-12-15T19:45:00+00:00,2023,Serie A,Italy,Genoa,1,1,Juventus,Match Finished
+2023-12-17T19:45:00+00:00,2023,Serie A,Italy,Lazio,0,2,Inter,Match Finished
+2023-12-16T14:00:00+00:00,2023,Serie A,Italy,Lecce,2,1,Frosinone,Match Finished
+2023-12-17T11:30:00+00:00,2023,Serie A,Italy,AC Milan,3,0,Monza,Match Finished
+2023-12-16T17:00:00+00:00,2023,Serie A,Italy,Napoli,2,1,Cagliari,Match Finished
+2023-12-16T19:45:00+00:00,2023,Serie A,Italy,Torino,1,0,Empoli,Match Finished
+2023-12-17T14:00:00+00:00,2023,Serie A,Italy,Udinese,2,2,Sassuolo,Match Finished
+2023-12-23T14:00:00+00:00,2023,Serie A,Italy,Bologna,1,0,Atalanta,Match Finished
+2023-12-22T17:30:00+00:00,2023,Serie A,Italy,Empoli,0,2,Lazio,Match Finished
+2023-12-23T11:30:00+00:00,2023,Serie A,Italy,Frosinone,1,2,Juventus,Match Finished
+2023-12-23T17:00:00+00:00,2023,Serie A,Italy,Verona,2,0,Cagliari,Match Finished
+2023-12-23T17:00:00+00:00,2023,Serie A,Italy,Inter,2,0,Lecce,Match Finished
+2023-12-22T19:45:00+00:00,2023,Serie A,Italy,Monza,0,1,Fiorentina,Match Finished
+2023-12-23T19:45:00+00:00,2023,Serie A,Italy,AS Roma,2,0,Napoli,Match Finished
+2023-12-22T19:45:00+00:00,2023,Serie A,Italy,Salernitana,2,2,AC Milan,Match Finished
+2023-12-22T17:30:00+00:00,2023,Serie A,Italy,Sassuolo,1,2,Genoa,Match Finished
+2023-12-23T14:00:00+00:00,2023,Serie A,Italy,Torino,1,1,Udinese,Match Finished
+2023-12-30T11:30:00+00:00,2023,Serie A,Italy,Atalanta,1,0,Lecce,Match Finished
+2023-12-30T14:00:00+00:00,2023,Serie A,Italy,Cagliari,0,0,Empoli,Match Finished
+2023-12-29T17:30:00+00:00,2023,Serie A,Italy,Fiorentina,1,0,Torino,Match Finished
+2023-12-29T19:45:00+00:00,2023,Serie A,Italy,Genoa,1,1,Inter,Match Finished
+2023-12-30T17:00:00+00:00,2023,Serie A,Italy,Verona,0,1,Salernitana,Match Finished
+2023-12-30T19:45:00+00:00,2023,Serie A,Italy,Juventus,1,0,AS Roma,Match Finished
+2023-12-29T19:45:00+00:00,2023,Serie A,Italy,Lazio,3,1,Frosinone,Match Finished
+2023-12-30T17:00:00+00:00,2023,Serie A,Italy,AC Milan,1,0,Sassuolo,Match Finished
+2023-12-29T17:30:00+00:00,2023,Serie A,Italy,Napoli,0,0,Monza,Match Finished
+2023-12-30T14:00:00+00:00,2023,Serie A,Italy,Udinese,3,0,Bologna,Match Finished
+2024-01-05T19:45:00+00:00,2023,Serie A,Italy,Bologna,1,1,Genoa,Match Finished
+2024-01-07T11:30:00+00:00,2023,Serie A,Italy,Empoli,0,3,AC Milan,Match Finished
+2024-01-06T14:00:00+00:00,2023,Serie A,Italy,Frosinone,2,3,Monza,Match Finished
+2024-01-06T11:30:00+00:00,2023,Serie A,Italy,Inter,2,1,Verona,Match Finished
+2024-01-06T17:00:00+00:00,2023,Serie A,Italy,Lecce,1,1,Cagliari,Match Finished
+2024-01-07T19:45:00+00:00,2023,Serie A,Italy,AS Roma,1,1,Atalanta,Match Finished
+2024-01-07T17:00:00+00:00,2023,Serie A,Italy,Salernitana,1,2,Juventus,Match Finished
+2024-01-06T19:45:00+00:00,2023,Serie A,Italy,Sassuolo,1,0,Fiorentina,Match Finished
+2024-01-07T14:00:00+00:00,2023,Serie A,Italy,Torino,3,0,Napoli,Match Finished
+2024-01-07T14:00:00+00:00,2023,Serie A,Italy,Udinese,1,2,Lazio,Match Finished
+2024-01-15T19:45:00+00:00,2023,Serie A,Italy,Atalanta,5,0,Frosinone,Match Finished
+2024-01-14T14:00:00+00:00,2023,Serie A,Italy,Cagliari,2,1,Bologna,Match Finished
+2024-01-14T17:00:00+00:00,2023,Serie A,Italy,Fiorentina,2,2,Udinese,Match Finished
+2024-01-13T14:00:00+00:00,2023,Serie A,Italy,Genoa,0,0,Torino,Match Finished
+2024-01-13T17:00:00+00:00,2023,Serie A,Italy,Verona,2,1,Empoli,Match Finished
+2024-01-16T19:45:00+00:00,2023,Serie A,Italy,Juventus,3,0,Sassuolo,Match Finished
+2024-01-14T11:30:00+00:00,2023,Serie A,Italy,Lazio,1,0,Lecce,Match Finished
+2024-01-14T19:45:00+00:00,2023,Serie A,Italy,AC Milan,3,1,AS Roma,Match Finished
+2024-01-13T19:45:00+00:00,2023,Serie A,Italy,Monza,1,5,Inter,Match Finished
+2024-01-13T14:00:00+00:00,2023,Serie A,Italy,Napoli,2,1,Salernitana,Match Finished
+2024-02-14T18:00:00+00:00,2023,Serie A,Italy,Bologna,2,0,Fiorentina,Match Finished
+2024-01-21T14:00:00+00:00,2023,Serie A,Italy,Empoli,3,0,Monza,Match Finished
+2024-01-21T11:30:00+00:00,2023,Serie A,Italy,Frosinone,3,1,Cagliari,Match Finished
+2024-02-28T19:45:00+00:00,2023,Serie A,Italy,Inter,4,0,Atalanta,Match Finished
+2024-01-21T19:45:00+00:00,2023,Serie A,Italy,Lecce,0,3,Juventus,Match Finished
+2024-01-20T17:00:00+00:00,2023,Serie A,Italy,AS Roma,2,1,Verona,Match Finished
+2024-01-21T17:00:00+00:00,2023,Serie A,Italy,Salernitana,1,2,Genoa,Match Finished
+2024-02-28T17:00:00+00:00,2023,Serie A,Italy,Sassuolo,1,6,Napoli,Match Finished
+2024-02-22T19:45:00+00:00,2023,Serie A,Italy,Torino,0,2,Lazio,Match Finished
+2024-01-20T19:45:00+00:00,2023,Serie A,Italy,Udinese,2,3,AC Milan,Match Finished
+2024-01-27T14:00:00+00:00,2023,Serie A,Italy,Atalanta,2,0,Udinese,Match Finished
+2024-01-26T19:45:00+00:00,2023,Serie A,Italy,Cagliari,1,2,Torino,Match Finished
+2024-01-28T19:45:00+00:00,2023,Serie A,Italy,Fiorentina,0,1,Inter,Match Finished
+2024-01-28T11:30:00+00:00,2023,Serie A,Italy,Genoa,2,1,Lecce,Match Finished
+2024-01-28T14:00:00+00:00,2023,Serie A,Italy,Verona,1,1,Frosinone,Match Finished
+2024-01-27T17:00:00+00:00,2023,Serie A,Italy,Juventus,1,1,Empoli,Match Finished
+2024-01-28T17:00:00+00:00,2023,Serie A,Italy,Lazio,0,0,Napoli,Match Finished
+2024-01-27T19:45:00+00:00,2023,Serie A,Italy,AC Milan,2,2,Bologna,Match Finished
+2024-01-28T14:00:00+00:00,2023,Serie A,Italy,Monza,1,0,Sassuolo,Match Finished
+2024-01-29T19:45:00+00:00,2023,Serie A,Italy,Salernitana,1,2,AS Roma,Match Finished
+2024-02-04T17:00:00+00:00,2023,Serie A,Italy,Atalanta,3,1,Lazio,Match Finished
+2024-02-03T19:45:00+00:00,2023,Serie A,Italy,Bologna,4,2,Sassuolo,Match Finished
+2024-02-03T14:00:00+00:00,2023,Serie A,Italy,Empoli,0,0,Genoa,Match Finished
+2024-02-03T17:00:00+00:00,2023,Serie A,Italy,Frosinone,2,3,AC Milan,Match Finished
+2024-02-04T19:45:00+00:00,2023,Serie A,Italy,Inter,1,0,Juventus,Match Finished
+2024-02-02T19:45:00+00:00,2023,Serie A,Italy,Lecce,3,2,Fiorentina,Match Finished
+2024-02-04T14:00:00+00:00,2023,Serie A,Italy,Napoli,2,1,Verona,Match Finished
+2024-02-05T19:45:00+00:00,2023,Serie A,Italy,AS Roma,4,0,Cagliari,Match Finished
+2024-02-04T11:30:00+00:00,2023,Serie A,Italy,Torino,0,0,Salernitana,Match Finished
+2024-02-03T14:00:00+00:00,2023,Serie A,Italy,Udinese,0,0,Monza,Match Finished
+2024-02-11T14:00:00+00:00,2023,Serie A,Italy,Bologna,4,0,Lecce,Match Finished
+2024-02-10T14:00:00+00:00,2023,Serie A,Italy,Cagliari,1,3,Lazio,Match Finished
+2024-02-11T11:30:00+00:00,2023,Serie A,Italy,Fiorentina,5,1,Frosinone,Match Finished
+2024-02-11T17:00:00+00:00,2023,Serie A,Italy,Genoa,1,4,Atalanta,Match Finished
+2024-02-12T19:45:00+00:00,2023,Serie A,Italy,Juventus,0,1,Udinese,Match Finished
+2024-02-11T19:45:00+00:00,2023,Serie A,Italy,AC Milan,1,0,Napoli,Match Finished
+2024-02-11T14:00:00+00:00,2023,Serie A,Italy,Monza,0,0,Verona,Match Finished
+2024-02-10T17:00:00+00:00,2023,Serie A,Italy,AS Roma,2,4,Inter,Match Finished
+2024-02-09T19:45:00+00:00,2023,Serie A,Italy,Salernitana,1,3,Empoli,Match Finished
+2024-02-10T19:45:00+00:00,2023,Serie A,Italy,Sassuolo,1,1,Torino,Match Finished
+2024-02-17T19:45:00+00:00,2023,Serie A,Italy,Atalanta,3,0,Sassuolo,Match Finished
+2024-02-18T14:00:00+00:00,2023,Serie A,Italy,Empoli,1,1,Fiorentina,Match Finished
+2024-02-18T17:00:00+00:00,2023,Serie A,Italy,Frosinone,0,3,AS Roma,Match Finished
+2024-02-17T17:00:00+00:00,2023,Serie A,Italy,Verona,2,2,Juventus,Match Finished
+2024-02-16T20:00:00+00:00,2023,Serie A,Italy,Inter,4,0,Salernitana,Match Finished
+2024-02-18T11:30:00+00:00,2023,Serie A,Italy,Lazio,1,2,Bologna,Match Finished
+2024-02-18T19:45:00+00:00,2023,Serie A,Italy,Monza,4,2,AC Milan,Match Finished
+2024-02-17T14:00:00+00:00,2023,Serie A,Italy,Napoli,1,1,Genoa,Match Finished
+2024-02-16T18:00:00+00:00,2023,Serie A,Italy,Torino,2,0,Lecce,Match Finished
+2024-02-18T14:00:00+00:00,2023,Serie A,Italy,Udinese,1,1,Cagliari,Match Finished
+2024-02-23T19:45:00+00:00,2023,Serie A,Italy,Bologna,2,0,Verona,Match Finished
+2024-02-25T14:00:00+00:00,2023,Serie A,Italy,Cagliari,1,1,Napoli,Match Finished
+2024-02-26T19:45:00+00:00,2023,Serie A,Italy,Fiorentina,2,1,Lazio,Match Finished
+2024-02-24T19:45:00+00:00,2023,Serie A,Italy,Genoa,2,0,Udinese,Match Finished
+2024-02-25T11:30:00+00:00,2023,Serie A,Italy,Juventus,3,2,Frosinone,Match Finished
+2024-02-25T17:00:00+00:00,2023,Serie A,Italy,Lecce,0,4,Inter,Match Finished
+2024-02-25T19:45:00+00:00,2023,Serie A,Italy,AC Milan,1,1,Atalanta,Match Finished
+2024-02-26T17:30:00+00:00,2023,Serie A,Italy,AS Roma,3,2,Torino,Match Finished
+2024-02-24T17:00:00+00:00,2023,Serie A,Italy,Salernitana,0,2,Monza,Match Finished
+2024-02-24T14:00:00+00:00,2023,Serie A,Italy,Sassuolo,2,3,Empoli,Match Finished
+2024-03-03T17:00:00+00:00,2023,Serie A,Italy,Atalanta,1,2,Bologna,Match Finished
+2024-03-03T14:00:00+00:00,2023,Serie A,Italy,Empoli,0,1,Cagliari,Match Finished
+2024-03-03T14:00:00+00:00,2023,Serie A,Italy,Frosinone,1,1,Lecce,Match Finished
+2024-03-03T11:30:00+00:00,2023,Serie A,Italy,Verona,1,0,Sassuolo,Match Finished
+2024-03-04T19:45:00+00:00,2023,Serie A,Italy,Inter,2,1,Genoa,Match Finished
+2024-03-01T19:45:00+00:00,2023,Serie A,Italy,Lazio,0,1,AC Milan,Match Finished
+2024-03-02T17:00:00+00:00,2023,Serie A,Italy,Monza,1,4,AS Roma,Match Finished
+2024-03-03T19:45:00+00:00,2023,Serie A,Italy,Napoli,2,1,Juventus,Match Finished
+2024-03-02T19:45:00+00:00,2023,Serie A,Italy,Torino,0,0,Fiorentina,Match Finished
+2024-03-02T14:00:00+00:00,2023,Serie A,Italy,Udinese,1,1,Salernitana,Match Finished
+2024-03-09T17:00:00+00:00,2023,Serie A,Italy,Bologna,0,1,Inter,Match Finished
+2024-03-09T14:00:00+00:00,2023,Serie A,Italy,Cagliari,4,2,Salernitana,Match Finished
+2024-03-10T19:45:00+00:00,2023,Serie A,Italy,Fiorentina,2,2,AS Roma,Match Finished
+2024-03-09T19:45:00+00:00,2023,Serie A,Italy,Genoa,2,3,Monza,Match Finished
+2024-03-10T17:00:00+00:00,2023,Serie A,Italy,Juventus,2,2,Atalanta,Match Finished
+2024-03-11T19:45:00+00:00,2023,Serie A,Italy,Lazio,1,2,Udinese,Match Finished
+2024-03-10T11:30:00+00:00,2023,Serie A,Italy,Lecce,0,1,Verona,Match Finished
+2024-03-10T14:00:00+00:00,2023,Serie A,Italy,AC Milan,1,0,Empoli,Match Finished
+2024-03-08T19:45:00+00:00,2023,Serie A,Italy,Napoli,1,1,Torino,Match Finished
+2024-03-09T14:00:00+00:00,2023,Serie A,Italy,Sassuolo,1,0,Frosinone,Match Finished
+2024-03-17T17:00:00+00:00,2023,Serie A,Italy,Atalanta,,,Fiorentina,Match Postponed
+2024-03-15T19:45:00+00:00,2023,Serie A,Italy,Empoli,0,1,Bologna,Match Finished
+2024-03-16T19:45:00+00:00,2023,Serie A,Italy,Frosinone,2,3,Lazio,Match Finished
+2024-03-17T14:00:00+00:00,2023,Serie A,Italy,Verona,1,3,AC Milan,Match Finished
+2024-03-17T19:45:00+00:00,2023,Serie A,Italy,Inter,1,1,Napoli,Match Finished
+2024-03-17T11:30:00+00:00,2023,Serie A,Italy,Juventus,0,0,Genoa,Match Finished
+2024-03-16T14:00:00+00:00,2023,Serie A,Italy,Monza,1,0,Cagliari,Match Finished
+2024-03-17T17:00:00+00:00,2023,Serie A,Italy,AS Roma,1,0,Sassuolo,Match Finished
+2024-03-16T17:00:00+00:00,2023,Serie A,Italy,Salernitana,0,1,Lecce,Match Finished
+2024-03-16T14:00:00+00:00,2023,Serie A,Italy,Udinese,0,2,Torino,Match Finished
+2024-04-01T10:30:00+00:00,2023,Serie A,Italy,Bologna,3,0,Salernitana,Match Finished
+2024-04-01T13:00:00+00:00,2023,Serie A,Italy,Cagliari,1,1,Verona,Match Finished
+2024-03-30T19:45:00+00:00,2023,Serie A,Italy,Fiorentina,1,2,AC Milan,Match Finished
+2024-03-30T14:00:00+00:00,2023,Serie A,Italy,Genoa,1,1,Frosinone,Match Finished
+2024-04-01T18:45:00+00:00,2023,Serie A,Italy,Inter,2,0,Empoli,Match Finished
+2024-03-30T17:00:00+00:00,2023,Serie A,Italy,Lazio,1,0,Juventus,Match Finished
+2024-04-01T16:00:00+00:00,2023,Serie A,Italy,Lecce,0,0,AS Roma,Match Finished
+2024-03-30T11:30:00+00:00,2023,Serie A,Italy,Napoli,0,3,Atalanta,Match Finished
+2024-04-01T13:00:00+00:00,2023,Serie A,Italy,Sassuolo,1,1,Udinese,Match Finished
+2024-03-30T14:00:00+00:00,2023,Serie A,Italy,Torino,1,0,Monza,Match Finished
+2024-04-07T16:00:00+00:00,2023,Serie A,Italy,Cagliari,2,1,Atalanta,Match Finished
+2024-04-06T18:45:00+00:00,2023,Serie A,Italy,Empoli,3,2,Torino,Match Finished
+2024-04-07T10:30:00+00:00,2023,Serie A,Italy,Frosinone,0,0,Bologna,Match Finished
+2024-04-07T16:00:00+00:00,2023,Serie A,Italy,Verona,1,2,Genoa,Match Finished
+2024-04-07T18:45:00+00:00,2023,Serie A,Italy,Juventus,1,0,Fiorentina,Match Finished
+2024-04-06T13:00:00+00:00,2023,Serie A,Italy,AC Milan,3,0,Lecce,Match Finished
+2024-04-07T13:00:00+00:00,2023,Serie A,Italy,Monza,2,4,Napoli,Match Finished
+2024-04-06T16:00:00+00:00,2023,Serie A,Italy,AS Roma,1,0,Lazio,Match Finished
+2024-04-05T18:45:00+00:00,2023,Serie A,Italy,Salernitana,2,2,Sassuolo,Match Finished
+2024-04-08T18:45:00+00:00,2023,Serie A,Italy,Udinese,1,2,Inter,Match Finished
+2024-04-15T18:45:00+00:00,2023,Serie A,Italy,Atalanta,2,2,Verona,Match Finished
+2024-04-13T18:45:00+00:00,2023,Serie A,Italy,Bologna,0,0,Monza,Match Finished
+2024-04-15T16:30:00+00:00,2023,Serie A,Italy,Fiorentina,1,1,Genoa,Match Finished
+2024-04-14T18:45:00+00:00,2023,Serie A,Italy,Inter,2,2,Cagliari,Match Finished
+2024-04-12T18:45:00+00:00,2023,Serie A,Italy,Lazio,4,1,Salernitana,Match Finished
+2024-04-13T13:00:00+00:00,2023,Serie A,Italy,Lecce,1,0,Empoli,Match Finished
+2024-04-14T10:30:00+00:00,2023,Serie A,Italy,Napoli,2,2,Frosinone,Match Finished
+2024-04-14T13:00:00+00:00,2023,Serie A,Italy,Sassuolo,3,3,AC Milan,Match Finished
+2024-04-13T16:00:00+00:00,2023,Serie A,Italy,Torino,0,0,Juventus,Match Finished
+2024-04-25T16:00:00+00:00,2023,Serie A,Italy,Udinese,1,2,AS Roma,Match Finished
+2024-04-19T18:45:00+00:00,2023,Serie A,Italy,Cagliari,2,2,Juventus,Match Finished
+2024-04-20T16:00:00+00:00,2023,Serie A,Italy,Empoli,1,0,Napoli,Match Finished
+2024-04-19T16:30:00+00:00,2023,Serie A,Italy,Genoa,0,1,Lazio,Match Finished
+2024-04-20T18:45:00+00:00,2023,Serie A,Italy,Verona,1,0,Udinese,Match Finished
+2024-04-22T18:45:00+00:00,2023,Serie A,Italy,AC Milan,1,2,Inter,Match Finished
+2024-04-21T18:45:00+00:00,2023,Serie A,Italy,Monza,1,2,Atalanta,Match Finished
+2024-04-22T16:30:00+00:00,2023,Serie A,Italy,AS Roma,1,3,Bologna,Match Finished
+2024-04-21T16:00:00+00:00,2023,Serie A,Italy,Salernitana,0,2,Fiorentina,Match Finished
+2024-04-21T10:30:00+00:00,2023,Serie A,Italy,Sassuolo,0,3,Lecce,Match Finished
+2024-04-21T13:00:00+00:00,2023,Serie A,Italy,Torino,0,0,Frosinone,Match Finished
+2024-04-28T16:00:00+00:00,2023,Serie A,Italy,Atalanta,,,Empoli,Not Started
+2024-04-28T13:00:00+00:00,2023,Serie A,Italy,Bologna,,,Udinese,Not Started
+2024-04-28T18:45:00+00:00,2023,Serie A,Italy,Fiorentina,,,Sassuolo,Not Started
+2024-04-26T18:45:00+00:00,2023,Serie A,Italy,Frosinone,3,0,Salernitana,Match Finished
+2024-04-29T18:45:00+00:00,2023,Serie A,Italy,Genoa,,,Cagliari,Not Started
+2024-04-28T10:30:00+00:00,2023,Serie A,Italy,Inter,,,Torino,Not Started
+2024-04-27T16:00:00+00:00,2023,Serie A,Italy,Juventus,0,0,AC Milan,Match Finished
+2024-04-27T18:45:00+00:00,2023,Serie A,Italy,Lazio,1,0,Verona,Match Finished
+2024-04-27T13:00:00+00:00,2023,Serie A,Italy,Lecce,1,1,Monza,Match Finished
+2024-04-28T16:00:00+00:00,2023,Serie A,Italy,Napoli,,,AS Roma,Not Started
+2024-05-05T10:30:00+00:00,2023,Serie A,Italy,Cagliari,,,Lecce,Not Started
+2024-05-05T13:00:00+00:00,2023,Serie A,Italy,Empoli,,,Frosinone,Not Started
+2024-05-05T13:00:00+00:00,2023,Serie A,Italy,Verona,,,Fiorentina,Not Started
+2024-05-05T16:00:00+00:00,2023,Serie A,Italy,AC Milan,,,Genoa,Not Started
+2024-05-04T16:00:00+00:00,2023,Serie A,Italy,Monza,,,Lazio,Not Started
+2024-05-05T18:45:00+00:00,2023,Serie A,Italy,AS Roma,,,Juventus,Not Started
+2024-05-06T16:00:00+00:00,2023,Serie A,Italy,Salernitana,,,Atalanta,Not Started
+2024-05-04T18:45:00+00:00,2023,Serie A,Italy,Sassuolo,,,Inter,Not Started
+2024-05-03T18:45:00+00:00,2023,Serie A,Italy,Torino,,,Bologna,Not Started
+2024-05-06T18:45:00+00:00,2023,Serie A,Italy,Udinese,,,Napoli,Not Started
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Atalanta,,,AS Roma,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Fiorentina,,,Monza,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Frosinone,,,Inter,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Genoa,,,Sassuolo,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Verona,,,Torino,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Juventus,,,Salernitana,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Lazio,,,Empoli,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Lecce,,,Udinese,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,AC Milan,,,Cagliari,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Serie A,Italy,Napoli,,,Bologna,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Bologna,,,Juventus,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Fiorentina,,,Napoli,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Inter,,,Lazio,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Lecce,,,Atalanta,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Monza,,,Frosinone,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,AS Roma,,,Genoa,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Salernitana,,,Verona,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Sassuolo,,,Cagliari,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Torino,,,AC Milan,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Serie A,Italy,Udinese,,,Empoli,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Atalanta,,,Torino,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Cagliari,,,Fiorentina,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Empoli,,,AS Roma,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Frosinone,,,Udinese,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Genoa,,,Bologna,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Verona,,,Inter,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Juventus,,,Monza,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Lazio,,,Sassuolo,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,AC Milan,,,Salernitana,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Serie A,Italy,Napoli,,,Lecce,Time to be defined

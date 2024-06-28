@@ -1,0 +1,381 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-12T18:45:00+00:00,2023,Süper Lig,Turkey,Kayserispor,0,0,Galatasaray,Match Finished
+2023-08-12T18:45:00+00:00,2023,Süper Lig,Turkey,Pendikspor,1,5,Hatayspor,Match Finished
+2023-08-12T16:15:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,3,2,Ankaragucu,Match Finished
+2023-08-14T18:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,2,0,Istanbul Basaksehir,Match Finished
+2023-08-13T18:45:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,2,1,Rizespor,Match Finished
+2023-08-14T18:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,0,1,Besiktas,Match Finished
+2023-08-11T18:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,1,0,Antalyaspor,Match Finished
+2023-08-13T18:45:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,2,1,Gazişehir Gaziantep,Match Finished
+2023-08-13T16:15:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,1,Samsunspor,Match Finished
+2023-08-12T16:15:00+00:00,2023,Süper Lig,Turkey,Konyaspor,1,1,İstanbulspor,Match Finished
+2023-08-19T18:45:00+00:00,2023,Süper Lig,Turkey,Hatayspor,0,0,Kasimpasa,Match Finished
+2023-08-18T18:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,1,Kayserispor,Match Finished
+2023-08-19T18:45:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,0,Trabzonspor,Match Finished
+2023-08-21T18:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,0,2,Fenerbahce,Match Finished
+2023-08-20T18:45:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,1,3,Sivasspor,Match Finished
+2023-08-20T16:15:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,0,2,Fatih Karagümrük,Match Finished
+2023-08-18T18:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,1,1,Konyaspor,Match Finished
+2023-08-20T18:45:00+00:00,2023,Süper Lig,Turkey,Besiktas,1,1,Pendikspor,Match Finished
+2023-08-21T18:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,1,1,Adana Demirspor,Match Finished
+2023-08-19T16:15:00+00:00,2023,Süper Lig,Turkey,Rizespor,0,0,Alanyaspor,Match Finished
+2023-08-27T16:15:00+00:00,2023,Süper Lig,Turkey,Kayserispor,2,1,Samsunspor,Match Finished
+2023-09-26T17:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,0,1,Galatasaray,Match Finished
+2023-08-26T16:15:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,1,1,Pendikspor,Match Finished
+2023-08-27T18:45:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,0,0,Hatayspor,Match Finished
+2023-09-27T17:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,4,2,Besiktas,Match Finished
+2023-08-27T16:15:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,1,1,Ankaragucu,Match Finished
+2023-08-26T16:15:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,2,3,Rizespor,Match Finished
+2023-09-28T17:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,4,0,Istanbul Basaksehir,Match Finished
+2023-08-26T18:45:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,1,Antalyaspor,Match Finished
+2023-08-25T18:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,2,0,Gazişehir Gaziantep,Match Finished
+2023-09-03T18:45:00+00:00,2023,Süper Lig,Turkey,Hatayspor,3,3,Adana Demirspor,Match Finished
+2023-09-02T16:15:00+00:00,2023,Süper Lig,Turkey,Pendikspor,1,1,Alanyaspor,Match Finished
+2023-09-01T18:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,1,5,Trabzonspor,Match Finished
+2023-11-08T16:15:00+00:00,2023,Süper Lig,Turkey,Samsunspor,2,1,İstanbulspor,Match Finished
+2023-09-02T18:45:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,0,3,Galatasaray,Match Finished
+2023-09-02T16:15:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,0,1,Konyaspor,Match Finished
+2023-09-02T18:45:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,1,1,Kayserispor,Match Finished
+2023-09-03T16:15:00+00:00,2023,Süper Lig,Turkey,Besiktas,2,0,Sivasspor,Match Finished
+2023-09-03T18:45:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,0,1,Fenerbahce,Match Finished
+2023-09-01T18:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,1,0,Fatih Karagümrük,Match Finished
+2023-09-16T14:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,2,0,Gazişehir Gaziantep,Match Finished
+2023-09-17T14:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,0,2,Istanbul Basaksehir,Match Finished
+2023-09-16T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,4,2,Samsunspor,Match Finished
+2023-09-17T17:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,3,3,Kasimpasa,Match Finished
+2023-09-16T17:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,3,0,Pendikspor,Match Finished
+2023-09-18T17:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,0,0,Hatayspor,Match Finished
+2023-09-17T17:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,3,0,Besiktas,Match Finished
+2023-09-17T14:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,3,2,Antalyaspor,Match Finished
+2023-09-18T17:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,3,Ankaragucu,Match Finished
+2023-09-16T14:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,1,2,Rizespor,Match Finished
+2023-09-25T17:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,3,2,Trabzonspor,Match Finished
+2023-09-23T14:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,1,1,Fatih Karagümrük,Match Finished
+2023-09-24T17:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,2,1,Adana Demirspor,Match Finished
+2023-09-24T17:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,0,1,Fenerbahce,Match Finished
+2023-09-22T17:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,2,0,İstanbulspor,Match Finished
+2023-09-23T17:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,1,2,Galatasaray,Match Finished
+2023-09-23T17:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,2,0,Samsunspor,Match Finished
+2023-09-24T14:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,2,1,Kayserispor,Match Finished
+2023-09-24T14:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,1,1,Konyaspor,Match Finished
+2023-09-23T14:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,1,1,Sivasspor,Match Finished
+2023-10-02T17:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,0,0,Istanbul Basaksehir,Match Finished
+2023-09-30T13:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,2,Antalyaspor,Match Finished
+2023-09-30T16:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,1,Ankaragucu,Match Finished
+2023-09-29T17:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,1,2,Gazişehir Gaziantep,Match Finished
+2023-10-01T16:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,4,0,Alanyaspor,Match Finished
+2023-10-01T10:30:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,2,3,Kasimpasa,Match Finished
+2023-09-30T13:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,2,1,Pendikspor,Match Finished
+2023-10-01T13:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,5,0,Rizespor,Match Finished
+2023-09-30T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,0,0,Hatayspor,Match Finished
+2023-10-01T16:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,0,2,Besiktas,Match Finished
+2023-10-08T16:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,3,1,Konyaspor,Match Finished
+2023-10-07T10:30:00+00:00,2023,Süper Lig,Turkey,Pendikspor,2,3,Sivasspor,Match Finished
+2023-10-08T16:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,0,2,Fenerbahce,Match Finished
+2023-10-06T17:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,2,1,Fatih Karagümrük,Match Finished
+2023-10-06T17:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,1,0,Trabzonspor,Match Finished
+2023-10-07T16:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,2,0,Gazişehir Gaziantep,Match Finished
+2023-10-07T16:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,0,2,Galatasaray,Match Finished
+2023-10-08T13:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,2,0,İstanbulspor,Match Finished
+2023-10-07T13:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,3,0,Kayserispor,Match Finished
+2023-10-08T10:30:00+00:00,2023,Süper Lig,Turkey,Rizespor,1,0,Samsunspor,Match Finished
+2023-10-21T10:30:00+00:00,2023,Süper Lig,Turkey,Kayserispor,3,1,Rizespor,Match Finished
+2023-10-22T13:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,2,1,Ankaragucu,Match Finished
+2023-10-21T16:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,1,Besiktas,Match Finished
+2023-10-22T16:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,0,0,Istanbul Basaksehir,Match Finished
+2023-10-21T13:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,1,0,Antalyaspor,Match Finished
+2023-10-23T17:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,2,0,Adana Demirspor,Match Finished
+2023-10-23T17:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,1,0,Alanyaspor,Match Finished
+2023-10-22T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,4,2,Hatayspor,Match Finished
+2023-10-22T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,0,1,Kasimpasa,Match Finished
+2023-10-21T13:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,1,2,Pendikspor,Match Finished
+2023-10-27T17:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,1,2,Kayserispor,Match Finished
+2023-10-29T16:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,0,5,Fenerbahce,Match Finished
+2023-10-27T17:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,3,1,İstanbulspor,Match Finished
+2023-10-28T13:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,1,2,Sivasspor,Match Finished
+2023-10-28T16:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,3,0,Konyaspor,Match Finished
+2023-10-29T13:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,0,0,Trabzonspor,Match Finished
+2023-10-29T16:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,1,0,Istanbul Basaksehir,Match Finished
+2023-10-30T17:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,2,0,Gazişehir Gaziantep,Match Finished
+2023-10-29T16:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,2,0,Samsunspor,Match Finished
+2023-10-28T16:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,0,1,Galatasaray,Match Finished
+2023-11-06T17:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,1,0,Alanyaspor,Match Finished
+2023-11-04T10:30:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,2,4,Pendikspor,Match Finished
+2023-11-03T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,1,Kasimpasa,Match Finished
+2023-11-04T13:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,2,1,Hatayspor,Match Finished
+2023-11-06T17:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,2,0,Rizespor,Match Finished
+2023-11-05T13:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,3,3,Ankaragucu,Match Finished
+2023-11-05T16:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,3,2,Besiktas,Match Finished
+2023-11-04T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,2,3,Trabzonspor,Match Finished
+2023-11-05T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,1,Adana Demirspor,Match Finished
+2023-11-05T13:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,1,1,Fatih Karagümrük,Match Finished
+2023-11-11T16:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,2,1,Galatasaray,Match Finished
+2023-11-12T10:30:00+00:00,2023,Süper Lig,Turkey,Pendikspor,1,0,Samsunspor,Match Finished
+2023-11-11T10:30:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,3,4,Kayserispor,Match Finished
+2023-11-11T13:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,0,3,Gazişehir Gaziantep,Match Finished
+2023-11-12T16:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,0,0,Fenerbahce,Match Finished
+2023-11-11T13:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,3,0,Sivasspor,Match Finished
+2023-11-10T17:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,2,1,Konyaspor,Match Finished
+2023-11-12T13:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,1,0,Istanbul Basaksehir,Match Finished
+2023-11-10T17:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,0,4,Antalyaspor,Match Finished
+2023-11-12T13:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,1,0,İstanbulspor,Match Finished
+2023-11-26T10:30:00+00:00,2023,Süper Lig,Turkey,Kayserispor,1,1,Adana Demirspor,Match Finished
+2023-11-25T10:30:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,2,1,Hatayspor,Match Finished
+2023-11-25T16:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,4,0,Alanyaspor,Match Finished
+2023-11-26T13:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,1,2,Besiktas,Match Finished
+2023-11-25T13:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,0,1,Ankaragucu,Match Finished
+2023-11-27T17:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,4,1,Pendikspor,Match Finished
+2023-11-26T13:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,0,0,Rizespor,Match Finished
+2023-11-26T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,2,1,Fatih Karagümrük,Match Finished
+2023-11-27T17:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,3,3,Trabzonspor,Match Finished
+2023-11-25T13:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,2,0,Kasimpasa,Match Finished
+2023-12-01T17:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,3,3,Antalyaspor,Match Finished
+2023-12-02T16:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,0,2,Galatasaray,Match Finished
+2023-12-03T10:30:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,4,2,Gazişehir Gaziantep,Match Finished
+2023-12-02T10:30:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,2,2,Konyaspor,Match Finished
+2023-12-02T16:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,2,3,Samsunspor,Match Finished
+2023-12-01T17:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,3,0,İstanbulspor,Match Finished
+2023-12-03T13:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,0,1,Kayserispor,Match Finished
+2023-12-04T17:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,4,1,Sivasspor,Match Finished
+2023-12-03T16:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,1,1,Besiktas,Match Finished
+2023-12-02T13:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,3,2,Istanbul Basaksehir,Match Finished
+2023-12-10T13:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,2,0,Pendikspor,Match Finished
+2023-12-10T10:30:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,0,1,Alanyaspor,Match Finished
+2023-12-08T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,3,1,Adana Demirspor,Match Finished
+2023-12-09T13:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,4,2,Kasimpasa,Match Finished
+2023-12-10T16:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,1,3,Trabzonspor,Match Finished
+2023-12-10T13:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,1,0,Hatayspor,Match Finished
+2023-12-09T10:30:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,2,1,Fatih Karagümrük,Match Finished
+2023-12-09T16:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,1,3,Fenerbahce,Match Finished
+2023-12-11T17:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,1,1,Rizespor,Match Finished
+2023-12-11T17:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,0,1,Sivasspor,Match Finished
+2024-01-10T14:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,0,0,Gazişehir Gaziantep,Match Finished
+2024-01-09T14:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,0,1,Antalyaspor,Match Finished
+2024-01-09T17:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,0,3,Istanbul Basaksehir,Match Finished
+2024-01-09T14:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,1,1,Ankaragucu,Match Finished
+2024-01-10T17:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,2,2,İstanbulspor,Match Finished
+2024-01-10T14:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,4,1,Kayserispor,Match Finished
+2024-01-11T17:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,2,1,Samsunspor,Match Finished
+2024-01-10T17:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,7,1,Konyaspor,Match Finished
+2024-01-11T14:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,1,Galatasaray,Match Finished
+2024-01-09T17:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,0,4,Besiktas,Match Finished
+2023-12-20T14:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,3,4,Fenerbahce,Match Finished
+2023-12-19T17:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,2,Trabzonspor,Match Finished
+2023-12-20T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,1,0,Fatih Karagümrük,Match Finished
+2023-12-21T14:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,1,1,Konyaspor,Match Finished
+2023-12-19T17:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,2,2,Adana Demirspor,Match Finished
+2023-12-19T14:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,3,1,Sivasspor,Match Finished
+2023-12-20T17:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,0,0,Kasimpasa,Match Finished
+2023-12-21T17:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,1,3,Alanyaspor,Match Finished
+2023-12-21T17:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,0,0,Hatayspor,Match Finished
+2023-12-21T14:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,5,1,Pendikspor,Match Finished
+2023-12-25T17:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,1,2,Besiktas,Match Finished
+2023-12-25T17:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,1,1,Ankaragucu,Match Finished
+2023-12-25T14:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,2,2,Rizespor,Match Finished
+2023-12-25T14:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,3,1,Samsunspor,Match Finished
+2023-12-24T13:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,2,1,Antalyaspor,Match Finished
+2023-12-23T13:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,0,3,Gazişehir Gaziantep,Match Finished
+2023-12-23T16:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,1,1,Istanbul Basaksehir,Match Finished
+2023-12-24T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,0,0,Galatasaray,Match Finished
+2023-12-23T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,0,İstanbulspor,Match Finished
+2023-12-24T10:30:00+00:00,2023,Süper Lig,Turkey,Konyaspor,2,0,Kayserispor,Match Finished
+2024-01-07T10:30:00+00:00,2023,Süper Lig,Turkey,Kayserispor,1,3,Sivasspor,Match Finished
+2024-01-07T13:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,5,Fenerbahce,Match Finished
+2024-01-07T16:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,3,0,Konyaspor,Match Finished
+2024-01-06T16:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,1,0,Fatih Karagümrük,Match Finished
+2024-01-05T14:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,2,2,Pendikspor,Match Finished
+2024-01-06T13:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,0,0,Adana Demirspor,Match Finished
+2024-01-05T17:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,0,0,Alanyaspor,Match Finished
+2024-01-05T17:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,1,3,Kasimpasa,Match Finished
+2024-01-06T16:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,0,1,Trabzonspor,Match Finished
+2024-01-06T10:30:00+00:00,2023,Süper Lig,Turkey,Rizespor,2,0,Hatayspor,Match Finished
+2024-01-15T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,1,Kayserispor,Match Finished
+2024-01-13T10:30:00+00:00,2023,Süper Lig,Turkey,Hatayspor,1,1,Pendikspor,Match Finished
+2024-01-13T10:30:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,3,1,Kasimpasa,Match Finished
+2024-01-13T13:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,3,2,Alanyaspor,Match Finished
+2024-01-13T16:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,1,0,Adana Demirspor,Match Finished
+2024-01-13T16:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,3,0,Fatih Karagümrük,Match Finished
+2024-01-14T13:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,1,1,Trabzonspor,Match Finished
+2024-01-14T16:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,0,1,Fenerbahce,Match Finished
+2024-01-14T13:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,2,0,Sivasspor,Match Finished
+2024-01-14T10:30:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,0,0,Konyaspor,Match Finished
+2024-01-20T10:30:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,3,0,Hatayspor,Match Finished
+2024-01-22T17:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,0,1,İstanbulspor,Match Finished
+2024-01-21T16:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,1,5,Galatasaray,Match Finished
+2024-01-21T13:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,1,1,Samsunspor,Match Finished
+2024-01-21T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,2,2,Gazişehir Gaziantep,Match Finished
+2024-01-20T13:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,1,1,Istanbul Basaksehir,Match Finished
+2024-01-21T13:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,1,1,Antalyaspor,Match Finished
+2024-01-20T16:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,4,0,Besiktas,Match Finished
+2024-01-20T16:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,1,1,Ankaragucu,Match Finished
+2024-01-20T13:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,2,1,Rizespor,Match Finished
+2024-01-25T14:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,2,0,Kayserispor,Match Finished
+2024-01-25T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,3,1,İstanbulspor,Match Finished
+2024-01-23T17:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,3,2,Kasimpasa,Match Finished
+2024-01-23T14:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,1,1,Alanyaspor,Match Finished
+2024-01-23T17:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,0,0,Adana Demirspor,Match Finished
+2024-01-24T14:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,2,0,Fatih Karagümrük,Match Finished
+2024-01-25T17:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,1,0,Trabzonspor,Match Finished
+2024-01-24T17:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,0,1,Fenerbahce,Match Finished
+2024-01-24T17:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,2,1,Sivasspor,Match Finished
+2024-01-24T14:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,1,1,Konyaspor,Match Finished
+2024-01-27T16:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,0,1,Hatayspor,Match Finished
+2024-01-27T13:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,1,1,Pendikspor,Match Finished
+2024-01-29T17:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,2,3,Kasimpasa,Match Finished
+2024-01-29T14:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,1,Samsunspor,Match Finished
+2024-01-29T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,1,Gazişehir Gaziantep,Match Finished
+2024-01-28T10:30:00+00:00,2023,Süper Lig,Turkey,Konyaspor,2,3,Istanbul Basaksehir,Match Finished
+2024-01-29T14:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,1,1,Antalyaspor,Match Finished
+2024-01-28T13:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,0,Besiktas,Match Finished
+2024-01-28T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,2,1,Ankaragucu,Match Finished
+2024-01-28T13:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,4,0,Rizespor,Match Finished
+2024-02-03T16:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,1,1,Kayserispor,Match Finished
+2024-02-03T13:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,2,0,İstanbulspor,Match Finished
+2024-02-02T17:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,0,2,Galatasaray,Match Finished
+2024-02-04T13:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,2,1,Alanyaspor,Match Finished
+2024-02-04T10:30:00+00:00,2023,Süper Lig,Turkey,Pendikspor,2,1,Adana Demirspor,Match Finished
+2024-02-02T14:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,3,1,Fatih Karagümrük,Match Finished
+2024-02-04T16:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,2,0,Trabzonspor,Match Finished
+2024-02-03T16:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,0,2,Fenerbahce,Match Finished
+2024-02-02T14:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,0,0,Sivasspor,Match Finished
+2024-02-03T10:30:00+00:00,2023,Süper Lig,Turkey,Rizespor,0,0,Konyaspor,Match Finished
+2024-02-12T14:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,2,0,Hatayspor,Match Finished
+2024-02-10T13:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,2,0,Pendikspor,Match Finished
+2024-02-09T17:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,1,3,Kasimpasa,Match Finished
+2024-02-11T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,2,2,Alanyaspor,Match Finished
+2024-02-11T13:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,3,Gazişehir Gaziantep,Match Finished
+2024-02-10T16:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,0,Istanbul Basaksehir,Match Finished
+2024-02-12T17:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,2,0,Antalyaspor,Match Finished
+2024-02-12T17:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,0,0,Besiktas,Match Finished
+2024-02-11T13:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,1,0,Ankaragucu,Match Finished
+2024-02-11T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,0,Rizespor,Match Finished
+2024-02-19T17:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,2,3,Kayserispor,Match Finished
+2024-02-17T10:30:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,2,2,İstanbulspor,Match Finished
+2024-02-18T16:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,0,3,Galatasaray,Match Finished
+2024-02-18T13:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,1,1,Samsunspor,Match Finished
+2024-02-18T10:30:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,3,3,Adana Demirspor,Match Finished
+2024-02-16T17:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,1,1,Fatih Karagümrük,Match Finished
+2024-02-18T13:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,0,2,Trabzonspor,Match Finished
+2024-02-17T16:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,1,3,Fenerbahce,Match Finished
+2024-02-17T13:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,1,1,Sivasspor,Match Finished
+2024-02-19T17:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,2,0,Konyaspor,Match Finished
+2024-02-24T16:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,2,0,Hatayspor,Match Finished
+2024-02-25T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,4,1,Pendikspor,Match Finished
+2024-02-24T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,2,1,Kasimpasa,Match Finished
+2024-02-25T13:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,1,1,Alanyaspor,Match Finished
+2024-02-25T13:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,1,0,Adana Demirspor,Match Finished
+2024-02-24T13:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,0,2,Istanbul Basaksehir,Match Finished
+2024-02-26T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,2,1,Antalyaspor,Match Finished
+2024-02-25T16:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,0,2,Besiktas,Match Finished
+2024-02-24T10:30:00+00:00,2023,Süper Lig,Turkey,Kayserispor,3,2,Ankaragucu,Match Finished
+2024-02-23T17:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,3,0,Rizespor,Match Finished
+2024-03-02T13:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,3,0,Kayserispor,Match Finished
+2024-03-02T10:30:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,1,1,İstanbulspor,Match Finished
+2024-03-03T16:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,0,1,Galatasaray,Match Finished
+2024-03-03T10:30:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,1,0,Samsunspor,Match Finished
+2024-03-04T17:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,1,0,Gazişehir Gaziantep,Match Finished
+2024-03-04T14:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,1,0,Fatih Karagümrük,Match Finished
+2024-03-04T17:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,3,1,Trabzonspor,Match Finished
+2024-03-02T16:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,0,2,Fenerbahce,Match Finished
+2024-03-01T17:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,0,0,Sivasspor,Match Finished
+2024-03-03T10:30:00+00:00,2023,Süper Lig,Turkey,Pendikspor,0,2,Konyaspor,Match Finished
+2024-03-10T10:30:00+00:00,2023,Süper Lig,Turkey,Kayserispor,1,1,Hatayspor,Match Finished
+2024-03-10T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,4,1,Pendikspor,Match Finished
+2024-03-10T13:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,2,Kasimpasa,Match Finished
+2024-03-09T10:30:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,2,Alanyaspor,Match Finished
+2024-03-09T13:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,2,2,Adana Demirspor,Match Finished
+2024-03-09T16:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,5,1,Fatih Karagümrük,Match Finished
+2024-03-09T16:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,1,0,Antalyaspor,Match Finished
+2024-03-11T17:30:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,2,0,Besiktas,Match Finished
+2024-03-10T13:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,2,1,Ankaragucu,Match Finished
+2024-03-08T17:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,6,2,Rizespor,Match Finished
+2024-03-16T10:30:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,1,0,Kayserispor,Match Finished
+2024-03-15T17:30:00+00:00,2023,Süper Lig,Turkey,Pendikspor,1,0,İstanbulspor,Match Finished
+2024-03-17T13:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,3,4,Galatasaray,Match Finished
+2024-03-17T13:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,3,0,Samsunspor,Match Finished
+2024-03-17T10:30:00+00:00,2023,Süper Lig,Turkey,Rizespor,3,1,Gazişehir Gaziantep,Match Finished
+2024-03-16T13:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,2,1,Istanbul Basaksehir,Match Finished
+2024-03-16T17:30:00+00:00,2023,Süper Lig,Turkey,Besiktas,1,2,Antalyaspor,Match Finished
+2024-03-17T17:30:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,2,3,Fenerbahce,Match Finished
+2024-03-16T17:30:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,4,1,Sivasspor,Match Finished
+2024-03-15T17:30:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,1,1,Konyaspor,Match Finished
+2024-04-02T17:30:00+00:00,2023,Süper Lig,Turkey,Galatasaray,1,0,Hatayspor,Match Finished
+2024-04-04T17:30:00+00:00,2023,Süper Lig,Turkey,Samsunspor,0,0,Pendikspor,Match Finished
+2024-04-03T17:30:00+00:00,2023,Süper Lig,Turkey,Kayserispor,0,2,Kasimpasa,Match Finished
+2024-04-02T17:30:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,0,3,Alanyaspor,Match Finished
+2024-04-03T17:30:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,4,2,Adana Demirspor,Match Finished
+2024-04-03T14:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,0,Fatih Karagümrük,Match Finished
+2024-04-03T17:30:00+00:00,2023,Süper Lig,Turkey,Konyaspor,1,3,Trabzonspor,Match Finished
+2024-04-04T17:30:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,1,1,Besiktas,Match Finished
+2024-04-02T17:30:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,1,1,Ankaragucu,Match Finished
+2024-04-02T14:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,0,4,Rizespor,Match Finished
+2024-04-13T16:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,0,0,Kayserispor,Match Finished
+2024-04-14T13:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,0,3,İstanbulspor,Match Finished
+2024-04-15T17:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,0,4,Galatasaray,Match Finished
+2024-04-13T16:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,1,1,Samsunspor,Match Finished
+2024-04-13T13:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,3,1,Gazişehir Gaziantep,Match Finished
+2024-04-14T10:30:00+00:00,2023,Süper Lig,Turkey,Pendikspor,2,3,Istanbul Basaksehir,Match Finished
+2024-04-14T13:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,3,0,Antalyaspor,Match Finished
+2024-04-14T16:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,1,2,Fenerbahce,Match Finished
+2024-04-12T17:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,0,1,Sivasspor,Match Finished
+2024-04-13T10:30:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,0,2,Konyaspor,Match Finished
+2024-04-21T16:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,2,1,Hatayspor,Match Finished
+2024-04-21T16:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,4,1,Pendikspor,Match Finished
+2024-04-21T16:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,2,0,Kasimpasa,Match Finished
+2024-04-20T13:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,0,2,Alanyaspor,Match Finished
+2024-04-20T16:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,1,1,Adana Demirspor,Match Finished
+2024-04-20T10:30:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,1,2,Fatih Karagümrük,Match Finished
+2024-04-20T16:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,1,2,Trabzonspor,Match Finished
+2024-04-22T17:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,2,2,Fenerbahce,Match Finished
+2024-04-19T17:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,2,0,Ankaragucu,Match Finished
+2024-04-21T10:30:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,2,0,Rizespor,Match Finished
+2024-04-28T13:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,,,Kayserispor,Not Started
+2024-04-28T13:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,,,İstanbulspor,Not Started
+2024-04-26T17:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,0,3,Galatasaray,Match Finished
+2024-04-27T13:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,1,0,Samsunspor,Match Finished
+2024-04-28T16:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,,,Gazişehir Gaziantep,Not Started
+2024-04-27T16:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,1,2,Istanbul Basaksehir,Match Finished
+2024-04-29T17:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,,,Antalyaspor,Not Started
+2024-04-27T16:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,2,1,Besiktas,Match Finished
+2024-04-28T16:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,,,Ankaragucu,Not Started
+2024-04-27T13:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,1,0,Konyaspor,Match Finished
+2024-05-05T16:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,,,Hatayspor,Not Started
+2024-05-06T17:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,,,Pendikspor,Not Started
+2024-05-05T13:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,,,Kasimpasa,Not Started
+2024-05-03T17:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,,,Alanyaspor,Not Started
+2024-05-04T13:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,,,Adana Demirspor,Not Started
+2024-05-04T16:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,,,Fatih Karagümrük,Not Started
+2024-05-04T16:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,,,Trabzonspor,Not Started
+2024-05-06T17:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,,,Fenerbahce,Not Started
+2024-05-05T16:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,,,Sivasspor,Not Started
+2024-05-03T17:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,,,Rizespor,Not Started
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,,,Kayserispor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,,,İstanbulspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,,,Galatasaray,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,,,Samsunspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,,,Gazişehir Gaziantep,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,,,Istanbul Basaksehir,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,,,Antalyaspor,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,,,Besiktas,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,,,Ankaragucu,Time to be defined
+2024-05-12T00:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,,,Rizespor,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Besiktas,,,Hatayspor,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Ankaragucu,,,Pendikspor,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Rizespor,,,Kasimpasa,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Samsunspor,,,Alanyaspor,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Antalyaspor,,,Adana Demirspor,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Gazişehir Gaziantep,,,Fatih Karagümrük,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Istanbul Basaksehir,,,Trabzonspor,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Galatasaray,,,Fenerbahce,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,İstanbulspor,,,Sivasspor,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Süper Lig,Turkey,Kayserispor,,,Konyaspor,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Sivasspor,,,Kayserispor,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Fenerbahce,,,İstanbulspor,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Konyaspor,,,Galatasaray,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Fatih Karagümrük,,,Samsunspor,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Pendikspor,,,Gazişehir Gaziantep,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Adana Demirspor,,,Istanbul Basaksehir,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Alanyaspor,,,Antalyaspor,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Kasimpasa,,,Besiktas,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Trabzonspor,,,Ankaragucu,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Süper Lig,Turkey,Hatayspor,,,Rizespor,Time to be defined

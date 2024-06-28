@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-28T15:45:00+00:00,2023,2. Liga,Austria,FC Liefering,0,1,Dornbirn,Match Finished
+2023-07-28T15:45:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,2,0,First Vienna,Match Finished
+2023-07-28T15:45:00+00:00,2023,2. Liga,Austria,SV Lafnitz,3,0,SV Kapfenberg,Match Finished
+2023-07-28T15:45:00+00:00,2023,2. Liga,Austria,Grazer AK,3,0,SKU Amstetten,Match Finished
+2023-07-30T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,1,4,SKN ST. Polten,Match Finished
+2023-07-28T15:45:00+00:00,2023,2. Liga,Austria,Leoben,3,2,SV Horn,Match Finished
+2023-07-30T08:30:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,1,1,Ried,Match Finished
+2023-07-28T15:45:00+00:00,2023,2. Liga,Austria,Admira Wacker,1,0,Stripfing,Match Finished
+2023-08-04T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,1,4,Leoben,Match Finished
+2023-08-04T16:10:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,1,1,Floridsdorfer AC,Match Finished
+2023-08-04T18:30:00+00:00,2023,2. Liga,Austria,Ried,2,2,Admira Wacker,Match Finished
+2023-08-22T16:30:00+00:00,2023,2. Liga,Austria,SV Horn,2,1,FC Liefering,Match Finished
+2023-08-04T16:10:00+00:00,2023,2. Liga,Austria,Dornbirn,0,1,Grazer AK,Match Finished
+2023-08-06T08:30:00+00:00,2023,2. Liga,Austria,First Vienna,2,2,Sturm Graz II,Match Finished
+2023-08-04T16:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,2,0,SV Lafnitz,Match Finished
+2023-08-05T18:00:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,2,Schwarz-Weiß Bregenz,Match Finished
+2023-08-13T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,2,2,Floridsdorfer AC,Match Finished
+2023-08-11T16:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,0,1,FC Liefering,Match Finished
+2023-08-12T12:30:00+00:00,2023,2. Liga,Austria,SV Lafnitz,1,0,Dornbirn,Match Finished
+2023-08-11T18:30:00+00:00,2023,2. Liga,Austria,First Vienna,2,3,Grazer AK,Match Finished
+2023-08-12T12:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,0,2,SV Kapfenberg,Match Finished
+2023-08-13T08:30:00+00:00,2023,2. Liga,Austria,Leoben,1,0,SKU Amstetten,Match Finished
+2023-08-11T16:10:00+00:00,2023,2. Liga,Austria,Admira Wacker,1,0,SV Horn,Match Finished
+2023-08-11T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,1,0,Ried,Match Finished
+2023-08-18T16:10:00+00:00,2023,2. Liga,Austria,Ried,2,0,Leoben,Match Finished
+2023-08-19T12:30:00+00:00,2023,2. Liga,Austria,Dornbirn,1,0,Admira Wacker,Match Finished
+2023-08-18T16:10:00+00:00,2023,2. Liga,Austria,SV Horn,2,0,First Vienna,Match Finished
+2023-08-18T18:30:00+00:00,2023,2. Liga,Austria,Grazer AK,1,0,Sturm Graz II,Match Finished
+2023-08-20T10:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,0,3,SKN ST. Polten,Match Finished
+2023-08-18T16:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,3,0,SV Lafnitz,Match Finished
+2023-08-18T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,1,Stripfing,Match Finished
+2023-08-18T16:10:00+00:00,2023,2. Liga,Austria,FC Liefering,2,1,Schwarz-Weiß Bregenz,Match Finished
+2023-08-25T16:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,2,0,Floridsdorfer AC,Match Finished
+2023-08-25T16:10:00+00:00,2023,2. Liga,Austria,Leoben,0,1,First Vienna,Match Finished
+2023-08-27T08:30:00+00:00,2023,2. Liga,Austria,SV Lafnitz,4,1,Grazer AK,Match Finished
+2023-08-27T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,3,3,SV Kapfenberg,Match Finished
+2023-08-25T16:10:00+00:00,2023,2. Liga,Austria,Admira Wacker,3,1,SKU Amstetten,Match Finished
+2023-08-25T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,3,1,SV Horn,Match Finished
+2023-08-25T16:10:00+00:00,2023,2. Liga,Austria,FC Liefering,1,1,Ried,Match Finished
+2023-08-25T18:30:00+00:00,2023,2. Liga,Austria,Dornbirn,0,5,Schwarz-Weiß Bregenz,Match Finished
+2023-09-03T08:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,2,1,Leoben,Match Finished
+2023-09-01T16:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,3,1,FC Liefering,Match Finished
+2023-09-02T12:30:00+00:00,2023,2. Liga,Austria,SV Horn,3,0,Dornbirn,Match Finished
+2023-09-01T16:10:00+00:00,2023,2. Liga,Austria,Admira Wacker,1,1,Sturm Graz II,Match Finished
+2023-09-01T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,0,1,SKN ST. Polten,Match Finished
+2023-09-02T12:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,2,1,SV Lafnitz,Match Finished
+2023-09-01T18:30:00+00:00,2023,2. Liga,Austria,Grazer AK,1,0,Ried,Match Finished
+2023-09-01T16:10:00+00:00,2023,2. Liga,Austria,First Vienna,1,0,Stripfing,Match Finished
+2023-09-15T16:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,3,2,Admira Wacker,Match Finished
+2023-09-15T16:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,1,2,First Vienna,Match Finished
+2023-09-15T18:30:00+00:00,2023,2. Liga,Austria,Leoben,1,2,Grazer AK,Match Finished
+2023-09-17T08:30:00+00:00,2023,2. Liga,Austria,Ried,2,0,SV Kapfenberg,Match Finished
+2023-09-15T16:10:00+00:00,2023,2. Liga,Austria,Dornbirn,1,0,SKU Amstetten,Match Finished
+2023-09-15T16:10:00+00:00,2023,2. Liga,Austria,SV Lafnitz,2,0,SV Horn,Match Finished
+2023-09-15T16:10:00+00:00,2023,2. Liga,Austria,FC Liefering,1,2,Stripfing,Match Finished
+2023-09-17T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,0,2,Schwarz-Weiß Bregenz,Match Finished
+2023-09-22T16:10:00+00:00,2023,2. Liga,Austria,Leoben,0,4,Floridsdorfer AC,Match Finished
+2023-09-23T12:30:00+00:00,2023,2. Liga,Austria,Grazer AK,3,0,FC Liefering,Match Finished
+2023-09-23T12:30:00+00:00,2023,2. Liga,Austria,First Vienna,0,0,Dornbirn,Match Finished
+2023-09-22T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,2,3,SV Kapfenberg,Match Finished
+2023-09-24T08:30:00+00:00,2023,2. Liga,Austria,SV Horn,4,0,Sturm Graz II,Match Finished
+2023-09-22T19:00:00+00:00,2023,2. Liga,Austria,Admira Wacker,2,2,SKN ST. Polten,Match Finished
+2023-09-22T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,2,SV Lafnitz,Match Finished
+2023-09-23T18:00:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,0,0,Ried,Match Finished
+2023-09-29T16:10:00+00:00,2023,2. Liga,Austria,FC Liefering,2,2,Leoben,Match Finished
+2023-09-30T12:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,1,1,Admira Wacker,Match Finished
+2023-10-01T08:30:00+00:00,2023,2. Liga,Austria,SV Lafnitz,2,3,First Vienna,Match Finished
+2023-09-29T18:30:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,1,3,Grazer AK,Match Finished
+2023-10-01T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,3,2,SKU Amstetten,Match Finished
+2023-09-29T16:10:00+00:00,2023,2. Liga,Austria,Ried,5,0,SV Horn,Match Finished
+2023-09-29T16:10:00+00:00,2023,2. Liga,Austria,Dornbirn,1,3,Stripfing,Match Finished
+2023-09-30T12:30:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,1,2,Schwarz-Weiß Bregenz,Match Finished
+2023-10-06T18:30:00+00:00,2023,2. Liga,Austria,First Vienna,2,2,Floridsdorfer AC,Match Finished
+2023-10-08T08:30:00+00:00,2023,2. Liga,Austria,FC Liefering,1,1,Admira Wacker,Match Finished
+2023-10-06T16:10:00+00:00,2023,2. Liga,Austria,SV Horn,0,2,SV Kapfenberg,Match Finished
+2023-10-07T12:30:00+00:00,2023,2. Liga,Austria,Dornbirn,2,3,Sturm Graz II,Match Finished
+2023-10-06T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,4,1,SKN ST. Polten,Match Finished
+2023-10-06T16:10:00+00:00,2023,2. Liga,Austria,Leoben,1,1,SV Lafnitz,Match Finished
+2023-10-06T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,2,3,Ried,Match Finished
+2023-10-07T12:30:00+00:00,2023,2. Liga,Austria,Grazer AK,1,0,Schwarz-Weiß Bregenz,Match Finished
+2023-10-22T08:30:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,1,2,Leoben,Match Finished
+2023-10-21T12:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,1,1,FC Liefering,Match Finished
+2023-10-21T12:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,3,2,Dornbirn,Match Finished
+2023-10-20T16:10:00+00:00,2023,2. Liga,Austria,Ried,4,1,First Vienna,Match Finished
+2023-10-20T18:30:00+00:00,2023,2. Liga,Austria,Admira Wacker,0,0,Grazer AK,Match Finished
+2023-10-20T16:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,0,0,SKU Amstetten,Match Finished
+2023-10-21T12:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,3,1,SV Horn,Match Finished
+2023-10-20T16:10:00+00:00,2023,2. Liga,Austria,SV Lafnitz,0,3,Stripfing,Match Finished
+2023-10-27T16:10:00+00:00,2023,2. Liga,Austria,Dornbirn,1,2,Floridsdorfer AC,Match Finished
+2023-10-27T16:10:00+00:00,2023,2. Liga,Austria,Leoben,3,2,Admira Wacker,Match Finished
+2023-10-28T12:30:00+00:00,2023,2. Liga,Austria,First Vienna,2,0,FC Liefering,Match Finished
+2023-10-27T16:10:00+00:00,2023,2. Liga,Austria,SV Horn,1,2,Grazer AK,Match Finished
+2023-10-27T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,1,SV Kapfenberg,Match Finished
+2023-10-27T16:10:00+00:00,2023,2. Liga,Austria,SV Lafnitz,5,2,Sturm Graz II,Match Finished
+2023-10-29T09:30:00+00:00,2023,2. Liga,Austria,Ried,1,1,SKN ST. Polten,Match Finished
+2023-10-28T12:30:00+00:00,2023,2. Liga,Austria,Stripfing,1,1,Schwarz-Weiß Bregenz,Match Finished
+2023-11-05T09:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,0,0,Leoben,Match Finished
+2023-11-04T13:30:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,2,0,Dornbirn,Match Finished
+2023-11-04T13:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,0,0,First Vienna,Match Finished
+2023-11-04T13:30:00+00:00,2023,2. Liga,Austria,FC Liefering,2,2,SKU Amstetten,Match Finished
+2023-11-03T17:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,0,1,SV Horn,Match Finished
+2023-11-03T19:30:00+00:00,2023,2. Liga,Austria,Admira Wacker,1,0,SV Lafnitz,Match Finished
+2023-12-06T17:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,0,5,Ried,Match Finished
+2023-11-05T11:30:00+00:00,2023,2. Liga,Austria,Grazer AK,3,0,Stripfing,Match Finished
+2023-11-12T09:30:00+00:00,2023,2. Liga,Austria,Grazer AK,1,3,Floridsdorfer AC,Match Finished
+2023-11-10T17:10:00+00:00,2023,2. Liga,Austria,First Vienna,2,1,Admira Wacker,Match Finished
+2023-11-11T13:30:00+00:00,2023,2. Liga,Austria,Leoben,6,0,Dornbirn,Match Finished
+2023-11-12T11:30:00+00:00,2023,2. Liga,Austria,FC Liefering,0,1,SV Kapfenberg,Match Finished
+2023-11-10T17:10:00+00:00,2023,2. Liga,Austria,Stripfing,2,1,Sturm Graz II,Match Finished
+2023-11-10T17:10:00+00:00,2023,2. Liga,Austria,SV Horn,3,1,SKU Amstetten,Match Finished
+2023-11-10T19:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,2,3,SKN ST. Polten,Match Finished
+2023-11-10T17:10:00+00:00,2023,2. Liga,Austria,Ried,5,0,SV Lafnitz,Match Finished
+2023-11-26T09:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,0,2,Leoben,Match Finished
+2023-11-25T13:30:00+00:00,2023,2. Liga,Austria,SV Lafnitz,1,6,FC Liefering,Match Finished
+2023-11-26T09:30:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,3,First Vienna,Match Finished
+2023-11-24T19:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,2,3,Grazer AK,Match Finished
+2023-11-24T17:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,0,2,SV Horn,Match Finished
+2023-11-25T13:30:00+00:00,2023,2. Liga,Austria,Dornbirn,0,2,Ried,Match Finished
+2023-11-24T17:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,2,0,Stripfing,Match Finished
+2023-11-25T13:30:00+00:00,2023,2. Liga,Austria,Admira Wacker,1,3,Schwarz-Weiß Bregenz,Match Finished
+2024-02-16T17:10:00+00:00,2023,2. Liga,Austria,SV Horn,0,3,Leoben,Match Finished
+2024-02-16T19:30:00+00:00,2023,2. Liga,Austria,Ried,0,2,Floridsdorfer AC,Match Finished
+2023-12-01T17:10:00+00:00,2023,2. Liga,Austria,Stripfing,0,4,Admira Wacker,Match Finished
+2024-02-17T13:30:00+00:00,2023,2. Liga,Austria,Dornbirn,1,2,FC Liefering,Match Finished
+2024-02-17T13:30:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,3,Grazer AK,Match Finished
+2023-12-01T17:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,3,1,Sturm Graz II,Match Finished
+2023-12-01T17:10:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,2,4,SV Lafnitz,Match Finished
+2024-02-17T13:30:00+00:00,2023,2. Liga,Austria,First Vienna,1,2,Schwarz-Weiß Bregenz,Match Finished
+2024-02-24T13:30:00+00:00,2023,2. Liga,Austria,Grazer AK,3,0,Dornbirn,Match Finished
+2024-02-24T13:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,1,1,First Vienna,Match Finished
+2024-02-23T17:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,0,0,SV Kapfenberg,Match Finished
+2024-02-24T13:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,0,1,SKU Amstetten,Match Finished
+2024-02-23T19:30:00+00:00,2023,2. Liga,Austria,SV Lafnitz,0,1,SKN ST. Polten,Match Finished
+2024-02-23T17:10:00+00:00,2023,2. Liga,Austria,FC Liefering,2,1,SV Horn,Match Finished
+2024-02-25T09:30:00+00:00,2023,2. Liga,Austria,Admira Wacker,3,2,Ried,Match Finished
+2024-02-23T17:10:00+00:00,2023,2. Liga,Austria,Leoben,4,0,Stripfing,Match Finished
+2024-03-01T17:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,0,1,Leoben,Match Finished
+2024-03-03T09:30:00+00:00,2023,2. Liga,Austria,SV Horn,1,0,Admira Wacker,Match Finished
+2024-03-01T19:00:00+00:00,2023,2. Liga,Austria,Grazer AK,2,2,First Vienna,Match Finished
+2024-03-01T17:10:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,1,0,Sturm Graz II,Match Finished
+2024-03-02T13:30:00+00:00,2023,2. Liga,Austria,FC Liefering,3,1,SKN ST. Polten,Match Finished
+2024-03-02T13:30:00+00:00,2023,2. Liga,Austria,Dornbirn,0,2,SV Lafnitz,Match Finished
+2024-03-01T17:10:00+00:00,2023,2. Liga,Austria,Ried,5,0,Stripfing,Match Finished
+2024-03-02T13:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,1,3,Schwarz-Weiß Bregenz,Match Finished
+2024-03-08T17:10:00+00:00,2023,2. Liga,Austria,SV Lafnitz,2,1,Floridsdorfer AC,Match Finished
+2024-03-08T17:10:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,1,1,FC Liefering,Match Finished
+2024-03-09T13:30:00+00:00,2023,2. Liga,Austria,Admira Wacker,1,0,Dornbirn,Match Finished
+2024-03-10T09:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,0,1,Grazer AK,Match Finished
+2024-03-08T17:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,2,0,SV Kapfenberg,Match Finished
+2024-03-08T17:10:00+00:00,2023,2. Liga,Austria,Stripfing,0,2,SKU Amstetten,Match Finished
+2024-03-08T17:10:00+00:00,2023,2. Liga,Austria,First Vienna,1,2,SV Horn,Match Finished
+2024-03-08T19:30:00+00:00,2023,2. Liga,Austria,Leoben,1,0,Ried,Match Finished
+2024-03-15T17:10:00+00:00,2023,2. Liga,Austria,First Vienna,1,0,Leoben,Match Finished
+2024-03-15T17:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,3,Admira Wacker,Match Finished
+2024-03-15T17:10:00+00:00,2023,2. Liga,Austria,Ried,3,2,FC Liefering,Match Finished
+2024-03-17T09:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,1,4,Dornbirn,Match Finished
+2024-03-16T13:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,1,1,Sturm Graz II,Match Finished
+2024-03-15T19:30:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,2,1,SKN ST. Polten,Match Finished
+2024-03-15T17:10:00+00:00,2023,2. Liga,Austria,Grazer AK,1,1,SV Lafnitz,Match Finished
+2024-03-15T17:10:00+00:00,2023,2. Liga,Austria,SV Horn,2,1,Stripfing,Match Finished
+2024-03-31T10:30:00+00:00,2023,2. Liga,Austria,FC Liefering,4,1,Floridsdorfer AC,Match Finished
+2024-03-31T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,1,3,Admira Wacker,Match Finished
+2024-03-31T08:30:00+00:00,2023,2. Liga,Austria,Stripfing,3,2,First Vienna,Match Finished
+2024-03-29T19:30:00+00:00,2023,2. Liga,Austria,Ried,0,1,Grazer AK,Match Finished
+2024-03-29T17:10:00+00:00,2023,2. Liga,Austria,Leoben,0,0,SV Kapfenberg,Match Finished
+2024-03-29T17:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,3,1,SKU Amstetten,Match Finished
+2024-03-30T13:30:00+00:00,2023,2. Liga,Austria,Dornbirn,4,0,SV Horn,Match Finished
+2024-03-30T13:30:00+00:00,2023,2. Liga,Austria,SV Lafnitz,3,0,Schwarz-Weiß Bregenz,Match Finished
+2024-04-06T12:30:00+00:00,2023,2. Liga,Austria,Grazer AK,1,1,Leoben,Match Finished
+2024-04-07T08:30:00+00:00,2023,2. Liga,Austria,Admira Wacker,0,0,Floridsdorfer AC,Match Finished
+2024-04-05T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,1,2,FC Liefering,Match Finished
+2024-04-06T12:30:00+00:00,2023,2. Liga,Austria,SKU Amstetten,0,1,Dornbirn,Match Finished
+2024-04-06T12:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,3,3,Sturm Graz II,Match Finished
+2024-04-05T16:10:00+00:00,2023,2. Liga,Austria,First Vienna,7,3,SKN ST. Polten,Match Finished
+2024-04-05T16:10:00+00:00,2023,2. Liga,Austria,SV Horn,2,1,SV Lafnitz,Match Finished
+2024-04-05T16:10:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,1,3,Ried,Match Finished
+2024-04-12T18:30:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,0,2,Leoben,Match Finished
+2024-04-12T16:10:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,0,3,Admira Wacker,Match Finished
+2024-04-12T16:10:00+00:00,2023,2. Liga,Austria,Dornbirn,1,0,First Vienna,Match Finished
+2024-04-12T16:10:00+00:00,2023,2. Liga,Austria,FC Liefering,2,0,Grazer AK,Match Finished
+2024-04-14T08:30:00+00:00,2023,2. Liga,Austria,SV Lafnitz,2,2,SKU Amstetten,Match Finished
+2024-04-14T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,2,1,SV Horn,Match Finished
+2024-04-12T16:10:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,3,1,Stripfing,Match Finished
+2024-04-13T18:00:00+00:00,2023,2. Liga,Austria,Ried,5,0,Schwarz-Weiß Bregenz,Match Finished
+2024-04-19T18:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,0,2,Floridsdorfer AC,Match Finished
+2024-04-19T16:10:00+00:00,2023,2. Liga,Austria,Leoben,1,2,FC Liefering,Match Finished
+2024-04-20T12:30:00+00:00,2023,2. Liga,Austria,Stripfing,2,2,Dornbirn,Match Finished
+2024-04-19T16:10:00+00:00,2023,2. Liga,Austria,Admira Wacker,1,0,SV Kapfenberg,Match Finished
+2024-04-19T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,1,4,Sturm Graz II,Match Finished
+2024-04-21T08:30:00+00:00,2023,2. Liga,Austria,Grazer AK,3,1,SKN ST. Polten,Match Finished
+2024-04-19T16:10:00+00:00,2023,2. Liga,Austria,First Vienna,2,0,SV Lafnitz,Match Finished
+2024-04-19T16:10:00+00:00,2023,2. Liga,Austria,SV Horn,0,2,Ried,Match Finished
+2024-04-26T16:10:00+00:00,2023,2. Liga,Austria,SV Lafnitz,2,3,Leoben,Match Finished
+2024-04-27T12:30:00+00:00,2023,2. Liga,Austria,Admira Wacker,0,0,FC Liefering,Match Finished
+2024-04-27T12:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,2,3,Dornbirn,Match Finished
+2024-04-27T12:15:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,1,0,First Vienna,Match Finished
+2024-04-27T12:30:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,0,3,Grazer AK,Match Finished
+2024-04-26T16:10:00+00:00,2023,2. Liga,Austria,Ried,3,0,SKU Amstetten,Match Finished
+2024-04-26T16:10:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,1,3,SV Horn,Match Finished
+2024-04-28T08:30:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,,,Stripfing,Not Started
+2024-05-03T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,,,Floridsdorfer AC,Not Started
+2024-05-03T18:30:00+00:00,2023,2. Liga,Austria,Grazer AK,,,Admira Wacker,Not Started
+2024-05-03T16:10:00+00:00,2023,2. Liga,Austria,Dornbirn,,,SV Kapfenberg,Not Started
+2024-05-03T16:10:00+00:00,2023,2. Liga,Austria,FC Liefering,,,Sturm Graz II,Not Started
+2024-05-03T16:10:00+00:00,2023,2. Liga,Austria,Leoben,,,SKN ST. Polten,Not Started
+2024-05-03T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,,,SV Lafnitz,Not Started
+2024-05-05T08:30:00+00:00,2023,2. Liga,Austria,First Vienna,,,Ried,Not Started
+2024-05-04T12:30:00+00:00,2023,2. Liga,Austria,SV Horn,,,Schwarz-Weiß Bregenz,Not Started
+2024-05-10T16:10:00+00:00,2023,2. Liga,Austria,Admira Wacker,,,Leoben,Not Started
+2024-05-11T12:30:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,,,Dornbirn,Not Started
+2024-05-10T16:10:00+00:00,2023,2. Liga,Austria,FC Liefering,,,First Vienna,Not Started
+2024-05-12T08:30:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,,,SKU Amstetten,Not Started
+2024-05-11T12:30:00+00:00,2023,2. Liga,Austria,Grazer AK,,,SV Horn,Not Started
+2024-05-12T08:30:00+00:00,2023,2. Liga,Austria,Sturm Graz II,,,SV Lafnitz,Not Started
+2024-05-10T18:30:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,,,Ried,Not Started
+2024-05-10T16:10:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Stripfing,Not Started
+2024-05-17T16:10:00+00:00,2023,2. Liga,Austria,SV Horn,,,Floridsdorfer AC,Not Started
+2024-05-17T16:10:00+00:00,2023,2. Liga,Austria,SV Lafnitz,,,Admira Wacker,Not Started
+2024-05-17T16:10:00+00:00,2023,2. Liga,Austria,SKU Amstetten,,,FC Liefering,Not Started
+2024-05-17T16:10:00+00:00,2023,2. Liga,Austria,Stripfing,,,Grazer AK,Not Started
+2024-05-17T16:10:00+00:00,2023,2. Liga,Austria,First Vienna,,,SV Kapfenberg,Not Started
+2024-05-17T16:10:00+00:00,2023,2. Liga,Austria,Ried,,,Sturm Graz II,Not Started
+2024-05-17T16:10:00+00:00,2023,2. Liga,Austria,Dornbirn,,,SKN ST. Polten,Not Started
+2024-05-17T18:30:00+00:00,2023,2. Liga,Austria,Leoben,,,Schwarz-Weiß Bregenz,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,Dornbirn,,,Leoben,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,SV Kapfenberg,,,FC Liefering,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,Admira Wacker,,,First Vienna,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,Floridsdorfer AC,,,Grazer AK,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,SKU Amstetten,,,SV Horn,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,SV Lafnitz,,,Ried,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,Sturm Graz II,,,Stripfing,Not Started
+2024-05-20T14:00:00+00:00,2023,2. Liga,Austria,SKN ST. Polten,,,Schwarz-Weiß Bregenz,Not Started
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,Stripfing,,,Floridsdorfer AC,Time to be defined
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,Schwarz-Weiß Bregenz,,,Admira Wacker,Time to be defined
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,Ried,,,Dornbirn,Time to be defined
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,Grazer AK,,,SV Kapfenberg,Time to be defined
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,Leoben,,,Sturm Graz II,Time to be defined
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,First Vienna,,,SKU Amstetten,Time to be defined
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,SV Horn,,,SKN ST. Polten,Time to be defined
+2024-05-26T00:00:00+00:00,2023,2. Liga,Austria,FC Liefering,,,SV Lafnitz,Time to be defined

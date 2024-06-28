@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-23T14:30:00+00:00,2023,Premier League,Russia,Spartak Moscow,3,2,Orenburg,Match Finished
+2023-07-23T17:00:00+00:00,2023,Premier League,Russia,FC Rostov,2,1,Fakel Voronezh,Match Finished
+2023-07-21T16:00:00+00:00,2023,Premier League,Russia,Dinamo Moscow,1,3,Krasnodar,Match Finished
+2023-07-22T14:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,2,2,Rubin,Match Finished
+2023-07-22T17:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,1,2,Krylya Sovetov,Match Finished
+2023-07-23T17:00:00+00:00,2023,Premier League,Russia,PFC Sochi,2,0,Baltika,Match Finished
+2023-07-22T12:15:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,0,2,Zenit Saint Petersburg,Match Finished
+2023-07-22T10:00:00+00:00,2023,Premier League,Russia,Ural,2,1,CSKA Moscow,Match Finished
+2023-07-31T16:30:00+00:00,2023,Premier League,Russia,Spartak Moscow,2,1,Baltika,Match Finished
+2023-07-29T17:00:00+00:00,2023,Premier League,Russia,FC Rostov,1,1,Zenit Saint Petersburg,Match Finished
+2023-07-30T17:00:00+00:00,2023,Premier League,Russia,Krasnodar,2,0,PFC Sochi,Match Finished
+2023-07-29T12:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,3,3,Dinamo Moscow,Match Finished
+2023-07-30T17:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,2,3,CSKA Moscow,Match Finished
+2023-07-30T12:00:00+00:00,2023,Premier League,Russia,Rubin,1,1,Orenburg,Match Finished
+2023-07-30T14:30:00+00:00,2023,Premier League,Russia,Fakel Voronezh,1,4,Lokomotiv Moscow,Match Finished
+2023-07-29T14:30:00+00:00,2023,Premier League,Russia,Ural,0,0,Nizhny Novgorod,Match Finished
+2023-08-06T16:00:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,2,3,Dinamo Moscow,Match Finished
+2023-08-04T17:00:00+00:00,2023,Premier League,Russia,Krasnodar,1,0,Nizhny Novgorod,Match Finished
+2023-08-05T12:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,5,1,FC Rostov,Match Finished
+2023-08-05T17:00:00+00:00,2023,Premier League,Russia,CSKA Moscow,4,1,Lokomotiv Moscow,Match Finished
+2023-08-06T17:00:00+00:00,2023,Premier League,Russia,PFC Sochi,1,2,Akhmat Grozny,Match Finished
+2023-08-05T14:30:00+00:00,2023,Premier League,Russia,Rubin,1,4,Spartak Moscow,Match Finished
+2023-08-06T14:30:00+00:00,2023,Premier League,Russia,Baltika,2,1,Fakel Voronezh,Match Finished
+2023-08-05T14:30:00+00:00,2023,Premier League,Russia,Orenburg,0,2,Ural,Match Finished
+2023-08-13T14:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,2,0,Fakel Voronezh,Match Finished
+2023-08-12T17:00:00+00:00,2023,Premier League,Russia,FC Rostov,3,0,Rubin,Match Finished
+2023-08-13T17:00:00+00:00,2023,Premier League,Russia,CSKA Moscow,3,1,PFC Sochi,Match Finished
+2023-08-13T12:00:00+00:00,2023,Premier League,Russia,Dinamo Moscow,2,0,Baltika,Match Finished
+2023-08-12T12:00:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,1,1,Krylya Sovetov,Match Finished
+2023-08-14T16:30:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,2,0,Akhmat Grozny,Match Finished
+2023-08-11T15:00:00+00:00,2023,Premier League,Russia,Ural,3,2,Spartak Moscow,Match Finished
+2023-08-12T14:30:00+00:00,2023,Premier League,Russia,Orenburg,0,2,Krasnodar,Match Finished
+2023-08-20T16:30:00+00:00,2023,Premier League,Russia,Spartak Moscow,1,3,Zenit Saint Petersburg,Match Finished
+2023-08-19T16:30:00+00:00,2023,Premier League,Russia,Krasnodar,1,1,Lokomotiv Moscow,Match Finished
+2023-08-19T12:00:00+00:00,2023,Premier League,Russia,Dinamo Moscow,2,1,CSKA Moscow,Match Finished
+2023-08-20T17:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,4,0,Orenburg,Match Finished
+2023-08-19T17:00:00+00:00,2023,Premier League,Russia,PFC Sochi,4,0,FC Rostov,Match Finished
+2023-08-18T16:30:00+00:00,2023,Premier League,Russia,Rubin,2,1,Krylya Sovetov,Match Finished
+2023-08-19T14:30:00+00:00,2023,Premier League,Russia,Baltika,0,1,Ural,Match Finished
+2023-08-20T14:30:00+00:00,2023,Premier League,Russia,Fakel Voronezh,2,0,Nizhny Novgorod,Match Finished
+2023-08-26T12:00:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,4,0,Ural,Match Finished
+2023-08-26T16:30:00+00:00,2023,Premier League,Russia,Spartak Moscow,0,0,Akhmat Grozny,Match Finished
+2023-08-27T14:30:00+00:00,2023,Premier League,Russia,Krylya Sovetov,2,1,Baltika,Match Finished
+2023-08-27T17:00:00+00:00,2023,Premier League,Russia,PFC Sochi,0,1,Lokomotiv Moscow,Match Finished
+2023-08-26T14:30:00+00:00,2023,Premier League,Russia,Rubin,2,2,Dinamo Moscow,Match Finished
+2023-08-26T17:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,1,0,FC Rostov,Match Finished
+2023-08-25T17:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,0,0,Krasnodar,Match Finished
+2023-08-25T14:30:00+00:00,2023,Premier League,Russia,Orenburg,1,1,CSKA Moscow,Match Finished
+2023-09-03T17:00:00+00:00,2023,Premier League,Russia,FC Rostov,1,2,Dinamo Moscow,Match Finished
+2023-09-02T17:00:00+00:00,2023,Premier League,Russia,Krasnodar,2,0,Spartak Moscow,Match Finished
+2023-09-02T14:30:00+00:00,2023,Premier League,Russia,Krylya Sovetov,3,0,Fakel Voronezh,Match Finished
+2023-09-03T14:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,1,1,Zenit Saint Petersburg,Match Finished
+2023-09-03T12:15:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,3,2,Baltika,Match Finished
+2023-09-02T12:15:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,2,1,Rubin,Match Finished
+2023-09-02T10:00:00+00:00,2023,Premier League,Russia,Ural,0,1,Akhmat Grozny,Match Finished
+2023-09-03T10:00:00+00:00,2023,Premier League,Russia,Orenburg,3,0,PFC Sochi,Match Finished
+2023-09-16T11:00:00+00:00,2023,Premier League,Russia,CSKA Moscow,2,2,Krylya Sovetov,Match Finished
+2023-09-15T16:00:00+00:00,2023,Premier League,Russia,Dinamo Moscow,1,1,Nizhny Novgorod,Match Finished
+2023-09-17T16:00:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,0,2,Orenburg,Match Finished
+2023-09-16T13:30:00+00:00,2023,Premier League,Russia,Akhmat Grozny,1,1,Krasnodar,Match Finished
+2024-04-13T11:00:00+00:00,2023,Premier League,Russia,PFC Sochi,1,0,Spartak Moscow,Match Finished
+2023-09-17T13:30:00+00:00,2023,Premier League,Russia,Rubin,0,3,Zenit Saint Petersburg,Match Finished
+2023-09-16T18:15:00+00:00,2023,Premier League,Russia,Baltika,2,2,FC Rostov,Match Finished
+2023-09-17T11:00:00+00:00,2023,Premier League,Russia,Ural,0,0,Fakel Voronezh,Match Finished
+2023-09-24T13:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,1,2,Lokomotiv Moscow,Match Finished
+2023-09-23T16:00:00+00:00,2023,Premier League,Russia,Spartak Moscow,1,0,Dinamo Moscow,Match Finished
+2023-09-24T16:00:00+00:00,2023,Premier League,Russia,FC Rostov,3,3,CSKA Moscow,Match Finished
+2023-09-24T16:00:00+00:00,2023,Premier League,Russia,Krasnodar,2,0,Ural,Match Finished
+2023-09-23T11:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,2,1,PFC Sochi,Match Finished
+2023-09-23T13:30:00+00:00,2023,Premier League,Russia,Baltika,1,0,Akhmat Grozny,Match Finished
+2023-09-24T11:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,3,1,Orenburg,Match Finished
+2023-09-25T16:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,0,1,Rubin,Match Finished
+2023-09-29T16:00:00+00:00,2023,Premier League,Russia,FC Rostov,2,2,Ural,Match Finished
+2023-10-01T13:30:00+00:00,2023,Premier League,Russia,Krylya Sovetov,4,0,Spartak Moscow,Match Finished
+2023-09-30T16:00:00+00:00,2023,Premier League,Russia,CSKA Moscow,1,0,Baltika,Match Finished
+2023-09-30T11:15:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,1,0,Nizhny Novgorod,Match Finished
+2023-10-01T16:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,1,1,Dinamo Moscow,Match Finished
+2023-09-30T13:30:00+00:00,2023,Premier League,Russia,Rubin,0,2,Krasnodar,Match Finished
+2023-10-01T11:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,2,0,PFC Sochi,Match Finished
+2023-09-30T09:00:00+00:00,2023,Premier League,Russia,Orenburg,3,1,Zenit Saint Petersburg,Match Finished
+2023-10-08T16:00:00+00:00,2023,Premier League,Russia,Spartak Moscow,2,2,CSKA Moscow,Match Finished
+2023-10-07T16:00:00+00:00,2023,Premier League,Russia,Krasnodar,3,2,FC Rostov,Match Finished
+2023-10-08T13:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,0,0,Fakel Voronezh,Match Finished
+2023-10-08T16:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,0,1,Rubin,Match Finished
+2023-10-07T11:00:00+00:00,2023,Premier League,Russia,PFC Sochi,0,2,Zenit Saint Petersburg,Match Finished
+2023-10-07T13:30:00+00:00,2023,Premier League,Russia,Baltika,1,0,Orenburg,Match Finished
+2023-10-08T11:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,2,0,Krylya Sovetov,Match Finished
+2023-10-07T09:00:00+00:00,2023,Premier League,Russia,Ural,2,2,Lokomotiv Moscow,Match Finished
+2023-10-22T13:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,3,1,Krylya Sovetov,Match Finished
+2023-10-22T11:00:00+00:00,2023,Premier League,Russia,Spartak Moscow,2,0,Nizhny Novgorod,Match Finished
+2023-10-22T16:00:00+00:00,2023,Premier League,Russia,FC Rostov,3,0,Akhmat Grozny,Match Finished
+2023-10-21T13:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,0,0,Dinamo Moscow,Match Finished
+2023-10-21T11:00:00+00:00,2023,Premier League,Russia,Rubin,0,0,CSKA Moscow,Match Finished
+2023-10-21T16:00:00+00:00,2023,Premier League,Russia,Baltika,2,2,Krasnodar,Match Finished
+2023-10-22T09:00:00+00:00,2023,Premier League,Russia,Ural,1,4,PFC Sochi,Match Finished
+2023-10-21T09:00:00+00:00,2023,Premier League,Russia,Orenburg,1,2,Fakel Voronezh,Match Finished
+2023-10-28T16:00:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,2,1,Akhmat Grozny,Match Finished
+2023-10-28T13:30:00+00:00,2023,Premier League,Russia,FC Rostov,1,0,Lokomotiv Moscow,Match Finished
+2023-10-28T13:30:00+00:00,2023,Premier League,Russia,Krylya Sovetov,1,1,Orenburg,Match Finished
+2023-10-29T16:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,1,0,Krasnodar,Match Finished
+2023-10-29T13:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,2,1,Ural,Match Finished
+2023-10-27T16:00:00+00:00,2023,Premier League,Russia,Rubin,1,0,Baltika,Match Finished
+2023-10-29T11:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,1,0,PFC Sochi,Match Finished
+2023-10-28T11:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,2,0,Spartak Moscow,Match Finished
+2023-11-05T11:00:00+00:00,2023,Premier League,Russia,Krasnodar,2,1,Krylya Sovetov,Match Finished
+2023-11-05T13:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,3,2,Nizhny Novgorod,Match Finished
+2023-11-05T16:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,1,1,Spartak Moscow,Match Finished
+2023-11-04T13:30:00+00:00,2023,Premier League,Russia,Akhmat Grozny,1,2,Fakel Voronezh,Match Finished
+2023-11-06T16:30:00+00:00,2023,Premier League,Russia,PFC Sochi,3,3,Dinamo Moscow,Match Finished
+2023-11-04T16:00:00+00:00,2023,Premier League,Russia,Baltika,0,2,Zenit Saint Petersburg,Match Finished
+2023-11-06T13:30:00+00:00,2023,Premier League,Russia,Ural,0,1,Rubin,Match Finished
+2023-11-06T11:00:00+00:00,2023,Premier League,Russia,Orenburg,1,1,FC Rostov,Match Finished
+2023-11-11T16:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,1,1,Krasnodar,Match Finished
+2023-11-12T16:30:00+00:00,2023,Premier League,Russia,Spartak Moscow,2,1,FC Rostov,Match Finished
+2023-11-11T11:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,3,1,Ural,Match Finished
+2023-11-12T13:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,2,0,Orenburg,Match Finished
+2023-11-11T13:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,2,1,Akhmat Grozny,Match Finished
+2023-11-12T16:00:00+00:00,2023,Premier League,Russia,PFC Sochi,0,2,Rubin,Match Finished
+2023-11-12T11:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,0,0,Baltika,Match Finished
+2023-11-11T11:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,1,1,CSKA Moscow,Match Finished
+2023-11-25T12:15:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,3,0,PFC Sochi,Match Finished
+2023-11-26T16:00:00+00:00,2023,Premier League,Russia,FC Rostov,1,0,Nizhny Novgorod,Match Finished
+2023-11-25T10:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,3,3,Lokomotiv Moscow,Match Finished
+2023-11-25T14:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,2,3,Dinamo Moscow,Match Finished
+2023-11-26T13:30:00+00:00,2023,Premier League,Russia,Rubin,1,0,Fakel Voronezh,Match Finished
+2023-11-25T16:45:00+00:00,2023,Premier League,Russia,Baltika,0,2,Spartak Moscow,Match Finished
+2023-11-26T11:00:00+00:00,2023,Premier League,Russia,Ural,3,1,Krasnodar,Match Finished
+2023-11-26T09:00:00+00:00,2023,Premier League,Russia,Orenburg,1,1,Akhmat Grozny,Match Finished
+2023-12-03T13:30:00+00:00,2023,Premier League,Russia,Krasnodar,2,1,Orenburg,Match Finished
+2023-12-03T11:00:00+00:00,2023,Premier League,Russia,CSKA Moscow,2,0,FC Rostov,Match Finished
+2023-12-04T16:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,1,0,Rubin,Match Finished
+2023-12-03T13:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,3,1,Zenit Saint Petersburg,Match Finished
+2023-12-03T16:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,2,1,Spartak Moscow,Match Finished
+2023-12-02T13:30:00+00:00,2023,Premier League,Russia,PFC Sochi,0,2,Krylya Sovetov,Match Finished
+2023-12-02T16:30:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,1,0,Ural,Match Finished
+2023-12-02T11:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,0,0,Baltika,Match Finished
+2023-12-09T16:45:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,1,0,Nizhny Novgorod,Match Finished
+2023-12-09T11:00:00+00:00,2023,Premier League,Russia,Spartak Moscow,3,0,Krylya Sovetov,Match Finished
+2023-12-10T16:45:00+00:00,2023,Premier League,Russia,Krasnodar,1,0,CSKA Moscow,Match Finished
+2023-12-08T16:00:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,2,0,Ural,Match Finished
+2023-12-09T13:30:00+00:00,2023,Premier League,Russia,Akhmat Grozny,0,0,FC Rostov,Match Finished
+2023-12-10T13:30:00+00:00,2023,Premier League,Russia,PFC Sochi,1,1,Orenburg,Match Finished
+2023-12-10T16:45:00+00:00,2023,Premier League,Russia,Baltika,0,1,Rubin,Match Finished
+2023-12-10T11:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,1,1,Dinamo Moscow,Match Finished
+2024-03-02T16:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,0,0,Spartak Moscow,Match Finished
+2024-03-01T16:00:00+00:00,2023,Premier League,Russia,FC Rostov,2,0,Krylya Sovetov,Match Finished
+2024-03-02T13:30:00+00:00,2023,Premier League,Russia,Krasnodar,1,1,Rubin,Match Finished
+2024-03-02T11:00:00+00:00,2023,Premier League,Russia,CSKA Moscow,1,1,Orenburg,Match Finished
+2024-03-03T13:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,2,1,Lokomotiv Moscow,Match Finished
+2024-03-02T16:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,1,0,Ural,Match Finished
+2024-03-03T16:00:00+00:00,2023,Premier League,Russia,Baltika,0,0,PFC Sochi,Match Finished
+2024-03-03T11:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,1,1,Fakel Voronezh,Match Finished
+2024-03-10T16:00:00+00:00,2023,Premier League,Russia,Spartak Moscow,0,2,Fakel Voronezh,Match Finished
+2024-03-08T15:30:00+00:00,2023,Premier League,Russia,FC Rostov,2,1,Krasnodar,Match Finished
+2024-03-08T11:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,0,2,CSKA Moscow,Match Finished
+2024-03-09T16:00:00+00:00,2023,Premier League,Russia,Dinamo Moscow,2,0,Akhmat Grozny,Match Finished
+2024-03-10T13:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,2,2,PFC Sochi,Match Finished
+2024-03-09T13:30:00+00:00,2023,Premier League,Russia,Rubin,0,1,Nizhny Novgorod,Match Finished
+2024-03-09T11:00:00+00:00,2023,Premier League,Russia,Ural,1,4,Zenit Saint Petersburg,Match Finished
+2024-03-10T11:00:00+00:00,2023,Premier League,Russia,Orenburg,1,0,Baltika,Match Finished
+2024-04-24T17:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,0,2,Rubin,Match Finished
+2024-04-24T17:30:00+00:00,2023,Premier League,Russia,Krasnodar,3,2,Baltika,Match Finished
+2024-04-25T17:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,0,0,Spartak Moscow,Match Finished
+2024-04-25T17:30:00+00:00,2023,Premier League,Russia,Akhmat Grozny,1,0,PFC Sochi,Match Finished
+2024-04-24T15:15:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,2,3,Lokomotiv Moscow,Match Finished
+2024-04-25T15:15:00+00:00,2023,Premier League,Russia,Fakel Voronezh,0,1,Krylya Sovetov,Match Finished
+2024-04-25T13:00:00+00:00,2023,Premier League,Russia,Ural,0,1,FC Rostov,Match Finished
+2024-04-24T13:00:00+00:00,2023,Premier League,Russia,Orenburg,1,2,Dinamo Moscow,Match Finished
+2024-03-30T16:00:00+00:00,2023,Premier League,Russia,Spartak Moscow,0,0,Ural,Match Finished
+2024-03-30T11:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,1,1,Zenit Saint Petersburg,Match Finished
+2024-03-29T16:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,1,4,FC Rostov,Match Finished
+2024-03-31T16:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,1,1,Krasnodar,Match Finished
+2024-03-30T13:30:00+00:00,2023,Premier League,Russia,PFC Sochi,2,2,CSKA Moscow,Match Finished
+2024-03-31T13:30:00+00:00,2023,Premier League,Russia,Rubin,2,1,Akhmat Grozny,Match Finished
+2024-03-30T14:30:00+00:00,2023,Premier League,Russia,Baltika,2,0,Nizhny Novgorod,Match Finished
+2024-03-31T11:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,0,0,Orenburg,Match Finished
+2024-04-07T13:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,1,0,Baltika,Match Finished
+2024-04-06T17:00:00+00:00,2023,Premier League,Russia,FC Rostov,2,2,PFC Sochi,Match Finished
+2024-04-07T11:00:00+00:00,2023,Premier League,Russia,CSKA Moscow,4,1,Fakel Voronezh,Match Finished
+2024-04-07T16:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,1,2,Spartak Moscow,Match Finished
+2024-04-07T13:30:00+00:00,2023,Premier League,Russia,Akhmat Grozny,0,2,Lokomotiv Moscow,Match Finished
+2024-04-06T13:30:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,3,4,Krasnodar,Match Finished
+2024-04-06T11:00:00+00:00,2023,Premier League,Russia,Ural,1,2,Krylya Sovetov,Match Finished
+2024-04-08T14:00:00+00:00,2023,Premier League,Russia,Orenburg,3,0,Rubin,Match Finished
+2023-09-16T16:00:00+00:00,2023,Premier League,Russia,Spartak Moscow,1,0,PFC Sochi,Match Finished
+2024-04-13T14:00:00+00:00,2023,Premier League,Russia,Krasnodar,1,2,Zenit Saint Petersburg,Match Finished
+2024-04-14T16:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,2,0,Rubin,Match Finished
+2024-04-13T16:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,3,3,CSKA Moscow,Match Finished
+2024-04-13T13:30:00+00:00,2023,Premier League,Russia,Akhmat Grozny,1,7,Baltika,Match Finished
+2024-04-14T13:45:00+00:00,2023,Premier League,Russia,Fakel Voronezh,0,1,FC Rostov,Match Finished
+2024-04-14T11:15:00+00:00,2023,Premier League,Russia,Ural,2,1,Dinamo Moscow,Match Finished
+2024-04-14T09:00:00+00:00,2023,Premier League,Russia,Orenburg,3,1,Nizhny Novgorod,Match Finished
+2024-04-21T13:15:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,1,0,Orenburg,Match Finished
+2024-04-21T17:30:00+00:00,2023,Premier League,Russia,FC Rostov,1,5,Spartak Moscow,Match Finished
+2024-04-19T16:00:00+00:00,2023,Premier League,Russia,Krasnodar,2,0,Fakel Voronezh,Match Finished
+2024-04-20T16:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,1,2,Akhmat Grozny,Match Finished
+2024-04-21T15:15:00+00:00,2023,Premier League,Russia,PFC Sochi,2,2,Ural,Match Finished
+2024-04-20T11:00:00+00:00,2023,Premier League,Russia,Rubin,1,1,Lokomotiv Moscow,Match Finished
+2024-04-20T13:30:00+00:00,2023,Premier League,Russia,Baltika,2,1,Krylya Sovetov,Match Finished
+2024-04-21T11:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,1,4,Dinamo Moscow,Match Finished
+2024-04-28T13:15:00+00:00,2023,Premier League,Russia,Spartak Moscow,,,Lokomotiv Moscow,Not Started
+2024-04-29T16:45:00+00:00,2023,Premier League,Russia,FC Rostov,,,Orenburg,Not Started
+2024-04-29T10:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,,,Krasnodar,Not Started
+2024-04-28T16:15:00+00:00,2023,Premier League,Russia,Dinamo Moscow,,,Zenit Saint Petersburg,Not Started
+2024-04-28T11:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,,,Nizhny Novgorod,Not Started
+2024-04-29T14:30:00+00:00,2023,Premier League,Russia,PFC Sochi,,,Fakel Voronezh,Not Started
+2024-04-29T12:15:00+00:00,2023,Premier League,Russia,Rubin,,,Ural,Not Started
+2024-04-28T18:30:00+00:00,2023,Premier League,Russia,Baltika,,,CSKA Moscow,Not Started
+2024-05-04T16:30:00+00:00,2023,Premier League,Russia,Krasnodar,,,Akhmat Grozny,Not Started
+2024-05-06T17:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,,,Rubin,Not Started
+2024-05-05T13:30:00+00:00,2023,Premier League,Russia,Dinamo Moscow,,,PFC Sochi,Not Started
+2024-05-06T17:30:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,,,FC Rostov,Not Started
+2024-05-05T16:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,,,Spartak Moscow,Not Started
+2024-05-06T15:00:00+00:00,2023,Premier League,Russia,Fakel Voronezh,,,Zenit Saint Petersburg,Not Started
+2024-05-06T12:45:00+00:00,2023,Premier League,Russia,Ural,,,Baltika,Not Started
+2024-05-04T14:00:00+00:00,2023,Premier League,Russia,Orenburg,,,Krylya Sovetov,Not Started
+2024-05-11T16:00:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,,,CSKA Moscow,Not Started
+2024-05-11T13:30:00+00:00,2023,Premier League,Russia,Spartak Moscow,,,Krasnodar,Not Started
+2024-05-10T13:00:00+00:00,2023,Premier League,Russia,Krylya Sovetov,,,Akhmat Grozny,Not Started
+2024-05-12T16:00:00+00:00,2023,Premier League,Russia,PFC Sochi,,,Nizhny Novgorod,Not Started
+2024-05-11T11:00:00+00:00,2023,Premier League,Russia,Rubin,,,FC Rostov,Not Started
+2024-05-11T18:30:00+00:00,2023,Premier League,Russia,Baltika,,,Dinamo Moscow,Not Started
+2024-05-12T13:30:00+00:00,2023,Premier League,Russia,Fakel Voronezh,,,Ural,Not Started
+2024-05-12T11:00:00+00:00,2023,Premier League,Russia,Orenburg,,,Lokomotiv Moscow,Not Started
+2024-05-19T11:15:00+00:00,2023,Premier League,Russia,Spartak Moscow,,,Rubin,Not Started
+2024-05-19T13:30:00+00:00,2023,Premier League,Russia,FC Rostov,,,Baltika,Not Started
+2024-05-19T00:00:00+00:00,2023,Premier League,Russia,Dinamo Moscow,,,Krylya Sovetov,Time to be defined
+2024-05-19T00:00:00+00:00,2023,Premier League,Russia,Lokomotiv Moscow,,,Fakel Voronezh,Time to be defined
+2024-05-19T16:00:00+00:00,2023,Premier League,Russia,Akhmat Grozny,,,Zenit Saint Petersburg,Not Started
+2024-05-19T00:00:00+00:00,2023,Premier League,Russia,PFC Sochi,,,Krasnodar,Time to be defined
+2024-05-20T17:00:00+00:00,2023,Premier League,Russia,Nizhny Novgorod,,,CSKA Moscow,Not Started
+2024-05-19T09:00:00+00:00,2023,Premier League,Russia,Ural,,,Orenburg,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,Zenit Saint Petersburg,,,FC Rostov,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,Krasnodar,,,Dinamo Moscow,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,Krylya Sovetov,,,Nizhny Novgorod,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,CSKA Moscow,,,Ural,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,Rubin,,,PFC Sochi,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,Baltika,,,Lokomotiv Moscow,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,Fakel Voronezh,,,Akhmat Grozny,Not Started
+2024-05-25T13:30:00+00:00,2023,Premier League,Russia,Orenburg,,,Spartak Moscow,Not Started

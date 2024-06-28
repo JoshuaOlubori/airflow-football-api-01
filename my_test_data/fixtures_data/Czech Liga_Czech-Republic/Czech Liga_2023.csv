@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-22T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,0,1,Bohemians 1905,Match Finished
+2023-07-22T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,4,1,Zlin,Match Finished
+2023-07-22T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,1,0,Plzen,Match Finished
+2023-07-22T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,2,0,Hradec Králové,Match Finished
+2023-07-23T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,3,1,FK Jablonec,Match Finished
+2023-07-23T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,3,1,Baník Ostrava,Match Finished
+2023-07-23T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,4,1,České Budějovice,Match Finished
+2023-07-23T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,2,0,Sigma Olomouc,Match Finished
+2023-07-29T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,3,1,Karviná,Match Finished
+2023-07-29T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,0,1,Sparta Praha,Match Finished
+2023-07-29T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,0,0,FK Jablonec,Match Finished
+2023-07-29T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,0,0,Slovácko,Match Finished
+2023-07-30T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,1,3,Slavia Praha,Match Finished
+2023-07-30T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,1,2,Teplice,Match Finished
+2023-07-30T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,2,2,Slovan Liberec,Match Finished
+2023-07-30T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,1,1,Hradec Králové,Match Finished
+2023-08-05T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,5,2,Pardubice,Match Finished
+2023-08-05T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,1,2,Mlada Boleslav,Match Finished
+2023-08-05T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,0,2,Sigma Olomouc,Match Finished
+2023-08-05T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,5,1,České Budějovice,Match Finished
+2023-08-06T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,3,1,Baník Ostrava,Match Finished
+2023-08-06T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,0,0,FK Jablonec,Match Finished
+2023-08-06T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,0,1,Bohemians 1905,Match Finished
+2023-08-06T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,2,1,Zlin,Match Finished
+2023-08-12T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,2,0,Hradec Králové,Match Finished
+2023-08-12T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,1,1,Slovan Liberec,Match Finished
+2023-08-13T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,2,1,Karviná,Match Finished
+2023-08-12T16:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,1,5,Sparta Praha,Match Finished
+2023-08-13T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,0,1,Slovácko,Match Finished
+2023-08-13T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,2,1,Teplice,Match Finished
+2023-08-13T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,0,1,Slavia Praha,Match Finished
+2023-08-13T16:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,2,5,Plzen,Match Finished
+2023-08-19T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,2,2,Mlada Boleslav,Match Finished
+2023-08-19T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,1,0,Pardubice,Match Finished
+2023-08-19T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,1,1,FK Jablonec,Match Finished
+2023-08-19T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,1,1,Sparta Praha,Match Finished
+2023-08-20T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,3,0,Bohemians 1905,Match Finished
+2023-08-20T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,2,1,Sigma Olomouc,Match Finished
+2023-08-20T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,2,0,Zlin,Match Finished
+2023-08-20T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,1,0,Baník Ostrava,Match Finished
+2023-08-27T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,2,1,Hradec Králové,Match Finished
+2023-12-06T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,1,3,Plzen,Match Finished
+2023-08-26T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,2,0,České Budějovice,Match Finished
+2023-08-27T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,3,1,Karviná,Match Finished
+2023-08-26T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,2,1,Teplice,Match Finished
+2023-08-27T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,2,0,Slovan Liberec,Match Finished
+2023-08-27T13:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,1,1,Slavia Praha,Match Finished
+2023-08-26T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,0,1,Slovácko,Match Finished
+2023-09-03T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,2,0,Bohemians 1905,Match Finished
+2023-09-03T18:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,1,3,Sigma Olomouc,Match Finished
+2023-09-02T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,2,0,Mlada Boleslav,Match Finished
+2023-09-02T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,1,0,Zlin,Match Finished
+2023-09-03T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,5,1,Karviná,Match Finished
+2023-09-02T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,2,1,FK Jablonec,Match Finished
+2023-09-03T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,0,2,Sparta Praha,Match Finished
+2023-09-02T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,0,1,Pardubice,Match Finished
+2023-09-16T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,5,1,Hradec Králové,Match Finished
+2023-09-17T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,1,7,Plzen,Match Finished
+2023-09-16T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,2,1,České Budějovice,Match Finished
+2023-09-16T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,1,1,Baník Ostrava,Match Finished
+2023-09-16T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,0,1,Teplice,Match Finished
+2023-09-17T13:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,1,1,Slovan Liberec,Match Finished
+2023-09-16T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,0,1,Slavia Praha,Match Finished
+2023-09-17T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,5,0,Slovácko,Match Finished
+2023-09-24T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,1,0,FK Jablonec,Match Finished
+2023-09-24T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,6,2,Pardubice,Match Finished
+2023-09-23T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,1,2,Mlada Boleslav,Match Finished
+2023-09-23T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,5,1,Zlin,Match Finished
+2023-09-23T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,3,2,Sigma Olomouc,Match Finished
+2023-09-23T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,3,3,Teplice,Match Finished
+2023-09-24T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,1,1,Sparta Praha,Match Finished
+2023-09-23T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,2,0,Karviná,Match Finished
+2023-09-30T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,0,3,Baník Ostrava,Match Finished
+2023-10-01T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,2,1,Bohemians 1905,Match Finished
+2023-09-30T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,1,1,České Budějovice,Match Finished
+2023-10-01T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,1,1,Hradec Králové,Match Finished
+2023-09-30T13:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,2,0,Slovácko,Match Finished
+2023-09-30T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,2,1,Plzen,Match Finished
+2023-09-30T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,5,2,Slovan Liberec,Match Finished
+2023-10-01T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,0,0,Slavia Praha,Match Finished
+2023-10-08T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,1,3,Sparta Praha,Match Finished
+2023-10-08T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,3,2,FK Jablonec,Match Finished
+2023-10-07T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,1,0,Karviná,Match Finished
+2023-10-07T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,1,1,Pardubice,Match Finished
+2023-10-07T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,0,0,Zlin,Match Finished
+2023-10-07T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,4,0,Mlada Boleslav,Match Finished
+2023-10-08T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,2,3,Slavia Praha,Match Finished
+2023-10-07T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,2,0,Teplice,Match Finished
+2023-10-21T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,5,9,Mlada Boleslav,Match Finished
+2023-10-21T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,1,1,Sigma Olomouc,Match Finished
+2023-10-22T16:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,0,1,Bohemians 1905,Match Finished
+2023-10-22T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,4,0,České Budějovice,Match Finished
+2023-10-21T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,1,0,Hradec Králové,Match Finished
+2023-10-22T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,0,1,Baník Ostrava,Match Finished
+2023-10-21T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,3,0,Plzen,Match Finished
+2023-10-21T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,2,0,Slovácko,Match Finished
+2023-10-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,1,0,Teplice,Match Finished
+2023-10-29T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,0,1,Karviná,Match Finished
+2023-10-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,0,1,Pardubice,Match Finished
+2023-10-28T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,0,1,FK Jablonec,Match Finished
+2023-10-29T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,0,2,Slavia Praha,Match Finished
+2023-10-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,0,0,Zlin,Match Finished
+2023-10-29T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,3,1,Sparta Praha,Match Finished
+2023-10-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,1,1,Slovan Liberec,Match Finished
+2023-11-04T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,0,1,Zlin,Match Finished
+2023-11-04T14:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,1,1,Sigma Olomouc,Match Finished
+2023-11-04T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,2,0,Bohemians 1905,Match Finished
+2023-11-05T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,1,3,Baník Ostrava,Match Finished
+2023-11-04T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,1,0,Mlada Boleslav,Match Finished
+2023-11-05T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,1,0,České Budějovice,Match Finished
+2023-11-05T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,1,2,Plzen,Match Finished
+2023-11-04T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,0,0,Hradec Králové,Match Finished
+2023-11-11T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,1,1,Slovan Liberec,Match Finished
+2023-11-11T14:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,0,1,Teplice,Match Finished
+2023-11-12T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,1,4,Slovácko,Match Finished
+2023-11-12T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,0,1,Sparta Praha,Match Finished
+2023-11-11T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,1,0,Karviná,Match Finished
+2023-11-12T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,1,3,Slavia Praha,Match Finished
+2023-11-11T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,1,0,Pardubice,Match Finished
+2023-11-11T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,1,1,FK Jablonec,Match Finished
+2023-11-25T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,1,1,Plzen,Match Finished
+2023-11-25T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,2,1,České Budějovice,Match Finished
+2023-11-26T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,2,0,Baník Ostrava,Match Finished
+2023-11-25T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,1,1,Bohemians 1905,Match Finished
+2023-11-25T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,0,2,Sigma Olomouc,Match Finished
+2023-11-25T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,2,1,Mlada Boleslav,Match Finished
+2023-11-26T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,2,0,Zlin,Match Finished
+2023-11-26T14:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,2,1,Pardubice,Match Finished
+2023-12-13T16:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,0,2,Hradec Králové,Match Finished
+2024-02-13T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,0,1,Plzen,Match Finished
+2023-12-03T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,1,2,Sparta Praha,Match Finished
+2023-12-13T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,2,2,Karviná,Match Finished
+2023-12-06T16:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,3,2,Teplice,Match Finished
+2023-12-13T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,0,0,Slovan Liberec,Match Finished
+2024-02-14T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,1,1,Slavia Praha,Match Finished
+2023-12-02T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,1,1,Slovácko,Match Finished
+2023-12-10T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,5,0,České Budějovice,Match Finished
+2023-12-09T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,2,3,Baník Ostrava,Match Finished
+2023-12-09T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,5,2,Bohemians 1905,Match Finished
+2024-02-21T16:30:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,2,0,Sigma Olomouc,Match Finished
+2023-12-10T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,2,0,Mlada Boleslav,Match Finished
+2023-12-09T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,5,3,Zlin,Match Finished
+2024-02-14T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,0,3,Pardubice,Match Finished
+2023-12-09T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,3,0,FK Jablonec,Match Finished
+2023-12-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,2,3,Slavia Praha,Match Finished
+2023-12-16T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,0,0,České Budějovice,Match Finished
+2023-12-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,1,3,Plzen,Match Finished
+2023-12-16T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,0,1,Slovácko,Match Finished
+2023-12-16T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,4,0,Hradec Králové,Match Finished
+2023-12-16T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,2,0,Slovan Liberec,Match Finished
+2023-12-16T14:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,0,0,Karviná,Match Finished
+2023-12-17T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,2,1,Teplice,Match Finished
+2024-02-11T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,2,2,Bohemians 1905,Match Finished
+2024-02-10T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,1,1,Mlada Boleslav,Match Finished
+2024-02-10T14:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,3,0,Baník Ostrava,Match Finished
+2024-02-10T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,0,3,Sparta Praha,Match Finished
+2024-02-11T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,2,1,Zlin,Match Finished
+2024-02-10T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,2,0,Sigma Olomouc,Match Finished
+2024-02-11T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,4,3,FK Jablonec,Match Finished
+2024-02-10T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,1,2,Pardubice,Match Finished
+2024-02-17T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,0,2,Plzen,Match Finished
+2024-02-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,0,0,Hradec Králové,Match Finished
+2024-02-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,1,3,Baník Ostrava,Match Finished
+2024-02-18T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,2,1,Slovácko,Match Finished
+2024-02-18T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,0,3,Slavia Praha,Match Finished
+2024-02-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,5,2,České Budějovice,Match Finished
+2024-02-18T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,2,1,Slovan Liberec,Match Finished
+2024-02-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,1,1,Teplice,Match Finished
+2024-02-24T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,0,0,Mlada Boleslav,Match Finished
+2024-02-24T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,3,0,Zlin,Match Finished
+2024-02-25T14:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,2,1,Sigma Olomouc,Match Finished
+2024-02-24T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,1,1,Bohemians 1905,Match Finished
+2024-02-24T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,2,2,Karviná,Match Finished
+2024-02-24T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,3,3,FK Jablonec,Match Finished
+2024-02-25T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,3,0,Pardubice,Match Finished
+2024-02-25T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,1,3,Sparta Praha,Match Finished
+2024-03-02T14:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,1,1,Hradec Králové,Match Finished
+2024-03-02T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,2,3,Plzen,Match Finished
+2024-03-02T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,3,1,České Budějovice,Match Finished
+2024-03-03T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,0,1,Baník Ostrava,Match Finished
+2024-03-02T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,2,2,Bohemians 1905,Match Finished
+2024-03-03T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,2,0,Slovan Liberec,Match Finished
+2024-03-03T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,0,0,Slavia Praha,Match Finished
+2024-03-02T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,1,3,Slovácko,Match Finished
+2024-03-09T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,1,2,Sigma Olomouc,Match Finished
+2024-03-09T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,0,0,Mlada Boleslav,Match Finished
+2024-03-10T14:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,2,2,Zlin,Match Finished
+2024-03-09T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,2,0,Pardubice,Match Finished
+2024-03-09T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,0,1,FK Jablonec,Match Finished
+2024-03-10T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,4,0,Sparta Praha,Match Finished
+2024-03-09T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,1,0,Karviná,Match Finished
+2024-03-10T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,4,0,Teplice,Match Finished
+2024-03-17T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,2,1,Hradec Králové,Match Finished
+2024-03-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,1,2,Plzen,Match Finished
+2024-03-16T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,2,1,České Budějovice,Match Finished
+2024-03-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,0,1,Baník Ostrava,Match Finished
+2024-03-16T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,2,2,Bohemians 1905,Match Finished
+2024-03-16T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,2,1,Sigma Olomouc,Match Finished
+2024-03-17T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,3,0,Slovan Liberec,Match Finished
+2024-03-16T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,1,1,Slovácko,Match Finished
+2024-03-31T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,3,2,Zlin,Match Finished
+2024-03-30T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,0,2,Pardubice,Match Finished
+2024-03-30T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,2,0,FK Jablonec,Match Finished
+2024-03-31T16:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,0,1,Sparta Praha,Match Finished
+2024-03-31T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,2,1,Karviná,Match Finished
+2024-03-31T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,4,1,Teplice,Match Finished
+2024-03-30T14:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,1,3,Slovan Liberec,Match Finished
+2024-03-30T17:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,1,3,Slavia Praha,Match Finished
+2024-04-07T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,0,1,Hradec Králové,Match Finished
+2024-04-06T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,0,0,Plzen,Match Finished
+2024-04-07T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,1,1,České Budějovice,Match Finished
+2024-04-07T13:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,2,3,Baník Ostrava,Match Finished
+2024-04-06T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,2,1,Bohemians 1905,Match Finished
+2024-04-06T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,3,2,Sigma Olomouc,Match Finished
+2024-04-07T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,1,1,Mlada Boleslav,Match Finished
+2024-04-06T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,4,1,Slovácko,Match Finished
+2024-04-14T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,1,1,Pardubice,Match Finished
+2024-04-14T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,1,0,FK Jablonec,Match Finished
+2024-04-13T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,1,3,Sparta Praha,Match Finished
+2024-04-14T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,2,2,Karviná,Match Finished
+2024-04-13T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Mlada Boleslav,1,2,Teplice,Match Finished
+2024-04-13T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,3,2,Slovan Liberec,Match Finished
+2024-04-14T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,1,0,Slavia Praha,Match Finished
+2024-04-13T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,1,0,Slovácko,Match Finished
+2024-04-21T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovan Liberec,0,0,Hradec Králové,Match Finished
+2024-04-20T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Teplice,2,2,České Budějovice,Match Finished
+2024-04-21T16:00:00+00:00,2023,Czech Liga,Czech-Republic,Slovácko,1,1,Plzen,Match Finished
+2024-04-20T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sparta Praha,4,3,Baník Ostrava,Match Finished
+2024-04-20T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Karviná,1,1,Bohemians 1905,Match Finished
+2024-04-21T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Slavia Praha,2,2,Sigma Olomouc,Match Finished
+2024-04-21T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Pardubice,1,2,Mlada Boleslav,Match Finished
+2024-04-20T13:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,0,0,Zlin,Match Finished
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Bohemians 1905,,,Pardubice,Not Started
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,FK Jablonec,,,Mlada Boleslav,Not Started
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Sigma Olomouc,,,Sparta Praha,Not Started
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Zlin,,,Karviná,Not Started
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Plzen,,,Teplice,Not Started
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Baník Ostrava,,,Slovan Liberec,Not Started
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,Hradec Králové,,,Slavia Praha,Not Started
+2024-04-28T13:00:00+00:00,2023,Czech Liga,Czech-Republic,České Budějovice,,,Slovácko,Not Started

@@ -1,0 +1,181 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-07-21T17:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,3,0,FC Schaffhausen,Match Finished
+2023-07-21T17:30:00+00:00,2023,Challenge League,Switzerland,FC Thun,1,1,Stade Nyonnais,Match Finished
+2023-07-21T18:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,1,0,Baden,Match Finished
+2023-07-23T12:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,2,FC WIL 1900,Match Finished
+2023-07-23T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,0,2,FC Sion,Match Finished
+2023-07-28T17:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,0,1,FC Thun,Match Finished
+2023-07-28T17:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,1,1,Neuchatel Xamax FC,Match Finished
+2023-07-28T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,0,FC Aarau,Match Finished
+2023-07-30T12:15:00+00:00,2023,Challenge League,Switzerland,Baden,1,1,Bellinzona,Match Finished
+2023-07-30T12:15:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,3,2,FC Vaduz,Match Finished
+2023-08-04T17:30:00+00:00,2023,Challenge League,Switzerland,FC Thun,6,0,Baden,Match Finished
+2023-08-04T18:15:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,1,3,FC WIL 1900,Match Finished
+2023-08-04T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,0,Bellinzona,Match Finished
+2023-08-06T12:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,2,3,Neuchatel Xamax FC,Match Finished
+2023-08-06T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,2,1,Stade Nyonnais,Match Finished
+2023-08-11T17:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,4,0,FC Thun,Match Finished
+2023-08-11T17:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,2,1,FC Schaffhausen,Match Finished
+2023-08-11T18:15:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,0,FC Sion,Match Finished
+2023-08-13T12:15:00+00:00,2023,Challenge League,Switzerland,Baden,2,3,FC Vaduz,Match Finished
+2023-08-13T12:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,1,3,FC Aarau,Match Finished
+2023-08-25T17:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,2,2,FC Aarau,Match Finished
+2023-08-25T17:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,1,2,FC Sion,Match Finished
+2023-08-25T18:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,3,FC Thun,Match Finished
+2023-08-27T12:15:00+00:00,2023,Challenge League,Switzerland,Baden,0,5,FC WIL 1900,Match Finished
+2023-08-27T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,1,1,Neuchatel Xamax FC,Match Finished
+2023-09-01T17:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,1,1,Bellinzona,Match Finished
+2023-09-01T18:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,0,2,Stade Nyonnais,Match Finished
+2023-09-01T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,1,Baden,Match Finished
+2023-09-02T16:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,3,1,FC WIL 1900,Match Finished
+2023-09-03T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,6,0,FC Schaffhausen,Match Finished
+2023-09-22T17:30:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,4,FC Vaduz,Match Finished
+2023-09-22T17:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,1,1,FC Sion,Match Finished
+2023-09-22T17:30:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,2,0,Neuchatel Xamax FC,Match Finished
+2023-09-22T18:15:00+00:00,2023,Challenge League,Switzerland,FC Thun,2,0,FC Aarau,Match Finished
+2023-09-23T16:00:00+00:00,2023,Challenge League,Switzerland,Baden,2,0,Stade Nyonnais,Match Finished
+2023-09-25T17:30:00+00:00,2023,Challenge League,Switzerland,FC Aarau,3,2,FC Vaduz,Match Finished
+2023-09-25T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,2,3,FC Thun,Match Finished
+2023-09-26T17:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,1,2,Baden,Match Finished
+2023-09-26T17:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,0,0,Bellinzona,Match Finished
+2023-09-26T17:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,2,0,FC WIL 1900,Match Finished
+2023-09-29T17:30:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,2,FC Aarau,Match Finished
+2023-09-29T18:15:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,0,3,FC Sion,Match Finished
+2023-10-01T12:15:00+00:00,2023,Challenge League,Switzerland,Baden,1,1,FC Schaffhausen,Match Finished
+2023-10-01T12:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,1,0,Stade Nyonnais,Match Finished
+2023-10-01T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,1,1,FC Thun,Match Finished
+2023-10-08T12:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,1,2,Bellinzona,Match Finished
+2023-10-06T17:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,1,0,FC Vaduz,Match Finished
+2023-10-06T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,3,0,FC WIL 1900,Match Finished
+2023-10-06T17:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,1,1,Baden,Match Finished
+2023-10-07T16:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,1,1,Neuchatel Xamax FC,Match Finished
+2023-10-21T16:00:00+00:00,2023,Challenge League,Switzerland,Baden,0,4,FC Sion,Match Finished
+2023-10-22T12:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,0,FC Schaffhausen,Match Finished
+2023-10-20T17:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,1,1,Stade Nyonnais,Match Finished
+2023-10-22T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,2,2,FC Aarau,Match Finished
+2023-10-27T18:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,1,1,FC Schaffhausen,Match Finished
+2023-10-27T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,0,Neuchatel Xamax FC,Match Finished
+2023-10-27T17:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,2,3,Bellinzona,Match Finished
+2023-10-29T15:30:00+00:00,2023,Challenge League,Switzerland,FC Thun,2,1,FC Vaduz,Match Finished
+2023-10-27T17:30:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,1,Baden,Match Finished
+2023-11-03T19:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,5,2,FC Thun,Match Finished
+2023-11-05T13:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,1,2,FC Sion,Match Finished
+2023-11-03T18:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,2,2,FC WIL 1900,Match Finished
+2023-11-03T18:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,1,1,Stade Nyonnais,Match Finished
+2023-11-05T13:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,1,2,Baden,Match Finished
+2023-11-10T19:15:00+00:00,2023,Challenge League,Switzerland,Baden,0,4,Neuchatel Xamax FC,Match Finished
+2023-11-10T19:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,3,3,FC Vaduz,Match Finished
+2023-11-12T13:15:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,4,0,FC Aarau,Match Finished
+2023-11-11T17:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,1,0,FC Schaffhausen,Match Finished
+2023-11-10T18:30:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,0,Bellinzona,Match Finished
+2023-11-26T13:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,0,0,FC Sion,Match Finished
+2023-11-26T13:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,3,1,Baden,Match Finished
+2023-11-24T18:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,2,2,Neuchatel Xamax FC,Match Finished
+2023-11-24T18:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,3,2,FC Thun,Match Finished
+2023-11-24T19:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,2,2,FC WIL 1900,Match Finished
+2024-01-30T19:15:00+00:00,2023,Challenge League,Switzerland,Baden,1,2,FC Aarau,Match Finished
+2023-12-01T18:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,1,1,FC Vaduz,Match Finished
+2023-12-12T18:00:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,1,Stade Nyonnais,Match Finished
+2023-12-13T18:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,3,1,Bellinzona,Match Finished
+2024-01-30T18:30:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,2,0,FC Schaffhausen,Match Finished
+2023-12-10T13:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,1,1,FC WIL 1900,Match Finished
+2023-12-10T13:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,1,0,Neuchatel Xamax FC,Match Finished
+2023-12-08T18:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,2,0,Baden,Match Finished
+2023-12-08T18:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,1,0,FC Vaduz,Match Finished
+2023-12-08T19:15:00+00:00,2023,Challenge League,Switzerland,FC Thun,1,1,FC Sion,Match Finished
+2023-12-16T17:00:00+00:00,2023,Challenge League,Switzerland,Baden,0,2,FC Thun,Match Finished
+2023-12-15T19:15:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,2,1,FC Aarau,Match Finished
+2023-12-15T19:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,2,1,FC Schaffhausen,Match Finished
+2023-12-17T13:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,1,2,Bellinzona,Match Finished
+2023-12-15T18:30:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,3,2,Stade Nyonnais,Match Finished
+2023-10-20T18:15:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,3,FC Thun,Match Finished
+2024-01-26T18:30:00+00:00,2023,Challenge League,Switzerland,FC Aarau,1,0,FC Vaduz,Match Finished
+2024-02-06T18:00:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,0,3,FC Schaffhausen,Match Finished
+2024-01-26T18:30:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,1,4,FC Sion,Match Finished
+2024-01-26T19:15:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,1,1,Baden,Match Finished
+2024-01-27T17:00:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,0,FC Thun,Match Finished
+2024-02-02T18:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,3,2,FC WIL 1900,Match Finished
+2024-02-02T19:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,2,0,FC Aarau,Match Finished
+2024-02-02T19:15:00+00:00,2023,Challenge League,Switzerland,FC Thun,4,1,Stade Nyonnais,Match Finished
+2024-02-04T13:15:00+00:00,2023,Challenge League,Switzerland,Baden,2,1,Bellinzona,Match Finished
+2024-02-04T13:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,5,3,Neuchatel Xamax FC,Match Finished
+2024-02-09T18:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,0,1,Bellinzona,Match Finished
+2024-02-09T19:15:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,1,1,FC Thun,Match Finished
+2024-02-09T19:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,4,1,Baden,Match Finished
+2024-02-10T17:00:00+00:00,2023,Challenge League,Switzerland,FC Aarau,5,2,Stade Nyonnais,Match Finished
+2024-02-10T17:00:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,1,0,FC Vaduz,Match Finished
+2024-02-16T18:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,0,2,Neuchatel Xamax FC,Match Finished
+2024-02-16T19:15:00+00:00,2023,Challenge League,Switzerland,FC Thun,1,0,FC Aarau,Match Finished
+2024-02-16T19:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,1,2,FC Sion,Match Finished
+2024-02-17T17:00:00+00:00,2023,Challenge League,Switzerland,Baden,0,1,FC Schaffhausen,Match Finished
+2024-02-17T17:00:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,0,FC WIL 1900,Match Finished
+2024-02-23T18:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,4,0,FC Thun,Match Finished
+2024-02-23T18:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,0,4,FC Sion,Match Finished
+2024-02-23T19:15:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,1,1,FC Aarau,Match Finished
+2024-02-24T17:00:00+00:00,2023,Challenge League,Switzerland,Baden,2,3,Stade Nyonnais,Match Finished
+2024-02-28T17:30:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,1,FC Vaduz,Match Finished
+2024-03-01T18:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,1,1,FC WIL 1900,Match Finished
+2024-03-01T19:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,2,0,Neuchatel Xamax FC,Match Finished
+2024-03-02T17:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,3,1,Baden,Match Finished
+2024-03-03T13:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,3,0,Bellinzona,Match Finished
+2024-03-03T13:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,3,2,FC Schaffhausen,Match Finished
+2024-03-08T18:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,1,1,FC Aarau,Match Finished
+2024-03-08T19:15:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,0,0,FC Sion,Match Finished
+2024-03-09T17:00:00+00:00,2023,Challenge League,Switzerland,Baden,1,1,FC Vaduz,Match Finished
+2024-03-09T17:00:00+00:00,2023,Challenge League,Switzerland,Bellinzona,0,2,Stade Nyonnais,Match Finished
+2024-03-09T17:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,2,1,FC WIL 1900,Match Finished
+2024-03-15T18:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,2,1,Bellinzona,Match Finished
+2024-03-15T19:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,2,FC Thun,Match Finished
+2024-03-16T17:00:00+00:00,2023,Challenge League,Switzerland,FC Aarau,2,0,Baden,Match Finished
+2024-03-17T13:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,1,3,Stade Nyonnais,Match Finished
+2024-03-17T13:15:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,0,Neuchatel Xamax FC,Match Finished
+2024-03-29T18:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,2,1,FC Schaffhausen,Match Finished
+2024-03-29T18:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,0,4,FC Sion,Match Finished
+2024-03-29T19:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,5,2,FC Aarau,Match Finished
+2024-03-30T17:00:00+00:00,2023,Challenge League,Switzerland,Baden,2,1,FC WIL 1900,Match Finished
+2024-04-01T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,1,0,FC Thun,Match Finished
+2024-04-06T16:00:00+00:00,2023,Challenge League,Switzerland,FC Aarau,1,2,FC Schaffhausen,Match Finished
+2024-04-06T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,2,2,FC Vaduz,Match Finished
+2024-04-05T18:15:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,1,0,Baden,Match Finished
+2024-04-06T16:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,4,0,Neuchatel Xamax FC,Match Finished
+2024-04-06T16:00:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,4,1,Bellinzona,Match Finished
+2024-04-13T16:00:00+00:00,2023,Challenge League,Switzerland,Baden,0,3,FC Sion,Match Finished
+2024-04-12T17:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,3,1,FC Aarau,Match Finished
+2024-04-12T18:15:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,0,1,FC Vaduz,Match Finished
+2024-04-13T16:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,1,0,Bellinzona,Match Finished
+2024-04-14T12:15:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,0,Stade Nyonnais,Match Finished
+2024-04-19T18:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,3,0,FC Thun,Match Finished
+2024-04-19T17:30:00+00:00,2023,Challenge League,Switzerland,Bellinzona,4,0,Baden,Match Finished
+2024-04-19T17:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,1,1,Neuchatel Xamax FC,Match Finished
+2024-04-19T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,0,Stade Nyonnais,Match Finished
+2024-04-20T16:00:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,3,1,FC WIL 1900,Match Finished
+2024-04-23T18:15:00+00:00,2023,Challenge League,Switzerland,Baden,0,1,FC Aarau,Match Finished
+2024-04-23T17:30:00+00:00,2023,Challenge League,Switzerland,Bellinzona,1,1,FC Schaffhausen,Match Finished
+2024-04-23T17:30:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,2,2,FC WIL 1900,Match Finished
+2024-04-24T17:30:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,0,2,FC Vaduz,Match Finished
+2024-04-22T18:15:00+00:00,2023,Challenge League,Switzerland,FC Thun,1,0,FC Sion,Match Finished
+2024-04-26T18:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,0,2,Bellinzona,Match Finished
+2024-04-02T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,1,1,Neuchatel Xamax FC,Match Finished
+2024-04-27T16:00:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,0,0,FC Thun,Match Finished
+2024-04-27T16:00:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,6,0,Baden,Match Finished
+2024-04-27T16:00:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,0,1,FC Schaffhausen,Match Finished
+2024-05-03T18:15:00+00:00,2023,Challenge League,Switzerland,Baden,,,FC Thun,Not Started
+2024-05-03T17:30:00+00:00,2023,Challenge League,Switzerland,Bellinzona,,,Neuchatel Xamax FC,Not Started
+2024-05-03T17:30:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,,,Stade Nyonnais,Not Started
+2024-05-03T18:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,,,FC WIL 1900,Not Started
+2024-05-03T18:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,,,FC Aarau,Not Started
+2024-05-09T16:00:00+00:00,2023,Challenge League,Switzerland,FC Aarau,,,FC Sion,Not Started
+2024-05-11T16:00:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,,,FC Vaduz,Not Started
+2024-05-09T16:00:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,,,Bellinzona,Not Started
+2024-05-11T16:00:00+00:00,2023,Challenge League,Switzerland,FC Thun,,,FC Schaffhausen,Not Started
+2024-05-09T16:00:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,,,Baden,Not Started
+2024-05-17T18:15:00+00:00,2023,Challenge League,Switzerland,FC Aarau,,,FC WIL 1900,Not Started
+2024-05-17T18:15:00+00:00,2023,Challenge League,Switzerland,Bellinzona,,,FC Sion,Not Started
+2024-05-17T18:15:00+00:00,2023,Challenge League,Switzerland,Neuchatel Xamax FC,,,Stade Nyonnais,Not Started
+2024-05-17T18:15:00+00:00,2023,Challenge League,Switzerland,FC Schaffhausen,,,Baden,Not Started
+2024-05-17T18:15:00+00:00,2023,Challenge League,Switzerland,FC Thun,,,FC Vaduz,Not Started
+2024-05-20T12:15:00+00:00,2023,Challenge League,Switzerland,Baden,,,Neuchatel Xamax FC,Not Started
+2024-05-20T12:15:00+00:00,2023,Challenge League,Switzerland,FC Sion,,,FC Schaffhausen,Not Started
+2024-05-20T12:15:00+00:00,2023,Challenge League,Switzerland,Stade Nyonnais,,,FC Aarau,Not Started
+2024-05-20T12:15:00+00:00,2023,Challenge League,Switzerland,FC Vaduz,,,Bellinzona,Not Started
+2024-05-20T12:15:00+00:00,2023,Challenge League,Switzerland,FC WIL 1900,,,FC Thun,Not Started

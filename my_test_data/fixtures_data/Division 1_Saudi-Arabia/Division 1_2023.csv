@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-14T16:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,1,0,Al Kholood,Match Finished
+2023-08-15T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,3,0,Al Jandal,Match Finished
+2023-08-15T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,0,0,Al Qaisoma,Match Finished
+2023-08-15T17:40:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,2,1,Al-Adalah,Match Finished
+2023-08-16T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,2,Ohod,Match Finished
+2023-08-16T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,3,0,Al-Ain,Match Finished
+2023-08-16T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,2,0,Al Safa,Match Finished
+2023-08-16T17:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,2,1,Jeddah Club,Match Finished
+2023-08-20T15:50:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,1,0,Al Orubah,Match Finished
+2023-08-20T16:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,0,1,Al-Qadisiyah FC,Match Finished
+2023-08-20T17:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,2,2,Al Najma,Match Finished
+2023-08-21T16:30:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,0,2,Al-Faisaly FC,Match Finished
+2023-08-21T17:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,4,0,Hajer,Match Finished
+2023-08-22T15:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,0,1,Al Baten,Match Finished
+2023-08-22T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,1,2,Al Jabalain,Match Finished
+2023-08-22T13:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,1,0,Al Bukayriyah,Match Finished
+2023-08-26T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,1,2,Ohod,Match Finished
+2023-08-26T17:40:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,0,1,Al-Adalah,Match Finished
+2023-08-27T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,2,0,Al Safa,Match Finished
+2023-08-27T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,2,1,Al Baten,Match Finished
+2023-08-27T17:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,1,1,Al Jandal,Match Finished
+2023-08-28T16:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,4,1,Al-Ain,Match Finished
+2023-08-28T16:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,3,3,Al Arabi SC,Match Finished
+2023-08-28T17:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,2,1,Al Kholood,Match Finished
+2023-09-01T15:35:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,4,2,Al-Faisaly FC,Match Finished
+2023-09-01T17:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,2,1,Al Safa,Match Finished
+2023-09-02T16:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,0,0,Al-Qadisiyah FC,Match Finished
+2023-09-02T16:10:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,1,2,Al Orubah,Match Finished
+2023-09-02T17:45:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,2,1,Al Bukayriyah,Match Finished
+2023-09-03T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,2,1,Hajer,Match Finished
+2023-09-03T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,4,2,Al Qaisoma,Match Finished
+2023-09-03T17:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,0,5,Al Kholood,Match Finished
+2023-09-14T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,1,0,Ohod,Match Finished
+2023-09-15T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,1,0,Al Jandal,Match Finished
+2023-09-14T17:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,2,0,Al Jabalain,Match Finished
+2023-09-14T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,0,3,Al Arabi SC,Match Finished
+2023-09-14T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,0,Jeddah Club,Match Finished
+2023-09-14T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,1,0,Al Baten,Match Finished
+2023-09-15T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,1,2,Al-Ain,Match Finished
+2023-09-15T15:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,1,3,Al-Adalah,Match Finished
+2023-09-19T17:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,0,1,Al-Qadisiyah FC,Match Finished
+2023-09-20T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,4,1,Al Safa,Match Finished
+2023-09-20T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,3,2,Al Najma,Match Finished
+2023-09-20T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,3,2,Al Qaisoma,Match Finished
+2023-09-19T15:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,1,0,Jeddah Club,Match Finished
+2023-09-19T17:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,1,2,Al Kholood,Match Finished
+2023-09-21T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,3,1,Hajer,Match Finished
+2023-09-19T15:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,3,1,Ohod,Match Finished
+2023-10-02T15:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,1,1,Al Jabalain,Match Finished
+2023-10-02T15:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,1,3,Al Orubah,Match Finished
+2023-10-02T17:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,2,1,Al Arabi SC,Match Finished
+2023-10-03T15:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,0,0,Al-Ain,Match Finished
+2023-10-03T15:35:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,4,0,Al Jandal,Match Finished
+2023-10-03T17:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,0,0,Al-Faisaly FC,Match Finished
+2023-10-04T15:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,3,2,Al-Adalah,Match Finished
+2023-10-04T17:00:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,1,0,Al Baten,Match Finished
+2023-10-23T14:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,0,1,Al Orubah,Match Finished
+2023-10-23T14:40:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,2,1,Al Jabalain,Match Finished
+2023-10-23T16:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,2,2,Al-Faisaly FC,Match Finished
+2023-10-24T15:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,1,0,Al Qaisoma,Match Finished
+2023-10-24T15:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,1,2,Al Jandal,Match Finished
+2023-10-24T16:50:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,1,2,Jeddah Club,Match Finished
+2023-10-25T14:40:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,4,Al Najma,Match Finished
+2023-10-25T16:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,0,2,Al-Qadisiyah FC,Match Finished
+2023-10-30T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,0,0,Al Bukayriyah,Match Finished
+2023-11-12T14:50:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,2,0,Al Safa,Match Finished
+2023-10-30T15:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,1,2,Al-Adalah,Match Finished
+2023-10-31T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,3,2,Al Kholood,Match Finished
+2023-10-31T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,0,0,Hajer,Match Finished
+2023-11-12T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,2,4,Jeddah Club,Match Finished
+2023-11-01T12:35:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,1,3,Ohod,Match Finished
+2023-11-01T12:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,1,0,Al-Qadisiyah FC,Match Finished
+2023-11-06T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,4,1,Al Qaisoma,Match Finished
+2023-11-06T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,0,Al Baten,Match Finished
+2023-11-06T16:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,1,1,Al Najma,Match Finished
+2023-11-07T12:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,1,0,Al-Ain,Match Finished
+2023-11-07T15:15:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,0,0,Al Jabalain,Match Finished
+2023-11-08T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,2,1,Al Arabi SC,Match Finished
+2023-11-08T15:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,1,0,Al-Faisaly FC,Match Finished
+2023-11-08T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,0,1,Al Orubah,Match Finished
+2023-11-27T12:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,2,2,Hajer,Match Finished
+2023-11-27T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,0,1,Al Kholood,Match Finished
+2023-11-28T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,2,1,Al Qaisoma,Match Finished
+2023-11-28T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,1,1,Al Arabi SC,Match Finished
+2023-11-28T14:25:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,3,3,Jeddah Club,Match Finished
+2023-11-29T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,2,0,Al Jandal,Match Finished
+2023-11-29T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,3,4,Al Najma,Match Finished
+2023-11-29T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,0,1,Al Baten,Match Finished
+2023-12-03T14:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,0,1,Ohod,Match Finished
+2023-12-04T12:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,2,3,Jeddah Club,Match Finished
+2023-12-04T14:25:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,2,1,Al Bukayriyah,Match Finished
+2023-12-05T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,1,1,Al-Adalah,Match Finished
+2023-12-05T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,3,0,Al Jabalain,Match Finished
+2023-12-05T14:25:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,0,Al-Ain,Match Finished
+2023-12-06T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,3,1,Al Orubah,Match Finished
+2023-12-06T14:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,3,0,Al-Faisaly FC,Match Finished
+2023-12-11T12:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,0,4,Al-Qadisiyah FC,Match Finished
+2023-12-11T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,2,1,Al Bukayriyah,Match Finished
+2023-12-13T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,1,1,Hajer,Match Finished
+2023-12-12T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,0,1,Al Baten,Match Finished
+2023-12-12T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,1,0,Al Arabi SC,Match Finished
+2023-12-13T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,3,4,Al-Faisaly FC,Match Finished
+2023-12-13T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,0,2,Al Jandal,Match Finished
+2023-12-13T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,1,1,Al Safa,Match Finished
+2023-12-18T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,2,3,Al Qaisoma,Match Finished
+2023-12-18T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,2,2,Hajer,Match Finished
+2023-12-18T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,1,1,Ohod,Match Finished
+2023-12-19T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,1,1,Al Jabalain,Match Finished
+2023-12-19T14:50:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,1,4,Jeddah Club,Match Finished
+2023-12-20T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,2,2,Al-Adalah,Match Finished
+2023-12-20T12:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,3,1,Al Orubah,Match Finished
+2023-12-20T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,1,1,Al Najma,Match Finished
+2023-12-25T12:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,2,1,Al Jandal,Match Finished
+2023-12-25T12:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,0,3,Al-Qadisiyah FC,Match Finished
+2023-12-25T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,1,1,Al-Faisaly FC,Match Finished
+2023-12-26T12:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,1,1,Al-Ain,Match Finished
+2023-12-26T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,4,1,Al Safa,Match Finished
+2023-12-25T15:25:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,0,3,Al Kholood,Match Finished
+2023-12-27T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,1,0,Al Bukayriyah,Match Finished
+2023-12-27T12:40:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,1,1,Al Qaisoma,Match Finished
+2024-01-01T12:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,2,1,Al Safa,Match Finished
+2024-01-01T12:45:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,3,1,Jeddah Club,Match Finished
+2024-01-01T14:55:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,1,2,Al Najma,Match Finished
+2024-01-02T12:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,3,0,Al Baten,Match Finished
+2024-01-02T14:00:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,1,1,Al-Adalah,Match Finished
+2024-01-03T12:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,2,0,Al Bukayriyah,Match Finished
+2024-01-03T12:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,1,0,Al Orubah,Match Finished
+2024-01-03T14:40:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,3,0,Hajer,Match Finished
+2024-01-08T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,0,1,Al Kholood,Match Finished
+2024-01-08T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,0,1,Al-Ain,Match Finished
+2024-01-09T12:15:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,1,0,Al Qaisoma,Match Finished
+2024-01-09T12:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,0,0,Al Jabalain,Match Finished
+2024-01-09T15:35:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,0,1,Al Jandal,Match Finished
+2024-01-10T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,1,1,Al Arabi SC,Match Finished
+2024-01-10T12:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,2,2,Al-Faisaly FC,Match Finished
+2024-01-10T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,4,6,Al-Qadisiyah FC,Match Finished
+2023-08-14T16:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,3,0,Al Taraji,Match Finished
+2023-08-21T15:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,1,2,Jeddah Club,Match Finished
+2023-08-26T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,2,0,Al Taraji,Match Finished
+2023-09-01T15:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,3,2,Al Najma,Match Finished
+2023-09-15T17:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,1,0,Al Taraji,Match Finished
+2023-09-21T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,0,0,Al Bukayriyah,Match Finished
+2023-10-04T15:00:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,1,2,Al Taraji,Match Finished
+2023-10-25T14:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,2,1,Al-Ain,Match Finished
+2023-11-01T15:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,3,0,Al Taraji,Match Finished
+2023-11-07T14:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,2,4,Al-Adalah,Match Finished
+2023-11-27T11:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,0,1,Al Safa,Match Finished
+2023-12-06T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,1,0,Al Taraji,Match Finished
+2023-12-12T11:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,0,0,Al Kholood,Match Finished
+2023-12-19T12:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,2,1,Al Taraji,Match Finished
+2023-12-27T12:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,0,1,Al Arabi SC,Match Finished
+2024-01-02T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,3,1,Al Taraji,Match Finished
+2024-01-08T12:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,1,1,Ohod,Match Finished
+2024-01-22T12:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,0,1,Al Najma,Match Finished
+2024-02-17T13:15:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,2,1,Hajer,Match Finished
+2024-01-22T15:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,1,0,Al-Qadisiyah FC,Match Finished
+2024-01-23T12:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,2,1,Al Orubah,Match Finished
+2024-01-23T12:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,0,1,Al-Faisaly FC,Match Finished
+2024-01-23T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,1,1,Al Arabi SC,Match Finished
+2024-01-24T12:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,1,1,Al Jabalain,Match Finished
+2024-01-24T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,2,3,Al Baten,Match Finished
+2024-01-24T14:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,2,1,Al Bukayriyah,Match Finished
+2024-01-29T12:40:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,1,0,Ohod,Match Finished
+2024-01-29T12:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,0,0,Al-Adalah,Match Finished
+2024-01-29T15:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,0,0,Al Jandal,Match Finished
+2024-01-29T15:50:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,2,2,Al Taraji,Match Finished
+2024-01-30T12:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,2,1,Al Qaisoma,Match Finished
+2024-01-30T12:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,0,0,Al-Ain,Match Finished
+2024-01-31T12:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,1,2,Al Safa,Match Finished
+2024-01-31T12:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,0,1,Al Kholood,Match Finished
+2024-02-01T15:05:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,1,Al Arabi SC,Match Finished
+2024-02-05T13:05:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,0,3,Al Orubah,Match Finished
+2024-02-05T13:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,1,0,Al Qaisoma,Match Finished
+2024-02-05T15:05:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,1,0,Jeddah Club,Match Finished
+2024-02-06T12:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,2,0,Hajer,Match Finished
+2024-02-06T12:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,1,0,Al-Qadisiyah FC,Match Finished
+2024-02-06T12:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,1,0,Al Jabalain,Match Finished
+2024-02-07T13:10:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,2,2,Al Najma,Match Finished
+2024-02-07T12:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,2,0,Al Bukayriyah,Match Finished
+2024-02-08T15:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,0,1,Al-Faisaly FC,Match Finished
+2024-02-12T12:35:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,2,Al Jabalain,Match Finished
+2024-02-12T15:05:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,2,0,Al-Ain,Match Finished
+2024-02-13T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,1,0,Al Taraji,Match Finished
+2024-02-13T11:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,2,1,Ohod,Match Finished
+2024-02-13T15:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,2,0,Al-Adalah,Match Finished
+2024-02-14T12:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,3,2,Jeddah Club,Match Finished
+2024-02-14T12:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,1,1,Al Baten,Match Finished
+2024-02-14T15:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,0,0,Al Jandal,Match Finished
+2024-02-19T13:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,1,1,Al-Faisaly FC,Match Finished
+2024-02-19T13:05:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,2,2,Al Qaisoma,Match Finished
+2024-02-19T15:15:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,2,2,Al Najma,Match Finished
+2024-02-20T12:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,0,1,Al Safa,Match Finished
+2024-02-20T13:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,1,2,Al Kholood,Match Finished
+2024-02-20T16:00:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,0,3,Hajer,Match Finished
+2024-02-21T12:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,0,1,Al Orubah,Match Finished
+2024-02-21T13:15:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,0,1,Al Bukayriyah,Match Finished
+2024-02-21T15:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,0,3,Al-Qadisiyah FC,Match Finished
+2024-02-26T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,0,1,Al Arabi SC,Match Finished
+2024-02-26T15:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,0,0,Al-Ain,Match Finished
+2024-02-26T16:00:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,3,3,Al Jabalain,Match Finished
+2024-02-27T12:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,3,1,Al-Adalah,Match Finished
+2024-02-27T12:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,2,1,Al Taraji,Match Finished
+2024-02-27T15:15:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,2,1,Al-Faisaly FC,Match Finished
+2024-02-28T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,3,1,Al Jandal,Match Finished
+2024-02-28T13:15:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,3,1,Al Baten,Match Finished
+2024-02-28T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,1,4,Al Orubah,Match Finished
+2024-03-03T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,5,2,Al Bukayriyah,Match Finished
+2024-03-03T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,0,3,Al-Qadisiyah FC,Match Finished
+2024-03-03T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,1,1,Al Safa,Match Finished
+2024-03-04T13:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,2,1,Al Kholood,Match Finished
+2024-03-04T13:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,1,0,Al Qaisoma,Match Finished
+2024-03-04T15:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,2,2,Hajer,Match Finished
+2024-03-05T12:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,3,1,Jeddah Club,Match Finished
+2024-03-05T12:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,1,1,Ohod,Match Finished
+2024-03-05T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,5,2,Al Najma,Match Finished
+2024-03-09T13:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,1,2,Al-Adalah,Match Finished
+2024-03-09T13:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,1,0,Al Taraji,Match Finished
+2024-03-09T15:25:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,2,0,Al Kholood,Match Finished
+2024-03-10T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,1,3,Al Baten,Match Finished
+2024-03-10T13:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,1,0,Al Bukayriyah,Match Finished
+2024-03-10T13:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,0,2,Al Safa,Match Finished
+2024-03-11T18:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,1,1,Hajer,Match Finished
+2024-03-11T19:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,1,3,Al Arabi SC,Match Finished
+2024-03-11T19:00:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,1,1,Ohod,Match Finished
+2024-03-15T18:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,1,3,Al Orubah,Match Finished
+2024-03-15T18:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,3,1,Al Qaisoma,Match Finished
+2024-03-15T18:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,1,2,Al Baten,Match Finished
+2024-03-16T18:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,3,1,Al-Faisaly FC,Match Finished
+2024-03-16T18:30:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,3,1,Al Jandal,Match Finished
+2024-03-16T19:00:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,0,0,Al-Ain,Match Finished
+2024-03-17T18:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,2,2,Al Jabalain,Match Finished
+2024-03-17T18:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,2,2,Al Arabi SC,Match Finished
+2024-03-17T19:30:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,2,1,Al Najma,Match Finished
+2024-03-29T18:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,1,3,Al Safa,Match Finished
+2024-03-27T18:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,3,1,Al Bukayriyah,Match Finished
+2024-03-29T18:45:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,0,3,Al Kholood,Match Finished
+2024-03-28T18:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,1,1,Hajer,Match Finished
+2024-03-28T19:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,3,2,Al Jandal,Match Finished
+2024-03-28T19:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,1,2,Jeddah Club,Match Finished
+2024-03-29T18:30:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,1,1,Al Taraji,Match Finished
+2024-03-29T19:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,1,1,Ohod,Match Finished
+2024-03-29T19:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,3,1,Al-Qadisiyah FC,Match Finished
+2024-04-15T15:40:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,0,1,Al Bukayriyah,Match Finished
+2024-04-15T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,2,2,Al-Ain,Match Finished
+2024-04-15T17:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,4,1,Al Taraji,Match Finished
+2024-04-16T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,2,0,Ohod,Match Finished
+2024-04-16T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,1,2,Al-Adalah,Match Finished
+2024-04-16T17:45:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,0,3,Al-Qadisiyah FC,Match Finished
+2024-04-17T16:05:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,0,0,Al Orubah,Match Finished
+2024-04-17T16:25:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,1,0,Al Jabalain,Match Finished
+2024-04-22T16:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,3,1,Hajer,Match Finished
+2024-04-22T16:25:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,1,1,Al Safa,Match Finished
+2024-04-22T17:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,0,3,Al Baten,Match Finished
+2024-04-23T15:50:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,2,0,Al Jandal,Match Finished
+2024-04-23T16:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,1,0,Al Kholood,Match Finished
+2024-04-23T17:45:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,2,1,Al Arabi SC,Match Finished
+2024-04-24T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,1,1,Al-Qadisiyah FC,Match Finished
+2024-04-24T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,0,2,Al Najma,Match Finished
+2024-04-29T16:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,,,Ohod,Not Started
+2024-04-29T16:10:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al-Ain,Not Started
+2024-04-29T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,,,Al-Adalah,Not Started
+2024-04-30T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,,,Al Taraji,Not Started
+2024-04-30T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Jabalain,Not Started
+2024-05-01T15:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,,,Jeddah Club,Not Started
+2024-05-01T16:10:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,,,Al Najma,Not Started
+2024-05-01T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,,,Al Orubah,Not Started
+2024-05-06T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,,,Al Bukayriyah,Not Started
+2024-05-06T16:30:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,,,Al-Ain,Not Started
+2024-05-06T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,,,Al-Qadisiyah FC,Not Started
+2024-05-07T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,,,Al Kholood,Not Started
+2024-05-07T16:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,,,Al Safa,Not Started
+2024-05-07T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,,,Al-Faisaly FC,Not Started
+2024-05-08T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,,,Al Jandal,Not Started
+2024-05-08T16:40:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,,,Al Arabi SC,Not Started
+2024-05-08T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,,,Al Baten,Not Started
+2024-05-13T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,,,Al Najma,Not Started
+2024-05-13T16:15:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Hajer,Not Started
+2024-05-13T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,,,Jeddah Club,Not Started
+2024-05-14T16:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,,,Al Taraji,Not Started
+2024-05-14T16:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Orubah,Not Started
+2024-05-14T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,,,Al Baten,Not Started
+2024-05-15T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,,,Al Jabalain,Not Started
+2024-05-15T16:20:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,,,Ohod,Not Started
+2024-05-15T17:50:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,,,Al-Adalah,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Safa,,,Al Kholood,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,,,Al-Ain,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Najma,,,Al-Faisaly FC,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Taraji,,,Al Qaisoma,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Baten,,,Al Arabi SC,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Adalah,,,Ohod,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Bukayriyah,,,Al Jandal,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Orubah,,,Al Jabalain,Not Started
+2024-05-21T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Hajer,,,Al-Qadisiyah FC,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Kholood,,,Al-Adalah,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Ohod,,,Al Taraji,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Ain,,,Al Najma,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Jabalain,,,Al Baten,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Jandal,,,Jeddah Club,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Arabi SC,,,Al Bukayriyah,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Faisaly FC,,,Al Orubah,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,,,Al Safa,Not Started
+2024-02-12T12:35:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,0,0,Al Arabi SC,Match Finished
+2024-04-17T15:45:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,1,2,Al-Faisaly FC,Match Finished
+2024-04-24T17:45:00+00:00,2023,Division 1,Saudi-Arabia,Jeddah Club,0,3,Al Qaisoma,Match Finished
+2024-04-30T15:55:00+00:00,2023,Division 1,Saudi-Arabia,Al-Qadisiyah FC,,,Al Qaisoma,Not Started
+2024-05-28T18:00:00+00:00,2023,Division 1,Saudi-Arabia,Al Qaisoma,,,Hajer,Not Started

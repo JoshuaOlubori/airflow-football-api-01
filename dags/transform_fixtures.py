@@ -18,6 +18,9 @@ from astro.sql.table import Table
 from include.logic import df_cleanup_1 as dfc
 from include.logic import core_filter_1 as cf1
 from include.logic import core_filter_2 as cf2
+from include.logic import goals_or_not as gon
+from include.logic import over_under_goals as oug
+from include.logic import case_when_logic as cwl
 
 from include.global_variables import global_variables as gv
 
@@ -54,13 +57,25 @@ def find_fixtures(in_table: pd.DataFrame):
     gv.task_log.info(in_table)
 
     df = in_table
-    df = dfc.df_cleanup_1(df)
     
-    gv.task_log.info(f"{df}")
-    df = cf1.core_filter_1(df)
-    gv.task_log.info(f"{df}")
-    output_df = cf2.core_filter_2(df)
-    # output_df = apply_filtering_logic(df)
+    # df = dfc.df_cleanup_1(df)
+    # # gv.task_log.info(f"{df}")
+    # df = cf1.core_filter_1_optimised(df)
+    # # gv.task_log.info(f"{df}")
+    # output_df = cf2.core_filter_2_optimised(df)
+    # # output_df = apply_filtering_logic(df)
+
+    # Apply the functions using pipe for method chaining
+    output_df = (df
+               .pipe(dfc.df_cleanup_1)
+               .pipe(cf1.core_filter_1_optimised)
+               .pipe(cf2.core_filter_2_optimised)
+               .pipe(gon.both_teams_scored_or_not)
+               .pipe(oug.add_draw_columns)
+               .pipe(oug.add_over_columns)
+               .pipe(oug.add_under_columns)
+               .pipe(oug.add_under_columns)
+               .pipe(cwl.apply_case_when_logic))
     
     gv.task_log.info(output_df)
     if lenzi(output_df) == True:

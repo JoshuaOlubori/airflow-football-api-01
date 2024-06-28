@@ -1,0 +1,307 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-11T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,3,1,Al-Hazm,Match Finished
+2023-08-12T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,1,0,Damac,Match Finished
+2023-08-12T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,3,1,Al Khaleej Saihat,Match Finished
+2023-08-13T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,1,1,Al Taawon,Match Finished
+2023-08-13T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,0,Al Wehda Club,Match Finished
+2023-08-14T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,1,3,Al-Hilal Saudi FC,Match Finished
+2023-08-14T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,0,3,Al-Ittihad FC,Match Finished
+2023-08-14T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,2,1,Al-Nassr,Match Finished
+2023-08-14T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,1,1,Al Akhdoud,Match Finished
+2023-08-17T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,2,2,Al Riyadh,Match Finished
+2023-08-17T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,1,3,Al-Ahli Jeddah,Match Finished
+2023-08-18T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,3,Al-Fateh,Match Finished
+2023-08-18T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,0,2,Al-Ettifaq,Match Finished
+2023-08-18T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,0,2,Al Taawon,Match Finished
+2023-08-18T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,3,1,Al Shabab,Match Finished
+2023-08-19T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,1,0,Al-Raed,Match Finished
+2023-08-19T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,1,1,Al-Fayha,Match Finished
+2023-08-19T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,2,0,Al Taee,Match Finished
+2023-08-24T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,0,3,Al Wehda Club,Match Finished
+2023-08-24T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,0,4,Al-Hilal Saudi FC,Match Finished
+2023-08-24T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,1,1,Al Khaleej Saihat,Match Finished
+2023-08-24T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,1,0,Al Akhdoud,Match Finished
+2023-08-24T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,0,4,Al-Ittihad FC,Match Finished
+2023-08-25T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,0,0,Al-Hazm,Match Finished
+2023-08-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,1,1,Damac,Match Finished
+2023-08-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,1,0,Abha,Match Finished
+2023-08-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,0,5,Al-Nassr,Match Finished
+2023-08-28T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,2,1,Al-Fayha,Match Finished
+2023-08-28T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,3,0,Al Riyadh,Match Finished
+2023-08-28T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,2,0,Al-Ettifaq,Match Finished
+2023-08-28T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,0,3,Al-Ittihad FC,Match Finished
+2023-08-29T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,0,1,Al Taawon,Match Finished
+2023-08-29T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,2,2,Al-Fateh,Match Finished
+2023-08-29T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,1,1,Al-Hazm,Match Finished
+2023-08-29T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,2,0,Al Taee,Match Finished
+2023-08-29T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,4,0,Al Shabab,Match Finished
+2023-09-01T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,0,0,Al-Raed,Match Finished
+2023-09-01T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,1,0,Abha,Match Finished
+2023-09-01T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,0,1,Al Akhdoud,Match Finished
+2023-09-01T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,3,4,Al-Hilal Saudi FC,Match Finished
+2023-09-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,3,1,Damac,Match Finished
+2023-09-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,5,1,Al-Ahli Jeddah,Match Finished
+2023-09-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,1,3,Al Khaleej Saihat,Match Finished
+2023-09-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,1,5,Al-Nassr,Match Finished
+2023-09-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,4,1,Al Wehda Club,Match Finished
+2023-09-14T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,0,1,Al-Ittihad FC,Match Finished
+2023-09-16T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,1,3,Al-Nassr,Match Finished
+2023-09-15T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,0,1,Al Shabab,Match Finished
+2023-09-15T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,6,1,Al Riyadh,Match Finished
+2023-09-16T12:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,1,3,Al-Ettifaq,Match Finished
+2023-09-16T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,1,1,Al Taee,Match Finished
+2023-09-16T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,3,2,Al Taawon,Match Finished
+2023-09-15T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,1,3,Al-Fateh,Match Finished
+2023-09-14T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,4,2,Damac,Match Finished
+2023-09-22T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,0,1,Al Khaleej Saihat,Match Finished
+2023-09-21T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,2,1,Al-Raed,Match Finished
+2023-09-21T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,4,1,Al-Hazm,Match Finished
+2023-09-21T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,2,1,Al-Fateh,Match Finished
+2023-09-21T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,4,3,Al Taee,Match Finished
+2023-09-22T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,3,Al-Fayha,Match Finished
+2023-09-21T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,1,1,Al-Hilal Saudi FC,Match Finished
+2023-09-22T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,4,0,Abha,Match Finished
+2023-09-22T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,4,3,Al-Ahli Jeddah,Match Finished
+2023-09-30T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,5,1,Al Wehda Club,Match Finished
+2023-09-29T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,1,2,Al-Nassr,Match Finished
+2023-09-29T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,1,3,Al Taawon,Match Finished
+2023-09-29T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,0,0,Al-Ittihad FC,Match Finished
+2023-09-30T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,1,2,Al Akhdoud,Match Finished
+2023-09-29T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,2,0,Al Shabab,Match Finished
+2023-09-30T12:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,0,1,Al Riyadh,Match Finished
+2023-09-30T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,0,0,Al-Ettifaq,Match Finished
+2023-09-30T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,0,2,Damac,Match Finished
+2023-10-05T12:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,4,1,Al-Hazm,Match Finished
+2023-10-07T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,0,3,Al-Hilal Saudi FC,Match Finished
+2023-10-05T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,2,2,Al Shabab,Match Finished
+2023-10-07T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,1,1,Al-Fayha,Match Finished
+2023-10-06T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,2,2,Abha,Match Finished
+2023-10-06T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,0,1,Al-Ahli Jeddah,Match Finished
+2023-10-05T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,3,0,Al Taee,Match Finished
+2023-10-07T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,0,0,Al-Raed,Match Finished
+2023-10-05T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,1,2,Al-Fateh,Match Finished
+2023-10-22T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,0,Al-Ettifaq,Match Finished
+2023-10-21T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,2,1,Damac,Match Finished
+2023-10-20T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,1,1,Al-Ittihad FC,Match Finished
+2023-10-20T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,4,1,Abha,Match Finished
+2023-10-21T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,3,1,Al Wehda Club,Match Finished
+2023-10-20T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,2,Al-Fayha,Match Finished
+2023-10-21T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,4,3,Al-Raed,Match Finished
+2023-10-20T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,1,0,Al Khaleej Saihat,Match Finished
+2023-10-21T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,2,0,Al Taee,Match Finished
+2023-10-26T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,2,2,Al-Hazm,Match Finished
+2023-10-28T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,2,3,Al-Ettifaq,Match Finished
+2023-10-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,3,1,Al-Ahli Jeddah,Match Finished
+2023-10-26T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,1,1,Al Taawon,Match Finished
+2023-10-27T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,1,2,Al-Fateh,Match Finished
+2023-10-26T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,2,0,Al Akhdoud,Match Finished
+2023-10-28T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,2,1,Al Shabab,Match Finished
+2023-10-28T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,1,3,Al-Nassr,Match Finished
+2023-10-27T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,3,2,Al Riyadh,Match Finished
+2023-11-04T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,0,0,Al-Raed,Match Finished
+2023-11-05T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,3,0,Al Riyadh,Match Finished
+2023-11-05T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,0,0,Damac,Match Finished
+2023-11-04T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,2,0,Al Khaleej Saihat,Match Finished
+2023-11-03T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,3,3,Al-Fayha,Match Finished
+2023-11-05T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,1,2,Al Wehda Club,Match Finished
+2023-11-03T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,0,2,Al-Hilal Saudi FC,Match Finished
+2023-11-04T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,3,2,Al Akhdoud,Match Finished
+2023-11-03T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,1,0,Al-Ittihad FC,Match Finished
+2023-11-11T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,0,0,Al-Ettifaq,Match Finished
+2023-11-11T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,2,1,Al-Hazm,Match Finished
+2023-11-11T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,1,3,Al-Nassr,Match Finished
+2023-11-09T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,3,1,Al Taee,Match Finished
+2023-11-10T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,4,2,Abha,Match Finished
+2023-11-09T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,2,2,Al-Ahli Jeddah,Match Finished
+2023-11-09T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,2,1,Al Shabab,Match Finished
+2023-11-09T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,1,Al-Fateh,Match Finished
+2023-11-10T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,2,0,Al Taawon,Match Finished
+2023-11-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,3,1,Al Khaleej Saihat,Match Finished
+2023-11-24T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,4,3,Al-Raed,Match Finished
+2023-11-24T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,1,1,Al-Ittihad FC,Match Finished
+2023-11-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,4,2,Abha,Match Finished
+2023-11-24T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,1,2,Al Riyadh,Match Finished
+2023-11-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,0,1,Al-Fayha,Match Finished
+2023-11-25T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,0,9,Al-Hilal Saudi FC,Match Finished
+2023-11-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,0,0,Al Shabab,Match Finished
+2023-11-24T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,3,0,Al Akhdoud,Match Finished
+2023-12-02T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,0,1,Al Taee,Match Finished
+2023-12-02T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,0,Al-Ettifaq,Match Finished
+2023-11-30T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,4,2,Al Khaleej Saihat,Match Finished
+2023-11-30T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,0,0,Al-Hazm,Match Finished
+2023-12-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,2,0,Al Wehda Club,Match Finished
+2023-12-01T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,2,4,Damac,Match Finished
+2023-12-01T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,3,0,Al-Nassr,Match Finished
+2023-12-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,1,2,Al Taawon,Match Finished
+2023-11-30T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,0,6,Al-Ahli Jeddah,Match Finished
+2023-12-08T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,1,2,Al-Hilal Saudi FC,Match Finished
+2023-12-08T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,4,1,Al Riyadh,Match Finished
+2023-12-07T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,2,0,Al-Fateh,Match Finished
+2023-12-09T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,2,0,Al Akhdoud,Match Finished
+2023-12-09T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,0,0,Al-Raed,Match Finished
+2023-12-08T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,4,1,Al-Fayha,Match Finished
+2023-12-07T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,3,1,Al-Ittihad FC,Match Finished
+2023-12-07T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,0,0,Al-Ettifaq,Match Finished
+2023-12-08T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,3,1,Abha,Match Finished
+2023-12-16T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,0,2,Al Taawon,Match Finished
+2023-12-15T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,0,1,Damac,Match Finished
+2023-12-15T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,1,1,Al Shabab,Match Finished
+2023-12-14T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,1,1,Al-Hazm,Match Finished
+2023-12-26T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,2,5,Al-Nassr,Match Finished
+2023-12-14T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,0,Al Taee,Match Finished
+2023-12-16T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,0,1,Al Khaleej Saihat,Match Finished
+2023-12-14T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,0,4,Al-Ahli Jeddah,Match Finished
+2023-12-15T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,2,0,Al Wehda Club,Match Finished
+2023-12-21T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,3,0,Al-Fayha,Match Finished
+2023-12-22T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,0,Al Shabab,Match Finished
+2023-12-24T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,3,1,Al Riyadh,Match Finished
+2023-12-21T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,7,0,Abha,Match Finished
+2023-12-22T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,3,1,Al-Ettifaq,Match Finished
+2023-12-22T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,0,4,Al-Ahli Jeddah,Match Finished
+2023-12-23T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,1,3,Al-Fateh,Match Finished
+2023-12-21T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,3,0,Al Taee,Match Finished
+2023-12-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,1,3,Al-Raed,Match Finished
+2023-12-30T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,0,0,Al Akhdoud,Match Finished
+2023-12-29T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,0,2,Al-Hilal Saudi FC,Match Finished
+2024-02-07T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,0,3,Al-Ittihad FC,Match Finished
+2023-12-30T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,1,0,Al Wehda Club,Match Finished
+2023-12-29T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,4,3,Abha,Match Finished
+2023-12-28T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,1,1,Al-Hazm,Match Finished
+2023-12-29T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,1,0,Al Khaleej Saihat,Match Finished
+2023-12-30T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,1,4,Al-Nassr,Match Finished
+2023-12-28T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,0,Damac,Match Finished
+2024-02-16T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,0,1,Al Shabab,Match Finished
+2024-02-17T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,2,1,Al-Fateh,Match Finished
+2024-02-16T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,1,1,Al Taee,Match Finished
+2024-02-16T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,3,2,Al-Ahli Jeddah,Match Finished
+2024-02-17T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,1,3,Al-Fayha,Match Finished
+2024-02-18T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,2,0,Al Riyadh,Match Finished
+2024-02-18T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,3,1,Al-Raed,Match Finished
+2024-02-15T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,1,1,Al Taawon,Match Finished
+2024-02-15T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,0,2,Al-Ettifaq,Match Finished
+2024-02-23T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,3,1,Al Akhdoud,Match Finished
+2024-02-24T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,1,1,Al Khaleej Saihat,Match Finished
+2024-02-23T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,1,Al-Raed,Match Finished
+2024-02-25T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,3,2,Abha,Match Finished
+2024-02-26T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,2,1,Al Wehda Club,Match Finished
+2024-02-26T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,0,2,Al-Hilal Saudi FC,Match Finished
+2024-02-23T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,1,1,Damac,Match Finished
+2024-02-24T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,1,4,Al-Ahli Jeddah,Match Finished
+2024-02-25T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,2,3,Al-Nassr,Match Finished
+2024-02-29T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,3,3,Al Taawon,Match Finished
+2024-03-02T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,1,1,Al-Fateh,Match Finished
+2024-02-29T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,1,2,Al-Fayha,Match Finished
+2024-03-01T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,2,Al Riyadh,Match Finished
+2024-03-02T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,0,0,Al Shabab,Match Finished
+2024-02-29T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,4,4,Al-Hazm,Match Finished
+2024-03-02T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,0,2,Al-Ettifaq,Match Finished
+2024-03-01T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,3,1,Al-Ittihad FC,Match Finished
+2024-03-01T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,2,0,Al Taee,Match Finished
+2024-03-09T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,1,2,Al Khaleej Saihat,Match Finished
+2024-03-07T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,1,3,Al-Raed,Match Finished
+2024-03-08T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,2,1,Al Akhdoud,Match Finished
+2024-03-09T17:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,0,1,Al-Ahli Jeddah,Match Finished
+2024-03-07T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,1,0,Al Wehda Club,Match Finished
+2024-03-08T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,1,0,Al-Hazm,Match Finished
+2024-03-09T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,3,0,Abha,Match Finished
+2024-03-08T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,3,Al-Hilal Saudi FC,Match Finished
+2024-03-07T14:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,2,3,Al-Fayha,Match Finished
+2024-03-14T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,2,2,Al Akhdoud,Match Finished
+2024-03-16T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,0,0,Al Taawon,Match Finished
+2024-03-15T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,1,1,Al-Ettifaq,Match Finished
+2024-03-15T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,0,1,Al-Nassr,Match Finished
+2024-03-16T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,2,1,Damac,Match Finished
+2024-03-16T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,2,4,Al-Ittihad FC,Match Finished
+2024-03-14T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,0,3,Al Shabab,Match Finished
+2024-03-15T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,1,1,Al Riyadh,Match Finished
+2024-03-14T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,1,0,Al Wehda Club,Match Finished
+2024-03-30T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,2,3,Al-Fateh,Match Finished
+2024-03-29T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,3,1,Al-Fayha,Match Finished
+2024-03-29T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,4,0,Al-Hazm,Match Finished
+2024-03-30T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,5,1,Al Taee,Match Finished
+2024-03-29T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,3,Al-Raed,Match Finished
+2024-03-29T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,2,2,Al-Ahli Jeddah,Match Finished
+2024-03-29T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,0,1,Al Khaleej Saihat,Match Finished
+2024-03-30T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,3,4,Al-Hilal Saudi FC,Match Finished
+2024-03-30T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,1,Abha,Match Finished
+2024-04-03T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,1,0,Al-Ettifaq,Match Finished
+2024-04-01T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,0,0,Damac,Match Finished
+2024-04-02T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,1,2,Al Wehda Club,Match Finished
+2024-04-01T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,1,0,Al-Ittihad FC,Match Finished
+2024-04-01T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,0,1,Al Khaleej Saihat,Match Finished
+2024-04-02T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,2,3,Al Taawon,Match Finished
+2024-04-02T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,0,8,Al-Nassr,Match Finished
+2024-04-02T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,3,0,Al Akhdoud,Match Finished
+2024-04-03T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,1,0,Al Riyadh,Match Finished
+2024-04-05T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,0,0,Al Taawon,Match Finished
+2024-04-07T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,3,0,Al Akhdoud,Match Finished
+2024-04-05T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,1,1,Al-Ahli Jeddah,Match Finished
+2024-04-06T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,0,0,Al Shabab,Match Finished
+2024-04-07T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,2,0,Al-Hazm,Match Finished
+2024-04-05T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,0,1,Al-Nassr,Match Finished
+2024-04-05T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,1,4,Al-Hilal Saudi FC,Match Finished
+2024-04-07T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,2,1,Al-Fateh,Match Finished
+2024-04-06T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,1,0,Al Riyadh,Match Finished
+2024-04-18T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,3,1,Al-Raed,Match Finished
+2024-04-20T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,2,3,Al-Ittihad FC,Match Finished
+2024-04-18T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,1,1,Al Khaleej Saihat,Match Finished
+2024-04-19T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,3,1,Al-Fayha,Match Finished
+2024-04-19T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,1,2,Al Taee,Match Finished
+2024-04-20T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,0,0,Al Wehda Club,Match Finished
+2024-04-20T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,1,2,Damac,Match Finished
+2024-04-18T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,5,0,Abha,Match Finished
+2024-05-06T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Hilal Saudi FC,Not Started
+2024-04-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,0,2,Al-Hazm,Match Finished
+2024-04-25T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,1,0,Al Taee,Match Finished
+2024-04-27T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,4,0,Abha,Match Finished
+2024-04-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,0,1,Al-Nassr,Match Finished
+2024-04-26T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,0,1,Al Taawon,Match Finished
+2024-04-27T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,2,2,Al-Ettifaq,Match Finished
+2024-04-26T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,1,3,Al Shabab,Match Finished
+2024-04-25T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,2,1,Al-Ahli Jeddah,Match Finished
+2024-04-26T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,3,1,Al-Fateh,Match Finished
+2024-05-03T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al-Fayha,Not Started
+2024-05-04T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,,,Al Wehda Club,Not Started
+2024-05-03T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,,,Al-Ittihad FC,Not Started
+2024-05-03T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,,,Al-Hilal Saudi FC,Not Started
+2024-05-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,,,Al Riyadh,Not Started
+2024-05-02T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Damac,Not Started
+2024-05-02T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,,,Al Akhdoud,Not Started
+2024-05-04T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,,,Al-Raed,Not Started
+2024-05-04T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,,,Al Khaleej Saihat,Not Started
+2024-05-09T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,,,Al-Nassr,Not Started
+2024-05-10T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Al-Ettifaq,Not Started
+2024-05-09T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,,,Al Taawon,Not Started
+2024-05-10T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Wehda Club,Not Started
+2024-05-10T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,,,Damac,Not Started
+2024-05-09T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,,,Al-Fateh,Not Started
+2024-05-11T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,,,Al Taee,Not Started
+2024-05-11T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al-Hazm,Not Started
+2024-05-11T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,,,Al-Ahli Jeddah,Not Started
+2024-05-16T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Raed,Not Started
+2024-05-16T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,,,Al-Fateh,Not Started
+2024-05-18T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,,,Al Riyadh,Not Started
+2024-05-17T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Akhdoud,Not Started
+2024-05-17T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Hilal Saudi FC,Not Started
+2024-05-16T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al-Ittihad FC,Not Started
+2024-05-18T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,,,Al Shabab,Not Started
+2024-05-18T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Abha,Not Started
+2024-05-17T15:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,,,Al-Fayha,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ettifaq,,,Al Shabab,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Raed,,,Al-Ahli Jeddah,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ittihad FC,,,Damac,Not Started
+2024-05-23T19:00:00+00:00,2023,Pro League,Saudi-Arabia,Abha,,,Al Khaleej Saihat,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Akhdoud,,,Al Wehda Club,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fayha,,,Al Taawon,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Fateh,,,Al-Hazm,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Riyadh,,,Al-Nassr,Not Started
+2024-05-23T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hilal Saudi FC,,,Al Taee,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taawon,,,Al-Ettifaq,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Hazm,,,Abha,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Nassr,,,Al-Ittihad FC,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Shabab,,,Al-Fateh,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Taee,,,Al Akhdoud,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Khaleej Saihat,,,Al Riyadh,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Damac,,,Al-Raed,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al Wehda Club,,,Al-Hilal Saudi FC,Not Started
+2024-05-27T18:00:00+00:00,2023,Pro League,Saudi-Arabia,Al-Ahli Jeddah,,,Al-Fayha,Not Started

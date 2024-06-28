@@ -1,0 +1,183 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-19T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,2,1,Hatta SC,Match Finished
+2023-08-19T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,1,3,Al-Jazira,Match Finished
+2023-08-18T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,3,4,Sharjah FC,Match Finished
+2023-08-19T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,1,0,Emirates Club,Match Finished
+2023-08-18T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,3,2,Baniyas SC,Match Finished
+2023-08-18T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,1,2,Al Bataeh,Match Finished
+2023-08-18T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,0,3,Shabab Al Ahli Dubai,Match Finished
+2023-08-26T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,0,2,Al Ain,Match Finished
+2023-08-27T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,2,1,Khorfakkan,Match Finished
+2023-08-25T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,4,4,Ajman,Match Finished
+2023-08-26T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,0,0,Al-Ittihad Kalba,Match Finished
+2023-08-25T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,1,2,Al Wahda FC,Match Finished
+2023-08-26T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,4,2,Al Nasr,Match Finished
+2023-08-27T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,1,3,Al-Wasl FC,Match Finished
+2023-09-23T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,0,2,Emirates Club,Match Finished
+2023-09-23T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,0,1,Sharjah FC,Match Finished
+2023-09-23T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,6,0,Ajman,Match Finished
+2023-09-23T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,0,4,Al-Jazira,Match Finished
+2023-09-24T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,0,2,Shabab Al Ahli Dubai,Match Finished
+2023-09-24T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,1,0,Hatta SC,Match Finished
+2023-09-24T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,3,2,Baniyas SC,Match Finished
+2023-09-28T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,2,3,Al Ain,Match Finished
+2023-09-30T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,3,1,Al Bataeh,Match Finished
+2023-09-29T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,3,1,Al Wahda FC,Match Finished
+2023-09-29T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,0,0,Emirates Club,Match Finished
+2023-09-30T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,3,3,Al-Wasl FC,Match Finished
+2023-09-28T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,0,3,Al Nasr,Match Finished
+2023-09-29T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,3,5,Al-Ittihad Kalba,Match Finished
+2023-10-06T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,2,1,Al Wahda FC,Match Finished
+2023-10-06T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,2,1,Hatta SC,Match Finished
+2023-10-07T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,1,1,Ajman,Match Finished
+2023-10-08T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,1,3,Sharjah FC,Match Finished
+2023-10-07T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,1,1,Shabab Al Ahli Dubai,Match Finished
+2023-10-08T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,1,0,Al Ain,Match Finished
+2023-10-06T13:20:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,3,1,Khorfakkan,Match Finished
+2023-10-27T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,2,1,Al-Ittihad Kalba,Match Finished
+2023-10-27T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,1,1,Ajman,Match Finished
+2023-10-28T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,3,1,Emirates Club,Match Finished
+2023-10-27T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,3,3,Al Nasr,Match Finished
+2023-10-28T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,5,0,Baniyas SC,Match Finished
+2023-10-28T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,4,2,Al-Jazira,Match Finished
+2023-10-27T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,0,5,Al-Wasl FC,Match Finished
+2023-11-04T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,1,0,Khorfakkan,Match Finished
+2023-11-02T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,3,1,Al Ain,Match Finished
+2023-11-02T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,1,1,Sharjah FC,Match Finished
+2023-11-03T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,1,3,Shabab Al Ahli Dubai,Match Finished
+2023-11-04T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,0,1,Al Wahda FC,Match Finished
+2023-11-03T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,0,2,Al Bataeh,Match Finished
+2023-11-03T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,2,4,Hatta SC,Match Finished
+2023-11-25T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,0,1,Baniyas SC,Match Finished
+2023-11-23T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,3,3,Sharjah FC,Match Finished
+2023-11-26T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,0,0,Al Nasr,Match Finished
+2023-11-26T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,1,2,Ajman,Match Finished
+2023-11-25T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,2,4,Al-Wasl FC,Match Finished
+2023-11-26T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,0,3,Al Ain,Match Finished
+2023-11-25T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,4,1,Emirates Club,Match Finished
+2023-12-20T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,1,1,Shabab Al Ahli Dubai,Match Finished
+2023-12-20T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,4,1,Khorfakkan,Match Finished
+2023-12-01T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,1,1,Al Wahda FC,Match Finished
+2023-12-02T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,4,1,Al Bataeh,Match Finished
+2023-12-01T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,1,1,Hatta SC,Match Finished
+2023-12-01T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,2,4,Al-Ittihad Kalba,Match Finished
+2023-12-02T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,1,4,Al-Jazira,Match Finished
+2023-12-08T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,1,5,Ajman,Match Finished
+2023-12-08T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,7,0,Emirates Club,Match Finished
+2023-12-09T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,2,2,Al Ain,Match Finished
+2023-12-09T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,3,1,Al Nasr,Match Finished
+2023-12-08T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,2,2,Al-Wasl FC,Match Finished
+2023-12-09T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,1,4,Sharjah FC,Match Finished
+2023-12-08T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,2,1,Baniyas SC,Match Finished
+2023-12-16T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,0,2,Al Wahda FC,Match Finished
+2023-12-15T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,1,2,Shabab Al Ahli Dubai,Match Finished
+2023-12-15T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,4,1,Khorfakkan,Match Finished
+2023-12-16T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,2,1,Al-Ittihad Kalba,Match Finished
+2023-12-15T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,0,0,Al Bataeh,Match Finished
+2023-12-16T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,0,3,Al Nasr,Match Finished
+2023-12-15T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,0,1,Al-Jazira,Match Finished
+2023-12-23T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,3,1,Hatta SC,Match Finished
+2023-12-24T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,3,2,Al Wahda FC,Match Finished
+2023-12-23T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,2,1,Al-Ittihad Kalba,Match Finished
+2023-12-24T15:30:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,1,2,Al-Wasl FC,Match Finished
+2023-12-24T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,1,1,Ajman,Match Finished
+2023-12-23T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,2,1,Emirates Club,Match Finished
+2023-12-24T12:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,1,3,Al Ain,Match Finished
+2024-02-13T13:25:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,1,1,Sharjah FC,Match Finished
+2024-04-11T16:15:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,2,2,Al-Jazira,Match Finished
+2024-05-20T14:15:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,,,Shabab Al Ahli Dubai,Not Started
+2024-02-13T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,1,0,Al Nasr,Match Finished
+2024-05-20T14:15:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,,,Baniyas SC,Not Started
+2024-05-20T17:00:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,,,Al Bataeh,Not Started
+2024-02-13T13:25:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,1,1,Khorfakkan,Match Finished
+2024-02-25T13:30:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,3,0,Ajman,Match Finished
+2024-02-24T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,2,3,Al Nasr,Match Finished
+2024-02-25T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,0,1,Al Ain,Match Finished
+2024-02-24T16:00:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,1,0,Al-Ittihad Kalba,Match Finished
+2024-02-24T13:30:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,0,2,Khorfakkan,Match Finished
+2024-02-24T13:30:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,0,2,Al-Wasl FC,Match Finished
+2024-02-25T13:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,1,2,Al Wahda FC,Match Finished
+2024-02-29T16:15:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,1,2,Al Bataeh,Match Finished
+2024-03-01T13:35:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,0,3,Shabab Al Ahli Dubai,Match Finished
+2024-02-29T13:35:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,5,3,Hatta SC,Match Finished
+2024-03-02T16:15:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,3,2,Al-Jazira,Match Finished
+2024-03-02T13:35:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,1,0,Baniyas SC,Match Finished
+2024-03-01T16:15:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,2,0,Sharjah FC,Match Finished
+2024-03-01T13:35:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,2,0,Emirates Club,Match Finished
+2024-03-14T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,2,1,Al Bataeh,Match Finished
+2024-03-14T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,2,2,Al Nasr,Match Finished
+2024-03-13T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,2,1,Khorfakkan,Match Finished
+2024-03-13T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,0,4,Al Wahda FC,Match Finished
+2024-03-15T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,0,4,Al Ain,Match Finished
+2024-03-14T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,2,2,Al-Ittihad Kalba,Match Finished
+2024-03-13T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,0,2,Al-Wasl FC,Match Finished
+2024-03-28T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,1,2,Baniyas SC,Match Finished
+2024-03-28T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,1,0,Hatta SC,Match Finished
+2024-03-30T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,1,1,Sharjah FC,Match Finished
+2024-03-29T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,3,3,Shabab Al Ahli Dubai,Match Finished
+2024-03-29T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,2,4,Ajman,Match Finished
+2024-03-30T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,3,0,Khorfakkan,Match Finished
+2024-03-30T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,3,2,Al-Jazira,Match Finished
+2024-04-07T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,3,2,Al-Jazira,Match Finished
+2024-04-08T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,3,3,Emirates Club,Match Finished
+2024-04-07T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,1,3,Al Nasr,Match Finished
+2024-04-06T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,3,1,Baniyas SC,Match Finished
+2024-04-06T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,0,3,Al Bataeh,Match Finished
+2024-04-06T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,1,3,Al-Ittihad Kalba,Match Finished
+2024-04-08T18:00:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,1,4,Al-Wasl FC,Match Finished
+2024-05-12T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,,,Al Ain,Not Started
+2024-04-16T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,,,Khorfakkan,Match Postponed
+2024-04-17T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,,,Sharjah FC,Match Postponed
+2024-04-17T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,3,2,Shabab Al Ahli Dubai,Match Finished
+2024-04-15T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,1,0,Al Wahda FC,Match Finished
+2024-04-16T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,,,Al Bataeh,Match Postponed
+2024-04-15T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,3,0,Hatta SC,Match Finished
+2024-04-21T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,4,1,Al-Ittihad Kalba,Match Finished
+2024-04-21T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,2,1,Baniyas SC,Match Finished
+2024-04-21T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,1,1,Al-Jazira,Match Finished
+2024-04-20T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,1,1,Emirates Club,Match Finished
+2024-04-21T14:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,1,3,Al Nasr,Match Finished
+2024-05-20T17:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,,,Al-Wasl FC,Not Started
+2024-04-20T16:30:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,1,2,Ajman,Match Finished
+2024-04-26T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,2,2,Al-Ittihad Kalba,Match Finished
+2024-04-26T16:45:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,0,0,Al Wahda FC,Match Finished
+2024-04-26T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,4,2,Hatta SC,Match Finished
+2024-04-27T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,2,2,Khorfakkan,Match Finished
+2024-04-27T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,2,2,Al Bataeh,Match Finished
+2024-04-27T16:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,1,2,Shabab Al Ahli Dubai,Match Finished
+2024-04-26T16:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,2,2,Al-Jazira,Match Finished
+2024-05-07T16:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,,,Al Nasr,Not Started
+2024-05-07T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,,,Al Ain,Not Started
+2024-05-05T16:45:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,,,Baniyas SC,Not Started
+2024-05-05T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,,,Ajman,Not Started
+2024-05-06T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,,,Al-Wasl FC,Not Started
+2024-05-06T16:45:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,,,Sharjah FC,Not Started
+2024-05-06T14:05:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,,,Emirates Club,Not Started
+2024-05-15T17:00:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,,,Al-Jazira,Not Started
+2024-05-16T17:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,,,Al-Ittihad Kalba,Not Started
+2024-05-16T17:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,,,Al Wahda FC,Not Started
+2024-05-16T14:10:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,,,Shabab Al Ahli Dubai,Not Started
+2024-05-15T14:10:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,,,Al Bataeh,Not Started
+2024-05-15T14:10:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,,,Hatta SC,Not Started
+2024-05-16T14:10:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,,,Khorfakkan,Not Started
+2024-05-17T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,,,Al Ain,Match Postponed
+2024-05-17T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,,,Hatta SC,Match Postponed
+2024-05-17T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,,,Sharjah FC,Match Postponed
+2024-05-17T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,,,Emirates Club,Match Postponed
+2024-05-17T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,,,Baniyas SC,Match Postponed
+2024-05-17T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,,,Ajman,Match Postponed
+2024-05-17T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,,,Al-Wasl FC,Match Postponed
+2024-05-21T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Hatta SC,,,Al-Jazira,Match Postponed
+2024-05-21T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Wahda FC,,,Khorfakkan,Match Postponed
+2024-05-21T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Ain,,,Al Bataeh,Match Postponed
+2024-05-21T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Ittihad Kalba,,,Baniyas SC,Match Postponed
+2024-05-21T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Wasl FC,,,Shabab Al Ahli Dubai,Match Postponed
+2024-05-21T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Ajman,,,Sharjah FC,Match Postponed
+2024-05-21T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Emirates Club,,,Al Nasr,Match Postponed
+2024-05-25T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Sharjah FC,,,Al Wahda FC,Match Postponed
+2024-05-25T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Bataeh,,,Emirates Club,Match Postponed
+2024-05-25T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Khorfakkan,,,Al-Ittihad Kalba,Match Postponed
+2024-05-25T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Baniyas SC,,,Ajman,Match Postponed
+2024-05-25T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al-Jazira,,,Al Ain,Match Postponed
+2024-05-25T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Shabab Al Ahli Dubai,,,Hatta SC,Match Postponed
+2024-05-25T00:00:00+00:00,2023,Pro League,United-Arab-Emirates,Al Nasr,,,Al-Wasl FC,Match Postponed

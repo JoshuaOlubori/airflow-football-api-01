@@ -1,0 +1,261 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-08-21T17:00:00+00:00,2023,1. Division,Cyprus,Aris,2,0,AEK Larnaca,Match Finished
+2023-08-21T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,1,AEL,Match Finished
+2023-08-20T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,2,Apoel Nicosia,Match Finished
+2023-08-18T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,3,0,Karmiotissa,Match Finished
+2023-08-21T17:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,4,0,Nea Salamis,Match Finished
+2023-08-19T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,1,1,Othellos,Match Finished
+2023-08-19T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,3,1,Ethnikos Achna,Match Finished
+2023-08-28T17:00:00+00:00,2023,1. Division,Cyprus,Aris,2,1,Doxa,Match Finished
+2023-08-26T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,2,Anorthosis,Match Finished
+2023-08-27T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,1,1,Apollon Limassol,Match Finished
+2023-08-26T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,3,3,Omonia Nicosia,Match Finished
+2023-09-27T16:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,1,0,Pafos,Match Finished
+2023-08-27T17:00:00+00:00,2023,1. Division,Cyprus,AEL,4,3,AE Zakakiou,Match Finished
+2023-08-28T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,5,5,Ethnikos Achna,Match Finished
+2023-09-02T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,2,AEK Larnaca,Match Finished
+2023-09-03T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,5,Aris,Match Finished
+2023-09-02T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,3,1,AEL,Match Finished
+2023-09-03T18:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,2,1,Apoel Nicosia,Match Finished
+2023-09-03T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,1,0,Karmiotissa,Match Finished
+2023-09-01T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,2,2,Nea Salamis,Match Finished
+2023-09-02T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,1,1,Othellos,Match Finished
+2023-09-17T16:00:00+00:00,2023,1. Division,Cyprus,Aris,1,1,Pafos,Match Finished
+2023-09-16T16:00:00+00:00,2023,1. Division,Cyprus,Doxa,1,3,AE Zakakiou,Match Finished
+2023-10-25T16:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,4,0,Ethnikos Achna,Match Finished
+2023-09-17T15:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,1,3,Anorthosis,Match Finished
+2023-09-17T17:30:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,1,1,Apollon Limassol,Match Finished
+2023-09-16T17:00:00+00:00,2023,1. Division,Cyprus,AEL,0,0,Omonia Nicosia,Match Finished
+2023-09-16T16:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,3,2,Othellos,Match Finished
+2023-09-22T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,3,1,AEK Larnaca,Match Finished
+2023-09-23T15:00:00+00:00,2023,1. Division,Cyprus,Pafos,4,0,Doxa,Match Finished
+2023-09-25T16:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,2,2,Aris,Match Finished
+2023-09-24T16:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,2,0,AEL,Match Finished
+2023-09-23T17:30:00+00:00,2023,1. Division,Cyprus,Anorthosis,1,1,Apoel Nicosia,Match Finished
+2023-09-23T16:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,3,0,Karmiotissa,Match Finished
+2023-09-24T16:00:00+00:00,2023,1. Division,Cyprus,Othellos,2,3,Nea Salamis,Match Finished
+2023-09-30T16:00:00+00:00,2023,1. Division,Cyprus,Aris,0,1,Apollon Limassol,Match Finished
+2023-10-01T16:00:00+00:00,2023,1. Division,Cyprus,Doxa,1,3,Omonia Nicosia,Match Finished
+2023-10-02T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,1,4,Pafos,Match Finished
+2023-09-30T16:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,0,0,Othellos,Match Finished
+2023-10-02T16:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,5,1,Ethnikos Achna,Match Finished
+2023-10-01T16:00:00+00:00,2023,1. Division,Cyprus,AEL,1,3,Anorthosis,Match Finished
+2023-09-30T15:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,1,1,Nea Salamis,Match Finished
+2023-10-07T16:00:00+00:00,2023,1. Division,Cyprus,Pafos,0,0,AEK Larnaca,Match Finished
+2023-10-07T16:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,3,3,AE Zakakiou,Match Finished
+2023-10-08T16:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,4,0,Doxa,Match Finished
+2023-10-08T16:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,2,3,Aris,Match Finished
+2023-10-08T16:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,1,0,AEL,Match Finished
+2023-10-07T16:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,1,Apoel Nicosia,Match Finished
+2023-10-06T16:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,2,0,Karmiotissa,Match Finished
+2023-10-21T16:00:00+00:00,2023,1. Division,Cyprus,Aris,2,0,Ethnikos Achna,Match Finished
+2023-10-22T16:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,2,Anorthosis,Match Finished
+2023-10-22T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,5,Apollon Limassol,Match Finished
+2023-10-23T16:00:00+00:00,2023,1. Division,Cyprus,Pafos,0,2,Omonia Nicosia,Match Finished
+2023-10-21T16:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,1,0,Nea Salamis,Match Finished
+2023-10-22T14:00:00+00:00,2023,1. Division,Cyprus,AEL,2,1,Othellos,Match Finished
+2023-10-21T16:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,5,0,Karmiotissa,Match Finished
+2023-10-29T16:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,0,0,AEK Larnaca,Match Finished
+2023-10-29T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,3,Pafos,Match Finished
+2023-10-29T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,1,1,AE Zakakiou,Match Finished
+2023-10-28T15:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,0,Doxa,Match Finished
+2023-10-30T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,1,Aris,Match Finished
+2023-10-28T16:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,2,1,AEL,Match Finished
+2023-10-28T16:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,1,2,Apoel Nicosia,Match Finished
+2023-11-04T17:00:00+00:00,2023,1. Division,Cyprus,Aris,2,1,Nea Salamis,Match Finished
+2023-11-04T16:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,2,Othellos,Match Finished
+2023-11-03T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,1,1,Ethnikos Achna,Match Finished
+2023-11-05T16:00:00+00:00,2023,1. Division,Cyprus,Pafos,1,0,Anorthosis,Match Finished
+2023-11-04T17:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,2,0,Apollon Limassol,Match Finished
+2023-11-05T17:00:00+00:00,2023,1. Division,Cyprus,AEL,2,1,Karmiotissa,Match Finished
+2023-11-05T16:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,0,3,Apoel Nicosia,Match Finished
+2023-11-12T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,1,AEK Larnaca,Match Finished
+2023-11-10T18:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,2,0,Omonia Nicosia,Match Finished
+2023-11-11T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,1,4,Pafos,Match Finished
+2023-11-12T15:00:00+00:00,2023,1. Division,Cyprus,Othellos,2,1,AE Zakakiou,Match Finished
+2023-11-11T16:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,2,0,Doxa,Match Finished
+2023-11-12T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,4,1,Aris,Match Finished
+2023-11-11T17:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,1,0,AEL,Match Finished
+2023-11-25T17:00:00+00:00,2023,1. Division,Cyprus,Aris,1,0,Apoel Nicosia,Match Finished
+2023-11-27T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,2,2,Karmiotissa,Match Finished
+2023-11-26T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,2,2,Nea Salamis,Match Finished
+2023-11-25T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,3,0,Othellos,Match Finished
+2023-11-26T16:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,4,1,Ethnikos Achna,Match Finished
+2023-11-26T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,1,Anorthosis,Match Finished
+2023-11-27T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,3,0,AEL,Match Finished
+2023-12-02T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,0,0,AEK Larnaca,Match Finished
+2023-12-02T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,2,Apollon Limassol,Match Finished
+2023-12-01T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,1,2,Omonia Nicosia,Match Finished
+2023-12-03T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,2,Pafos,Match Finished
+2023-12-03T14:30:00+00:00,2023,1. Division,Cyprus,Karmiotissa,1,1,AE Zakakiou,Match Finished
+2023-12-03T17:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,5,0,Doxa,Match Finished
+2023-12-04T17:00:00+00:00,2023,1. Division,Cyprus,AEL,0,4,Aris,Match Finished
+2023-12-09T15:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,2,1,Aris,Match Finished
+2023-12-09T17:00:00+00:00,2023,1. Division,Cyprus,AEL,2,0,Doxa,Match Finished
+2023-12-09T17:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,3,1,AE Zakakiou,Match Finished
+2023-12-10T16:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,2,1,Pafos,Match Finished
+2023-12-10T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,2,Omonia Nicosia,Match Finished
+2023-12-08T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,3,Apollon Limassol,Match Finished
+2023-12-10T15:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,0,1,Anorthosis,Match Finished
+2023-12-18T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,2,0,Aris,Match Finished
+2023-12-16T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,2,1,Othellos,Match Finished
+2023-12-17T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,2,Nea Salamis,Match Finished
+2023-12-16T16:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,2,1,Karmiotissa,Match Finished
+2023-12-17T16:00:00+00:00,2023,1. Division,Cyprus,Pafos,0,1,Apoel Nicosia,Match Finished
+2023-12-17T15:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,1,4,AEL,Match Finished
+2023-12-16T16:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,0,3,AEK Larnaca,Match Finished
+2023-12-22T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,2,1,Doxa,Match Finished
+2023-12-22T17:00:00+00:00,2023,1. Division,Cyprus,Aris,1,0,AE Zakakiou,Match Finished
+2023-12-23T15:00:00+00:00,2023,1. Division,Cyprus,AEL,1,2,Pafos,Match Finished
+2023-12-23T15:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,3,0,Omonia Nicosia,Match Finished
+2023-12-22T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,3,4,Apollon Limassol,Match Finished
+2023-12-23T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,3,Anorthosis,Match Finished
+2023-12-21T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,2,1,Ethnikos Achna,Match Finished
+2024-01-03T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,1,0,Aris,Match Finished
+2024-01-04T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,1,1,Doxa,Match Finished
+2024-01-03T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,3,Nea Salamis,Match Finished
+2024-01-02T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,1,0,Karmiotissa,Match Finished
+2024-01-02T15:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,2,2,Apoel Nicosia,Match Finished
+2024-01-02T17:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,3,1,AEL,Match Finished
+2024-01-03T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,0,AEK Larnaca,Match Finished
+2024-01-08T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,2,0,AE Zakakiou,Match Finished
+2024-01-08T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,1,0,Pafos,Match Finished
+2024-01-07T17:00:00+00:00,2023,1. Division,Cyprus,Aris,2,0,Omonia Nicosia,Match Finished
+2024-01-06T17:00:00+00:00,2023,1. Division,Cyprus,AEL,1,3,Apollon Limassol,Match Finished
+2024-01-06T15:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,1,0,Anorthosis,Match Finished
+2024-01-07T15:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,1,1,Ethnikos Achna,Match Finished
+2024-01-07T15:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,3,2,Othellos,Match Finished
+2024-01-14T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,1,Aris,Match Finished
+2024-01-13T16:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,5,1,Doxa,Match Finished
+2024-01-14T14:00:00+00:00,2023,1. Division,Cyprus,Pafos,4,0,AE Zakakiou,Match Finished
+2024-01-13T15:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,3,Karmiotissa,Match Finished
+2024-01-12T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,1,Apoel Nicosia,Match Finished
+2024-01-13T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,1,0,AEL,Match Finished
+2024-01-12T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,1,AEK Larnaca,Match Finished
+2024-01-22T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,1,0,Pafos,Match Finished
+2024-01-21T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,0,Omonia Nicosia,Match Finished
+2024-01-20T15:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,3,Apollon Limassol,Match Finished
+2024-01-22T17:00:00+00:00,2023,1. Division,Cyprus,Aris,2,1,Anorthosis,Match Finished
+2024-01-20T17:00:00+00:00,2023,1. Division,Cyprus,AEL,1,1,Ethnikos Achna,Match Finished
+2024-01-21T14:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,6,0,Othellos,Match Finished
+2024-01-21T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,0,1,Nea Salamis,Match Finished
+2024-01-28T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,6,Aris,Match Finished
+2024-01-27T16:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,0,2,Doxa,Match Finished
+2024-01-27T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,0,AE Zakakiou,Match Finished
+2024-01-27T15:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,1,2,Pafos,Match Finished
+2024-01-26T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,4,Apoel Nicosia,Match Finished
+2024-01-28T15:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,3,AEL,Match Finished
+2024-01-26T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,1,3,AEK Larnaca,Match Finished
+2024-01-31T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,2,1,Omonia Nicosia,Match Finished
+2024-01-31T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,1,1,Apollon Limassol,Match Finished
+2024-02-21T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,2,Anorthosis,Match Finished
+2024-02-01T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,2,Ethnikos Achna,Match Finished
+2024-01-31T17:00:00+00:00,2023,1. Division,Cyprus,Aris,4,0,Othellos,Match Finished
+2024-02-01T17:00:00+00:00,2023,1. Division,Cyprus,AEL,3,1,Nea Salamis,Match Finished
+2024-02-01T14:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,4,1,Karmiotissa,Match Finished
+2024-02-06T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,3,Aris,Match Finished
+2024-02-05T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,0,Doxa,Match Finished
+2024-02-05T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,4,1,AE Zakakiou,Match Finished
+2024-02-04T14:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,2,2,Pafos,Match Finished
+2024-02-04T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,1,2,Omonia Nicosia,Match Finished
+2024-02-06T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,1,3,AEL,Match Finished
+2024-02-05T17:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,2,2,AEK Larnaca,Match Finished
+2024-02-10T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,1,2,Apollon Limassol,Match Finished
+2024-02-09T17:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,3,1,Anorthosis,Match Finished
+2024-02-10T15:00:00+00:00,2023,1. Division,Cyprus,Pafos,4,3,Ethnikos Achna,Match Finished
+2024-02-09T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,3,3,Othellos,Match Finished
+2024-02-11T15:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,3,Nea Salamis,Match Finished
+2024-02-10T16:00:00+00:00,2023,1. Division,Cyprus,Aris,3,0,Karmiotissa,Match Finished
+2024-02-11T17:00:00+00:00,2023,1. Division,Cyprus,AEL,1,1,Apoel Nicosia,Match Finished
+2024-02-15T18:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,1,0,Aris,Match Finished
+2024-02-15T15:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,3,1,Doxa,Match Finished
+2024-02-15T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,1,1,AE Zakakiou,Match Finished
+2024-02-13T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,3,Pafos,Match Finished
+2024-02-14T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,2,Omonia Nicosia,Match Finished
+2024-02-14T17:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,2,0,Apollon Limassol,Match Finished
+2024-02-14T17:00:00+00:00,2023,1. Division,Cyprus,AEL,2,3,AEK Larnaca,Match Finished
+2024-02-17T17:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,1,0,Anorthosis,Match Finished
+2024-02-17T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,0,Ethnikos Achna,Match Finished
+2024-02-17T14:30:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,1,0,Othellos,Match Finished
+2024-02-19T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,0,0,Nea Salamis,Match Finished
+2024-02-18T14:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,1,2,Karmiotissa,Match Finished
+2024-02-18T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,1,Apoel Nicosia,Match Finished
+2024-02-18T17:00:00+00:00,2023,1. Division,Cyprus,Aris,4,0,AEL,Match Finished
+2024-02-25T14:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,0,0,Apoel Nicosia,Match Finished
+2024-02-25T17:00:00+00:00,2023,1. Division,Cyprus,Aris,1,2,Omonia Nicosia,Match Finished
+2024-02-25T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,0,1,AEK Larnaca,Match Finished
+2024-02-24T14:30:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,1,Karmiotissa,Match Finished
+2024-02-24T16:00:00+00:00,2023,1. Division,Cyprus,AEL,2,1,AE Zakakiou,Match Finished
+2024-02-24T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,1,1,Othellos,Match Finished
+2024-02-26T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,0,1,Doxa,Match Finished
+2024-03-03T15:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,1,0,Pafos,Match Finished
+2024-03-04T16:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,1,1,Aris,Match Finished
+2024-03-04T18:30:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,2,1,Anorthosis,Match Finished
+2024-03-09T15:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,0,1,AEK Larnaca,Match Finished
+2024-03-10T15:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,2,3,Pafos,Match Finished
+2024-03-10T17:00:00+00:00,2023,1. Division,Cyprus,Aris,2,1,Apoel Nicosia,Match Finished
+2024-03-16T14:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,0,1,Omonia Nicosia,Match Finished
+2024-03-16T17:00:00+00:00,2023,1. Division,Cyprus,Pafos,1,0,Aris,Match Finished
+2024-03-17T15:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,0,1,AEK Larnaca,Match Finished
+2024-03-02T16:00:00+00:00,2023,1. Division,Cyprus,Doxa,1,4,Karmiotissa,Match Finished
+2024-03-02T17:00:00+00:00,2023,1. Division,Cyprus,Othellos,1,1,AEL,Match Finished
+2024-03-03T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,1,Ethnikos Achna,Match Finished
+2024-03-04T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,2,0,Nea Salamis,Match Finished
+2024-03-06T17:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,1,Othellos,Match Finished
+2024-03-06T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,0,0,AE Zakakiou,Match Finished
+2024-03-07T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,1,Doxa,Match Finished
+2024-03-08T17:00:00+00:00,2023,1. Division,Cyprus,AEL,2,1,Apollon Limassol,Match Finished
+2024-03-10T16:00:00+00:00,2023,1. Division,Cyprus,Othellos,1,2,Karmiotissa,Match Finished
+2024-03-11T15:00:00+00:00,2023,1. Division,Cyprus,Doxa,2,1,AE Zakakiou,Match Finished
+2024-03-11T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,2,2,Ethnikos Achna,Match Finished
+2024-03-11T17:30:00+00:00,2023,1. Division,Cyprus,Nea Salamis,1,1,AEL,Match Finished
+2024-03-15T17:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,0,0,Apollon Limassol,Match Finished
+2024-03-15T17:00:00+00:00,2023,1. Division,Cyprus,AEL,0,0,Doxa,Match Finished
+2024-03-16T17:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,4,Othellos,Match Finished
+2024-03-17T15:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,2,0,Nea Salamis,Match Finished
+2024-03-31T14:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,1,2,Apoel Nicosia,Match Finished
+2024-03-31T16:00:00+00:00,2023,1. Division,Cyprus,Aris,1,1,Anorthosis,Match Finished
+2024-03-31T16:30:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,1,1,Pafos,Match Finished
+2024-04-06T14:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,3,0,Aris,Match Finished
+2024-04-06T16:30:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,3,0,Pafos,Match Finished
+2024-04-07T14:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,0,2,Anorthosis,Match Finished
+2024-04-14T14:00:00+00:00,2023,1. Division,Cyprus,Pafos,0,2,Apoel Nicosia,Match Finished
+2024-04-14T16:00:00+00:00,2023,1. Division,Cyprus,Aris,0,1,AEK Larnaca,Match Finished
+2024-04-14T16:30:00+00:00,2023,1. Division,Cyprus,Anorthosis,0,2,Omonia Nicosia,Match Finished
+2024-03-29T17:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,1,Othellos,Match Finished
+2024-03-29T17:00:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,1,0,AE Zakakiou,Match Finished
+2024-03-30T17:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,2,Karmiotissa,Match Finished
+2024-03-30T17:00:00+00:00,2023,1. Division,Cyprus,AEL,1,1,Ethnikos Achna,Match Finished
+2024-04-03T14:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,1,2,Doxa,Match Finished
+2024-04-03T16:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,0,0,AEL,Match Finished
+2024-04-03T16:00:00+00:00,2023,1. Division,Cyprus,Othellos,0,1,Apollon Limassol,Match Finished
+2024-04-04T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,0,3,Nea Salamis,Match Finished
+2024-04-06T15:00:00+00:00,2023,1. Division,Cyprus,Doxa,0,2,Apollon Limassol,Match Finished
+2024-04-07T16:00:00+00:00,2023,1. Division,Cyprus,Othellos,2,3,Nea Salamis,Match Finished
+2024-04-07T16:30:00+00:00,2023,1. Division,Cyprus,Karmiotissa,1,4,Ethnikos Achna,Match Finished
+2024-04-08T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,1,5,AEL,Match Finished
+2024-04-12T16:00:00+00:00,2023,1. Division,Cyprus,AEL,3,2,Othellos,Match Finished
+2024-04-13T14:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,0,2,Apollon Limassol,Match Finished
+2024-04-13T15:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,2,1,Doxa,Match Finished
+2024-04-13T16:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,6,2,AE Zakakiou,Match Finished
+2024-04-21T14:00:00+00:00,2023,1. Division,Cyprus,Pafos,5,1,Anorthosis,Match Finished
+2024-04-21T16:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,2,0,Omonia Nicosia,Match Finished
+2024-04-21T16:30:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,2,0,Aris,Match Finished
+2024-04-19T16:00:00+00:00,2023,1. Division,Cyprus,Othellos,2,1,Ethnikos Achna,Match Finished
+2024-04-19T16:00:00+00:00,2023,1. Division,Cyprus,Doxa,1,0,Nea Salamis,Match Finished
+2024-04-20T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,2,5,Karmiotissa,Match Finished
+2024-04-20T16:30:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,4,1,AEL,Match Finished
+2024-04-23T14:00:00+00:00,2023,1. Division,Cyprus,Ethnikos Achna,3,3,Apollon Limassol,Match Finished
+2024-04-23T16:00:00+00:00,2023,1. Division,Cyprus,AE Zakakiou,2,3,Doxa,Match Finished
+2024-04-24T15:00:00+00:00,2023,1. Division,Cyprus,Karmiotissa,6,6,Othellos,Match Finished
+2024-04-24T16:00:00+00:00,2023,1. Division,Cyprus,AEL,5,4,Nea Salamis,Match Finished
+2024-04-28T16:00:00+00:00,2023,1. Division,Cyprus,AEK Larnaca,,,Anorthosis,Not Started
+2024-04-28T16:00:00+00:00,2023,1. Division,Cyprus,Omonia Nicosia,,,Apoel Nicosia,Not Started
+2024-04-28T16:00:00+00:00,2023,1. Division,Cyprus,Aris,,,Pafos,Not Started
+2024-05-11T16:00:00+00:00,2023,1. Division,Cyprus,Pafos,,,Omonia Nicosia,Not Started
+2024-05-11T16:00:00+00:00,2023,1. Division,Cyprus,Apoel Nicosia,,,AEK Larnaca,Not Started
+2024-05-11T16:00:00+00:00,2023,1. Division,Cyprus,Anorthosis,,,Aris,Not Started
+2024-04-27T16:00:00+00:00,2023,1. Division,Cyprus,Nea Salamis,2,1,Ethnikos Achna,Match Finished
+2024-04-29T14:00:00+00:00,2023,1. Division,Cyprus,Othellos,,,AE Zakakiou,Not Started
+2024-04-29T16:30:00+00:00,2023,1. Division,Cyprus,Doxa,,,AEL,Not Started
+2024-04-29T16:30:00+00:00,2023,1. Division,Cyprus,Apollon Limassol,,,Karmiotissa,Not Started

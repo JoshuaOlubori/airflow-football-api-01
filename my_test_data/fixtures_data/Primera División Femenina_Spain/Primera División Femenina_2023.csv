@@ -1,0 +1,241 @@
+date,season,league_name,country,home_team,home_team_score,away_team_score,away_team,match_status
+2023-10-04T16:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,1,0,Granada,Match Finished
+2023-10-05T18:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,6,0,Valencia W,Match Finished
+2023-10-05T16:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,1,1,Sporting Huelva W,Match Finished
+2023-10-04T18:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,1,6,Madrid CFF W,Match Finished
+2023-10-04T16:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,5,1,Granad. Tenerife W,Match Finished
+2023-10-03T19:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,1,3,Atletico Madrid W,Match Finished
+2023-10-04T17:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,1,1,Levante W,Match Finished
+2023-10-04T18:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,5,1,Real Betis W,Match Finished
+2023-09-17T17:00:00+00:00,2023,Primera División Femenina,Spain,Granada,2,1,Real Sociedad W,Match Finished
+2023-09-17T19:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,2,0,Sevilla W,Match Finished
+2023-09-16T15:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,1,0,Villarreal W,Match Finished
+2023-09-16T10:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,1,2,Levante Las Planas,Match Finished
+2023-09-16T10:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,3,0,Athletic Club W,Match Finished
+2023-09-16T17:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,0,2,Barcelona W,Match Finished
+2023-09-15T19:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,0,2,Real Madrid W,Match Finished
+2023-09-17T10:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,2,0,Sporting Huelva W,Match Finished
+2023-10-01T15:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,2,1,Athletic Club W,Match Finished
+2023-09-30T10:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,1,1,Atletico Madrid W,Match Finished
+2023-10-01T17:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,2,Barcelona W,Match Finished
+2023-09-30T09:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,1,5,Madrid CFF W,Match Finished
+2023-10-01T10:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,2,1,Real Betis W,Match Finished
+2023-10-01T10:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,1,2,Real Madrid W,Match Finished
+2023-09-30T10:00:00+00:00,2023,Primera División Femenina,Spain,Granada,1,2,Eibar W,Match Finished
+2023-09-30T17:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,1,2,Valencia W,Match Finished
+2023-10-09T16:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,3,0,Sporting Huelva W,Match Finished
+2023-10-07T10:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,2,1,Sevilla W,Match Finished
+2023-10-08T16:30:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,3,0,Real Sociedad W,Match Finished
+2023-10-08T11:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,0,4,Levante W,Match Finished
+2023-10-07T18:30:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,1,0,Villarreal W,Match Finished
+2023-10-08T10:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,0,1,Granad. Tenerife W,Match Finished
+2023-10-09T18:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,1,1,Levante Las Planas,Match Finished
+2023-10-08T14:30:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,1,0,Granada,Match Finished
+2023-10-15T16:30:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,0,1,Barcelona W,Match Finished
+2023-10-14T14:30:00+00:00,2023,Primera División Femenina,Spain,Granada,2,5,Real Madrid W,Match Finished
+2023-10-14T18:30:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,1,2,Valencia W,Match Finished
+2023-10-14T10:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,3,0,Athletic Club W,Match Finished
+2023-10-15T14:30:00+00:00,2023,Primera División Femenina,Spain,Levante W,1,1,Levante Las Planas,Match Finished
+2023-10-15T10:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,3,Madrid CFF W,Match Finished
+2023-10-15T10:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,1,0,Real Betis W,Match Finished
+2023-10-14T16:30:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,3,1,Eibar W,Match Finished
+2023-10-22T10:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,2,1,Real Sociedad W,Match Finished
+2023-10-21T16:30:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,6,1,Granada,Match Finished
+2023-10-22T14:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,1,2,Sevilla W,Match Finished
+2023-10-22T10:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,3,2,Granad. Tenerife W,Match Finished
+2023-10-21T10:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,2,2,Valencia W,Match Finished
+2023-10-21T10:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,0,0,Villarreal W,Match Finished
+2023-10-21T14:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,0,2,Atletico Madrid W,Match Finished
+2023-10-22T16:30:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,1,2,Levante W,Match Finished
+2023-11-05T15:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,8,0,Sevilla W,Match Finished
+2023-11-05T12:30:00+00:00,2023,Primera División Femenina,Spain,Granada,0,1,Levante Las Planas,Match Finished
+2023-11-04T11:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,1,0,Villarreal W,Match Finished
+2023-11-04T17:30:00+00:00,2023,Primera División Femenina,Spain,Eibar W,0,1,Real Madrid W,Match Finished
+2023-11-04T12:30:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,1,0,Athletic Club W,Match Finished
+2023-11-05T11:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,2,1,Atletico Madrid W,Match Finished
+2023-11-05T17:30:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,0,1,Levante W,Match Finished
+2023-11-04T15:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,2,0,Sporting Huelva W,Match Finished
+2023-11-12T17:30:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,1,2,Madrid CFF W,Match Finished
+2023-11-11T11:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,3,0,Eibar W,Match Finished
+2023-11-12T11:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,3,1,Granad. Tenerife W,Match Finished
+2023-11-12T15:30:00+00:00,2023,Primera División Femenina,Spain,Levante W,3,1,Valencia W,Match Finished
+2023-11-10T19:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,7,1,Real Sociedad W,Match Finished
+2023-11-11T15:30:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,0,6,Barcelona W,Match Finished
+2023-11-12T11:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,1,0,Granada,Match Finished
+2023-11-11T17:30:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,3,Real Betis W,Match Finished
+2023-11-19T11:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,5,0,Real Madrid W,Match Finished
+2023-11-19T13:00:00+00:00,2023,Primera División Femenina,Spain,Granada,1,2,Villarreal W,Match Finished
+2023-11-19T17:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,1,0,Levante Las Planas,Match Finished
+2023-11-18T15:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,1,2,Sevilla W,Match Finished
+2023-11-18T17:30:00+00:00,2023,Primera División Femenina,Spain,Eibar W,1,0,Sporting Huelva W,Match Finished
+2023-11-18T19:30:00+00:00,2023,Primera División Femenina,Spain,Valencia W,1,2,Athletic Club W,Match Finished
+2023-11-19T15:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,1,4,Atletico Madrid W,Match Finished
+2023-11-18T11:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,0,1,Levante W,Match Finished
+2023-11-26T17:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,0,4,Barcelona W,Match Finished
+2023-11-26T11:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,2,0,Granada,Match Finished
+2023-11-26T15:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,3,4,Madrid CFF W,Match Finished
+2023-11-26T13:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,5,2,Sporting Huelva W,Match Finished
+2023-11-25T11:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,2,0,Valencia W,Match Finished
+2023-11-25T19:30:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,6,0,Real Betis W,Match Finished
+2023-11-25T15:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,3,0,Eibar W,Match Finished
+2023-11-25T11:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,1,1,Granad. Tenerife W,Match Finished
+2023-12-10T11:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,1,0,Levante W,Match Finished
+2023-12-09T17:30:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,1,3,Sevilla W,Match Finished
+2023-12-10T15:30:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,0,2,Atletico Madrid W,Match Finished
+2023-12-10T13:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,2,2,Levante Las Planas,Match Finished
+2023-12-09T11:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,2,0,Granada,Match Finished
+2023-12-10T17:30:00+00:00,2023,Primera División Femenina,Spain,Valencia W,3,4,Madrid CFF W,Match Finished
+2023-12-09T13:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,2,Real Sociedad W,Match Finished
+2023-12-09T15:30:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,5,0,Eibar W,Match Finished
+2023-12-16T11:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,1,1,Real Sociedad W,Match Finished
+2023-12-17T13:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,0,2,Real Madrid W,Match Finished
+2023-12-17T15:30:00+00:00,2023,Primera División Femenina,Spain,Granada,0,1,Valencia W,Match Finished
+2023-12-16T15:30:00+00:00,2023,Primera División Femenina,Spain,Levante W,2,0,Sporting Huelva W,Match Finished
+2023-12-16T13:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,2,0,Villarreal W,Match Finished
+2023-12-17T17:30:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,1,1,Athletic Club W,Match Finished
+2023-12-17T11:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,0,2,Barcelona W,Match Finished
+2023-12-16T17:30:00+00:00,2023,Primera División Femenina,Spain,Eibar W,3,2,Real Betis W,Match Finished
+2024-01-07T11:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,2,0,Eibar W,Match Finished
+2024-01-06T17:30:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,9,1,Levante Las Planas,Match Finished
+2024-01-07T13:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,2,3,Granada,Match Finished
+2024-01-07T11:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,3,3,Granad. Tenerife W,Match Finished
+2024-01-07T15:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,1,6,Atletico Madrid W,Match Finished
+2024-01-06T19:30:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,0,5,Levante W,Match Finished
+2024-01-07T17:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,2,1,Madrid CFF W,Match Finished
+2024-01-07T19:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,3,Sevilla W,Match Finished
+2024-02-14T19:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,1,1,Real Madrid W,Match Finished
+2024-02-14T17:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,1,1,Levante W,Match Finished
+2024-01-20T13:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,0,2,Real Sociedad W,Match Finished
+2024-01-21T13:00:00+00:00,2023,Primera División Femenina,Spain,Granada,0,1,Sporting Huelva W,Match Finished
+2024-01-21T15:30:00+00:00,2023,Primera División Femenina,Spain,Eibar W,1,0,Valencia W,Match Finished
+2024-01-20T11:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,3,1,Villarreal W,Match Finished
+2024-01-21T11:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,1,1,Athletic Club W,Match Finished
+2024-01-20T15:30:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,3,1,Real Betis W,Match Finished
+2024-01-27T17:30:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,0,1,Real Madrid W,Match Finished
+2024-01-28T13:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,0,6,Barcelona W,Match Finished
+2024-01-27T15:30:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,0,1,Villarreal W,Match Finished
+2024-01-27T13:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,1,1,Atletico Madrid W,Match Finished
+2024-01-28T11:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,2,2,Granada,Match Finished
+2024-01-28T15:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,1,1,Madrid CFF W,Match Finished
+2024-01-28T19:30:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,3,0,Eibar W,Match Finished
+2024-01-27T11:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,1,1,Granad. Tenerife W,Match Finished
+2024-02-03T15:30:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,0,1,Levante W,Match Finished
+2024-02-04T17:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,4,0,Sporting Huelva W,Match Finished
+2024-02-03T13:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,3,3,Sevilla W,Match Finished
+2024-02-03T19:30:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,7,1,Valencia W,Match Finished
+2024-02-04T11:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,0,2,Real Sociedad W,Match Finished
+2024-02-03T11:00:00+00:00,2023,Primera División Femenina,Spain,Granada,2,0,Athletic Club W,Match Finished
+2024-02-04T13:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,1,1,Levante Las Planas,Match Finished
+2024-02-03T17:30:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,2,1,Real Betis W,Match Finished
+2024-02-11T15:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,1,1,Madrid CFF W,Match Finished
+2024-02-11T11:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,1,0,Granad. Tenerife W,Match Finished
+2024-02-11T13:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,1,4,Real Madrid W,Match Finished
+2024-02-10T15:30:00+00:00,2023,Primera División Femenina,Spain,Valencia W,0,1,Villarreal W,Match Finished
+2024-02-11T17:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,2,Athletic Club W,Match Finished
+2024-02-10T17:30:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,0,3,Barcelona W,Match Finished
+2024-02-11T11:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,1,1,Granada,Match Finished
+2024-02-10T11:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,1,1,Eibar W,Match Finished
+2024-02-17T15:30:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,1,0,Real Betis W,Match Finished
+2024-02-17T13:00:00+00:00,2023,Primera División Femenina,Spain,Granada,2,2,Sevilla W,Match Finished
+2024-02-18T15:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,2,1,Granad. Tenerife W,Match Finished
+2024-02-18T11:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,0,0,Levante W,Match Finished
+2024-02-17T11:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,3,Valencia W,Match Finished
+2024-02-18T12:30:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,2,0,Atletico Madrid W,Match Finished
+2024-02-18T17:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,2,1,Levante Las Planas,Match Finished
+2024-02-17T17:30:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,1,1,Real Sociedad W,Match Finished
+2024-03-10T17:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,1,0,Sporting Huelva W,Match Finished
+2024-03-09T11:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,1,1,Villarreal W,Match Finished
+2024-03-10T11:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,1,2,Athletic Club W,Match Finished
+2024-03-10T13:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,1,7,Barcelona W,Match Finished
+2024-03-09T13:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,1,2,Granada,Match Finished
+2024-03-10T15:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,2,2,Real Betis W,Match Finished
+2024-03-09T17:30:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,0,1,Real Madrid W,Match Finished
+2024-03-09T15:30:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,1,2,Eibar W,Match Finished
+2024-03-17T17:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,2,0,Valencia W,Match Finished
+2024-03-17T13:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,7,0,Granad. Tenerife W,Match Finished
+2024-03-17T15:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,0,0,Real Sociedad W,Match Finished
+2024-03-17T11:00:00+00:00,2023,Primera División Femenina,Spain,Granada,0,1,Atletico Madrid W,Match Finished
+2024-03-16T17:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,3,0,Levante Las Planas,Match Finished
+2024-03-16T15:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,1,Levante W,Match Finished
+2024-03-16T11:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,1,4,Madrid CFF W,Match Finished
+2024-03-16T19:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,1,0,Eibar W,Match Finished
+2024-03-24T13:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,1,1,Villarreal W,Match Finished
+2024-03-24T15:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,2,1,Sporting Huelva W,Match Finished
+2024-03-23T17:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,0,1,Athletic Club W,Match Finished
+2024-03-24T11:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,1,1,Atletico Madrid W,Match Finished
+2024-03-24T17:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,0,3,Barcelona W,Match Finished
+2024-03-23T19:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,4,1,Granada,Match Finished
+2024-03-23T15:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,7,0,Real Betis W,Match Finished
+2024-03-23T11:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,5,0,Sevilla W,Match Finished
+2024-03-31T14:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,4,1,Levante Las Planas,Match Finished
+2024-03-30T15:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,1,0,Valencia W,Match Finished
+2024-03-31T12:00:00+00:00,2023,Primera División Femenina,Spain,Granada,3,0,Madrid CFF W,Match Finished
+2024-03-30T13:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,0,0,Eibar W,Match Finished
+2024-03-31T10:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,1,2,Granad. Tenerife W,Match Finished
+2024-03-31T16:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,0,5,Barcelona W,Match Finished
+2024-03-30T18:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,0,2,Real Madrid W,Match Finished
+2024-03-30T11:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,4,2,Real Sociedad W,Match Finished
+2024-04-14T10:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,1,0,Atletico Madrid W,Match Finished
+2024-04-13T16:30:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,5,1,Villarreal W,Match Finished
+2024-04-13T10:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,1,1,Sporting Huelva W,Match Finished
+2024-04-13T12:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,3,0,Sevilla W,Match Finished
+2024-04-14T17:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,5,0,Granada,Match Finished
+2024-04-14T15:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,1,1,Levante W,Match Finished
+2024-04-14T12:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,2,2,Madrid CFF W,Match Finished
+2024-04-13T14:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,1,2,Real Betis W,Match Finished
+2024-04-21T10:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,5,1,Real Betis W,Match Finished
+2024-04-20T12:00:00+00:00,2023,Primera División Femenina,Spain,Granada,2,1,Granad. Tenerife W,Match Finished
+2024-04-20T10:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,2,4,Real Madrid W,Match Finished
+2024-04-20T16:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,2,1,Athletic Club W,Match Finished
+2024-04-24T16:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,2,4,Barcelona W,Match Finished
+2024-04-21T14:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,3,0,Real Sociedad W,Match Finished
+2024-04-20T14:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,0,1,Eibar W,Match Finished
+2024-04-21T12:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,1,2,Sevilla W,Match Finished
+2024-05-01T16:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,,,Madrid CFF W,Not Started
+2024-04-27T12:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,3,1,Sporting Huelva W,Match Finished
+2024-04-27T10:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,1,0,Valencia W,Match Finished
+2024-04-28T10:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,,,Athletic Club W,Not Started
+2024-04-28T14:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,,,Atletico Madrid W,Not Started
+2024-04-28T16:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,,,Levante Las Planas,Not Started
+2024-04-27T10:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,1,2,Granada,Match Finished
+2024-04-27T14:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,1,3,Levante W,Match Finished
+2024-05-04T16:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,,,Villarreal W,Not Started
+2024-05-04T10:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,,,Granad. Tenerife W,Not Started
+2024-05-05T10:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,,,Real Sociedad W,Not Started
+2024-05-05T18:30:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,,,Real Madrid W,Not Started
+2024-05-05T16:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,,,Sevilla W,Not Started
+2024-05-04T18:30:00+00:00,2023,Primera División Femenina,Spain,Granada,,,Barcelona W,Not Started
+2024-05-05T14:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,,,Levante Las Planas,Not Started
+2024-05-04T14:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,,,Eibar W,Not Started
+2024-05-11T16:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,,,Levante W,Not Started
+2024-05-12T18:30:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,,,Valencia W,Not Started
+2024-05-12T16:30:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,,,Sporting Huelva W,Not Started
+2024-05-10T18:30:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,,,Athletic Club W,Not Started
+2024-05-11T19:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,,,Atletico Madrid W,Not Started
+2024-05-11T10:00:00+00:00,2023,Primera División Femenina,Spain,Granada,,,Real Betis W,Not Started
+2024-05-12T10:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,,,Real Sociedad W,Not Started
+2024-05-10T16:30:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,,,Eibar W,Not Started
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,,,Granad. Tenerife W,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,,,Levante Las Planas,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,,,Villarreal W,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,,,Madrid CFF W,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,,,Barcelona W,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,,,Granada,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,,,Real Madrid W,Time to be defined
+2024-05-26T00:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,,,Sevilla W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Levante Las Planas,,,Valencia W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Granada,,,Levante W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Madrid CFF W,,,Real Sociedad W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Real Madrid W,,,Athletic Club W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Sevilla W,,,Atletico Madrid W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Barcelona W,,,Real Betis W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Granad. Tenerife W,,,Eibar W,Time to be defined
+2024-06-09T00:00:00+00:00,2023,Primera División Femenina,Spain,Villarreal W,,,Sporting Huelva W,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Athletic Club W,,,Sevilla W,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Atletico Madrid W,,,Villarreal W,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Levante W,,,Madrid CFF W,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Real Betis W,,,Granad. Tenerife W,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Eibar W,,,Granada,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Valencia W,,,Barcelona W,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Real Sociedad W,,,Levante Las Planas,Time to be defined
+2024-06-16T00:00:00+00:00,2023,Primera División Femenina,Spain,Sporting Huelva W,,,Real Madrid W,Time to be defined
